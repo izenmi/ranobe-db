@@ -27,6 +27,16 @@
         "awardId": "sneaker-taisho",
         "year": 2003,
         "result": "大賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "作品部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2008,
+        "result": "作品部門2位"
       }
     ],
     "externalLinks": {
@@ -92,6 +102,11 @@
         "awardId": "dengeki-novel-taisho",
         "year": 2005,
         "result": "銀賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2007,
+        "result": "作品部門1位"
       }
     ],
     "externalLinks": {
@@ -810,6 +825,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2009,
         "result": "最優秀賞"
+      },
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "コメディ部門8位"
       }
     ],
     "externalLinks": {
@@ -927,6 +947,16 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2018,
         "result": "最優秀賞"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "文庫部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "文庫部門4位・新作部門3位"
       }
     ],
     "externalLinks": {
@@ -1541,6 +1571,16 @@
         "awardId": "kakuyomu-contest",
         "year": 2017,
         "result": "ラブコメ部門・大賞"
+      },
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "8位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "文庫・総合5位"
       }
     ],
     "externalLinks": {
@@ -1703,6 +1743,16 @@
         "awardId": "dengeki-novel-taisho",
         "year": 2016,
         "result": "大賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "新作部門1位・文庫部門2位"
+      },
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2017,
+        "result": "3位"
       }
     ],
     "externalLinks": {
