@@ -11,12 +11,15 @@ const STATUS_OPTIONS: { value: string; label: string }[] = [
   { value: "unknown", label: "不明" },
 ];
 
+const PAGE_SIZE = 50;
+
 export function WorkListPage() {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
   const status = params.get("status") ?? "";
+  const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
@@ -37,11 +40,24 @@ export function WorkListPage() {
     });
   }, [worksState, q, themeId, publisherId, status]);
 
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const page = Math.min(pageParam, totalPages);
+  const pageItems = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
     if (value) next.set(key, value);
     else next.delete(key);
+    next.delete("page");
     setParams(next, { replace: true });
+  }
+
+  function goToPage(nextPage: number) {
+    const next = new URLSearchParams(params);
+    if (nextPage <= 1) next.delete("page");
+    else next.set("page", String(nextPage));
+    setParams(next, { replace: true });
+    window.scrollTo(0, 0);
   }
 
   return (
@@ -89,13 +105,28 @@ export function WorkListPage() {
       {worksState.status === "error" && <ErrorState error={worksState.error} />}
       {worksState.status === "ready" && (
         <>
-          <p className="page-subtitle">{filtered.length}件</p>
+          <p className="page-subtitle">
+            {filtered.length}件{totalPages > 1 && `(${page} / ${totalPages}ページ)`}
+          </p>
           {filtered.length === 0 && <EmptyState />}
           <div className="work-grid">
-            {filtered.map((w) => (
+            {pageItems.map((w) => (
               <WorkCard work={w} key={w.id} />
             ))}
           </div>
+          {totalPages > 1 && (
+            <div className="pager">
+              <button type="button" disabled={page <= 1} onClick={() => goToPage(page - 1)}>
+                前へ
+              </button>
+              <span className="pager__label">
+                {page} / {totalPages}
+              </span>
+              <button type="button" disabled={page >= totalPages} onClick={() => goToPage(page + 1)}>
+                次へ
+              </button>
+            </div>
+          )}
         </>
       )}
     </div>

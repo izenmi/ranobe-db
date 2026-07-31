@@ -18,9 +18,11 @@ export function ThemeDetailPage() {
           <h1>{state.data.name}</h1>
           <p className="page-subtitle">{state.data.workCount}作品</p>
           {state.data.description && <p>{state.data.description}</p>}
-          {state.data.works.map((w) => (
-            <WorkRefRow work={w} key={w.id} />
-          ))}
+          <div className="work-grid">
+            {state.data.works.map((w) => (
+              <WorkRefRow work={w} key={w.id} />
+            ))}
+          </div>
         </>
       )}
     </div>

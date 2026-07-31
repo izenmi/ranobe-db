@@ -3,17 +3,33 @@
     "id": "suzumiya-haruhi",
     "title": "涼宮ハルヒの憂鬱",
     "titleKana": "すずみやはるひのゆううつ",
-    "authorIds": ["tanigawa-nagaru"],
-    "illustratorIds": ["itou-noiji"],
+    "authorIds": [
+      "tanigawa-nagaru"
+    ],
+    "illustratorIds": [
+      "itou-noiji"
+    ],
     "publisherId": "kadokawa-sneaker",
-    "themeIds": ["gakuen", "mystery", "sf"],
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "sf"
+    ],
     "firstPublishedYear": 2003,
     "latestPublishedYear": 2024,
     "status": "ongoing",
     "volumeCount": 13,
     "synopsis": "「ただの人間には興味ありません」と言い放つ女子高生・涼宮ハルヒが、宇宙人・未来人・超能力者を探すため部活動「SOS団」を結成する学園コメディ。巻き込まれた語り手キョンの視点で、日常の裏に潜む非日常が少しずつ明かされていく。",
-    "awardResults": [{ "awardId": "sneaker-taisho", "year": 2003, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱" },
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2003,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱"
+    },
     "sourceNote": "Wikipedia日本語版「涼宮ハルヒの憂鬱」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -21,16 +37,26 @@
     "id": "sword-art-online",
     "title": "ソードアート・オンライン",
     "titleKana": "そーどあーとおんらいん",
-    "authorIds": ["kawahara-reki"],
-    "illustratorIds": ["abec"],
+    "authorIds": [
+      "kawahara-reki"
+    ],
+    "illustratorIds": [
+      "abec"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["vrmmo", "dungeon", "ken-to-mahou"],
+    "themeIds": [
+      "vrmmo",
+      "dungeon",
+      "ken-to-mahou"
+    ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 29,
     "synopsis": "フルダイブ型VRMMORPG「ソードアート・オンライン」にログインしたプレイヤーたちが、ゲーム内での死が現実の死に直結する状況に閉じ込められる。主人公キリトを中心に、複数のゲーム世界を舞台に展開する冒険譚。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン"
+    },
     "sourceNote": "Wikipedia日本語版「ソードアート・オンライン」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -38,17 +64,32 @@
     "id": "ookami-to-koushinryou",
     "title": "狼と香辛料",
     "titleKana": "おおかみとこうしんりょう",
-    "authorIds": ["hasekura-isuna"],
-    "illustratorIds": ["ayakura-juu"],
+    "authorIds": [
+      "hasekura-isuna"
+    ],
+    "illustratorIds": [
+      "ayakura-juu"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["isekai-fantasy", "romance"],
+    "themeIds": [
+      "isekai-fantasy",
+      "romance"
+    ],
     "firstPublishedYear": 2006,
     "latestPublishedYear": 2011,
     "status": "completed",
     "volumeCount": 17,
     "synopsis": "狼の化身である豊穣の神ホロと、行商人ロレンスが行動を共にしながら各地で商売を営む中世ヨーロッパ風ファンタジー。経済取引の駆け引きと、二人の距離が少しずつ縮まっていく過程が丁寧に描かれる。",
-    "awardResults": [{ "awardId": "dengeki-novel-taisho", "year": 2005, "result": "銀賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/狼と香辛料" },
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2005,
+        "result": "銀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狼と香辛料"
+    },
     "sourceNote": "Wikipedia日本語版「狼と香辛料」を参照し独自に要約(2026年7月時点)。続編『新・狼と香辛料』『狼と羊皮紙』は別記録として扱っていない。",
     "updatedAt": "2026-07-31"
   },
@@ -56,16 +97,25 @@
     "id": "toaru-majutsu-no-index",
     "title": "とある魔術の禁書目録",
     "titleKana": "とあるまじゅつのいんでっくす",
-    "authorIds": ["kamachi-kazuma"],
-    "illustratorIds": ["haimura-kiyotaka"],
+    "authorIds": [
+      "kamachi-kazuma"
+    ],
+    "illustratorIds": [
+      "haimura-kiyotaka"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["gakuen-ianou", "mahou"],
+    "themeIds": [
+      "gakuen-ianou",
+      "mahou"
+    ],
     "firstPublishedYear": 2004,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 62,
     "synopsis": "超能力の研究が進んだ学園都市を舞台に、記憶を消す右手を持つ少年・上条当麻が、魔術書を丸ごと記憶した少女インデックスと出会う。科学と魔術という二つの体系がぶつかり合う大規模なバトルファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある魔術の禁書目録" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある魔術の禁書目録"
+    },
     "sourceNote": "Wikipedia日本語版「とある魔術の禁書目録」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。",
     "updatedAt": "2026-07-31"
   },
@@ -73,16 +123,26 @@
     "id": "full-metal-panic",
     "title": "フルメタル・パニック!",
     "titleKana": "ふるめたるぱにっく",
-    "authorIds": ["gatou-shouji"],
-    "illustratorIds": ["shiki-douji"],
+    "authorIds": [
+      "gatou-shouji"
+    ],
+    "illustratorIds": [
+      "shiki-douji"
+    ],
     "publisherId": "fujimi-fantasia",
-    "themeIds": ["gakuen", "robot-mecha", "seishun-lovecome"],
+    "themeIds": [
+      "gakuen",
+      "robot-mecha",
+      "seishun-lovecome"
+    ],
     "firstPublishedYear": 1998,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 26,
     "synopsis": "テロやクーデターと戦う傭兵部隊「ミスリル」に所属する少年兵・相良宗介が、護衛対象の女子高生・千鳥かなめの通う学園に潜入する。軍事色の濃いシリアス編と学園ドタバタコメディ編が交互に展開する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルメタル・パニック!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルメタル・パニック!"
+    },
     "sourceNote": "Wikipedia日本語版「フルメタル・パニック!」を参照し独自に要約(2026年7月時点)。巻数は本編・短編・外伝の合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -90,31 +150,52 @@
     "id": "re-zero",
     "title": "Re:ゼロから始める異世界生活",
     "titleKana": "りぜろからはじめるいせかいせいかつ",
-    "authorIds": ["nagatsuki-tappei"],
-    "illustratorIds": ["otsuka-shinichirou"],
+    "authorIds": [
+      "nagatsuki-tappei"
+    ],
+    "illustratorIds": [
+      "otsuka-shinichirou"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["isekai-fantasy", "time-travel"],
+    "themeIds": [
+      "isekai-fantasy",
+      "time-travel"
+    ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 45,
     "synopsis": "コンビニ帰りに異世界へ召喚された主人公スバルは、死ぬたびに特定の時点まで時間が巻き戻る「死に戻り」の能力を持つ。何度も死んでは同じ時間をやり直しながら、大切な人々を守る方法を模索していく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活"
+    },
     "sourceNote": "Wikipedia日本語版「Re:ゼロから始める異世界生活」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "konosuba",
     "title": "この素晴らしい世界に祝福を!",
     "titleKana": "このすばらしいせかいにしゅくふくを",
-    "authorIds": ["akatsuki-natsume"],
-    "illustratorIds": ["mishima-kurone"],
+    "authorIds": [
+      "akatsuki-natsume"
+    ],
+    "illustratorIds": [
+      "mishima-kurone"
+    ],
     "publisherId": "kadokawa-sneaker",
-    "themeIds": ["isekai-fantasy", "harem"],
+    "themeIds": [
+      "isekai-fantasy",
+      "harem"
+    ],
     "firstPublishedYear": 2013,
     "status": "ongoing",
     "synopsis": "不幸な事故で死んだ引きこもりの少年カズマが、ポンコツ女神アクアを道連れに異世界転生する。魔王討伐そっちのけで日銭を稼ぐ、笑いに振り切った異世界コメディ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
+    },
     "sourceNote": "Wikipedia日本語版「この素晴らしい世界に祝福を!」を参照し独自に要約(2026年7月時点)。既刊巻数は未確認のため未記載。",
     "updatedAt": "2026-07-31"
   },
@@ -122,15 +203,25 @@
     "id": "mahouka-koukou-no-rettousei",
     "title": "魔法科高校の劣等生",
     "titleKana": "まほうかこうこうのれっとうせい",
-    "authorIds": ["satou-tsutomu"],
-    "illustratorIds": ["ishida-kana"],
+    "authorIds": [
+      "satou-tsutomu"
+    ],
+    "illustratorIds": [
+      "ishida-kana"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["gakuen", "mahou", "gakuen-ianou"],
+    "themeIds": [
+      "gakuen",
+      "mahou",
+      "gakuen-ianou"
+    ],
     "firstPublishedYear": 2011,
     "status": "ongoing",
     "volumeCount": 33,
     "synopsis": "魔法が技術として体系化された近未来、実技評価で劣等生と見なされた兄・達也と優等生の妹・深雪が同じ魔法科高校に入学する。実力を隠す兄が数々の陰謀に巻き込まれていく学園バトルファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法科高校の劣等生" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法科高校の劣等生"
+    },
     "sourceNote": "Wikipedia日本語版「魔法科高校の劣等生」を参照し独自に要約(2026年7月時点)。巻数は2020年時点の情報で以降未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -138,16 +229,25 @@
     "id": "gosick",
     "title": "GOSICK -ゴシック-",
     "titleKana": "ごしっく",
-    "authorIds": ["sakuraba-kazuki"],
-    "illustratorIds": ["takeda-hinata"],
+    "authorIds": [
+      "sakuraba-kazuki"
+    ],
+    "illustratorIds": [
+      "takeda-hinata"
+    ],
     "publisherId": "fujimi-mystery",
-    "themeIds": ["mystery", "romance"],
+    "themeIds": [
+      "mystery",
+      "romance"
+    ],
     "firstPublishedYear": 2003,
     "latestPublishedYear": 2011,
     "status": "completed",
     "volumeCount": 13,
     "synopsis": "1920年代のヨーロッパ風の小国を舞台に、灰色狼の異名を持つ小柄な少女探偵ヴィクトリカと、日本から来た留学生・久城一弥が数々の事件を解決していくミステリ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK"
+    },
     "sourceNote": "Wikipedia日本語版「GOSICK」を参照し独自に要約(2026年7月時点)。刊行レーベルは富士見ミステリー文庫(初出)。",
     "updatedAt": "2026-07-31"
   },
@@ -155,16 +255,26 @@
     "id": "date-a-live",
     "title": "デート・ア・ライブ",
     "titleKana": "でーとあらいぶ",
-    "authorIds": ["tachibana-koushi"],
-    "illustratorIds": ["tsunako"],
+    "authorIds": [
+      "tachibana-koushi"
+    ],
+    "illustratorIds": [
+      "tsunako"
+    ],
     "publisherId": "fujimi-fantasia",
-    "themeIds": ["harem", "sf", "romance"],
+    "themeIds": [
+      "harem",
+      "sf",
+      "romance"
+    ],
     "firstPublishedYear": 2011,
     "latestPublishedYear": 2022,
     "status": "ongoing",
     "volumeCount": 22,
     "synopsis": "謎の空間震を引き起こす存在「精霊」を、殲滅するのではなくデートして口説き落とすことで無力化するという主人公・士道の奮闘を描くボーイミーツガール。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/デート・ア・ライブ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デート・ア・ライブ"
+    },
     "sourceNote": "Wikipedia日本語版「デート・ア・ライブ」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値、以降未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -172,16 +282,25 @@
     "id": "no-game-no-life",
     "title": "ノーゲーム・ノーライフ",
     "titleKana": "のーげーむのーらいふ",
-    "authorIds": ["enomoto-yuu"],
-    "illustratorIds": ["enomoto-yuu"],
+    "authorIds": [
+      "enomoto-yuu"
+    ],
+    "illustratorIds": [
+      "enomoto-yuu"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["isekai-fantasy", "imouto"],
+    "themeIds": [
+      "isekai-fantasy",
+      "imouto"
+    ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 13,
     "synopsis": "全てがゲームで決着する異世界「ディスボード」に引きこもりの兄妹ゲーマー・空と白が転移する。あらゆる勝負に絶対的な強さを誇る二人が、頭脳戦で世界の頂点を目指していく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーゲーム・ノーライフ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーゲーム・ノーライフ"
+    },
     "sourceNote": "Wikipedia日本語版「ノーゲーム・ノーライフ」を参照し独自に要約(2026年7月時点)。巻数は外伝を含む。",
     "updatedAt": "2026-07-31"
   },
@@ -189,16 +308,25 @@
     "id": "oregairu",
     "title": "やはり俺の青春ラブコメはまちがっている。",
     "titleKana": "やはりおれのせいしゅんらぶこめはまちがっている",
-    "authorIds": ["watari-wataru"],
-    "illustratorIds": ["ponkan8"],
+    "authorIds": [
+      "watari-wataru"
+    ],
+    "illustratorIds": [
+      "ponkan8"
+    ],
     "publisherId": "gagaga-bunko",
-    "themeIds": ["seishun-lovecome", "gakuen"],
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen"
+    ],
     "firstPublishedYear": 2011,
     "latestPublishedYear": 2021,
     "status": "completed",
     "volumeCount": 17,
     "synopsis": "青春を斜に構えて否定する高校生・比企谷八幡が、教師の勧めで「奉仕部」に所属させられる。同じく屈折した美少女・雪ノ下雪乃らと依頼をこなすうち、歪んだ形の青春が動き出していく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。"
+    },
     "sourceNote": "Wikipedia日本語版「やはり俺の青春ラブコメはまちがっている。」を参照し独自に要約(2026年7月時点)。巻数は完結編「完」までの合算、後継作「新」は含まない。",
     "updatedAt": "2026-07-31"
   },
@@ -206,66 +334,113 @@
     "id": "kumo-desu-ga-nanika",
     "title": "蜘蛛ですが、なにか?",
     "titleKana": "くもですが、なにか",
-    "authorIds": ["baba-okina"],
-    "illustratorIds": ["kiryuu-tsukasa"],
+    "authorIds": [
+      "baba-okina"
+    ],
+    "illustratorIds": [
+      "kiryuu-tsukasa"
+    ],
     "publisherId": "kadokawa-books",
-    "themeIds": ["isekai-tensei", "dungeon"],
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon"
+    ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2022,
     "status": "completed",
     "volumeCount": 16,
     "synopsis": "クラスごと異世界に転移した女子高生が、なぜか一匹の蜘蛛の魔物に転生してしまう。迷宮の最下層から言葉も通じない環境でひたすら生き延びようとする、異色の異世界転生サバイバル。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか"
+    },
     "sourceNote": "Wikipedia日本語版「蜘蛛ですが、なにか?」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "tate-no-yuusha-no-nariagari",
     "title": "盾の勇者の成り上がり",
     "titleKana": "たてのゆうしゃのなりあがり",
-    "authorIds": ["aneko-yusagi"],
-    "illustratorIds": ["yanami-seira"],
+    "authorIds": [
+      "aneko-yusagi"
+    ],
+    "illustratorIds": [
+      "yanami-seira"
+    ],
     "publisherId": "mf-books",
-    "themeIds": ["isekai-tensei", "ken-to-mahou", "fukushuu"],
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "fukushuu"
+    ],
     "firstPublishedYear": 2013,
     "status": "ongoing",
     "volumeCount": 22,
     "synopsis": "異世界に召喚された四人の勇者のうち、最弱とされる盾の勇者に選ばれた主人公が、無実の罪を着せられ信用も仲間も失う。それでも生き延び、力を示していく雪辱の異世界ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
+    },
     "sourceNote": "Wikipedia日本語版「盾の勇者の成り上がり」を参照し独自に要約(2026年7月時点)。巻数は2019年時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "tensei-shitara-slime-datta-ken",
     "title": "転生したらスライムだった件",
     "titleKana": "てんせいしたらすらいむだったけん",
-    "authorIds": ["fuse"],
-    "illustratorIds": ["mitz-vah"],
+    "authorIds": [
+      "fuse"
+    ],
+    "illustratorIds": [
+      "mitz-vah"
+    ],
     "publisherId": "gc-novels",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2025,
     "status": "completed",
     "volumeCount": 24,
     "synopsis": "通り魔に刺されて死んだ会社員が、異世界でスライムとして転生する。強力なユニークスキルを得たスライムの主人公が、魔物たちを束ねて国を築いていく国家運営系の異世界転生譚。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
+    },
     "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "toradora",
     "title": "とらドラ!",
     "titleKana": "とらどら",
-    "authorIds": ["takemiya-yuyuko"],
-    "illustratorIds": ["yasu"],
+    "authorIds": [
+      "takemiya-yuyuko"
+    ],
+    "illustratorIds": [
+      "yasu"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["gakuen", "seishun-lovecome", "romance"],
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance"
+    ],
     "firstPublishedYear": 2006,
     "latestPublishedYear": 2010,
     "status": "completed",
     "volumeCount": 13,
     "synopsis": "強面で誤解されがちな高校生・竜児と、恋愛下手で毒舌な少女・大河が、互いの片想いを応援し合ううちに惹かれ合っていく学園ラブコメ。素直になれない登場人物たちの心情の機微を丁寧に描く。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/とらドラ!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とらドラ!"
+    },
     "sourceNote": "Wikipedia日本語版「とらドラ!」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -273,16 +448,25 @@
     "id": "shakugan-no-shana",
     "title": "灼眼のシャナ",
     "titleKana": "しゃくがんのしゃな",
-    "authorIds": ["takahashi-yaichirou"],
-    "illustratorIds": ["itou-noiji"],
+    "authorIds": [
+      "takahashi-yaichirou"
+    ],
+    "illustratorIds": [
+      "itou-noiji"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["gakuen-ianou", "seishun-lovecome"],
+    "themeIds": [
+      "gakuen-ianou",
+      "seishun-lovecome"
+    ],
     "firstPublishedYear": 2002,
     "latestPublishedYear": 2011,
     "status": "completed",
     "volumeCount": 22,
     "synopsis": "ある日、自分がすでに「トーチ」と呼ばれる存在で、本来の余命が尽きていたことを知った高校生・悠二。紅蓮の炎を纏う少女シャナと共に、この世の均衡を乱す「紅世の徒」との戦いに巻き込まれていく学園アクション。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ"
+    },
     "sourceNote": "Wikipedia日本語版「灼眼のシャナ」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで短編集6巻は含まない。",
     "updatedAt": "2026-07-31"
   },
@@ -290,16 +474,24 @@
     "id": "kino-no-tabi",
     "title": "キノの旅 -the Beautiful World-",
     "titleKana": "きののたび",
-    "authorIds": ["shigusawa-keiichi"],
-    "illustratorIds": ["kuroboshi-kouhaku"],
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["isekai-fantasy"],
+    "themeIds": [
+      "isekai-fantasy"
+    ],
     "firstPublishedYear": 2000,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 24,
     "synopsis": "喋る二輪車エルメスと共に、一つの国に三日間だけ滞在するという独自のルールで様々な国を巡る旅人キノ。訪れる国ごとに完結する寓話的なエピソードを通じ、多様な価値観や社会のあり方を描く連作短編。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/キノの旅" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キノの旅"
+    },
     "sourceNote": "Wikipedia日本語版「キノの旅」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -307,16 +499,26 @@
     "id": "zero-no-tsukaima",
     "title": "ゼロの使い魔",
     "titleKana": "ぜろのつかいま",
-    "authorIds": ["yamaguchi-noboru"],
-    "illustratorIds": ["usaduka-eiji"],
+    "authorIds": [
+      "yamaguchi-noboru"
+    ],
+    "illustratorIds": [
+      "usaduka-eiji"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["isekai-fantasy", "ken-to-mahou", "romance"],
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "romance"
+    ],
     "firstPublishedYear": 2004,
     "latestPublishedYear": 2017,
     "status": "completed",
     "volumeCount": 28,
     "synopsis": "魔法学院で唯一魔法を使えない落ちこぼれ「ゼロ」と呼ばれる少女ルイズが、召喚の儀式で異世界の平凡な少年サイトを喚び出してしまう。使い魔となったサイトとルイズの、身分違いの主従関係から始まる異世界ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロの使い魔" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロの使い魔"
+    },
     "sourceNote": "Wikipedia日本語版「ゼロの使い魔」を参照し独自に要約(2026年7月時点)。21巻以降は著者急逝により志瑞祐が代筆。",
     "updatedAt": "2026-07-31"
   },
@@ -324,17 +526,32 @@
     "id": "accel-world",
     "title": "アクセル・ワールド",
     "titleKana": "あくせるわーるど",
-    "authorIds": ["kawahara-reki"],
-    "illustratorIds": ["hima"],
+    "authorIds": [
+      "kawahara-reki"
+    ],
+    "illustratorIds": [
+      "hima"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["vrmmo", "sf"],
+    "themeIds": [
+      "vrmmo",
+      "sf"
+    ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 28,
     "synopsis": "いじめられっ子の少年ハルユキが、神経加速技術によるバトルゲーム「ブレイン・バースト」に出会う。加速世界での対戦を通じて自分を変えていこうとする、VRとリアルが交錯するバトルアクション。",
-    "awardResults": [{ "awardId": "dengeki-novel-taisho", "year": 2008, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクセル・ワールド" },
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクセル・ワールド"
+    },
     "sourceNote": "Wikipedia日本語版「アクセル・ワールド」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -342,17 +559,33 @@
     "id": "dungeon-ni-deai-wo-motomeru",
     "title": "ダンジョンに出会いを求めるのは間違っているだろうか",
     "titleKana": "だんじょんにであいをもとめるのはまちがっているだろうか",
-    "authorIds": ["oomori-fujino"],
-    "illustratorIds": ["yasuda-suzuhito"],
+    "authorIds": [
+      "oomori-fujino"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito"
+    ],
     "publisherId": "ga-bunko",
-    "themeIds": ["dungeon", "ken-to-mahou", "harem"],
+    "themeIds": [
+      "dungeon",
+      "ken-to-mahou",
+      "harem"
+    ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 21,
     "synopsis": "迷宮都市オラリオを舞台に、駆け出しの冒険者ベルが迷宮でヒロインたちと出会い成長していく。神々が人間界に降臨し「ファミリア」を作るという独自の世界観を持つダンジョンファンタジー。",
-    "awardResults": [{ "awardId": "ga-bunko-taisho", "year": 2012, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか" },
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2012,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか"
+    },
     "sourceNote": "Wikipedia日本語版「ダンジョンに出会いを求めるのは間違っているだろうか」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -360,16 +593,26 @@
     "id": "ore-no-imouto",
     "title": "俺の妹がこんなに可愛いわけがない",
     "titleKana": "おれのいもうとがこんなにかわいいわけがない",
-    "authorIds": ["fushimi-tsukasa"],
-    "illustratorIds": ["kanzaki-hiro"],
+    "authorIds": [
+      "fushimi-tsukasa"
+    ],
+    "illustratorIds": [
+      "kanzaki-hiro"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["imouto", "seishun-lovecome", "gakuen"],
+    "themeIds": [
+      "imouto",
+      "seishun-lovecome",
+      "gakuen"
+    ],
     "firstPublishedYear": 2008,
     "latestPublishedYear": 2021,
     "status": "completed",
     "volumeCount": 17,
     "synopsis": "平凡な高校生・京介は、疎遠だった妹・桐乃が実は美少女ゲームのオタクだったことを知る。妹の秘密を共有したことをきっかけに、疎遠だった兄妹の関係が少しずつ変化していく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない"
+    },
     "sourceNote": "Wikipedia日本語版「俺の妹がこんなに可愛いわけがない」を参照し独自に要約(2026年7月時点)。巻数は本編+ifシリーズの合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -377,16 +620,26 @@
     "id": "highschool-dxd",
     "title": "ハイスクールD×D",
     "titleKana": "はいすくーるでぃーえっくすでぃー",
-    "authorIds": ["ishifumi-kazuma"],
-    "illustratorIds": ["miyama-zero"],
+    "authorIds": [
+      "ishifumi-kazuma"
+    ],
+    "illustratorIds": [
+      "miyama-zero"
+    ],
     "publisherId": "fujimi-fantasia",
-    "themeIds": ["gakuen-ianou", "harem", "mahou"],
+    "themeIds": [
+      "gakuen-ianou",
+      "harem",
+      "mahou"
+    ],
     "firstPublishedYear": 2008,
     "latestPublishedYear": 2018,
     "status": "completed",
     "volumeCount": 30,
     "synopsis": "女子に振られてばかりの高校生・兵藤一誠は、初デートの相手に殺されてしまうが、実は悪魔である先輩・リアスによって眷属の悪魔として生き返らされる。天使・悪魔・堕天使が入り乱れる学園バトル。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスクールD×D" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスクールD×D"
+    },
     "sourceNote": "Wikipedia日本語版「ハイスクールD×D」を参照し独自に要約(2026年7月時点)。無印版で完結、続編『真ハイスクールD×D』は別記録として扱っていない。",
     "updatedAt": "2026-07-31"
   },
@@ -394,14 +647,24 @@
     "id": "infinite-stratos",
     "title": "IS〈インフィニット・ストラトス〉",
     "titleKana": "あいえすいんふぃにっとすとらとす",
-    "authorIds": ["yuzuru-izuru"],
-    "illustratorIds": ["okiura"],
+    "authorIds": [
+      "yuzuru-izuru"
+    ],
+    "illustratorIds": [
+      "okiura"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["gakuen", "robot-mecha", "harem"],
+    "themeIds": [
+      "gakuen",
+      "robot-mecha",
+      "harem"
+    ],
     "firstPublishedYear": 2009,
     "status": "unknown",
     "synopsis": "世界の勢力図を塗り替えたパワードスーツ「IS」は女性しか操縦できないとされていたが、唯一の例外として男子高校生・一夏がISを操縦できることが判明する。女性ばかりの専門学園を舞台にした学園バトル。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/IS〈インフィニット・ストラトス〉" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/IS〈インフィニット・ストラトス〉"
+    },
     "sourceNote": "Wikipedia日本語版「IS〈インフィニット・ストラトス〉」を参照し独自に要約(2026年7月時点)。MF文庫J版全7巻の後、出版元がオーバーラップ文庫に移行しており、巻数・刊行状況は未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -409,17 +672,33 @@
     "id": "hentai-ouji-to-warawanai-neko",
     "title": "変態王子と笑わない猫。",
     "titleKana": "へんたいおうじとわらわないねこ",
-    "authorIds": ["sagara-sou"],
-    "illustratorIds": ["kantoku"],
+    "authorIds": [
+      "sagara-sou"
+    ],
+    "illustratorIds": [
+      "kantoku"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["gakuen", "seishun-lovecome", "romance"],
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance"
+    ],
     "firstPublishedYear": 2010,
     "latestPublishedYear": 2019,
     "status": "completed",
     "volumeCount": 13,
     "synopsis": "心の中の願望が寝ている間に叶ってしまう奇病を持つ高校生・つかさは、その力を封じるため、決して笑わない少女・つらら猫を探し出す。二人の奇妙な共同生活を描く学園ラブコメ。",
-    "awardResults": [{ "awardId": "mf-bunko-j-shinjinshou", "year": 2009, "result": "最優秀賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/変態王子と笑わない猫。" },
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "最優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/変態王子と笑わない猫。"
+    },
     "sourceNote": "Wikipedia日本語版「変態王子と笑わない猫。」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -427,15 +706,25 @@
     "id": "rokka-no-yuusha",
     "title": "六花の勇者",
     "titleKana": "ろっかのゆうしゃ",
-    "authorIds": ["yamagata-ishio"],
-    "illustratorIds": ["miyagi"],
+    "authorIds": [
+      "yamagata-ishio"
+    ],
+    "illustratorIds": [
+      "miyagi"
+    ],
     "publisherId": "super-dash-bunko",
-    "themeIds": ["isekai-fantasy", "ken-to-mahou", "mystery"],
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "mystery"
+    ],
     "firstPublishedYear": 2011,
     "status": "unknown",
     "volumeCount": 7,
     "synopsis": "異世界の危機を救うため神託により選ばれた6人の勇者。しかし集結すると、なぜか7人目が現れる。誰かが偽者だと疑心暗鬼になる勇者たちの中で、裏切り者を巡る攻防が繰り広げられるミステリ色の強いファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者"
+    },
     "sourceNote": "Wikipedia日本語版「六花の勇者」を参照し独自に要約(2026年7月時点)。巻数は2016年時点の情報で、以降の続刊状況・完結の有無は未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -443,16 +732,26 @@
     "id": "oda-nobuna-no-yabou",
     "title": "織田信奈の野望",
     "titleKana": "おだのぶなののぼう",
-    "authorIds": ["kasuga-mikage"],
-    "illustratorIds": ["miyama-zero"],
+    "authorIds": [
+      "kasuga-mikage"
+    ],
+    "illustratorIds": [
+      "miyama-zero"
+    ],
     "publisherId": "ga-bunko",
-    "themeIds": ["isekai-fantasy", "time-travel", "harem"],
+    "themeIds": [
+      "isekai-fantasy",
+      "time-travel",
+      "harem"
+    ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2019,
     "status": "completed",
     "volumeCount": 32,
     "synopsis": "現代の高校生・相良良晴が、戦国時代によく似た並行世界へタイムスリップする。そこでは織田信長をはじめ歴史上の武将たちが美少女として存在しており、良晴は「信奈」の家臣として天下統一を目指す戦いに加わっていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望"
+    },
     "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照し独自に要約(2026年7月時点)。刊行レーベルはGA文庫(1〜10巻)→富士見ファンタジア文庫(全国版、11巻以降)。",
     "updatedAt": "2026-07-31"
   },
@@ -460,17 +759,32 @@
     "id": "tantei-wa-mou-shindeiru",
     "title": "探偵はもう、死んでいる。",
     "titleKana": "たんていはもう、しんでいる",
-    "authorIds": ["nigojuu"],
-    "illustratorIds": ["umibouzu"],
+    "authorIds": [
+      "nigojuu"
+    ],
+    "illustratorIds": [
+      "umibouzu"
+    ],
     "publisherId": "mf-bunko-j",
-    "themeIds": ["mystery", "harem"],
+    "themeIds": [
+      "mystery",
+      "harem"
+    ],
     "firstPublishedYear": 2019,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 13,
     "synopsis": "かつて相棒の名探偵と共に数々の事件を解決してきた高校生・君塚。しかし探偵はすでに死んでいた。回想と現在を行き来しながら、探偵亡き後に遺されたヒロインたちと共に真相へ迫っていくミステリ。",
-    "awardResults": [{ "awardId": "mf-bunko-j-shinjinshou", "year": 2018, "result": "最優秀賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。" },
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2018,
+        "result": "最優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。"
+    },
     "sourceNote": "Wikipedia日本語版「探偵はもう、死んでいる。」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -478,67 +792,112 @@
     "id": "kage-no-jitsuryokusha-ni-naritakute",
     "title": "陰の実力者になりたくて!",
     "titleKana": "かげのじつりょくしゃになりたくて",
-    "authorIds": ["aizawa-daisuke"],
-    "illustratorIds": ["touzai"],
+    "authorIds": [
+      "aizawa-daisuke"
+    ],
+    "illustratorIds": [
+      "touzai"
+    ],
     "publisherId": "kadokawa-shinbungei",
-    "themeIds": ["isekai-fantasy", "ken-to-mahou"],
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou"
+    ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 7,
     "synopsis": "中二病をこじらせた少年シドが、異世界に転生し「闇の実力者」を演じて楽しむうちに、彼の妄想の設定が現実の巨大な陰謀と一致してしまう。狙った通り目立たず最強でありたい主人公のズレたコメディ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!"
+    },
     "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照し独自に要約(2026年7月時点)。レーベルはKADOKAWA「新文芸」。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "watashi-nouryoku-wa-heikinchi",
     "title": "私、能力は平均値でって言ったよね!",
     "titleKana": "わたし、のうりょくははいきんちでっていったよね",
-    "authorIds": ["funa"],
-    "illustratorIds": ["agata-itsuki"],
+    "authorIds": [
+      "funa"
+    ],
+    "illustratorIds": [
+      "agata-itsuki"
+    ],
     "publisherId": "earth-star-novel",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 21,
     "synopsis": "女神に「全ステータス平均値」を望んだ少女ミサトが異世界転生する。しかし平均値の基準が人間離れしていたため、結果的にチート級の力を手にしてしまう、のんびり系異世界ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!"
+    },
     "sourceNote": "Wikipedia日本語版「私、能力は平均値でって言ったよね!」を参照し独自に要約(2026年7月時点)。14巻以降はSQEXノベルに移行。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "honzuki-no-gekokujou",
     "title": "本好きの下剋上",
     "titleKana": "ほんずきのげこくじょう",
-    "authorIds": ["katsuki-miya"],
-    "illustratorIds": ["shiina-yuu"],
+    "authorIds": [
+      "katsuki-miya"
+    ],
+    "illustratorIds": [
+      "shiina-yuu"
+    ],
     "publisherId": "to-books",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2023,
     "status": "completed",
     "volumeCount": 37,
     "synopsis": "本好きが高じて死んでしまった女性が、本のない異世界の病弱な少女に転生する。読書環境を求めて紙作りから始め、身分を超えて本作りに奔走していく、地道な努力を積み重ねる異世界転生譚。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
     "sourceNote": "Wikipedia日本語版「本好きの下剋上」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "youjo-senki",
     "title": "幼女戦記",
     "titleKana": "ようじょせんき",
-    "authorIds": ["carlo-zen"],
-    "illustratorIds": ["shinozuki-shinobu"],
+    "authorIds": [
+      "carlo-zen"
+    ],
+    "illustratorIds": [
+      "shinozuki-shinobu"
+    ],
     "publisherId": "enterbrain",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2023,
     "status": "ongoing",
     "volumeCount": 14,
     "synopsis": "冷徹な会社員だった男が、死後、幼女の姿で戦乱の世界に転生する。合理主義と戦闘魔導の才を武器に、軍人として過酷な魔導戦争を生き抜こうとする、異色のミリタリーファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
+    },
     "sourceNote": "Wikipedia日本語版「幼女戦記」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -546,33 +905,56 @@
     "id": "overlord",
     "title": "Overlord",
     "titleKana": "おーばーろーど",
-    "authorIds": ["maruyama-kugane"],
-    "illustratorIds": ["so-bin"],
+    "authorIds": [
+      "maruyama-kugane"
+    ],
+    "illustratorIds": [
+      "so-bin"
+    ],
     "publisherId": "enterbrain",
-    "themeIds": ["isekai-tensei", "ken-to-mahou", "dungeon"],
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "dungeon"
+    ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2022,
     "status": "ongoing",
     "volumeCount": 16,
     "synopsis": "フルダイブ型VRMMORPGのサービス終了後もログアウトできなくなったスケルトンのプレイヤーが、NPCたちが自我を持ち始めたゲーム世界で、最強のギルド「アインズ・ウール・ゴウン」を率いて世界を統べていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Overlord" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Overlord"
+    },
     "sourceNote": "Wikipedia日本語版「Overlord」を参照し独自に要約(2026年7月時点)。巻数は2022年7月時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "maou-gakuin-no-futekigousha",
     "title": "魔王学院の不適合者",
     "titleKana": "まおうがくいんのふてきごうしゃ",
-    "authorIds": ["shuu"],
-    "illustratorIds": ["shizuma-yoshinori"],
+    "authorIds": [
+      "shuu"
+    ],
+    "illustratorIds": [
+      "shizuma-yoshinori"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["gakuen", "mahou", "isekai-tensei"],
+    "themeIds": [
+      "gakuen",
+      "mahou",
+      "isekai-tensei"
+    ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 22,
     "synopsis": "二千年前に人類を救い暴虐と恐れられた魔王アノス。転生後の彼は、時代が変わり弱体化した子孫たちが通う魔法学校に、実力不相応の「不適合者」として入学することになる。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者"
+    },
     "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -580,16 +962,25 @@
     "id": "hai-to-gensou-no-grimgar",
     "title": "灰と幻想のグリムガル",
     "titleKana": "はいとげんそうのぐりむがる",
-    "authorIds": ["juumonji-ao"],
-    "illustratorIds": ["shirai-eiri"],
+    "authorIds": [
+      "juumonji-ao"
+    ],
+    "illustratorIds": [
+      "shirai-eiri"
+    ],
     "publisherId": "overlap-bunko",
-    "themeIds": ["isekai-fantasy", "ken-to-mahou"],
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou"
+    ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 25,
     "synopsis": "気づけば見知らぬ異世界に放り出された若者たちが、パーティを組んでゴブリン退治などの地道な仕事をこなしながら生き延びていく。派手な力を持たない者たちのリアルなサバイバルファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル"
+    },
     "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -597,17 +988,33 @@
     "id": "rokudenashi-majutsu-koushi",
     "title": "ロクでなし魔術講師と禁忌教典",
     "titleKana": "ろくでなしまじゅつこうしときんきけーねん",
-    "authorIds": ["hitsuji-tarou"],
-    "illustratorIds": ["mishima-kurone"],
+    "authorIds": [
+      "hitsuji-tarou"
+    ],
+    "illustratorIds": [
+      "mishima-kurone"
+    ],
     "publisherId": "fujimi-fantasia",
-    "themeIds": ["gakuen", "mahou", "gakuen-ianou"],
+    "themeIds": [
+      "gakuen",
+      "mahou",
+      "gakuen-ianou"
+    ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2023,
     "status": "completed",
     "volumeCount": 36,
     "synopsis": "魔術に嫌悪感を抱きながらも、やる気のない魔術講師として名門校に赴任したグレン。しかし彼の過去と、生徒である少女たちを巻き込む陰謀が徐々に明らかになっていく学園ファンタジー。",
-    "awardResults": [{ "awardId": "fantasia-taisho", "year": 2013, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロクでなし魔術講師と禁忌教典" },
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2013,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロクでなし魔術講師と禁忌教典"
+    },
     "sourceNote": "Wikipedia日本語版「ロクでなし魔術講師と禁忌教典」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集+スピンオフの合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -615,31 +1022,51 @@
     "id": "kenja-no-mago",
     "title": "賢者の孫",
     "titleKana": "けんじゃのまご",
-    "authorIds": ["yoshioka-tsuyoshi"],
-    "illustratorIds": ["kikuchi-seiji"],
+    "authorIds": [
+      "yoshioka-tsuyoshi"
+    ],
+    "illustratorIds": [
+      "kikuchi-seiji"
+    ],
     "publisherId": "famitsu-bunko",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2015,
     "status": "ongoing",
     "volumeCount": 17,
     "synopsis": "異世界で拾われた赤ん坊が、伝説の賢者に「常識」を教えられないまま魔法だけを叩き込まれて育つ。規格外の魔法の腕を持ちながら浮世離れした青年が魔法学院に入学する、異世界チートコメディ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
+    },
     "sourceNote": "Wikipedia日本語版「賢者の孫」を参照し独自に要約(2026年7月時点)。巻数の内訳(本編/スピンオフ)は情報源間で差異があり要再確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "isekai-shokudou",
     "title": "異世界食堂",
     "titleKana": "いせかいしょくどう",
-    "authorIds": ["inuzuka-jumpei"],
-    "illustratorIds": ["enami-katsumi"],
+    "authorIds": [
+      "inuzuka-jumpei"
+    ],
+    "illustratorIds": [
+      "enami-katsumi"
+    ],
     "publisherId": "hero-bunko",
-    "themeIds": ["isekai-fantasy"],
+    "themeIds": [
+      "isekai-fantasy"
+    ],
     "firstPublishedYear": 2015,
     "status": "ongoing",
     "volumeCount": 6,
     "synopsis": "現代の商店街にある小さな洋食屋「洋食のねこや」は、毎週土曜、異世界の住人たちが辿り着ける扉を持つ。異世界の客と現代の料理が織りなす、グルメ中心の連作短編ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂"
+    },
     "sourceNote": "Wikipedia日本語版「異世界食堂」を参照し独自に要約(2026年7月時点)。巻数は2021年10月時点の情報で以降未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -647,68 +1074,120 @@
     "id": "arifureta-shokugyou-de-sekai-saikyou",
     "title": "ありふれた職業で世界最強",
     "titleKana": "ありふれたしょくぎょうでせかいさいきょう",
-    "authorIds": ["shirokome-ryou"],
-    "illustratorIds": ["takaya-ki"],
+    "authorIds": [
+      "shirokome-ryou"
+    ],
+    "illustratorIds": [
+      "takaya-ki"
+    ],
     "publisherId": "overlap-bunko",
-    "themeIds": ["isekai-tensei", "dungeon", "fukushuu"],
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "fukushuu"
+    ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2024,
     "status": "completed",
     "volumeCount": 21,
     "synopsis": "クラスごと異世界に召喚された冴えない高校生・ハジメが、クラスメイトの裏切りで奈落に落とされる。過酷な環境を生き延びる中で人格を変貌させ、地道な技術力で最強へと成り上がっていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強"
+    },
     "sourceNote": "Wikipedia日本語版「ありふれた職業で世界最強」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "tensei-shitara-ken-deshita",
     "title": "転生したら剣でした",
     "titleKana": "てんせいしたらけんでした",
-    "authorIds": ["tanaka-yuu"],
-    "illustratorIds": ["ruroo"],
+    "authorIds": [
+      "tanaka-yuu"
+    ],
+    "illustratorIds": [
+      "ruroo"
+    ],
     "publisherId": "gc-novels",
-    "themeIds": ["isekai-tensei", "ken-to-mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou"
+    ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 20,
     "synopsis": "気づけば人間ではなく一振りの剣に転生していた元社会人。言葉を話す猫の魔物と出会い、相棒として契約を結び、剣と使い手として共に異世界を旅していく異色の異世界転生譚。",
-    "awardResults": [{ "awardId": "net-shousetsu-taisho", "year": 2016, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした" },
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした"
+    },
     "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "mushoku-tensei",
     "title": "無職転生 〜異世界行ったら本気だす〜",
     "titleKana": "むしょくてんせい いせかいいったらほんきだす",
-    "authorIds": ["rifujin-na-magonote"],
-    "illustratorIds": ["shirotaka"],
+    "authorIds": [
+      "rifujin-na-magonote"
+    ],
+    "illustratorIds": [
+      "shirotaka"
+    ],
     "publisherId": "mf-books",
-    "themeIds": ["isekai-tensei", "mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "mahou"
+    ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2022,
     "status": "completed",
     "volumeCount": 26,
     "synopsis": "34歳無職のまま人生を終えた男が、赤ん坊として異世界に転生する。前世の後悔を糧に、今度こそ本気で生きようと魔法と剣術を学び、ゆっくりと成長していく王道異世界転生ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
+    },
     "sourceNote": "Wikipedia日本語版「無職転生」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "isekai-wa-smartphone",
     "title": "異世界はスマートフォンとともに。",
     "titleKana": "いせかいはすまーとふぉんとともに",
-    "authorIds": ["fuyuhara-patora"],
-    "illustratorIds": ["usaduka-eiji"],
+    "authorIds": [
+      "fuyuhara-patora"
+    ],
+    "illustratorIds": [
+      "usaduka-eiji"
+    ],
     "publisherId": "hj-novels",
-    "themeIds": ["isekai-fantasy", "harem"],
+    "themeIds": [
+      "isekai-fantasy",
+      "harem"
+    ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 31,
     "synopsis": "神様のミスで死んでしまった少年が、お詫びにスマートフォンを持ったまま異世界に転生する。チート級の能力とスマホの検索機能を駆使し、のんびりとした異世界生活を送っていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界はスマートフォンとともに。" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界はスマートフォンとともに。"
+    },
     "sourceNote": "Wikipedia日本語版「異世界はスマートフォンとともに。」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -716,15 +1195,23 @@
     "id": "tensai-ouji-no-akaji-kokka-saisei-jutsu",
     "title": "天才王子の赤字国家再生術〜そうだ、売国しよう〜",
     "titleKana": "てんさいおうじのあかじこっかさいせいじゅつ そうだ、ばいこくしよう",
-    "authorIds": ["toba-tooru"],
-    "illustratorIds": ["falmaro"],
+    "authorIds": [
+      "toba-tooru"
+    ],
+    "illustratorIds": [
+      "falmaro"
+    ],
     "publisherId": "ga-bunko",
-    "themeIds": ["isekai-fantasy"],
+    "themeIds": [
+      "isekai-fantasy"
+    ],
     "firstPublishedYear": 2018,
     "status": "ongoing",
     "volumeCount": 12,
     "synopsis": "弱小国の王子ウェインは、祖国を守るためあえて他国に「売国」するという型破りな方法で国家再建を図る。戦わずして国を強くする、経済と政治の駆け引きが光る異色のファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜"
+    },
     "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照し独自に要約(2026年7月時点)。最新既刊数は未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -732,48 +1219,80 @@
     "id": "tensei-kizoku-kantei-skill",
     "title": "転生貴族、鑑定スキルで成り上がる",
     "titleKana": "てんせいきぞく、かんていすきるでのしあがる",
-    "authorIds": ["miraijin-a"],
-    "illustratorIds": ["jimmy"],
+    "authorIds": [
+      "miraijin-a"
+    ],
+    "illustratorIds": [
+      "jimmy"
+    ],
     "publisherId": "k-ranobe-books",
-    "themeIds": ["isekai-tensei", "ken-to-mahou"],
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou"
+    ],
     "firstPublishedYear": 2020,
     "status": "ongoing",
     "volumeCount": 9,
     "synopsis": "弱小領地を継いだ貴族の青年が、あらゆるものの真の価値を見抜く「鑑定」スキルを武器に、埋もれていた優秀な人材や資源を発掘し、領地を最強へと育て上げていく内政系異世界ファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜"
+    },
     "sourceNote": "Wikipedia日本語版「転生貴族、鑑定スキルで成り上がる」を参照し独自に要約(2026年7月時点)。既刊数は未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "re-monster",
     "title": "Re:Monster",
     "titleKana": "りもんすたー",
-    "authorIds": ["kanagiri-kogitsune"],
-    "illustratorIds": ["yamaada"],
+    "authorIds": [
+      "kanagiri-kogitsune"
+    ],
+    "illustratorIds": [
+      "yamaada"
+    ],
     "publisherId": "alphapolis",
-    "themeIds": ["isekai-tensei", "dungeon"],
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon"
+    ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2024,
     "status": "ongoing",
     "volumeCount": 15,
     "synopsis": "人間として生きた記憶を持ったまま、最弱のモンスター「ゴブリン」として異世界に転生した主人公。仲間や敵を捕食して力を得る特殊能力を駆使し、弱肉強食の世界で成り上がっていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:Monster" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:Monster"
+    },
     "sourceNote": "Wikipedia日本語版「Re:Monster」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで続編「暗黒大陸編」は含まない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "shinmai-renkinjutsushi-no-tenpo-keiei",
     "title": "新米錬金術師の店舗経営",
     "titleKana": "しんまいれんきんじゅつしのてんぽけいえい",
-    "authorIds": ["itsuki-mizuho"],
-    "illustratorIds": ["fuumi"],
+    "authorIds": [
+      "itsuki-mizuho"
+    ],
+    "illustratorIds": [
+      "fuumi"
+    ],
     "publisherId": "fujimi-fantasia",
-    "themeIds": ["isekai-fantasy"],
+    "themeIds": [
+      "isekai-fantasy"
+    ],
     "firstPublishedYear": 2019,
     "status": "ongoing",
     "volumeCount": 7,
     "synopsis": "錬金術師の見習いだった少女サラが、師匠の店を引き継ぎ、初めての一人暮らしと店舗経営に奮闘する。素材集めやお客との交流を通じて成長していく、異世界スローライフ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米錬金術師の店舗経営" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米錬金術師の店舗経営"
+    },
     "sourceNote": "Wikipedia日本語版「新米錬金術師の店舗経営」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。",
     "updatedAt": "2026-07-31"
   },
@@ -781,51 +1300,91 @@
     "id": "mamahaha-no-tsurego-ga-motokano-datta",
     "title": "継母の連れ子が元カノだった",
     "titleKana": "ままははのつれごがもとかのだった",
-    "authorIds": ["kamishiro-kyousuke"],
-    "illustratorIds": ["takaya-ki"],
+    "authorIds": [
+      "kamishiro-kyousuke"
+    ],
+    "illustratorIds": [
+      "takaya-ki"
+    ],
     "publisherId": "kadokawa-sneaker",
-    "themeIds": ["seishun-lovecome", "gakuen", "romance"],
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2025,
     "status": "ongoing",
     "volumeCount": 13,
     "synopsis": "親の再婚で義理のきょうだいになった二人は、実はかつて別れた元恋人同士だった。互いに気づかないふりをしながら、義理の家族としての新しい関係を模索していく青春ラブコメ。",
-    "awardResults": [{ "awardId": "kakuyomu-contest", "year": 2017, "result": "ラブコメ部門・大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/継母の連れ子が元カノだった" },
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2017,
+        "result": "ラブコメ部門・大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/継母の連れ子が元カノだった"
+    },
     "sourceNote": "Wikipedia日本語版「継母の連れ子が元カノだった」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    }
   },
   {
     "id": "death-march-kara-hajimaru-isekai-kyousoukyoku",
     "title": "デスマーチからはじまる異世界狂想曲",
     "titleKana": "ですまーちからはじまるいせかいきょうそうきょく",
-    "authorIds": ["aina-hiro"],
-    "illustratorIds": ["shri"],
+    "authorIds": [
+      "aina-hiro"
+    ],
+    "illustratorIds": [
+      "shri"
+    ],
     "publisherId": "kadokawa-books",
-    "themeIds": ["isekai-tensei", "harem"],
+    "themeIds": [
+      "isekai-tensei",
+      "harem"
+    ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 35,
     "synopsis": "徹夜明けの過酷な仕事の末に眠りに落ちたプログラマーが、異世界に召喚される。目覚めるとレベルが上限まで上がっていた主人公が、圧倒的な力を持て余しながら異世界を旅していく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
+    },
     "sourceNote": "Wikipedia日本語版「デスマーチからはじまる異世界狂想曲」を参照し独自に要約(2026年7月時点)。2014年に富士見書房で刊行開始後、2015年10月にカドカワBOOKSへ移行。巻数は本編+外伝の合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   },
   {
     "id": "itai-no-wa-iya-nanode-bogyoryoku",
     "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
     "titleKana": "いたいのはいやなのでぼうぎょりょくにきわぶりしたいとおもいます",
-    "authorIds": ["yuu-mikan"],
-    "illustratorIds": ["kitsunejirushi"],
+    "authorIds": [
+      "yuu-mikan"
+    ],
+    "illustratorIds": [
+      "kitsunejirushi"
+    ],
     "publisherId": "kadokawa-books",
-    "themeIds": ["vrmmo", "dungeon"],
+    "themeIds": [
+      "vrmmo",
+      "dungeon"
+    ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2026,
     "status": "ongoing",
     "volumeCount": 21,
     "synopsis": "VRMMOゲーム初心者の少女メイプルは、痛いのが嫌だからと防御力にステータスを全振りする。その結果、誰も攻撃を通せない規格外の耐久力を手に入れてしまう、実況風異世界ゲームファンタジー。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/痛いのは嫌なので防御力に極振りしたいと思います。" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/痛いのは嫌なので防御力に極振りしたいと思います。"
+    },
     "sourceNote": "Wikipedia日本語版「痛いのは嫌なので防御力に極振りしたいと思います。」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。",
     "updatedAt": "2026-07-31"
   },
@@ -833,16 +1392,25 @@
     "id": "kaifuku-jutsushi-no-yarinaoshi",
     "title": "回復術士のやり直し",
     "titleKana": "かいふくじゅつしのやりなおし",
-    "authorIds": ["tsukiyo-rui"],
-    "illustratorIds": ["shiokonbu"],
+    "authorIds": [
+      "tsukiyo-rui"
+    ],
+    "illustratorIds": [
+      "shiokonbu"
+    ],
     "publisherId": "kadokawa-sneaker",
-    "themeIds": ["isekai-tensei", "fukushuu"],
+    "themeIds": [
+      "isekai-tensei",
+      "fukushuu"
+    ],
     "firstPublishedYear": 2017,
     "latestPublishedYear": 2024,
     "status": "ongoing",
     "volumeCount": 10,
     "synopsis": "回復術師として仲間に見下され続けた末に殺された青年が、全ての記憶を持ったまま時を遡る。二度目の人生では、かつて自分を虐げた者たちへの復讐を胸に立ち回っていく。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し"
+    },
     "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照し独自に要約(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -850,15 +1418,24 @@
     "id": "sao-alternative-ggo",
     "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
     "titleKana": "そーどあーとおんらいん おるたなてぃぶ がんげいるおんらいん",
-    "authorIds": ["shigusawa-keiichi"],
-    "illustratorIds": ["kuroboshi-kouhaku"],
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["vrmmo", "sf"],
+    "themeIds": [
+      "vrmmo",
+      "sf"
+    ],
     "firstPublishedYear": 2014,
     "status": "ongoing",
     "volumeCount": 14,
     "synopsis": "現実の体格にコンプレックスを持つ少女レンが、ガンアクションVRMMO「ガンゲイル・オンライン」の中で、小柄な体格を活かした戦い方を追求していく、SAOシリーズのスピンオフ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン_オルタナティブ_ガンゲイル・オンライン" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン_オルタナティブ_ガンゲイル・オンライン"
+    },
     "sourceNote": "Wikipedia日本語版「ソードアート・オンライン オルタナティブ ガンゲイル・オンライン」を参照し独自に要約(2026年7月時点)。原案は川原礫。",
     "updatedAt": "2026-07-31"
   },
@@ -866,16 +1443,32 @@
     "id": "86-eightysix",
     "title": "86-エイティシックス-",
     "titleKana": "はちろくえいてぃしっくす",
-    "authorIds": ["asato-asato"],
-    "illustratorIds": ["shirabi"],
+    "authorIds": [
+      "asato-asato"
+    ],
+    "illustratorIds": [
+      "shirabi"
+    ],
     "publisherId": "dengeki-bunko",
-    "themeIds": ["robot-mecha", "sf", "romance"],
+    "themeIds": [
+      "robot-mecha",
+      "sf",
+      "romance"
+    ],
     "firstPublishedYear": 2017,
     "status": "ongoing",
     "volumeCount": 16,
     "synopsis": "「無人機」による戦争を続ける共和国。しかし実際にその機体を操縦していたのは、人ではないとされ差別される「86区」の少年少女たちだった。少女レーナと戦場の若者たちが繋がっていく戦争ファンタジー。",
-    "awardResults": [{ "awardId": "dengeki-novel-taisho", "year": 2016, "result": "大賞" }],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-" },
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2016,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-"
+    },
     "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照し独自に要約(2026年7月時点)。既刊数は未確認。",
     "updatedAt": "2026-07-31"
   }

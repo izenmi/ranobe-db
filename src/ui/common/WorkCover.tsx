@@ -20,3 +20,19 @@ export function amazonSearchUrl(title: string, authorNames: string[]): string {
   const query = [title, authorNames[0]].filter(Boolean).join(" ");
   return `https://www.amazon.co.jp/s?k=${encodeURIComponent(query)}`;
 }
+
+const WEB_NOVEL_SITE: Record<"narou" | "kakuyomu", { label: string; searchUrl: (title: string) => string }> = {
+  narou: {
+    label: "小説家になろう",
+    searchUrl: (title) => `https://yomou.syosetu.com/search.php?word=${encodeURIComponent(title)}`,
+  },
+  kakuyomu: {
+    label: "カクヨム",
+    searchUrl: (title) => `https://kakuyomu.jp/search?q=${encodeURIComponent(title)}`,
+  },
+};
+
+export function webNovelSearch(platform: "narou" | "kakuyomu", title: string) {
+  const site = WEB_NOVEL_SITE[platform];
+  return { label: site.label, url: site.searchUrl(title) };
+}

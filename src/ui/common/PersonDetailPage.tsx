@@ -32,9 +32,11 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
               </a>
             </p>
           )}
-          {state.data.works.map((w) => (
-            <WorkRefRow work={w} key={w.id} />
-          ))}
+          <div className="work-grid">
+            {state.data.works.map((w) => (
+              <WorkRefRow work={w} key={w.id} />
+            ))}
+          </div>
         </>
       )}
     </div>

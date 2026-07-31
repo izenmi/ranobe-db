@@ -13,6 +13,8 @@ export interface AwardResult {
 
 export type WorkStatus = "completed" | "ongoing" | "unknown";
 
+export type WebNovelPlatform = "narou" | "kakuyomu";
+
 export interface WorkSource {
   id: string;
   title: string;
@@ -27,6 +29,10 @@ export interface WorkSource {
   volumeCount?: number;
   synopsis: string;
   awardResults?: AwardResult[];
+  /** Set when the work originated as a web novel on 小説家になろう or カクヨム before being
+   *  published in print. We link to a site search rather than a specific story URL since we
+   *  don't have verified per-work story IDs. */
+  webNovelSource?: { platform: WebNovelPlatform };
   externalLinks: ExternalLinks;
   sourceNote: string;
   updatedAt: string;

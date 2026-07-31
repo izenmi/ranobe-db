@@ -2,7 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { getWork } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCover, amazonSearchUrl } from "../common/WorkCover";
+import { WorkCover, amazonSearchUrl, webNovelSearch } from "../common/WorkCover";
 
 const STATUS_LABEL: Record<string, string> = {
   completed: "完結",
@@ -88,13 +88,25 @@ export function WorkDetailPage() {
 
           <p>{state.data.synopsis}</p>
 
-          {state.data.externalLinks.wikipediaUrl && (
-            <p>
+          <p>
+            {state.data.externalLinks.wikipediaUrl && (
               <a href={state.data.externalLinks.wikipediaUrl} target="_blank" rel="noreferrer">
                 Wikipediaで見る
               </a>
-            </p>
-          )}
+            )}
+            {state.data.webNovelSource &&
+              (() => {
+                const web = webNovelSearch(state.data!.webNovelSource!.platform, state.data!.title);
+                return (
+                  <>
+                    {state.data!.externalLinks.wikipediaUrl && " / "}
+                    <a href={web.url} target="_blank" rel="noreferrer">
+                      {web.label}でWeb版を探す
+                    </a>
+                  </>
+                );
+              })()}
+          </p>
 
           <p className="source-note">{state.data.sourceNote}</p>
         </>
