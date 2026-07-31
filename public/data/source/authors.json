@@ -834,5 +834,100 @@
     },
     "sourceNote": "Wikipedia日本語版「アサウラ」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shiraishi-jougi",
+    "name": "白石定規",
+    "nameKana": "しらいしじょうぎ",
+    "description": "「魔女の旅々」で知られる作家。Amazon Kindleでの自費出版を経て商業化された異色の経歴を持つ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白石定規"
+    },
+    "sourceNote": "Wikipedia日本語版「白石定規」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "irie-kimihito",
+    "name": "入江君人",
+    "nameKana": "いりえきみひと",
+    "description": "「神さまのいない日曜日」で知られる作家。第21回ファンタジア大賞・大賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/入江君人"
+    },
+    "sourceNote": "Wikipedia日本語版「入江君人」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "nimaru-shuuichi",
+    "name": "二丸修一",
+    "nameKana": "にまるしゅういち",
+    "description": "「幼なじみが絶対に負けないラブコメ」で知られる作家。第17回電撃小説大賞で編集者の「拾い上げ」によりデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/二丸修一"
+    },
+    "sourceNote": "Wikipedia日本語版「二丸修一」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "morohoshi-haruka",
+    "name": "諸星悠",
+    "nameKana": "もろほしはるか",
+    "description": "「空戦魔導士候補生の教官」で知られる作家。第24回ファンタジア大賞・金賞を受賞しデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「空戦魔導士候補生の教官」を参照(2026年7月時点)。著者個人の独立記事は未確認。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "akita-yoshinobu",
+    "name": "秋田禎信",
+    "nameKana": "あきたよしのぶ",
+    "description": "「魔術士オーフェンはぐれ旅」で知られる作家。17歳の時、別作品「ひとつ火の粉の雪の中」で第3回ファンタジア長編小説大賞・準入選を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋田禎信"
+    },
+    "sourceNote": "Wikipedia日本語版「秋田禎信」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kagyuu-kumo",
+    "name": "蝸牛くも",
+    "nameKana": "かぎゅうくも",
+    "description": "「ゴブリンスレイヤー」で知られる作家。小説版は匿名掲示板でのAA形式連載から始まり、GA文庫大賞への応募がきっかけで商業化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蝸牛くも"
+    },
+    "sourceNote": "Wikipedia日本語版「蝸牛くも」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "uno-bokuto",
+    "name": "宇野朴人",
+    "nameKana": "うのぼくと",
+    "description": "「ねじ巻き精霊戦記 天鏡のアルデラミン」で知られる作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇野朴人"
+    },
+    "sourceNote": "Wikipedia日本語版「宇野朴人」を参照(2026年7月時点)。新人賞受賞歴は確認できず。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kitayama-yuri",
+    "name": "北山結莉",
+    "nameKana": "きたやまゆうり",
+    "description": "「精霊幻想記」で知られる作家。「小説家になろう」連載作を書籍化した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「精霊幻想記」を参照(2026年7月時点)。著者個人の独立記事は未確認。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "natsumi-kouji",
+    "name": "夏海公司",
+    "nameKana": "なつみこうじ",
+    "description": "「なれる!SE」で知られる作家。別作品「葉桜が来た夏」で第14回電撃小説大賞・選考委員奨励賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏海公司"
+    },
+    "sourceNote": "Wikipedia日本語版「夏海公司」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

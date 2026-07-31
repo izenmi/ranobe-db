@@ -2529,5 +2529,291 @@
     },
     "sourceNote": "Wikipedia日本語版「ベン・トー」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "majo-no-tabitabi",
+    "title": "魔女の旅々",
+    "titleKana": "まじょのたびたび",
+    "authorIds": [
+      "shiraishi-jougi"
+    ],
+    "illustratorIds": [
+      "azur"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "adventure",
+      "mahou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "見習い魔女イレイナが一人前の魔女となり、箒に乗って様々な国を旅する連作短編形式の物語。訪れる先々で出会う人々や不思議な出来事を通じ、時にユーモラスに、時にほろ苦く人間模様を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔女の旅々"
+    },
+    "sourceNote": "Wikipedia日本語版「魔女の旅々」を参照し独自に要約(2026年7月時点)。Amazon Kindleでの自費出版を経て商業化された経歴を持ち、新人賞受賞歴はなし。既刊巻数は変動が大きいため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kamisama-no-inai-nichiyoubi",
+    "title": "神さまのいない日曜日",
+    "titleKana": "かみさまのいないにちようび",
+    "authorIds": [
+      "irie-kimihito"
+    ],
+    "illustratorIds": [
+      "ibarano"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "mystery"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "15年前を境に人が死ねなくなり子供も生まれなくなった世界で、死者の魂を鎮める「墓守」の少女アイが、世界を救う夢を抱いて故郷を離れ旅立つ。死してなお動く人々や封じられた世界の謎を巡るダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2009,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神さまのいない日曜日"
+    },
+    "sourceNote": "Wikipedia日本語版「神さまのいない日曜日」を参照し独自に要約(2026年7月時点)。投稿時タイトルは『日曜の人達』。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "osananajimi-ga-zettai-ni-makenai-love-come",
+    "title": "幼なじみが絶対に負けないラブコメ",
+    "titleKana": "おさななじみがぜったいにまけないらぶこめ",
+    "authorIds": [
+      "nimaru-shuuichi"
+    ],
+    "illustratorIds": [
+      "shigure-ui"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "元子役の高校生・末晴は幼なじみの黒羽から告白されるが、人気作家の白草にも想いを寄せていた。黒羽と手を組み白草への「復讐」を仕掛ける中で、隠された本心や複雑な恋愛関係が明らかになる、負けヒロインの逆転をテーマにしたラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼なじみが絶対に負けないラブコメ"
+    },
+    "sourceNote": "Wikipedia日本語版「幼なじみが絶対に負けないラブコメ」を参照し独自に要約(2026年7月時点)。著者は電撃小説大賞での「拾い上げ」デビューで、正式な受賞歴はなし。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kuusen-madoushi-kouhosei-no-kyoukan",
+    "title": "空戦魔導士候補生の教官",
+    "titleKana": "くうせんまどうしこうほせいのきょうかん",
+    "authorIds": [
+      "morohoshi-haruka"
+    ],
+    "illustratorIds": [
+      "amami-mikihiro"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "battle-action",
+      "mahou",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "魔甲蟲の脅威で人類が浮遊都市に逃れた世界で、かつて「黒の剣聖」と呼ばれたエース魔導士が落ちこぼれ扱いの女子候補生小隊の教官となる。型破りな指導で生徒たちを育てながら、自身の過去の秘密も明らかになっていく学園アクション。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2012,
+        "result": "金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空戦魔導士候補生の教官"
+    },
+    "sourceNote": "Wikipedia日本語版「空戦魔導士候補生の教官」を参照し独自に要約(2026年7月時点)。応募時タイトルは『俺が教官で、彼女たちが魔導師候補生だと……そんなまさかっ!』。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "majutsushi-orphen-hagure-tabi",
+    "title": "魔術士オーフェンはぐれ旅",
+    "titleKana": "まじゅつしおーふぇんはぐれたび",
+    "authorIds": [
+      "akita-yoshinobu"
+    ],
+    "illustratorIds": [
+      "kusakawa-yuuya"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "adventure",
+      "mahou",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "元は闇の魔術結社「牙の塔」所属だった黒魔術士オーフェンが、出奔の理由でもある失踪した姉を捜し、相棒の少女クリーオウらと各地を旅する冒険譚。シリアスな本編と日常コメディ色の強い外伝が並行して描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔術士オーフェン"
+    },
+    "sourceNote": "Wikipedia日本語版「魔術士オーフェン」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でファンタジア長編小説大賞・準入選を受賞しデビュー)。巻数は本編(1994〜2003年)のみを基準とし、2011年以降の新装版・新シリーズは含めていない。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "goblin-slayer",
+    "title": "ゴブリンスレイヤー",
+    "titleKana": "ごぶりんすれいやー",
+    "authorIds": [
+      "kagyuu-kumo"
+    ],
+    "illustratorIds": [
+      "kaminazuki-noboru"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dungeon",
+      "battle-action",
+      "dark-fantasy",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "最弱モンスターとされる「ゴブリン」だけを執拗に狩り続ける寡黙な冒険者が主人公。窮地の新人女神官を助けたことから行動を共にするようになり、軽視されがちなゴブリンの集団的脅威に立ち向かう。冒険者社会の現実的な側面も描くダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴブリンスレイヤー"
+    },
+    "sourceNote": "Wikipedia日本語版「ゴブリンスレイヤー」を参照し独自に要約(2026年7月時点)。小説版はファンタジア大賞への投稿が三次選考で落選しており、新人賞受賞歴はなし。匿名掲示板でのAA形式連載が原型。既刊巻数は変動するため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tenkyou-no-alderamin",
+    "title": "ねじ巻き精霊戦記 天鏡のアルデラミン",
+    "titleKana": "ねじまきせいれいせんき てんきょうのあるでらみん",
+    "authorIds": [
+      "uno-bokuto"
+    ],
+    "illustratorIds": [
+      "sanba-sashi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "四大精霊が存在する世界で、衰退しつつあるカトヴァーナ帝国を舞台に、軍事的才能を持つ青年イクタが親友や仲間らと共に周辺国との戦争や帝国内部の政争に巻き込まれながら国を導いていく戦記ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじ巻き精霊戦記_天鏡のアルデラミン"
+    },
+    "sourceNote": "Wikipedia日本語版「ねじ巻き精霊戦記_天鏡のアルデラミン」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "seirei-gensouki",
+    "title": "精霊幻想記",
+    "titleKana": "せいれいげんそうき",
+    "authorIds": [
+      "kitayama-yuri"
+    ],
+    "illustratorIds": [
+      "riv"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "gakuen",
+      "romance",
+      "harem"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "不慮の事故で命を落とした日本人大学生の記憶を持つ少年が、異世界で前世の記憶と現世の人格を併せ持ちながら生きていく物語。王立学院への入学を機に身分を隠して生きてきた過去と対峙しつつ、精霊や魔法が存在する世界で仲間との絆を築いていく異世界ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/精霊幻想記"
+    },
+    "sourceNote": "Wikipedia日本語版「精霊幻想記」を参照し独自に要約(2026年7月時点)。著者個人の独立記事は未確認。既刊巻数は変動するため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "nareru-se",
+    "title": "なれる!SE",
+    "titleKana": "なれるえすいー",
+    "authorIds": [
+      "natsumi-kouji"
+    ],
+    "illustratorIds": [
+      "ixy"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "ブラックなシステム開発会社に新卒入社した青年が、中学生のような外見ながら凄腕エンジニアの上司の指導のもと、過酷な現場でシステム開発の実務に奮闘するIT業界お仕事コメディ。理不尽な炎上案件や個性的な同僚たちに振り回されながら成長していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なれる!SE"
+    },
+    "sourceNote": "Wikipedia日本語版「なれる!SE」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「葉桜が来た夏」で電撃小説大賞・選考委員奨励賞を受賞しデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tenshi-no-3p",
+    "title": "天使の3P!",
+    "titleKana": "てんしのすりーぴーす",
+    "authorIds": [
+      "aoyama-sagu"
+    ],
+    "illustratorIds": [
+      "tinkle"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "不登校だった高校生が、動画投稿サイトに上げた自作曲がきっかけで児童養護施設に暮らす3人の少女と出会う。彼女たちとバンドを結成し、音楽活動を通じて過去のトラウマと向き合いながら人間関係を築き直していく青春音楽ストーリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天使の3P!"
+    },
+    "sourceNote": "Wikipedia日本語版「天使の3P!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ロウきゅーぶ!」で電撃小説大賞・銀賞を受賞しデビュー)。",
+    "updatedAt": "2026-07-31"
   }
 ]

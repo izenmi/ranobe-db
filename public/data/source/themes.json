@@ -28,5 +28,6 @@
   { "id": "senki", "name": "戦記", "description": "国家間の戦争や軍略が物語の軸となる作品。" },
   { "id": "death-game", "name": "デスゲーム", "description": "生存を懸けたゲームや殺し合いが物語の中心にある作品。" },
   { "id": "post-apocalypse", "name": "終末・ポストアポカリプス", "description": "文明崩壊後や滅びゆく世界を舞台にした作品。" },
-  { "id": "alternate-history", "name": "歴史IF", "description": "史実を下敷きにしつつ改変された歴史・世界を描く作品。" }
+  { "id": "alternate-history", "name": "歴史IF", "description": "史実を下敷きにしつつ改変された歴史・世界を描く作品。" },
+  { "id": "shigoto", "name": "お仕事", "description": "会社員生活や特定の職業を通じた奮闘を描く作品。" }
 ]
