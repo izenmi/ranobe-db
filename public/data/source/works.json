@@ -2015,5 +2015,408 @@
     },
     "sourceNote": "Wikipedia日本語版「這いよれ!ニャル子さん」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。応募時タイトルは『夢見るままに待ちいたり』。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "baka-to-test-to-shoukanjuu",
+    "title": "バカとテストと召喚獣",
+    "titleKana": "ばかとてすととしょうかんじゅう",
+    "authorIds": [
+      "inoue-kenji"
+    ],
+    "illustratorIds": [
+      "haga-yui"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy",
+      "battle-action",
+      "harem"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "試験の成績が召喚獣の戦闘力に直結する文月学園高等部が舞台。最下位クラス「Fクラス」の劣悪な環境を変えようと、主人公たちが上位クラスに試験召喚戦争を挑む学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "enterbrain-entame-taisho",
+        "year": 2006,
+        "result": "編集部特別賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バカとテストと召喚獣"
+    },
+    "sourceNote": "Wikipedia日本語版「バカとテストと召喚獣」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hitsugihime-no-chaika",
+    "title": "棺姫のチャイカ",
+    "titleKana": "ひつぎひめのちゃいか",
+    "authorIds": [
+      "sakaki-ichirou"
+    ],
+    "illustratorIds": [
+      "namaniku-atk"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "mystery",
+      "romance",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "禁断皇帝を討った八英雄がその遺体を分割して持ち去った後の世界で、無職の青年トールが、皇帝の娘を名乗り遺体を集める銀髪の少女チャイカと出会い、用心棒として旅に同行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/棺姫のチャイカ"
+    },
+    "sourceNote": "Wikipedia日本語版「棺姫のチャイカ」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ro-kyu-bu",
+    "title": "ロウきゅーぶ!",
+    "titleKana": "ろうきゅーぶ",
+    "authorIds": [
+      "aoyama-sagu"
+    ],
+    "illustratorIds": [
+      "tinkle"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "バスケ部が1年間の休部となった高校生が、叔母の紹介で小学校の女子ミニバスケ部のコーチを務めることに。部員の小学生たちとの交流や成長を本格スポーツ描写で描く。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "銀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロウきゅーぶ!"
+    },
+    "sourceNote": "Wikipedia日本語版「ロウきゅーぶ!」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "boku-wa-tomodachi-ga-sukunai",
+    "title": "僕は友達が少ない",
+    "titleKana": "ぼくはともだちがすくない",
+    "authorIds": [
+      "hirasaka-yomi"
+    ],
+    "illustratorIds": [
+      "buriki"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy",
+      "harem"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "容姿が原因で孤立していた高校生・羽瀬川小鷹が、同じく友人のいない三日月夜空と出会い「隣人部」を結成。性格に難のある美少女部員たちと不器用ながら友情や恋を育んでいく学園コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕は友達が少ない"
+    },
+    "sourceNote": "Wikipedia日本語版「僕は友達が少ない」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "imouto-sae-ireba-ii",
+    "title": "妹さえいればいい。",
+    "titleKana": "いもうとさえいればいい",
+    "authorIds": [
+      "hirasaka-yomi"
+    ],
+    "illustratorIds": [
+      "kantoku"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "imouto",
+      "comedy",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "妹を溺愛する小説家・羽島伊月の周囲に集う、後輩作家の可児那由多や大学同級生の白川京ら個性的な人物たちを描く。創作・友情・恋愛に悩みながら過ごす日々を綴った作家群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妹さえいればいい。"
+    },
+    "sourceNote": "Wikipedia日本語版「妹さえいればいい。」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kyoukaisenjou-no-horizon",
+    "title": "境界線上のホライゾン",
+    "titleKana": "きょうかいせんじょうのほらいぞん",
+    "authorIds": [
+      "kawakami-minoru"
+    ],
+    "illustratorIds": [
+      "satoyasu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "sf",
+      "adventure",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "世界終焉が迫る中、航空都市艦「武蔵」で暮らす葵・トーリが、死んだはずの少女ホライゾンへの想いを軸に、歴史再現を巡って世界中の諸勢力を巻き込む大規模紛争へと発展していく学園戦記ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/境界線上のホライゾン"
+    },
+    "sourceNote": "Wikipedia日本語版「境界線上のホライゾン」を参照し独自に要約(2026年7月時点)。本編は全32巻で完結、続編『NEXT BOX』はカクヨム発で刊行中。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "zero-kara-hajimeru-mahou-no-sho",
+    "title": "ゼロから始める魔法の書",
+    "titleKana": "ぜろからはじめるまほうのしょ",
+    "authorIds": [
+      "kobashiri-kakeru"
+    ],
+    "illustratorIds": [
+      "shizuma-yoshinori"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "半人半獣の傭兵の青年と、銀髪の魔女ゼロが、使い方次第で世界を滅ぼしかねない危険な魔法書「ゼロの書」を巡って旅をするダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2013,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロから始める魔法の書"
+    },
+    "sourceNote": "Wikipedia日本語版「ゼロから始める魔法の書」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hataraku-maou-sama",
+    "title": "はたらく魔王さま!",
+    "titleKana": "はたらくまおうさま",
+    "authorIds": [
+      "wagahara-satoshi"
+    ],
+    "illustratorIds": [
+      "ozaji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "gyaku-isekai",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 29,
+    "synopsis": "魔王軍が異世界エンテ・イスラで勇者に敗北し、魔力の存在しない現代日本へ転移。人間の姿になった魔王は東京のボロアパートを「魔王城」とし、正社員昇格を目指しつつ日本征服を企むコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2010,
+        "result": "銀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はたらく魔王さま!"
+    },
+    "sourceNote": "Wikipedia日本語版「はたらく魔王さま!」を参照し独自に要約(2026年7月時点)。受賞時タイトルは「魔王城は六畳一間!」。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "madan-no-ou-to-vanadis",
+    "title": "魔弾の王と戦姫",
+    "titleKana": "まだんのおうとゔぁなでぃーす",
+    "authorIds": [
+      "kawaguchi-tsukasa"
+    ],
+    "illustratorIds": [
+      "yoshiwo"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "battle-action",
+      "ken-to-mahou",
+      "romance",
+      "adventure",
+      "senki"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "ブリューヌとジスタートの戦で敗れた青年領主ティグルヴルムド=ヴォルンが、敵国の戦姫の一人エレオノーラの捕虜となったことから始まる、弓の名手と戦姫たちが織りなす国家間の戦記ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔弾の王と戦姫"
+    },
+    "sourceNote": "Wikipedia日本語版「魔弾の王と戦姫」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mahou-shoujo-ikusei-keikaku",
+    "title": "魔法少女育成計画",
+    "titleKana": "まほうしょうじょいくせいけいかく",
+    "authorIds": [
+      "endou-asari"
+    ],
+    "illustratorIds": [
+      "maruino"
+    ],
+    "publisherId": "kono-light-novel-ga-sugoi-bunko",
+    "themeIds": [
+      "mahou",
+      "death-game",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "数万人に一人を「魔法少女」に変えるソーシャルゲームが存在する世界で、ある地区に魔法少女が16人密集。運営から人数削減を宣告され、表向きの目標達成ゲームが実態は脱落者の命を奪うデスゲームと化す。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
+    },
+    "sourceNote": "Wikipedia日本語版「魔法少女育成計画」を参照し独自に要約(2026年7月時点)。既刊巻数は2023年11月時点の情報。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sabikui-bisco",
+    "title": "錆喰いビスコ",
+    "titleKana": "さびくいびすこ",
+    "authorIds": [
+      "kobukubo-shinji"
+    ],
+    "illustratorIds": [
+      "akagishi-k",
+      "mocha"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "battle-action",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "防衛兵器の暴走で文明が崩壊した未来の日本を舞台に、「錆び風」という災厄現象に対抗する力を持つキノコ守りの少年と、彼と行動を共にする医師の少女の冒険を描くSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2017,
+        "result": "銀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/錆喰いビスコ"
+    },
+    "sourceNote": "Wikipedia日本語版「錆喰いビスコ」を参照し独自に要約(2026年7月時点)。巻数は要最終確認。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sentouin-hakenshimasu",
+    "title": "戦闘員、派遣します!",
+    "titleKana": "せんとういんはけんします",
+    "authorIds": [
+      "akatsuki-natsume"
+    ],
+    "illustratorIds": [
+      "kakao-lantern"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "comedy",
+      "battle-action",
+      "harem"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "unknown",
+    "volumeCount": 7,
+    "synopsis": "世界征服を目論む秘密結社の戦闘員六号が、リストラ問題解消のため他惑星侵略計画に選ばれ、アンドロイドの相棒とともに地球に似た異世界へ転送される。ゲスな主人公とクセの強い仲間たちが繰り広げる異世界コメディ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘員、派遣します!"
+    },
+    "sourceNote": "Wikipedia日本語版「戦闘員、派遣します!」を参照し独自に要約(2026年7月時点)。既刊巻数は2022年6月時点、完結状況は未確認のため不明とした。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "seiken-tsukai-no-kinjuei-shou",
+    "title": "聖剣使いの禁呪詠唱",
+    "titleKana": "せいけんつかいのわーるどぶれいく",
+    "authorIds": [
+      "awamura-akamitsu"
+    ],
+    "illustratorIds": [
+      "refeia"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "battle-action",
+      "harem",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "前世の記憶を持つ「救世主」たちが集う亜鐘学園を舞台に、正体不明の怪物「異端者」との戦いを描く学園バトルファンタジー。聖剣の守護者と冥王という二つの前世を持つ主人公が、前世で出会った少女たちと実戦部隊に加わる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖剣使いの禁呪詠唱"
+    },
+    "sourceNote": "Wikipedia日本語版「聖剣使いの禁呪詠唱」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
   }
 ]

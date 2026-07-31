@@ -21,5 +21,12 @@
   { "id": "comedy", "name": "コメディ", "description": "笑いや軽妙なやり取りが物語の中心にある作品。" },
   { "id": "battle-action", "name": "バトル", "description": "戦闘・アクションが物語の見どころとなる作品。" },
   { "id": "naisei", "name": "内政・経済", "description": "国づくりや商売、経済的な駆け引きが物語の軸となる作品。" },
-  { "id": "adventure", "name": "冒険", "description": "旅や探索を通じて未知の土地・出来事に触れていく作品。" }
+  { "id": "adventure", "name": "冒険", "description": "旅や探索を通じて未知の土地・出来事に触れていく作品。" },
+  { "id": "sports", "name": "スポーツ", "description": "スポーツの試合や練習が物語の中心となる作品。" },
+  { "id": "dark-fantasy", "name": "ダークファンタジー", "description": "陰惨・退廃的な世界観を持つファンタジー。" },
+  { "id": "gyaku-isekai", "name": "逆異世界", "description": "異世界の住人が現実世界(現代日本など)へやってくる物語。" },
+  { "id": "senki", "name": "戦記", "description": "国家間の戦争や軍略が物語の軸となる作品。" },
+  { "id": "death-game", "name": "デスゲーム", "description": "生存を懸けたゲームや殺し合いが物語の中心にある作品。" },
+  { "id": "post-apocalypse", "name": "終末・ポストアポカリプス", "description": "文明崩壊後や滅びゆく世界を舞台にした作品。" },
+  { "id": "alternate-history", "name": "歴史IF", "description": "史実を下敷きにしつつ改変された歴史・世界を描く作品。" }
 ]
