@@ -1,52 +1,77 @@
 :root,
 [data-theme="light"] {
   color-scheme: light;
-  --color-primary: #8c5ea8; /* ラノベらしい紫 */
-  --color-secondary: #e8a0bf; /* パステルピンク */
-  --color-accent: #f2c14e; /* 受賞バッジ用の金 */
-  --color-ink: #3a2e4d;
-  --color-background: #fbf7ff;
+  --color-primary: #b34fd6; /* ビビッドパープル */
+  --color-primary-strong: #8f2fc7;
+  --color-secondary: #ff6fb0; /* ポップピンク */
+  --color-accent: #ffc93c; /* 金星バッジ */
+  --color-accent-strong: #ff9d2f;
+  --gradient-brand: linear-gradient(120deg, #ff8ad4 0%, #b34fd6 55%, #6a5bff 100%);
+  --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 138, 212, 0.35), transparent 45%),
+    radial-gradient(circle at 85% 15%, rgba(106, 91, 255, 0.3), transparent 45%),
+    radial-gradient(circle at 50% 90%, rgba(255, 201, 60, 0.25), transparent 40%);
+  --color-ink: #3a1f52;
+  --color-background: #fff5fb;
   --color-surface: #ffffff;
-  --color-surface-variant: #f3ecfa;
-  --color-text: #2f2640;
-  --color-text-muted: #6e6480;
-  --color-outline: #d9cdea;
+  --color-surface-variant: #fbeeff;
+  --color-text: #3a1f52;
+  --color-text-muted: #8a6ea3;
+  --color-outline: #f0d6f7;
+  --shadow-pop: 0 6px 16px rgba(179, 79, 214, 0.18);
+  --shadow-pop-hover: 0 10px 24px rgba(179, 79, 214, 0.28);
 }
 
 [data-theme="dark"] {
   color-scheme: dark;
-  --color-primary: #c9a4de;
-  --color-secondary: #f0b8d0;
-  --color-accent: #f2d16e;
-  --color-ink: #f3eefc;
-  --color-background: #201c2b;
-  --color-surface: #2a2537;
-  --color-surface-variant: #352f42;
-  --color-text: #f3eefc;
-  --color-text-muted: #b6adc8;
-  --color-outline: #544c64;
+  --color-primary: #e2a4ff;
+  --color-primary-strong: #f0c2ff;
+  --color-secondary: #ff9fcd;
+  --color-accent: #ffd873;
+  --color-accent-strong: #ffcb4d;
+  --gradient-brand: linear-gradient(120deg, #ff9fcd 0%, #c987f5 55%, #8f9dff 100%);
+  --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 159, 205, 0.25), transparent 45%),
+    radial-gradient(circle at 85% 15%, rgba(143, 157, 255, 0.25), transparent 45%),
+    radial-gradient(circle at 50% 90%, rgba(255, 216, 115, 0.18), transparent 40%);
+  --color-ink: #fbeeff;
+  --color-background: #241834;
+  --color-surface: #2f2044;
+  --color-surface-variant: #3b2955;
+  --color-text: #fbeeff;
+  --color-text-muted: #c6aee0;
+  --color-outline: #4f3a6b;
+  --shadow-pop: 0 6px 16px rgba(0, 0, 0, 0.35);
+  --shadow-pop-hover: 0 10px 26px rgba(0, 0, 0, 0.45);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --color-primary: #c9a4de;
-    --color-secondary: #f0b8d0;
-    --color-accent: #f2d16e;
-    --color-ink: #f3eefc;
-    --color-background: #201c2b;
-    --color-surface: #2a2537;
-    --color-surface-variant: #352f42;
-    --color-text: #f3eefc;
-    --color-text-muted: #b6adc8;
-    --color-outline: #544c64;
+    --color-primary: #e2a4ff;
+    --color-primary-strong: #f0c2ff;
+    --color-secondary: #ff9fcd;
+    --color-accent: #ffd873;
+    --color-accent-strong: #ffcb4d;
+    --gradient-brand: linear-gradient(120deg, #ff9fcd 0%, #c987f5 55%, #8f9dff 100%);
+    --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 159, 205, 0.25), transparent 45%),
+      radial-gradient(circle at 85% 15%, rgba(143, 157, 255, 0.25), transparent 45%),
+      radial-gradient(circle at 50% 90%, rgba(255, 216, 115, 0.18), transparent 40%);
+    --color-ink: #fbeeff;
+    --color-background: #241834;
+    --color-surface: #2f2044;
+    --color-surface-variant: #3b2955;
+    --color-text: #fbeeff;
+    --color-text-muted: #c6aee0;
+    --color-outline: #4f3a6b;
+    --shadow-pop: 0 6px 16px rgba(0, 0, 0, 0.35);
+    --shadow-pop-hover: 0 10px 26px rgba(0, 0, 0, 0.45);
   }
 }
 
 :root {
-  --radius-sm: 8px;
-  --radius-md: 14px;
-  --radius-lg: 20px;
+  --radius-sm: 10px;
+  --radius-md: 18px;
+  --radius-lg: 26px;
+  --radius-pill: 999px;
 }
 
 * {
@@ -61,14 +86,15 @@ body,
 
 body {
   margin: 0;
-  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", system-ui, sans-serif;
+  font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic",
+    system-ui, sans-serif;
   background: var(--color-background);
   color: var(--color-text);
   -webkit-tap-highlight-color: transparent;
 }
 
 a {
-  color: var(--color-primary);
+  color: var(--color-primary-strong);
 }
 
 button {
