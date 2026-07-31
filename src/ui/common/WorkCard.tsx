@@ -17,6 +17,12 @@ export function WorkRefRow({ work }: { work: WorkRef }) {
   );
 }
 
+const STATUS_LABEL: Record<string, string> = {
+  completed: "完結",
+  ongoing: "刊行中",
+  unknown: "不明",
+};
+
 function authorLine(work: WorkGenerated): string {
   const authors = work.authorNames.join("・");
   if (work.illustratorNames.length === 0) return authors;
@@ -33,7 +39,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
         <div className="work-card__body">
           <div className="work-card__title">{work.title}</div>
           <div className="work-card__meta">
-            {authorLine(work)} / {work.publisherName} / {work.firstPublishedYear}年〜
+            {authorLine(work)} / {work.publisherName} / {work.firstPublishedYear}年〜 / {STATUS_LABEL[work.status]}
           </div>
           {work.awardSummaries.length > 0 && (
             <div className="work-card__awards">

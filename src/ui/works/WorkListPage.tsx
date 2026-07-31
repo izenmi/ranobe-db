@@ -5,11 +5,18 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 
+const STATUS_OPTIONS: { value: string; label: string }[] = [
+  { value: "completed", label: "完結" },
+  { value: "ongoing", label: "刊行中" },
+  { value: "unknown", label: "不明" },
+];
+
 export function WorkListPage() {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
+  const status = params.get("status") ?? "";
 
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
@@ -25,9 +32,10 @@ export function WorkListPage() {
       }
       if (themeId && !w.themeIds.includes(themeId)) return false;
       if (publisherId && w.publisherId !== publisherId) return false;
+      if (status && w.status !== status) return false;
       return true;
     });
-  }, [worksState, q, themeId, publisherId]);
+  }, [worksState, q, themeId, publisherId, status]);
 
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
@@ -67,6 +75,14 @@ export function WorkListPage() {
             ))}
           </select>
         )}
+        <select value={status} onChange={(e) => updateParam("status", e.target.value)}>
+          <option value="">完結状況で絞り込み</option>
+          {STATUS_OPTIONS.map((s) => (
+            <option value={s.value} key={s.value}>
+              {s.label}
+            </option>
+          ))}
+        </select>
       </div>
 
       {worksState.status === "loading" && <Loading />}

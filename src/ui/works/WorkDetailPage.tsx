@@ -36,8 +36,24 @@ export function WorkDetailPage() {
             <div className="work-card__body">
               <h1>{state.data.title}</h1>
               <p className="page-subtitle">
-                {state.data.authorNames.join("・")}
-                {state.data.illustratorNames.length > 0 && `(イラスト: ${state.data.illustratorNames.join("・")})`}
+                {state.data.authorIds.map((authorId, i) => (
+                  <span key={authorId}>
+                    {i > 0 && "・"}
+                    <Link to={`/authors/${authorId}`}>{state.data!.authorNames[i]}</Link>
+                  </span>
+                ))}
+                {state.data.illustratorIds.length > 0 && (
+                  <>
+                    (イラスト:{" "}
+                    {state.data.illustratorIds.map((illustratorId, i) => (
+                      <span key={illustratorId}>
+                        {i > 0 && "・"}
+                        <Link to={`/illustrators/${illustratorId}`}>{state.data!.illustratorNames[i]}</Link>
+                      </span>
+                    ))}
+                    )
+                  </>
+                )}
               </p>
               <p className="page-subtitle">
                 <Link to={`/publishers/${state.data.publisherId}`}>{state.data.publisherName}</Link>
