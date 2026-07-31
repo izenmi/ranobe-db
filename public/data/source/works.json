@@ -48,7 +48,7 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "vrmmo",
-      "dungeon",
+      "death-game",
       "ken-to-mahou",
       "battle-action",
       "romance"
@@ -172,6 +172,7 @@
     "themeIds": [
       "isekai-fantasy",
       "time-travel",
+      "dark-fantasy",
       "mahou",
       "romance",
       "battle-action"
@@ -258,6 +259,7 @@
     "publisherId": "fujimi-mystery",
     "themeIds": [
       "mystery",
+      "gakuen",
       "romance",
       "adventure",
       "horror",
@@ -287,6 +289,7 @@
     "publisherId": "fujimi-fantasia",
     "themeIds": [
       "harem",
+      "gakuen-ianou",
       "sf",
       "romance",
       "battle-action",
