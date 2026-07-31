@@ -2318,6 +2318,7 @@
     "publisherId": "kono-light-novel-ga-sugoi-bunko",
     "themeIds": [
       "mahou",
+      "dark-fantasy",
       "death-game",
       "battle-action",
       "horror"
@@ -2441,7 +2442,7 @@
       "romance",
       "battle-action",
       "adventure",
-      "alternate-history"
+      "senki"
     ],
     "firstPublishedYear": 2008,
     "latestPublishedYear": 2008,
