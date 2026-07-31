@@ -113,6 +113,75 @@
     "updatedAt": "2026-07-31"
   },
   {
+    "id": "kono-light-novel-ga-sugoi-ranking",
+    "name": "『このライトノベルがすごい!』年間ランキング",
+    "organizer": "宝島社",
+    "description": "宝島社の年鑑ムック『このライトノベルがすごい!』が読者投票で選出する年間作品ランキング(文庫部門・単行本部門など)。新人賞である『このライトノベルがすごい!大賞』とは別企画で、既刊の人気作品を対象とする(宝島社出版物自体は集計対象外)。",
+    "firstYear": 2004,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!" },
+    "sourceNote": "Wikipedia日本語版「このライトノベルがすごい!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "minna-de-erabu-best-light-novel",
+    "name": "みんなで選ぶベストラノベ",
+    "organizer": "詳細未確認(ファン主体のWeb投票企画)",
+    "description": "読者投票によりその年のベストライトノベルを選出する企画。2011年の投票総数は1570票と報告されている。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実のみ確認(2026年7月時点)。主催団体・開始年など詳細は未確認のため要追加調査。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ranobe-zuki-shoten-in-taisho",
+    "name": "ラノベ好き書店員大賞",
+    "organizer": "全国書店員有志(運営委員会)",
+    "description": "全国の書店に勤務するライトノベル好きの書店員が、読者に売りたい・読んでほしい作品を投票で選ぶ賞。2012年に発足し2014年まで開催、2019年に一度復活後2020年を最後に休止。",
+    "firstYear": 2012,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラノベ好き書店員大賞" },
+    "sourceNote": "Web検索でWikipedia記事「ラノベ好き書店員大賞」の内容を確認(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "denshi-shoseki-award",
+    "name": "電子書籍アワード",
+    "organizer": "メディアファクトリー(現KADOKAWA)",
+    "description": "2011年開始の『ダ・ヴィンチ電子書籍大賞』が2012年に改称した賞。ライトノベル部門は2013年版から設置されている。",
+    "firstYear": 2011,
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実を確認(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sugoi-japan-award",
+    "name": "SUGOI JAPAN Award",
+    "organizer": "読売新聞社",
+    "description": "アニメ・マンガ・ライトノベル・エンタメ小説の4部門で「日本のすごいコンテンツ」を国民投票により選出する企画。2015年開始。",
+    "firstYear": 2015,
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実を確認(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "bookwalker-shinsaku-ranobe-sousenkyo",
+    "name": "次のヒット作はこれだ!新作ラノベ総選挙",
+    "organizer": "BOOK☆WALKER(KADOKAWA)",
+    "description": "電子書籍ストア「BOOK☆WALKER」の読者投票により「次にヒットしそうな新作ラノベ」を選出する企画。2017年開始。",
+    "firstYear": 2017,
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実を確認(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hontai-taisho",
+    "name": "本屋大賞",
+    "organizer": "本の雑誌社(本屋大賞実行委員会)",
+    "description": "全国の書店員が「いちばん売りたい本」を投票で選ぶ賞。2004年開始。ノミネート作は順位発表もされ、図書館戦争は2007年に5位を獲得。",
+    "firstYear": 2004,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/本屋大賞" },
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
     "id": "seiun-sho",
     "name": "星雲賞",
     "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",

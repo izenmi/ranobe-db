@@ -216,7 +216,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
     },
     "sourceNote": "Wikipedia日本語版「この素晴らしい世界に祝福を!」を参照し独自に要約(2026年7月時点)。既刊巻数は未確認のため未記載。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "文庫部門9位"
+      }
+    ]
   },
   {
     "id": "mahouka-koukou-no-rettousei",
@@ -244,7 +251,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法科高校の劣等生"
     },
     "sourceNote": "Wikipedia日本語版「魔法科高校の劣等生」を参照し独自に要約(2026年7月時点)。巻数は2020年時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "新人部門2位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "2010年代総合ランキング8位"
+      }
+    ]
   },
   {
     "id": "gosick",
@@ -333,7 +352,24 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーゲーム・ノーライフ"
     },
     "sourceNote": "Wikipedia日本語版「ノーゲーム・ノーライフ」を参照し独自に要約(2026年7月時点)。巻数は外伝を含む。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門16位・新作部門2位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "作品部門3位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2013,
+        "result": "第2回2位"
+      }
+    ]
   },
   {
     "id": "oregairu",
@@ -361,7 +397,24 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。"
     },
     "sourceNote": "Wikipedia日本語版「やはり俺の青春ラブコメはまちがっている。」を参照し独自に要約(2026年7月時点)。巻数は完結編「完」までの合算、後継作「新」は含まない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "総合部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2014,
+        "result": "作品部門1位(2014〜2016年版3年連続1位・殿堂入り)"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "第1回ラノベ部門1位"
+      }
+    ]
   },
   {
     "id": "kumo-desu-ga-nanika",
@@ -791,7 +844,24 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者"
     },
     "sourceNote": "Wikipedia日本語版「六花の勇者」を参照し独自に要約(2026年7月時点)。巻数は2016年時点の情報で、以降の続刊状況・完結の有無は未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "インパクト部門6位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2012,
+        "result": "第1回5位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門3位"
+      }
+    ]
   },
   {
     "id": "oda-nobuna-no-yabou",
@@ -820,7 +890,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望"
     },
     "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照し独自に要約(2026年7月時点)。刊行レーベルはGA文庫(1〜10巻)→富士見ファンタジア文庫(全国版、11巻以降)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2013,
+        "result": "ライトノベル部門2位"
+      }
+    ]
   },
   {
     "id": "tantei-wa-mou-shindeiru",
@@ -1043,7 +1120,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者"
     },
     "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2019,
+        "result": "文庫部門2位"
+      }
+    ]
   },
   {
     "id": "hai-to-gensou-no-grimgar",
@@ -1072,7 +1156,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル"
     },
     "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2014,
+        "result": "第3回4位"
+      }
+    ]
   },
   {
     "id": "rokudenashi-majutsu-koushi",
@@ -1323,7 +1414,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜"
     },
     "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照し独自に要約(2026年7月時点)。最新既刊数は未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "新作部門4位"
+      }
+    ]
   },
   {
     "id": "tensei-kizoku-kantei-skill",
@@ -1543,7 +1641,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し"
     },
     "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2018,
+        "result": "1位"
+      }
+    ]
   },
   {
     "id": "sao-alternative-ggo",
@@ -1721,7 +1826,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/サクラダリセット"
     },
     "sourceNote": "Wikipedia日本語版「サクラダリセット」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門9位"
+      }
+    ]
   },
   {
     "id": "soukyuu-no-karma",
@@ -2176,7 +2288,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/妹さえいればいい。"
     },
     "sourceNote": "Wikipedia日本語版「妹さえいればいい。」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "文庫部門10位"
+      }
+    ]
   },
   {
     "id": "kyoukaisenjou-no-horizon",
@@ -2331,7 +2450,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
     },
     "sourceNote": "Wikipedia日本語版「魔法少女育成計画」を参照し独自に要約(2026年7月時点)。既刊巻数は2023年11月時点の情報。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2013,
+        "result": "第2回4位"
+      }
+    ]
   },
   {
     "id": "sabikui-bisco",
@@ -2397,7 +2523,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘員、派遣します!"
     },
     "sourceNote": "Wikipedia日本語版「戦闘員、派遣します!」を参照し独自に要約(2026年7月時点)。既刊巻数は2022年6月時点、完結状況は未確認のため不明とした。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2018,
+        "result": "2位"
+      }
+    ]
   },
   {
     "id": "seiken-tsukai-no-kinjuei-shou",
@@ -2482,7 +2615,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アウトブレイク・カンパニー_萌える侵略者"
     },
     "sourceNote": "Wikipedia日本語版「アウトブレイク・カンパニー_萌える侵略者」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2012,
+        "result": "第1回7位"
+      },
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2014,
+        "result": "ライトノベル部門9位"
+      }
+    ]
   },
   {
     "id": "dansho-no-grimm",
@@ -2537,7 +2682,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベン・トー"
     },
     "sourceNote": "Wikipedia日本語版「ベン・トー」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "新規部門6位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2012,
+        "result": "総合3位(2010年版8位→2011年版5位→2012年版3位と上昇)"
+      }
+    ]
   },
   {
     "id": "majo-no-tabitabi",
@@ -2625,7 +2782,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼なじみが絶対に負けないラブコメ"
     },
     "sourceNote": "Wikipedia日本語版「幼なじみが絶対に負けないラブコメ」を参照し独自に要約(2026年7月時点)。著者は電撃小説大賞での「拾い上げ」デビューで、正式な受賞歴はなし。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "文庫部門総合5位・新作部門2位"
+      }
+    ]
   },
   {
     "id": "kuusen-madoushi-kouhosei-no-kyoukan",
@@ -2714,7 +2878,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴブリンスレイヤー"
     },
     "sourceNote": "Wikipedia日本語版「ゴブリンスレイヤー」を参照し独自に要約(2026年7月時点)。小説版はファンタジア大賞への投稿が三次選考で落選しており、新人賞受賞歴はなし。匿名掲示板でのAA形式連載が原型。既刊巻数は変動するため未記載。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "新作部門1位・文庫部門5位"
+      }
+    ]
   },
   {
     "id": "tenkyou-no-alderamin",
@@ -3195,6 +3366,16 @@
         "awardId": "seiun-sho",
         "year": 2008,
         "result": "第39回日本長編部門受賞"
+      },
+      {
+        "awardId": "hontai-taisho",
+        "year": 2007,
+        "result": "5位"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "エンタメ小説部門1位"
       }
     ]
   },
