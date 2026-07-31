@@ -1599,5 +1599,421 @@
     },
     "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照し独自に要約(2026年7月時点)。既刊数は未確認。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "maoyu-maou-yuusha",
+    "title": "まおゆう魔王勇者",
+    "titleKana": "まおゆうまおうゆうしゃ",
+    "authorIds": [
+      "daidou-mamare"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "ken-to-mahou",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "人類と魔族の長い戦争の果て、決戦の場で相まみえた勇者と魔王。しかし勇者は魔王を倒す代わりに対話を選ぶ。戦争ではなく経済と教育によって世界を変えようとする、異色の国造りファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まおゆう魔王勇者"
+    },
+    "sourceNote": "Wikipedia日本語版「まおゆう魔王勇者」を参照し独自に要約(2026年7月時点)。原型は2009年の2ちゃんねる発即興小説。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gate-jieitai-kano-chi-nite-kaku-tatakaeri",
+    "title": "ゲート 自衛隊 彼の地にて、斯く戦えり",
+    "titleKana": "げーと じえいたい かのちにて、かくたたかえり",
+    "authorIds": [
+      "yanai-takumi"
+    ],
+    "illustratorIds": [
+      "kuroshishi"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "romance",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "東京銀座に突如出現した「門」から異世界の軍勢が現れ、日本を襲撃する。応戦した自衛隊は反撃として門の向こうの異世界へ進駐する。現代兵器と異世界のファンタジー種族が交錯する戦記もの。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり"
+    },
+    "sourceNote": "Wikipedia日本語版「ゲート 自衛隊 彼の地にて、斯く戦えり」を参照し独自に要約(2026年7月時点)。刊行レーベルはアルファポリス内「アルファライト文庫」(文庫版)。原作はWeb小説投稿サイト「Arcadia」。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "rokujouma-no-shinryakusha",
+    "title": "六畳間の侵略者!?",
+    "titleKana": "ろくじょうまのしんりゃくしゃ",
+    "authorIds": [
+      "kensoku"
+    ],
+    "illustratorIds": [
+      "poko"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "sf",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 40,
+    "synopsis": "格安で好条件の下宿部屋に引っ越してきた高校生・孝太郎。しかしその部屋は、異世界・異星・霊界などから来た侵略者たちが次々と目をつける係争地だった。個性豊かなヒロインたちとの同居コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/六畳間の侵略者!?"
+    },
+    "sourceNote": "Wikipedia日本語版「六畳間の侵略者!?」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sakurada-reset",
+    "title": "サクラダリセット",
+    "titleKana": "さくらだりせっと",
+    "authorIds": [
+      "kono-yuu"
+    ],
+    "illustratorIds": [
+      "shiina-yuu"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mystery",
+      "time-travel",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "誰の記憶にも残らない不思議な街サクラダを舞台に、他人の記憶を完全に読み取れる少年と、三日間だけ世界をリセットできる少女が出会う。特殊な「能力」を持つ少年少女たちの青春ミステリ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サクラダリセット"
+    },
+    "sourceNote": "Wikipedia日本語版「サクラダリセット」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "soukyuu-no-karma",
+    "title": "蒼穹のカルマ",
+    "titleKana": "そうきゅうのかるま",
+    "authorIds": [
+      "tachibana-koushi"
+    ],
+    "illustratorIds": [
+      "morisawa-haruyuki"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "空を覆う瘴気に閉ざされた世界で、人々は巨大な塔に築かれた街で暮らしている。瘴気の中でしか戦えない特殊能力者と少女の絆を描く、著者橘公司のデビュー作となったファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2009,
+        "result": "準入選"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼穹のカルマ"
+    },
+    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」を参照し独自に要約(2026年7月時点)。刊行開始年・受賞年はWikipedia本文に明記がなく推定値(要再確認)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gakusen-toshi-asterisk",
+    "title": "学戦都市アスタリスク",
+    "titleKana": "がくせんとしあすたりすく",
+    "authorIds": [
+      "mitsuya-saku-yuu"
+    ],
+    "illustratorIds": [
+      "okiura"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "harem",
+      "sf"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "隕石衝突後に再建された学園都市を舞台に、学生たちが模擬戦「星武祭」で覇を競う。没落した名家の少年が、記憶を失った少女と出会い、頂点を目指していく学園バトルアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/学戦都市アスタリスク"
+    },
+    "sourceNote": "Wikipedia日本語版「学戦都市アスタリスク」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "saredo-tsumibito-wa-ryuu-to-odoru",
+    "title": "されど罪人は竜と踊る",
+    "titleKana": "されどつみびとはりゅうとおどる",
+    "authorIds": [
+      "asai-rabo"
+    ],
+    "illustratorIds": [
+      "miyagi-terui"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "mystery",
+      "mahou"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "魔導の才を金で切り売りする青年ガユスと、竜の力を宿す少女ニケ。彼らが暮らす人工の巨大都市を舞台に、悪徳と欲望渦巻く世界で繰り広げられるダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2002,
+        "result": "奨励賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/されど罪人は竜と踊る"
+    },
+    "sourceNote": "Wikipedia日本語版「されど罪人は竜と踊る」を参照し独自に要約(2026年7月時点)。角川スニーカー文庫版全8巻(2003〜2006年)の後、ガガガ文庫へ移籍し継続。巻数はガガガ文庫版含む。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "otome-game-no-hametsu-flag",
+    "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+    "titleKana": "おとめげーむのはめつふらぐしかないあくやくれいじょうにてんせいしてしまった",
+    "authorIds": [
+      "yamaguchi-satoru"
+    ],
+    "illustratorIds": [
+      "hidaka-nami"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "isekai-tensei",
+      "romance",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "前世でプレイした乙女ゲームの世界に、断罪され破滅する悪役令嬢として転生してしまった少女カタリナ。持ち前の前向きさで、数々の破滅フラグを回避しようと奔走するコメディ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    "sourceNote": "Wikipedia日本語版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "chiyu-mahou-no-machigatta-tsukaikata",
+    "title": "治癒魔法の間違った使い方",
+    "titleKana": "ちゆまほうのまちがったつかいかた",
+    "authorIds": [
+      "kurokata"
+    ],
+    "illustratorIds": [
+      "keg"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "異世界に召喚され、戦闘には不向きとされる回復魔法の使い手として最前線に送られた青年。しかし彼の回復魔法は規格外の力を持っていた。過酷な戦場でのし上がっていく異世界サバイバル。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "awardResults": [
+      {
+        "awardId": "light-bungei-shinjinshou",
+        "year": 2015,
+        "result": "佳作"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/治癒魔法の間違った使い方"
+    },
+    "sourceNote": "Wikipedia日本語版「治癒魔法の間違った使い方」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。巻数はReturnsシリーズ含む。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gaikotsu-kishi-sama",
+    "title": "骸骨騎士様、只今異世界へお出掛け中",
+    "titleKana": "がいこつきしさま、ただいまいせかいへおでかけちゅう",
+    "authorIds": [
+      "hakari-enki"
+    ],
+    "illustratorIds": [
+      "keg"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "comedy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "現実世界で30年間ゲームをプレイし続けた末に死んだ青年が、そのキャラクターである骸骨の姿のまま異世界に転移する。強大な力を隠しながら、のんびりと異世界を旅していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/骸骨騎士様、只今異世界へお出掛け中"
+    },
+    "sourceNote": "Wikipedia日本語版「骸骨騎士様、只今異世界へお出掛け中」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "rebuild-world",
+    "title": "リビルドワールド",
+    "titleKana": "りびるどわーるど",
+    "authorIds": [
+      "nafuse"
+    ],
+    "illustratorIds": [
+      "gin",
+      "waisshu",
+      "cell"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "isekai-fantasy",
+      "sf",
+      "battle-action",
+      "dungeon",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "崩壊した旧世界の遺跡が広がる荒野を舞台に、貧困から抜け出すためハンターとなった少年アキラ。謎の存在アルファの導きを受けながら、危険な遺跡探索で成り上がっていくSFアクション。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "awardResults": [
+      {
+        "awardId": "dengeki-shinbungei-startup-contest",
+        "year": 2018,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド"
+    },
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。カクヨム・小説家になろう両方で連載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tensei-shitara-dai-nana-ouji-datta-node",
+    "title": "転生したら第七王子だったので、気ままに魔術を極めます",
+    "titleKana": "てんせいしたらだいななおうじだったので、きままにまじゅつをきわめます",
+    "authorIds": [
+      "kenkyona-circle"
+    ],
+    "illustratorIds": [
+      "meru"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "転生の際に神様から「魔法の力」を望んだ青年が、王国の第七王子ロイドとして転生する。膨大な魔力を持ちながらも、出世欲より魔術の探求に没頭するマイペースな異世界生活記。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら第七王子だったので、気ままに魔術を極めます"
+    },
+    "sourceNote": "Wikipedia日本語版「転生したら第七王子だったので、気ままに魔術を極めます」を参照し独自に要約(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "haiyore-nyaruko-san",
+    "title": "這いよれ!ニャル子さん",
+    "titleKana": "はいよれ!にゃるこさん",
+    "authorIds": [
+      "sora-manta"
+    ],
+    "illustratorIds": [
+      "kitsunejirushi"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "comedy",
+      "sf",
+      "harem",
+      "horror"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "ある日、平凡な高校生・八坂真尋の家に、クトゥルフ神話をモチーフにした宇宙人少女ニャル子が居候することになる。地球侵略を企む個性豊かな来訪者たちとのドタバタラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2008,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/這いよれ!ニャル子さん"
+    },
+    "sourceNote": "Wikipedia日本語版「這いよれ!ニャル子さん」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。応募時タイトルは『夢見るままに待ちいたり』。",
+    "updatedAt": "2026-07-31"
   }
 ]

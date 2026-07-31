@@ -75,5 +75,23 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/カクヨム" },
     "sourceNote": "Wikipedia日本語版「カクヨム」を参照(2026年7月時点)。開始年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "light-bungei-shinjinshou",
+    "name": "ライト文芸新人賞",
+    "organizer": "KADOKAWA(MFブックス)",
+    "description": "MFブックスが主催する新人賞。「治癒魔法の間違った使い方」などWeb小説発の作品も含めて表彰する。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実を確認(2026年7月時点)。主催・開始年など詳細は未確認のため要追加調査。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "dengeki-shinbungei-startup-contest",
+    "name": "電撃の新文芸スタートアップコンテスト",
+    "organizer": "KADOKAWA(電撃の新文芸)",
+    "description": "電撃の新文芸が主催する新人発掘コンテスト。「リビルドワールド」の受賞歴が確認されている。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で受賞事実を確認(2026年7月時点)。開始年など詳細は未確認のため要追加調査。",
+    "updatedAt": "2026-07-31"
   }
 ]

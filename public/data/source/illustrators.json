@@ -412,5 +412,104 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-" },
     "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "toi8",
+    "name": "toi8",
+    "nameKana": "といえいと",
+    "description": "「まおゆう魔王勇者」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/まおゆう魔王勇者" },
+    "sourceNote": "Wikipedia日本語版「まおゆう魔王勇者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kuroshishi",
+    "name": "黒獅子",
+    "nameKana": "くろじし",
+    "description": "「ゲート 自衛隊 彼の地にて、斯く戦えり」文庫版の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり" },
+    "sourceNote": "Wikipedia日本語版「ゲート 自衛隊 彼の地にて、斯く戦えり」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "poko",
+    "name": "ポコ",
+    "nameKana": "ぽこ",
+    "description": "「六畳間の侵略者!?」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六畳間の侵略者!?" },
+    "sourceNote": "Wikipedia日本語版「六畳間の侵略者!?」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "morisawa-haruyuki",
+    "name": "森沢晴行",
+    "nameKana": "もりさわはるゆき",
+    "description": "「蒼穹のカルマ」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼穹のカルマ" },
+    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "miyagi-terui",
+    "name": "宮城(テルイ)",
+    "nameKana": "みやぎてるい",
+    "description": "「されど罪人は竜と踊る」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/されど罪人は竜と踊る" },
+    "sourceNote": "Wikipedia日本語版「されど罪人は竜と踊る」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hidaka-nami",
+    "name": "ひだかなみ",
+    "nameKana": "ひだかなみ",
+    "description": "「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" },
+    "sourceNote": "Wikipedia日本語版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "keg",
+    "name": "KeG",
+    "nameKana": "けーじー",
+    "description": "「治癒魔法の間違った使い方」「骸骨騎士様、只今異世界へお出掛け中」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/治癒魔法の間違った使い方" },
+    "sourceNote": "Wikipedia日本語版「治癒魔法の間違った使い方」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gin",
+    "name": "吟",
+    "nameKana": "ぎん",
+    "description": "「リビルドワールド」のキャラクターイラストで知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド" },
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "waisshu",
+    "name": "わいっしゅ",
+    "nameKana": "わいっしゅ",
+    "description": "「リビルドワールド」の世界観イラストで知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド" },
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "meru",
+    "name": "メル",
+    "nameKana": "める",
+    "description": "「転生したら第七王子だったので、気ままに魔術を極めます」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら第七王子だったので、気ままに魔術を極めます" },
+    "sourceNote": "Wikipedia日本語版「転生したら第七王子だったので、気ままに魔術を極めます」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "cell",
+    "name": "cell",
+    "nameKana": "せる",
+    "description": "「リビルドワールド」のメカイラストで知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド" },
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

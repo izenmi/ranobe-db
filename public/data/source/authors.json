@@ -448,5 +448,113 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-" },
     "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "daidou-mamare",
+    "name": "橙乃ままれ",
+    "nameKana": "だいどうままれ",
+    "description": "2ちゃんねる発の即興小説「まおゆう魔王勇者」で知られる作家。戦争ではなく経済・教育による国造りを描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/まおゆう魔王勇者" },
+    "sourceNote": "Wikipedia日本語版「まおゆう魔王勇者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yanai-takumi",
+    "name": "柳内たくみ",
+    "nameKana": "やないたくみ",
+    "description": "Web小説投稿サイト「Arcadia」発の「ゲート 自衛隊 彼の地にて、斯く戦えり」で知られる作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり" },
+    "sourceNote": "Wikipedia日本語版「ゲート 自衛隊 彼の地にて、斯く戦えり」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kensoku",
+    "name": "健速",
+    "nameKana": "けんそく",
+    "description": "「六畳間の侵略者!?」で知られる作家。個性豊かな侵略者ヒロインたちの同居コメディを長期連載している。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六畳間の侵略者!?" },
+    "sourceNote": "Wikipedia日本語版「六畳間の侵略者!?」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kono-yuu",
+    "name": "河野裕",
+    "nameKana": "こうのゆう",
+    "description": "「サクラダリセット」で知られる作家。特殊な「能力」を持つ少年少女たちの青春ミステリを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/サクラダリセット" },
+    "sourceNote": "Wikipedia日本語版「サクラダリセット」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mitsuya-saku-yuu",
+    "name": "三屋咲ゆう",
+    "nameKana": "みつやさくゆう",
+    "description": "「学戦都市アスタリスク」で知られる作家。学生たちが模擬戦で覇を競う学園バトルアクションを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/学戦都市アスタリスク" },
+    "sourceNote": "Wikipedia日本語版「学戦都市アスタリスク」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "asai-rabo",
+    "name": "浅井ラボ",
+    "nameKana": "あさいらぼ",
+    "description": "第7回スニーカー大賞〈奨励賞〉を「されど罪人は竜と踊る」で受賞しデビュー。悪徳渦巻く人工都市を舞台にしたダークファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/されど罪人は竜と踊る" },
+    "sourceNote": "Wikipedia日本語版「されど罪人は竜と踊る」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yamaguchi-satoru",
+    "name": "山口悟",
+    "nameKana": "やまぐちさとる",
+    "description": "「小説家になろう」発の「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」で知られる作家。悪役令嬢ジャンルの代表作の一つを生み出した。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" },
+    "sourceNote": "Wikipedia日本語版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kurokata",
+    "name": "くろかた",
+    "nameKana": "くろかた",
+    "description": "第2回ライト文芸新人賞〈佳作〉を「治癒魔法の間違った使い方」で受賞。「小説家になろう」発の作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/治癒魔法の間違った使い方" },
+    "sourceNote": "Wikipedia日本語版「治癒魔法の間違った使い方」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hakari-enki",
+    "name": "秤猿鬼",
+    "nameKana": "はかりえんき",
+    "description": "「小説家になろう」発の「骸骨騎士様、只今異世界へお出掛け中」で知られる作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/骸骨騎士様、只今異世界へお出掛け中" },
+    "sourceNote": "Wikipedia日本語版「骸骨騎士様、只今異世界へお出掛け中」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "nafuse",
+    "name": "ナフセ",
+    "nameKana": "なふせ",
+    "description": "電撃の新文芸スタートアップコンテスト〈大賞〉を「リビルドワールド」で受賞。カクヨム・小説家になろう発の作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド" },
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kenkyona-circle",
+    "name": "謙虚なサークル",
+    "nameKana": "けんきょなさーくる",
+    "description": "「小説家になろう」発の「転生したら第七王子だったので、気ままに魔術を極めます」で知られる作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら第七王子だったので、気ままに魔術を極めます" },
+    "sourceNote": "Wikipedia日本語版「転生したら第七王子だったので、気ままに魔術を極めます」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sora-manta",
+    "name": "逢空万太",
+    "nameKana": "そらまんた",
+    "description": "第1回GA文庫大賞〈優秀賞〉を「這いよれ!ニャル子さん」で受賞しデビュー。クトゥルフ神話をモチーフにしたドタバタラブコメを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/這いよれ!ニャル子さん" },
+    "sourceNote": "Wikipedia日本語版「這いよれ!ニャル子さん」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

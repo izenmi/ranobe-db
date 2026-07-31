@@ -237,5 +237,55 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルファポリス" },
     "sourceNote": "Wikipedia日本語版「アルファポリス」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hj-bunko",
+    "name": "HJ文庫",
+    "nameKana": "えいちじぇいぶんこ",
+    "parentCompany": "ホビージャパン",
+    "description": "ホビージャパンのライトノベルレーベル。「六畳間の侵略者!?」など長期連載の人気シリーズを多く抱える。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫" },
+    "sourceNote": "Wikipedia日本語版「HJ文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ichijinsha-iris",
+    "name": "一迅社文庫アイリス",
+    "nameKana": "いちじんしゃぶんこあいりす",
+    "parentCompany": "一迅社",
+    "description": "女性向けを中心とするライトノベルレーベル。「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」など悪役令嬢ジャンルの代表作を刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/一迅社文庫アイリス" },
+    "sourceNote": "Wikipedia日本語版「一迅社文庫アイリス」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "overlap-novels",
+    "name": "オーバーラップノベルス",
+    "nameKana": "おーばーらっぷのべるす",
+    "parentCompany": "オーバーラップ",
+    "description": "オーバーラップのWeb小説書籍化レーベル。「骸骨騎士様、只今異世界へお出掛け中」などを刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ_(出版社)" },
+    "sourceNote": "Wikipedia日本語版関連項目を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "dengeki-no-shinbungei",
+    "name": "電撃の新文芸",
+    "nameKana": "でんげきのしんぶんげい",
+    "parentCompany": "KADOKAWA",
+    "description": "電撃文庫と同じKADOKAWAが手がけるWeb小説書籍化レーベル。「リビルドワールド」などを刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃文庫" },
+    "sourceNote": "電撃文庫公式サイト内レーベル情報を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kodansha-ranobe-bunko",
+    "name": "講談社ラノベ文庫",
+    "nameKana": "こうだんしゃらのべぶんこ",
+    "parentCompany": "講談社",
+    "description": "講談社のライトノベルレーベル。「転生したら第七王子だったので、気ままに魔術を極めます」などWeb小説発の作品を刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社ラノベ文庫" },
+    "sourceNote": "Wikipedia日本語版「講談社ラノベ文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]
