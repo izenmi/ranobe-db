@@ -1528,6 +1528,7 @@
     "publisherId": "kadokawa-sneaker",
     "themeIds": [
       "isekai-tensei",
+      "dark-fantasy",
       "fukushuu",
       "time-travel",
       "battle-action",
@@ -1647,6 +1648,7 @@
     "publisherId": "alphapolis",
     "themeIds": [
       "isekai-fantasy",
+      "senki",
       "battle-action",
       "romance",
       "adventure",
