@@ -136,5 +136,76 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーダッシュ文庫" },
     "sourceNote": "Wikipedia日本語版「スーパーダッシュ文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kadokawa-shinbungei",
+    "name": "KADOKAWA 新文芸",
+    "nameKana": "かどかわしんぶんげい",
+    "parentCompany": "KADOKAWA",
+    "description": "Web小説を単行本形式で書籍化するKADOKAWAのレーベル群の総称。「陰の実力者になりたくて!」など「小説家になろう」発の作品を多く刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!" },
+    "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照(2026年7月時点)。創刊年は未確認のため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "earth-star-novel",
+    "name": "アース・スターノベル",
+    "nameKana": "あーすすたーのべる",
+    "parentCompany": "アース・スター エンターテイメント",
+    "description": "Web小説書籍化に強いレーベル。「私、能力は平均値でって言ったよね!」など、のんびり系異世界ファンタジーを多く刊行する。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アース・スターノベル" },
+    "sourceNote": "Wikipedia日本語版「アース・スターノベル」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "to-books",
+    "name": "TOブックス",
+    "nameKana": "てぃーおーぶっくす",
+    "parentCompany": "TOブックス",
+    "description": "「本好きの下剋上」の刊行元として知られる出版社。Web小説発の作品を中心に丁寧な装丁で書籍化することで支持を集める。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/TOブックス" },
+    "sourceNote": "Wikipedia日本語版「TOブックス」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "enterbrain",
+    "name": "エンターブレイン",
+    "nameKana": "えんたーぶれいん",
+    "parentCompany": "KADOKAWA(旧エンターブレイン)",
+    "description": "「幼女戦記」「Overlord」などを手がけた出版社。2010年代にKADOKAWAグループへ統合された。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/エンターブレイン" },
+    "sourceNote": "Wikipedia日本語版「エンターブレイン」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "overlap-bunko",
+    "name": "オーバーラップ文庫",
+    "nameKana": "おーばーらっぷぶんこ",
+    "parentCompany": "オーバーラップ",
+    "description": "2013年創刊。「灰と幻想のグリムガル」「ありふれた職業で世界最強」などWeb小説発・異世界ものを中心に刊行する。",
+    "foundedYear": 2013,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ文庫" },
+    "sourceNote": "Wikipedia日本語版「オーバーラップ文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "famitsu-bunko",
+    "name": "ファミ通文庫",
+    "nameKana": "ふぁみつうぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "「賢者の孫」などで知られるレーベル。ゲーム雑誌「ファミ通」を刊行するエンターブレイン系列から生まれた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファミ通文庫" },
+    "sourceNote": "Wikipedia日本語版「ファミ通文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hero-bunko",
+    "name": "ヒーロー文庫",
+    "nameKana": "ひーろーぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "「異世界食堂」などを刊行するレーベル。Web小説発のグルメ・スローライフ系異世界ものを多く手がける。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂" },
+    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

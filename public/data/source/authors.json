@@ -232,5 +232,122 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望" },
     "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "nigojuu",
+    "name": "二語十",
+    "nameKana": "にごじゅう",
+    "description": "第15回MF文庫Jライトノベル新人賞〈最優秀賞〉を「探偵はもう、死んでいる。」で受賞しデビュー。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。" },
+    "sourceNote": "Wikipedia日本語版「探偵はもう、死んでいる。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "aizawa-daisuke",
+    "name": "逢沢大介",
+    "nameKana": "あいざわだいすけ",
+    "description": "「小説家になろう」発の「陰の実力者になりたくて!」で知られる作家。中二病主人公のズレたコメディを描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!" },
+    "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "funa",
+    "name": "FUNA",
+    "nameKana": "ふな",
+    "description": "「小説家になろう」発の「私、能力は平均値でって言ったよね!」で知られる作家。のんびり系異世界ファンタジーを手がける。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!" },
+    "sourceNote": "Wikipedia日本語版「私、能力は平均値でって言ったよね!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "katsuki-miya",
+    "name": "香月美夜",
+    "nameKana": "かづきみや",
+    "description": "「小説家になろう」発の「本好きの下剋上」で知られる作家。本作りに情熱を注ぐ異世界転生譚を丁寧に描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上" },
+    "sourceNote": "Wikipedia日本語版「本好きの下剋上」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "carlo-zen",
+    "name": "カルロ・ゼン",
+    "nameKana": "かるろぜん",
+    "description": "「幼女戦記」で知られる作家。幼女の姿の合理主義者が戦争を生き抜くミリタリーファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記" },
+    "sourceNote": "Wikipedia日本語版「幼女戦記」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "maruyama-kugane",
+    "name": "丸山くがね",
+    "nameKana": "まるやまくがね",
+    "description": "「小説家になろう」発の「Overlord」で知られる作家。VRMMOに取り残されたプレイヤーを主人公にした作品を手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Overlord" },
+    "sourceNote": "Wikipedia日本語版「Overlord」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shuu",
+    "name": "秋",
+    "nameKana": "しゅう",
+    "description": "「魔王学院の不適合者」で知られる作家。転生した魔王が弱体化した時代で無双する学園バトルファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者" },
+    "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "juumonji-ao",
+    "name": "十文字青",
+    "nameKana": "じゅうもんじあお",
+    "description": "「灰と幻想のグリムガル」で知られる作家。派手な力を持たない若者たちの地道なサバイバルを描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル" },
+    "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hitsuji-tarou",
+    "name": "羊太郎",
+    "nameKana": "ひつじたろう",
+    "description": "第26回ファンタジア大賞〈大賞〉を「ロクでなし魔術講師と禁忌教典」で受賞しデビュー。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロクでなし魔術講師と禁忌教典" },
+    "sourceNote": "Wikipedia日本語版「ロクでなし魔術講師と禁忌教典」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yoshioka-tsuyoshi",
+    "name": "吉岡剛",
+    "nameKana": "よしおかつよし",
+    "description": "「小説家になろう」発の「賢者の孫」で知られる作家。規格外の魔法の腕を持つ青年の異世界チートコメディを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫" },
+    "sourceNote": "Wikipedia日本語版「賢者の孫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "inuzuka-jumpei",
+    "name": "犬塚惇平",
+    "nameKana": "いぬづかじゅんぺい",
+    "description": "「異世界食堂」で知られる作家。現代の洋食屋と異世界がつながるグルメ中心の連作短編を手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂" },
+    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shirokome-ryou",
+    "name": "白米良",
+    "nameKana": "しろこめりょう",
+    "description": "「小説家になろう」発の「ありふれた職業で世界最強」で知られる作家。裏切りから這い上がる異世界成り上がり譚を手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強" },
+    "sourceNote": "Wikipedia日本語版「ありふれた職業で世界最強」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tanaka-yuu",
+    "name": "棚架ユウ",
+    "nameKana": "たなかゆう",
+    "description": "「小説家になろう」発の「転生したら剣でした」で知られる作家。人間ではなく剣に転生するという異色の設定を手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした" },
+    "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

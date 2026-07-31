@@ -57,5 +57,14 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫大賞" },
     "sourceNote": "Wikipedia日本語版「GA文庫大賞」を参照(2026年7月時点)。開始年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "net-shousetsu-taisho",
+    "name": "ネット小説大賞",
+    "organizer": "複数出版社共催(詳細未確認)",
+    "description": "Web小説投稿サイト発の作品を対象とした賞。「転生したら剣でした」の受賞歴が確認されている。",
+    "externalLinks": {},
+    "sourceNote": "受賞事実のみWeb検索で確認(2026年7月時点)。主催団体・開始年など詳細情報は未確認のため要追加調査。",
+    "updatedAt": "2026-07-31"
   }
 ]

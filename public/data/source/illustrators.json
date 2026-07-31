@@ -223,5 +223,113 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者" },
     "sourceNote": "Wikipedia日本語版「六花の勇者」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "umibouzu",
+    "name": "うみぼうず",
+    "nameKana": "うみぼうず",
+    "description": "「探偵はもう、死んでいる。」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。" },
+    "sourceNote": "Wikipedia日本語版「探偵はもう、死んでいる。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "touzai",
+    "name": "東西",
+    "nameKana": "とうざい",
+    "description": "「陰の実力者になりたくて!」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!" },
+    "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "agata-itsuki",
+    "name": "亜方逸樹",
+    "nameKana": "あがたいつき",
+    "description": "「私、能力は平均値でって言ったよね!」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!" },
+    "sourceNote": "Wikipedia日本語版「私、能力は平均値でって言ったよね!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shiina-yuu",
+    "name": "椎名優",
+    "nameKana": "しいなゆう",
+    "description": "「本好きの下剋上」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上" },
+    "sourceNote": "Wikipedia日本語版「本好きの下剋上」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shinozuki-shinobu",
+    "name": "篠月しのぶ",
+    "nameKana": "しのづきしのぶ",
+    "description": "「幼女戦記」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記" },
+    "sourceNote": "Wikipedia日本語版「幼女戦記」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "so-bin",
+    "name": "so-bin",
+    "nameKana": "そうびん",
+    "description": "「Overlord」の挿絵で知られるイラストレーター。アインズ・ウール・ゴウンのメンバーたちのデザインを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Overlord" },
+    "sourceNote": "Wikipedia日本語版「Overlord」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shizuma-yoshinori",
+    "name": "しずまよしのり",
+    "nameKana": "しずまよしのり",
+    "description": "「魔王学院の不適合者」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者" },
+    "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shirai-eiri",
+    "name": "白井鋭利",
+    "nameKana": "しらいえいり",
+    "description": "「灰と幻想のグリムガル」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル" },
+    "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kikuchi-seiji",
+    "name": "菊池政治",
+    "nameKana": "きくちせいじ",
+    "description": "「賢者の孫」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫" },
+    "sourceNote": "Wikipedia日本語版「賢者の孫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "enami-katsumi",
+    "name": "エナミカツミ",
+    "nameKana": "えなみかつみ",
+    "description": "「異世界食堂」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂" },
+    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "takaya-ki",
+    "name": "たかやKi",
+    "nameKana": "たかやけー",
+    "description": "「ありふれた職業で世界最強」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強" },
+    "sourceNote": "Wikipedia日本語版「ありふれた職業で世界最強」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ruroo",
+    "name": "るろお",
+    "nameKana": "るろお",
+    "description": "「転生したら剣でした」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした" },
+    "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]
