@@ -2815,5 +2815,261 @@
     },
     "sourceNote": "Wikipedia日本語版「天使の3P!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ロウきゅーぶ!」で電撃小説大賞・銀賞を受賞しデビュー)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "boogiepop-wa-warawanai",
+    "title": "ブギーポップは笑わない",
+    "titleKana": "ぶぎーぽっぷはわらわない",
+    "authorIds": [
+      "kamitono-kouhei"
+    ],
+    "illustratorIds": [
+      "ogata-takeshi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "horror",
+      "sf"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "ongoing",
+    "synopsis": "平凡な女子高生・宮下藤花の内に、「世界の敵」を排除する使命を持つ別人格「ブギーポップ」が現れる。彼女らを含む複数の高校生の視点が交錯しながら、街で起きる失踪事件の真相と、それぞれが抱える悩みや成長が多面的に描かれる学園伝奇作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1997,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブギーポップシリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「ブギーポップシリーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数はシリーズ全体で変動するため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "slayers",
+    "title": "スレイヤーズ",
+    "titleKana": "すれいやーず",
+    "authorIds": [
+      "kamisaka-hajime"
+    ],
+    "illustratorIds": [
+      "araizumi-rui"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "mahou",
+      "battle-action",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "ongoing",
+    "synopsis": "自称「絶世の美少女天才魔道士」リナ=インバースが、相棒ガウリイらと世界各地を旅する痛快コメディファンタジー。腕利きだが金と食に貪欲なリナが騒動に巻き込まれながら成長し、物語が進むにつれて魔族や魔王をめぐる大規模な戦いへと発展していく。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 1989,
+        "result": "準入選"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スレイヤーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「スレイヤーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「ファンタジア長編小説大賞」(現・ファンタジア大賞)。本編は2000年に一区切りしたのち2018年に再開、既刊巻数は変動するため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "baccano",
+    "title": "バッカーノ!",
+    "titleKana": "ばっかーの",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "enami-katsumi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "synopsis": "錬金術師たちが船上の儀式で手に入れた「不死の酒」を軸に、1930年代の禁酒法下のニューヨークを舞台に、ギャング、テロリスト、不死者たちの思惑が絡み合う。時系列を前後させながら多数の登場人物の視点を切り替える群像劇スタイルが特徴。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2002,
+        "result": "金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バッカーノ!"
+    },
+    "sourceNote": "Wikipedia日本語版「バッカーノ!」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数は変動するため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kieli",
+    "title": "キーリ",
+    "titleKana": "きーり",
+    "authorIds": [
+      "kabei-yukako"
+    ],
+    "illustratorIds": [
+      "tagami-shunsuke"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "adventure",
+      "mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "強い霊感を持つ14歳の少女キーリは、寄宿舎学校で神の存在に疑問を抱いている。冬休みに死してなお動く「不死人」の兵士ハーヴェイと、ラジオに宿る幽霊に出会い、彼らの旅に同行することに。様々な死者や不死者との出会いを通じ、生と死の意味を見つめ直していく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2002,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キーリ"
+    },
+    "sourceNote": "Wikipedia日本語版「キーリ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tokyo-ravens",
+    "title": "東京レイヴンズ",
+    "titleKana": "とうきょうれいゔんず",
+    "authorIds": [
+      "azano-kouhei"
+    ],
+    "illustratorIds": [
+      "sumihei"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen-ianou",
+      "battle-action",
+      "mystery"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "unknown",
+    "volumeCount": 21,
+    "synopsis": "東京で頻発する怪異「霊災」に対抗する陰陽師を養成する学校が舞台。かつて才能なしとされていた少年が、親友を失ったことをきっかけに陰陽師を志す。仲間たちと共に事件を追ううち、自身が伝説の陰陽師の転生者であるという運命に巻き込まれていく学園伝奇アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京レイヴンズ"
+    },
+    "sourceNote": "Wikipedia日本語版「東京レイヴンズ」を参照し独自に要約(2026年7月時点)。新人賞受賞歴はなし。既刊21巻(2025年時点)だが、完結・中断いずれの宣言も確認できないため完結状況は不明とした。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "jaku-chara-tomozaki-kun",
+    "title": "弱キャラ友崎くん",
+    "titleKana": "じゃくきゃらともざきくん",
+    "authorIds": [
+      "yaku-yuuki"
+    ],
+    "illustratorIds": [
+      "fly"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "対戦ゲームで日本一の実力を持つ高校生・友崎文也は、人生を「クソゲー」と見なす皮肉屋。オフ会で同ゲームの日本2位である学園の人気者・日南葵と出会い、彼女から「人生というゲームの攻略法」を叩き込まれることに。師弟関係を通じて友崎が少しずつ変わっていく青春ゲーム攻略型ラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弱キャラ友崎くん"
+    },
+    "sourceNote": "Wikipedia日本語版「弱キャラ友崎くん」を参照し独自に要約(2026年7月時点)。受賞時タイトルは『満点飾りのがんばり論!』。既刊巻数は2024年時点の情報で、最新刊が「最終ステージ」と告知されているため近く完結する可能性がある。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "seirei-tsukai-no-blade-dance",
+    "title": "精霊使いの剣舞",
+    "titleKana": "せいれいつかいのぶれいどだんす",
+    "authorIds": [
+      "shirei-yuu"
+    ],
+    "illustratorIds": [
+      "sakura-hanpen"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "battle-action",
+      "harem",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "男性でありながら唯一精霊契約の力を持つ少年カミトが、少女たちを育成する精霊学院に編入する。ヒロインのクレアらとチームを組み、最強の精霊使いを決める大会「精霊剣舞祭」の優勝を目指す中、古の魔王や失われた精霊王をめぐる謎に巻き込まれていく学園バトルファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/精霊使いの剣舞"
+    },
+    "sourceNote": "Wikipedia日本語版「精霊使いの剣舞」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「やってきたよ、ドルイドさん!」でMF文庫Jライトノベル新人賞・佳作を受賞しデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shio-no-machi",
+    "title": "塩の街",
+    "titleKana": "しおのまち",
+    "authorIds": [
+      "arikawa-hiro"
+    ],
+    "illustratorIds": [
+      "shouji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "romance",
+      "post-apocalypse",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "巨大な塩の結晶が降り注ぎ、それに触れた人間が塩の柱と化す「塩害」により東京が崩壊した近未来。妹を失った青年が、身寄りをなくした少女を保護し、二人で肩を寄せ合いながら荒廃した街で暮らし始める。互いへの想いが芽生える中、世界の運命を左右する再会が訪れるSFラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2003,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/塩の街"
+    },
+    "sourceNote": "Wikipedia日本語版「塩の街」を参照し独自に要約(2026年7月時点)。著者名は現表記の「有川ひろ」(旧表記:有川浩)。",
+    "updatedAt": "2026-07-31"
   }
 ]

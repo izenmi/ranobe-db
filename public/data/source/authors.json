@@ -929,5 +929,93 @@
     },
     "sourceNote": "Wikipedia日本語版「夏海公司」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kamitono-kouhei",
+    "name": "上遠野浩平",
+    "nameKana": "かみとのこうへい",
+    "description": "「ブギーポップは笑わない」で知られる作家。第4回電撃ゲーム小説大賞・大賞を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/上遠野浩平"
+    },
+    "sourceNote": "Wikipedia日本語版「上遠野浩平」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kamisaka-hajime",
+    "name": "神坂一",
+    "nameKana": "かみさかはじめ",
+    "description": "「スレイヤーズ」で知られる作家。第1回ファンタジア長編小説大賞・準入選を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神坂一"
+    },
+    "sourceNote": "Wikipedia日本語版「神坂一」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "narita-ryougo",
+    "name": "成田良悟",
+    "nameKana": "なりたりょうご",
+    "description": "「バッカーノ!」「デュラララ!!」で知られる作家。第9回電撃ゲーム小説大賞・金賞を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/成田良悟"
+    },
+    "sourceNote": "Wikipedia日本語版「成田良悟」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kabei-yukako",
+    "name": "壁井ユカコ",
+    "nameKana": "かべいゆかこ",
+    "description": "「キーリ」で知られる作家。第9回電撃ゲーム小説大賞・大賞を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/壁井ユカコ"
+    },
+    "sourceNote": "Wikipedia日本語版「壁井ユカコ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "azano-kouhei",
+    "name": "あざの耕平",
+    "nameKana": "あざのこうへい",
+    "description": "「東京レイヴンズ」で知られる作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あざの耕平"
+    },
+    "sourceNote": "Wikipedia日本語版「あざの耕平」を参照(2026年7月時点)。新人賞受賞歴はなし(ファンタジア長編小説大賞への応募歴はあるが受賞には至っていない)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yaku-yuuki",
+    "name": "屋久ユウキ",
+    "nameKana": "やくゆうき",
+    "description": "「弱キャラ友崎くん」で知られる作家。第10回小学館ライトノベル大賞・優秀賞を受賞しデビューした(受賞時タイトルは『満点飾りのがんばり論!』)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/屋久ユウキ"
+    },
+    "sourceNote": "Wikipedia日本語版「屋久ユウキ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shirei-yuu",
+    "name": "志瑞祐",
+    "nameKana": "しれいゆう",
+    "description": "「精霊使いの剣舞」で知られる作家。別作品「やってきたよ、ドルイドさん!」で第4回MF文庫Jライトノベル新人賞・佳作を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/志瑞祐"
+    },
+    "sourceNote": "Wikipedia日本語版「志瑞祐」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "arikawa-hiro",
+    "name": "有川ひろ",
+    "nameKana": "ありかわひろ",
+    "description": "「塩の街」で知られる作家(旧表記:有川浩、2019年に改名)。第10回電撃ゲーム小説大賞・大賞を受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/有川ひろ"
+    },
+    "sourceNote": "Wikipedia日本語版「有川ひろ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

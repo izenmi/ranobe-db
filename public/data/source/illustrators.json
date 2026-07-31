@@ -377,11 +377,11 @@
     "id": "enami-katsumi",
     "name": "エナミカツミ",
     "nameKana": "えなみかつみ",
-    "description": "「異世界食堂」の挿絵で知られるイラストレーター。",
+    "description": "「異世界食堂」「バッカーノ!」の挿絵で知られるイラストレーター。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂"
     },
-    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「異世界食堂」「バッカーノ!」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
   {
@@ -840,6 +840,69 @@
     "description": "「なれる!SE」のイラストを手がけるイラストレーター。",
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「なれる!SE」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ogata-takeshi",
+    "name": "緒方剛志",
+    "nameKana": "おがたたけし",
+    "description": "「ブギーポップは笑わない」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ブギーポップシリーズ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "araizumi-rui",
+    "name": "あらいずみるい",
+    "nameKana": "あらいずみるい",
+    "description": "「スレイヤーズ」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「スレイヤーズ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tagami-shunsuke",
+    "name": "田上俊介",
+    "nameKana": "たがみしゅんすけ",
+    "description": "「キーリ」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「キーリ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sumihei",
+    "name": "すみ兵",
+    "nameKana": "すみへい",
+    "description": "「東京レイヴンズ」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「東京レイヴンズ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fly",
+    "name": "フライ",
+    "nameKana": "ふらい",
+    "description": "「弱キャラ友崎くん」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「弱キャラ友崎くん」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sakura-hanpen",
+    "name": "桜はんぺん",
+    "nameKana": "さくらはんぺん",
+    "description": "「精霊使いの剣舞」(1〜13巻)のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「精霊使いの剣舞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shouji",
+    "name": "昭次",
+    "nameKana": "しょうじ",
+    "description": "「塩の街」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「塩の街」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   }
 ]
