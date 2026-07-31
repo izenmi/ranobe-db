@@ -261,8 +261,7 @@ h1 {
 .home-hero h1 {
   font-size: 2.2rem;
   margin: 0;
-  color: var(--color-primary-strong);
-  text-shadow: 3px 3px 0 var(--color-blue);
+  color: var(--color-blue-deep);
   letter-spacing: 0.03em;
 }
 
