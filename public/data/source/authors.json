@@ -349,5 +349,104 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした" },
     "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "rifujin-na-magonote",
+    "name": "理不尽な孫の手",
+    "nameKana": "りふじんなまごのて",
+    "description": "「小説家になろう」発の「無職転生」で知られる作家。異世界転生ジャンルの代表作の一つを生み出した。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生" },
+    "sourceNote": "Wikipedia日本語版「無職転生」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fuyuhara-patora",
+    "name": "冬原パトラ",
+    "nameKana": "ふゆはらぱとら",
+    "description": "「異世界はスマートフォンとともに。」で知られる作家。スマートフォンを持ったまま転生する異世界コメディを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界はスマートフォンとともに。" },
+    "sourceNote": "Wikipedia日本語版「異世界はスマートフォンとともに。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "toba-tooru",
+    "name": "鳥羽徹",
+    "nameKana": "とばとおる",
+    "description": "「天才王子の赤字国家再生術〜そうだ、売国しよう〜」で知られる作家。経済・政治の駆け引きを軸にした異色のファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜" },
+    "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "miraijin-a",
+    "name": "未来人A",
+    "nameKana": "みらいじんえー",
+    "description": "「小説家になろう」発の「転生貴族、鑑定スキルで成り上がる」で知られる作家。内政・鑑定要素の強い異世界ファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜" },
+    "sourceNote": "Wikipedia日本語版「転生貴族、鑑定スキルで成り上がる」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kanagiri-kogitsune",
+    "name": "金斬児狐",
+    "nameKana": "かなぎりこぎつね",
+    "description": "「小説家になろう」発の「Re:Monster」で知られる作家。最弱モンスターに転生した主人公が力を得ていく弱肉強食の物語を手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:Monster" },
+    "sourceNote": "Wikipedia日本語版「Re:Monster」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "itsuki-mizuho",
+    "name": "いつきみずほ",
+    "nameKana": "いつきみずほ",
+    "description": "「新米錬金術師の店舗経営」で知られる作家。異世界での店舗経営とスローライフを描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米錬金術師の店舗経営" },
+    "sourceNote": "Wikipedia日本語版「新米錬金術師の店舗経営」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kamishiro-kyousuke",
+    "name": "紙城境介",
+    "nameKana": "かみしろきょうすけ",
+    "description": "第3回カクヨムWeb小説コンテスト〈ラブコメ部門・大賞〉を「継母の連れ子が元カノだった」で受賞。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/継母の連れ子が元カノだった" },
+    "sourceNote": "Wikipedia日本語版「継母の連れ子が元カノだった」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "aina-hiro",
+    "name": "愛七ひろ",
+    "nameKana": "あいなひろ",
+    "description": "「小説家になろう」発の「デスマーチからはじまる異世界狂想曲」で知られる作家。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲" },
+    "sourceNote": "Wikipedia日本語版「デスマーチからはじまる異世界狂想曲」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yuu-mikan",
+    "name": "夕蜜柑",
+    "nameKana": "ゆうみかん",
+    "description": "「痛いのは嫌なので防御力に極振りしたいと思います。」で知られる作家。VRMMOを舞台にした実況風異世界ファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/痛いのは嫌なので防御力に極振りしたいと思います。" },
+    "sourceNote": "Wikipedia日本語版「痛いのは嫌なので防御力に極振りしたいと思います。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tsukiyo-rui",
+    "name": "月夜涙",
+    "nameKana": "つきよるい",
+    "description": "「回復術士のやり直し」で知られる作家。虐げられた過去への復讐を軸にした異世界ファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し" },
+    "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "asato-asato",
+    "name": "安里アサト",
+    "nameKana": "あさとあさと",
+    "description": "第23回電撃小説大賞〈大賞〉を「86-エイティシックス-」で受賞しデビュー。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-" },
+    "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

@@ -331,5 +331,86 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした" },
     "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shirotaka",
+    "name": "シロタカ",
+    "nameKana": "しろたか",
+    "description": "「無職転生」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生" },
+    "sourceNote": "Wikipedia日本語版「無職転生」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "falmaro",
+    "name": "ファルまろ",
+    "nameKana": "ふぁるまろ",
+    "description": "「天才王子の赤字国家再生術〜そうだ、売国しよう〜」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜" },
+    "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "jimmy",
+    "name": "jimmy",
+    "nameKana": "じみー",
+    "description": "「転生貴族、鑑定スキルで成り上がる」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜" },
+    "sourceNote": "Wikipedia日本語版「転生貴族、鑑定スキルで成り上がる」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yamaada",
+    "name": "ヤマーダ",
+    "nameKana": "やまーだ",
+    "description": "「Re:Monster」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:Monster" },
+    "sourceNote": "Wikipedia日本語版「Re:Monster」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fuumi",
+    "name": "ふーみ",
+    "nameKana": "ふーみ",
+    "description": "「新米錬金術師の店舗経営」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米錬金術師の店舗経営" },
+    "sourceNote": "Wikipedia日本語版「新米錬金術師の店舗経営」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shri",
+    "name": "shri",
+    "nameKana": "しゅり",
+    "description": "「デスマーチからはじまる異世界狂想曲」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲" },
+    "sourceNote": "Wikipedia日本語版「デスマーチからはじまる異世界狂想曲」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kitsunejirushi",
+    "name": "狐印",
+    "nameKana": "きつねじるし",
+    "description": "「痛いのは嫌なので防御力に極振りしたいと思います。」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/痛いのは嫌なので防御力に極振りしたいと思います。" },
+    "sourceNote": "Wikipedia日本語版「痛いのは嫌なので防御力に極振りしたいと思います。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shiokonbu",
+    "name": "しおこんぶ",
+    "nameKana": "しおこんぶ",
+    "description": "「回復術士のやり直し」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し" },
+    "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shirabi",
+    "name": "しらび",
+    "nameKana": "しらび",
+    "description": "「86-エイティシックス-」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-" },
+    "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

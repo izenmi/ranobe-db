@@ -66,5 +66,14 @@
     "externalLinks": {},
     "sourceNote": "受賞事実のみWeb検索で確認(2026年7月時点)。主催団体・開始年など詳細情報は未確認のため要追加調査。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kakuyomu-contest",
+    "name": "カクヨムWeb小説コンテスト",
+    "organizer": "KADOKAWA(カクヨム)",
+    "description": "小説投稿サイト「カクヨム」が主催するコンテスト。ジャンルごとの部門があり、大賞受賞作は書籍化される。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/カクヨム" },
+    "sourceNote": "Wikipedia日本語版「カクヨム」を参照(2026年7月時点)。開始年は未確認のため未記載。",
+    "updatedAt": "2026-07-31"
   }
 ]
