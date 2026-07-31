@@ -91,9 +91,11 @@ export function WorkListPage() {
         <>
           <p className="page-subtitle">{filtered.length}件</p>
           {filtered.length === 0 && <EmptyState />}
-          {filtered.map((w) => (
-            <WorkCard work={w} key={w.id} />
-          ))}
+          <div className="work-grid">
+            {filtered.map((w) => (
+              <WorkCard work={w} key={w.id} />
+            ))}
+          </div>
         </>
       )}
     </div>

@@ -1,5 +1,5 @@
 .page {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 14px 20px 32px;
 }
@@ -12,7 +12,7 @@
 }
 
 .top-nav__inner {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 8px 20px;
   display: flex;
@@ -147,6 +147,15 @@ h1 {
 
 /* ---- Work list rows ---- */
 
+/* Two (or more, on very wide screens) columns instead of a single stacked column — a lone
+   column left a lot of unused horizontal space on desktop widths. */
+.work-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  gap: 6px;
+  align-items: start;
+}
+
 .work-card {
   padding: 8px 10px;
   border-radius: var(--radius-sm);
@@ -154,6 +163,10 @@ h1 {
   border: 1px solid var(--color-outline);
   color: var(--color-text);
   margin-bottom: 5px;
+}
+
+.work-grid .work-card {
+  margin-bottom: 0;
 }
 
 .work-card:hover {
