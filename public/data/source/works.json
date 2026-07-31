@@ -3071,5 +3071,139 @@
     },
     "sourceNote": "Wikipedia日本語版「塩の街」を参照し独自に要約(2026年7月時点)。著者名は現表記の「有川ひろ」(旧表記:有川浩)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "durarara",
+    "title": "デュラララ!!",
+    "titleKana": "でゅらられ",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "東京・池袋を舞台に、非日常への憧れを抱く転校生とその周辺の人々が織りなす群像劇。首なしライダーの都市伝説やネット発のギャング集団、妖しい刀など複数の事件・存在が絡み合いながら進行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュラララ!!"
+    },
+    "sourceNote": "Wikipedia日本語版「デュラララ!!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「バッカーノ!」でデビュー)。第一部(全13巻)を基準とし、続編「デュラララ!!SH」は含めていない。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "iriya-no-sora-ufo-no-natsu",
+    "title": "イリヤの空、UFOの夏",
+    "titleKana": "いりやのそら、ゆーふぉーのなつ",
+    "authorIds": [
+      "akiyama-mizuhito"
+    ],
+    "illustratorIds": [
+      "komato-eeji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "夏休み最後の夜、UFO探査に熱を上げる中学生が学校プールで謎の少女と出会う。少女は翌日クラスに転入してくるが、腕に埋め込まれた球体や頻繁な鼻血など多くの秘密を抱えており、やがて彼女が異星体との戦闘機のパイロットであることが明らかになっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏"
+    },
+    "sourceNote": "Wikipedia日本語版「イリヤの空、UFOの夏」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ブラックロッド」でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hanbun-no-tsuki-ga-noboru-sora",
+    "title": "半分の月がのぼる空",
+    "titleKana": "はんぶんのつきがのぼるそら",
+    "authorIds": [
+      "hashimoto-tsumugu"
+    ],
+    "illustratorIds": [
+      "yamamoto-keiji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "肝炎で入院した高校生・裕一が、同じ病院に入院する我儘な少女・里香と出会う。心臓病を患い、いつか終わりが来る里香との日々を通じて、生きることの意味を見つめ直していく恋愛小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/半分の月がのぼる空"
+    },
+    "sourceNote": "Wikipedia日本語版「半分の月がのぼる空」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「猫目狩り」で電撃ゲーム小説大賞・金賞を受賞しデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "toshokan-sensou",
+    "title": "図書館戦争",
+    "titleKana": "としょかんせんそう",
+    "authorIds": [
+      "arikawa-hiro"
+    ],
+    "illustratorIds": [
+      "adabana-sukumo"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "sf",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "検閲を強行するメディア良化法が敷かれた社会で、図書館の自由を守るために設立された防衛組織「図書隊」。高校時代に検閲から本を守ってくれた“王子様”に憧れて入隊した笠原郁が、厳格な指導教官のもとで訓練を積み、仲間とともに検閲側との攻防に身を投じていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/図書館戦争"
+    },
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「塩の街」で電撃小説大賞・大賞を受賞しデビュー)。初刊はメディアワークスのハードカバー単行本で、後に角川文庫化。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "missing-kamikakushi-no-monogatari",
+    "title": "Missing 神隠しの物語",
+    "titleKana": "みっしんぐ かみかくしのものがたり",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [
+      "midorikawa-shin"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "房総半島の高校を舞台に、恋愛や人間関係を否定的に語る生徒と関わった者が次々と行方不明になる“神隠し”現象が発生する。文芸部の面々が、民俗学的な怪異や都市伝説を手がかりに、連鎖する怪奇事件の謎に挑んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Missing_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「Missing_(小説)」を参照し独自に要約(2026年7月時点)。著者は本作でデビューしたが、新人賞受賞ではなく短編『夜魔 罪科釣人奇譚』が電撃ゲーム小説大賞の最終選考に残ったことがきっかけの書き下ろしデビューのため、正式な受賞歴としては未記載。",
+    "updatedAt": "2026-07-31"
   }
 ]

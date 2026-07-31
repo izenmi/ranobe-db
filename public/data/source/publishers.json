@@ -297,5 +297,15 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「魔法少女育成計画」を参照(2026年7月時点)。レーベル自体の創刊年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kadokawa-bunko",
+    "name": "角川文庫",
+    "nameKana": "かどかわぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "KADOKAWAの一般文庫レーベル。「図書館戦争」など、メディアワークスのハードカバー単行本として刊行された作品の文庫化を手がける。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川文庫" },
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

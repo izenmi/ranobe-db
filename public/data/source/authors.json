@@ -817,7 +817,7 @@
     "id": "kouda-gakuto",
     "name": "甲田学人",
     "nameKana": "こうだがくと",
-    "description": "「断章のグリム」で知られる作家。2001年『Missing 神隠しの物語』で電撃文庫からデビュー。",
+    "description": "「断章のグリム」「Missing 神隠しの物語」で知られる作家。2001年に『Missing 神隠しの物語』で電撃文庫からデビュー。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/甲田学人"
     },
@@ -1011,11 +1011,33 @@
     "id": "arikawa-hiro",
     "name": "有川ひろ",
     "nameKana": "ありかわひろ",
-    "description": "「塩の街」で知られる作家(旧表記:有川浩、2019年に改名)。第10回電撃ゲーム小説大賞・大賞を受賞しデビューした。",
+    "description": "「塩の街」「図書館戦争」で知られる作家(旧表記:有川浩、2019年に改名)。第10回電撃ゲーム小説大賞・大賞を受賞しデビューした。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/有川ひろ"
     },
     "sourceNote": "Wikipedia日本語版「有川ひろ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "akiyama-mizuhito",
+    "name": "秋山瑞人",
+    "nameKana": "あきやまみずひと",
+    "description": "「イリヤの空、UFOの夏」で知られる作家。デビュー作「ブラックロッド」は電撃ゲーム小説大賞出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋山瑞人"
+    },
+    "sourceNote": "Wikipedia日本語版「秋山瑞人」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hashimoto-tsumugu",
+    "name": "橋本紡",
+    "nameKana": "はしもとつむぐ",
+    "description": "「半分の月がのぼる空」で知られる作家。第4回電撃ゲーム小説大賞・金賞を「猫目狩り」で受賞しデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/橋本紡"
+    },
+    "sourceNote": "Wikipedia日本語版「橋本紡」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   }
 ]

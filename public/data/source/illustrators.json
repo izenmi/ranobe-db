@@ -212,7 +212,7 @@
     "id": "yasuda-suzuhito",
     "name": "ヤスダスズヒト",
     "nameKana": "やすだすずひと",
-    "description": "「ダンジョンに出会いを求めるのは間違っているだろうか」の挿絵で知られるイラストレーター。",
+    "description": "「ダンジョンに出会いを求めるのは間違っているだろうか」「デュラララ!!」の挿絵で知られるイラストレーター。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤスダスズヒト"
     },
@@ -903,6 +903,42 @@
     "description": "「塩の街」のイラストを手がけるイラストレーター。",
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「塩の街」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "komato-eeji",
+    "name": "駒都えーじ",
+    "nameKana": "こまとえーじ",
+    "description": "「イリヤの空、UFOの夏」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「イリヤの空、UFOの夏」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yamamoto-keiji",
+    "name": "山本ケイジ",
+    "nameKana": "やまもとけいじ",
+    "description": "「半分の月がのぼる空」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「半分の月がのぼる空」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "adabana-sukumo",
+    "name": "徒花スクモ",
+    "nameKana": "あだばなすくも",
+    "description": "「図書館戦争」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "midorikawa-shin",
+    "name": "翠川しん",
+    "nameKana": "みどりかわしん",
+    "description": "「Missing 神隠しの物語」(原版)のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「Missing_(小説)」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   }
 ]
