@@ -133,5 +133,104 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件" },
     "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "takemiya-yuyuko",
+    "name": "竹宮ゆゆこ",
+    "nameKana": "たけみやゆゆこ",
+    "description": "「とらドラ!」で知られる作家。屈折した登場人物たちの心情を丁寧に描く青春ラブコメを得意とする。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹宮ゆゆこ" },
+    "sourceNote": "Wikipedia日本語版「竹宮ゆゆこ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "takahashi-yaichirou",
+    "name": "高橋弥七郎",
+    "nameKana": "たかはしやいちろう",
+    "description": "「灼眼のシャナ」で知られる作家。前作『エクスターミネーターA/B』で電撃ゲーム小説大賞・選考委員奨励賞を受賞してデビューした。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋弥七郎" },
+    "sourceNote": "Wikipedia日本語版「高橋弥七郎」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shigusawa-keiichi",
+    "name": "時雨沢恵一",
+    "nameKana": "しぐさわけいいち",
+    "description": "「キノの旅 -the Beautiful World-」で知られる作家。様々な国を旅する主人公を通じ、寓話的な短編を積み重ねる作風が特徴。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/時雨沢恵一" },
+    "sourceNote": "Wikipedia日本語版「時雨沢恵一」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yamaguchi-noboru",
+    "name": "ヤマグチノボル",
+    "nameKana": "やまぐちのぼる",
+    "description": "「ゼロの使い魔」で知られる作家。異世界召喚ものの代表的シリーズを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤマグチノボル" },
+    "sourceNote": "Wikipedia日本語版「ヤマグチノボル」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "oomori-fujino",
+    "name": "大森藤ノ",
+    "nameKana": "おおもりふじの",
+    "description": "第4回GA文庫大賞〈大賞〉を「ダンジョンに出会いを求めるのは間違っているだろうか」で受賞しデビュー。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/大森藤ノ" },
+    "sourceNote": "Wikipedia日本語版「大森藤ノ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fushimi-tsukasa",
+    "name": "伏見つかさ",
+    "nameKana": "ふしみつかさ",
+    "description": "「俺の妹がこんなに可愛いわけがない」で知られる作家。妹萌えブームの先駆けとなったシリーズを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/伏見つかさ" },
+    "sourceNote": "Wikipedia日本語版「伏見つかさ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ishifumi-kazuma",
+    "name": "石踏一榮",
+    "nameKana": "いしふみかずま",
+    "description": "「ハイスクールD×D」で知られる作家。前作『電蜂DENPACHI』でファンタジア長編小説大賞・特別賞を受賞してデビューした。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/石踏一榮" },
+    "sourceNote": "Wikipedia日本語版「石踏一榮」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yuzuru-izuru",
+    "name": "弓弦イズル",
+    "nameKana": "ゆづるいずる",
+    "description": "「IS〈インフィニット・ストラトス〉」で知られる作家。パワードスーツ「IS」を巡る学園バトルを描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/IS〈インフィニット・ストラトス〉" },
+    "sourceNote": "Wikipedia日本語版「IS〈インフィニット・ストラトス〉」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sagara-sou",
+    "name": "さがら総",
+    "nameKana": "さがらそう",
+    "description": "第6回MF文庫Jライトノベル新人賞〈最優秀賞〉を「変態王子と笑わない猫。」で受賞しデビュー。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/変態王子と笑わない猫。" },
+    "sourceNote": "Wikipedia日本語版「変態王子と笑わない猫。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yamagata-ishio",
+    "name": "山形石雄",
+    "nameKana": "やまがたいしお",
+    "description": "「六花の勇者」で知られる作家。異世界に召喚された勇者たちの中に紛れ込んだ「裏切り者」を巡るミステリ要素の強いファンタジーを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者" },
+    "sourceNote": "Wikipedia日本語版「六花の勇者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kasuga-mikage",
+    "name": "春日みかげ",
+    "nameKana": "かすがみかげ",
+    "description": "「織田信奈の野望」で知られる作家。戦国時代の武将たちが美少女として登場するタイムスリップ物のシリーズを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望" },
+    "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

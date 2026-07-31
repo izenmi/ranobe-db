@@ -115,5 +115,26 @@
     },
     "sourceNote": "Wikipedia日本語版「GCノベルズ」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ga-bunko",
+    "name": "GA文庫",
+    "nameKana": "じーえーぶんこ",
+    "parentCompany": "SBクリエイティブ",
+    "description": "「GA文庫大賞」を主催するレーベル。「ダンジョンに出会いを求めるのは間違っているだろうか」など異世界・ダンジョンものの人気作を送り出している。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫" },
+    "sourceNote": "Wikipedia日本語版「GA文庫」を参照(2026年7月時点)。創刊年は情報源により差異があるため未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "super-dash-bunko",
+    "name": "スーパーダッシュ文庫",
+    "nameKana": "すーぱーだっしゅぶんこ",
+    "parentCompany": "集英社",
+    "description": "集英社のライトノベルレーベル。2016年に後継の「ダッシュエックス文庫」へ移行し新刊刊行を終了した。",
+    "foundedYear": 1999,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーダッシュ文庫" },
+    "sourceNote": "Wikipedia日本語版「スーパーダッシュ文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

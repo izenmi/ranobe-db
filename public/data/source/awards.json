@@ -48,5 +48,14 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫Jライトノベル新人賞" },
     "sourceNote": "Wikipedia日本語版「MF文庫Jライトノベル新人賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ga-bunko-taisho",
+    "name": "GA文庫大賞",
+    "organizer": "SBクリエイティブ(GA文庫)",
+    "description": "GA文庫が主催する新人賞。大賞受賞作は書籍化され、「ダンジョンに出会いを求めるのは間違っているだろうか」などのヒット作を輩出した。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫大賞" },
+    "sourceNote": "Wikipedia日本語版「GA文庫大賞」を参照(2026年7月時点)。開始年は未確認のため未記載。",
+    "updatedAt": "2026-07-31"
   }
 ]

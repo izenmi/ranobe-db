@@ -133,5 +133,95 @@
     "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件" },
     "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yasu",
+    "name": "ヤス",
+    "nameKana": "やす",
+    "description": "「とらドラ!」の挿絵で知られるイラストレーター。等身大の高校生らしい表情表現を得意とする。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/とらドラ!" },
+    "sourceNote": "Wikipedia日本語版「とらドラ!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kuroboshi-kouhaku",
+    "name": "黒星紅白",
+    "nameKana": "くろぼしこうはく",
+    "description": "「キノの旅 -the Beautiful World-」の挿絵で知られるイラストレーター。落ち着いた色調の絵柄が特徴。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒星紅白" },
+    "sourceNote": "Wikipedia日本語版「黒星紅白」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "usaduka-eiji",
+    "name": "兎塚エイジ",
+    "nameKana": "うさづかえいじ",
+    "description": "「ゼロの使い魔」の挿絵を手がけるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロの使い魔" },
+    "sourceNote": "Wikipedia日本語版「ゼロの使い魔」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "hima",
+    "name": "HIMA",
+    "nameKana": "ひま",
+    "description": "「アクセル・ワールド」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクセル・ワールド" },
+    "sourceNote": "Wikipedia日本語版「アクセル・ワールド」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yasuda-suzuhito",
+    "name": "ヤスダスズヒト",
+    "nameKana": "やすだすずひと",
+    "description": "「ダンジョンに出会いを求めるのは間違っているだろうか」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤスダスズヒト" },
+    "sourceNote": "Wikipedia日本語版「ヤスダスズヒト」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kanzaki-hiro",
+    "name": "かんざきひろ",
+    "nameKana": "かんざきひろ",
+    "description": "「俺の妹がこんなに可愛いわけがない」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない" },
+    "sourceNote": "Wikipedia日本語版「俺の妹がこんなに可愛いわけがない」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "miyama-zero",
+    "name": "みやま零",
+    "nameKana": "みやまれい",
+    "description": "「ハイスクールD×D」「織田信奈の野望」など複数のシリーズの挿絵を手がけるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/みやま零" },
+    "sourceNote": "Wikipedia日本語版「みやま零」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "okiura",
+    "name": "okiura",
+    "nameKana": "おきうら",
+    "description": "「IS〈インフィニット・ストラトス〉」のMF文庫J版で挿絵を手がけたイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/IS〈インフィニット・ストラトス〉" },
+    "sourceNote": "Wikipedia日本語版「IS〈インフィニット・ストラトス〉」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kantoku",
+    "name": "カントク",
+    "nameKana": "かんとく",
+    "description": "「変態王子と笑わない猫。」の挿絵で知られるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/変態王子と笑わない猫。" },
+    "sourceNote": "Wikipedia日本語版「変態王子と笑わない猫。」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "miyagi",
+    "name": "宮城",
+    "nameKana": "みやぎ",
+    "description": "「六花の勇者」の挿絵を手がけるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者" },
+    "sourceNote": "Wikipedia日本語版「六花の勇者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]
