@@ -805,8 +805,8 @@
     ],
     "publisherId": "ga-bunko",
     "themeIds": [
-      "isekai-fantasy",
       "time-travel",
+      "alternate-history",
       "harem",
       "naisei",
       "battle-action"
@@ -969,8 +969,8 @@
       "isekai-tensei",
       "mahou",
       "battle-action",
-      "sf",
-      "naisei"
+      "senki",
+      "alternate-history"
     ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2023,
@@ -998,6 +998,7 @@
       "isekai-tensei",
       "ken-to-mahou",
       "dungeon",
+      "dark-fantasy",
       "battle-action",
       "naisei"
     ],
