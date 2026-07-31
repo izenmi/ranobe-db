@@ -2468,6 +2468,7 @@
     "publisherId": "kodansha-ranobe-bunko",
     "themeIds": [
       "isekai-fantasy",
+      "naisei",
       "comedy",
       "harem",
       "adventure"
@@ -2610,6 +2611,7 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "seishun-lovecome",
+      "fukushuu",
       "romance",
       "gakuen",
       "comedy"
@@ -2755,6 +2757,7 @@
     "themeIds": [
       "isekai-tensei",
       "mahou",
+      "fukushuu",
       "gakuen",
       "romance",
       "harem"
