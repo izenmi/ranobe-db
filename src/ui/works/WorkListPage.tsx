@@ -19,6 +19,22 @@ const WEB_NOVEL_OPTIONS: { value: string; label: string }[] = [
 
 const PAGE_SIZE = 50;
 
+function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: number; onGoToPage: (page: number) => void }) {
+  return (
+    <div className="pager">
+      <button type="button" disabled={page <= 1} onClick={() => onGoToPage(page - 1)}>
+        前へ
+      </button>
+      <span className="pager__label">
+        {page} / {totalPages}
+      </span>
+      <button type="button" disabled={page >= totalPages} onClick={() => onGoToPage(page + 1)}>
+        次へ
+      </button>
+    </div>
+  );
+}
+
 export function WorkListPage() {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
@@ -126,24 +142,13 @@ export function WorkListPage() {
             {filtered.length}件{totalPages > 1 && `(${page} / ${totalPages}ページ)`}
           </p>
           {filtered.length === 0 && <EmptyState />}
+          {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
           <div className="work-grid">
             {pageItems.map((w) => (
               <WorkCard work={w} key={w.id} />
             ))}
           </div>
-          {totalPages > 1 && (
-            <div className="pager">
-              <button type="button" disabled={page <= 1} onClick={() => goToPage(page - 1)}>
-                前へ
-              </button>
-              <span className="pager__label">
-                {page} / {totalPages}
-              </span>
-              <button type="button" disabled={page >= totalPages} onClick={() => goToPage(page + 1)}>
-                次へ
-              </button>
-            </div>
-          )}
+          {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
         </>
       )}
     </div>

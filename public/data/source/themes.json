@@ -17,5 +17,9 @@
   { "id": "sf", "name": "SF", "description": "科学技術やありえない現象を扱うサイエンスフィクション要素を持つ作品。" },
   { "id": "harem", "name": "ハーレム", "description": "主人公の周囲に複数のヒロインが集まる関係性を描く作品。" },
   { "id": "romance", "name": "恋愛", "description": "男女の恋愛関係が物語の主軸となる作品。" },
-  { "id": "fukushuu", "name": "復讐", "description": "裏切りや不当な扱いへの復讐が物語の動機になる作品。" }
+  { "id": "fukushuu", "name": "復讐", "description": "裏切りや不当な扱いへの復讐が物語の動機になる作品。" },
+  { "id": "comedy", "name": "コメディ", "description": "笑いや軽妙なやり取りが物語の中心にある作品。" },
+  { "id": "battle-action", "name": "バトル", "description": "戦闘・アクションが物語の見どころとなる作品。" },
+  { "id": "naisei", "name": "内政・経済", "description": "国づくりや商売、経済的な駆け引きが物語の軸となる作品。" },
+  { "id": "adventure", "name": "冒険", "description": "旅や探索を通じて未知の土地・出来事に触れていく作品。" }
 ]

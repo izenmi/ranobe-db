@@ -13,7 +13,9 @@
     "themeIds": [
       "gakuen",
       "mystery",
-      "sf"
+      "sf",
+      "comedy",
+      "seishun-lovecome"
     ],
     "firstPublishedYear": 2003,
     "latestPublishedYear": 2024,
@@ -47,7 +49,9 @@
     "themeIds": [
       "vrmmo",
       "dungeon",
-      "ken-to-mahou"
+      "ken-to-mahou",
+      "battle-action",
+      "romance"
     ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2026,
@@ -73,7 +77,10 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "isekai-fantasy",
-      "romance"
+      "romance",
+      "naisei",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2006,
     "latestPublishedYear": 2011,
@@ -106,7 +113,10 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "gakuen-ianou",
-      "mahou"
+      "mahou",
+      "sf",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2004,
     "latestPublishedYear": 2025,
@@ -133,7 +143,9 @@
     "themeIds": [
       "gakuen",
       "robot-mecha",
-      "seishun-lovecome"
+      "seishun-lovecome",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 1998,
     "latestPublishedYear": 2025,
@@ -159,7 +171,10 @@
     "publisherId": "mf-bunko-j",
     "themeIds": [
       "isekai-fantasy",
-      "time-travel"
+      "time-travel",
+      "mahou",
+      "romance",
+      "battle-action"
     ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2026,
@@ -188,7 +203,10 @@
     "publisherId": "kadokawa-sneaker",
     "themeIds": [
       "isekai-fantasy",
-      "harem"
+      "harem",
+      "comedy",
+      "mahou",
+      "adventure"
     ],
     "firstPublishedYear": 2013,
     "status": "ongoing",
@@ -213,7 +231,9 @@
     "themeIds": [
       "gakuen",
       "mahou",
-      "gakuen-ianou"
+      "gakuen-ianou",
+      "battle-action",
+      "sf"
     ],
     "firstPublishedYear": 2011,
     "status": "ongoing",
@@ -238,7 +258,10 @@
     "publisherId": "fujimi-mystery",
     "themeIds": [
       "mystery",
-      "romance"
+      "romance",
+      "adventure",
+      "horror",
+      "comedy"
     ],
     "firstPublishedYear": 2003,
     "latestPublishedYear": 2011,
@@ -265,7 +288,9 @@
     "themeIds": [
       "harem",
       "sf",
-      "romance"
+      "romance",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2011,
     "latestPublishedYear": 2022,
@@ -291,7 +316,10 @@
     "publisherId": "mf-bunko-j",
     "themeIds": [
       "isekai-fantasy",
-      "imouto"
+      "imouto",
+      "comedy",
+      "battle-action",
+      "naisei"
     ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2026,
@@ -317,7 +345,9 @@
     "publisherId": "gagaga-bunko",
     "themeIds": [
       "seishun-lovecome",
-      "gakuen"
+      "gakuen",
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2011,
     "latestPublishedYear": 2021,
@@ -343,7 +373,10 @@
     "publisherId": "kadokawa-books",
     "themeIds": [
       "isekai-tensei",
-      "dungeon"
+      "dungeon",
+      "battle-action",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2022,
@@ -373,7 +406,9 @@
     "themeIds": [
       "isekai-tensei",
       "ken-to-mahou",
-      "fukushuu"
+      "fukushuu",
+      "battle-action",
+      "naisei"
     ],
     "firstPublishedYear": 2013,
     "status": "ongoing",
@@ -401,7 +436,10 @@
     "publisherId": "gc-novels",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "naisei",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2025,
@@ -431,7 +469,8 @@
     "themeIds": [
       "gakuen",
       "seishun-lovecome",
-      "romance"
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2006,
     "latestPublishedYear": 2010,
@@ -457,7 +496,10 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "gakuen-ianou",
-      "seishun-lovecome"
+      "seishun-lovecome",
+      "battle-action",
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2002,
     "latestPublishedYear": 2011,
@@ -482,7 +524,11 @@
     ],
     "publisherId": "dengeki-bunko",
     "themeIds": [
-      "isekai-fantasy"
+      "isekai-fantasy",
+      "adventure",
+      "sf",
+      "mystery",
+      "comedy"
     ],
     "firstPublishedYear": 2000,
     "latestPublishedYear": 2025,
@@ -509,7 +555,9 @@
     "themeIds": [
       "isekai-fantasy",
       "ken-to-mahou",
-      "romance"
+      "romance",
+      "comedy",
+      "harem"
     ],
     "firstPublishedYear": 2004,
     "latestPublishedYear": 2017,
@@ -535,7 +583,10 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "vrmmo",
-      "sf"
+      "sf",
+      "battle-action",
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2025,
@@ -569,7 +620,9 @@
     "themeIds": [
       "dungeon",
       "ken-to-mahou",
-      "harem"
+      "harem",
+      "battle-action",
+      "adventure"
     ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2025,
@@ -603,7 +656,9 @@
     "themeIds": [
       "imouto",
       "seishun-lovecome",
-      "gakuen"
+      "gakuen",
+      "comedy",
+      "romance"
     ],
     "firstPublishedYear": 2008,
     "latestPublishedYear": 2021,
@@ -630,7 +685,9 @@
     "themeIds": [
       "gakuen-ianou",
       "harem",
-      "mahou"
+      "mahou",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2008,
     "latestPublishedYear": 2018,
@@ -657,7 +714,9 @@
     "themeIds": [
       "gakuen",
       "robot-mecha",
-      "harem"
+      "harem",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2009,
     "status": "unknown",
@@ -682,7 +741,8 @@
     "themeIds": [
       "gakuen",
       "seishun-lovecome",
-      "romance"
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2010,
     "latestPublishedYear": 2019,
@@ -716,7 +776,9 @@
     "themeIds": [
       "isekai-fantasy",
       "ken-to-mahou",
-      "mystery"
+      "mystery",
+      "battle-action",
+      "adventure"
     ],
     "firstPublishedYear": 2011,
     "status": "unknown",
@@ -742,7 +804,9 @@
     "themeIds": [
       "isekai-fantasy",
       "time-travel",
-      "harem"
+      "harem",
+      "naisei",
+      "battle-action"
     ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2019,
@@ -768,7 +832,10 @@
     "publisherId": "mf-bunko-j",
     "themeIds": [
       "mystery",
-      "harem"
+      "harem",
+      "adventure",
+      "comedy",
+      "romance"
     ],
     "firstPublishedYear": 2019,
     "latestPublishedYear": 2025,
@@ -801,7 +868,10 @@
     "publisherId": "kadokawa-shinbungei",
     "themeIds": [
       "isekai-fantasy",
-      "ken-to-mahou"
+      "ken-to-mahou",
+      "comedy",
+      "battle-action",
+      "harem"
     ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2026,
@@ -830,7 +900,10 @@
     "publisherId": "earth-star-novel",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "comedy",
+      "adventure",
+      "harem"
     ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2025,
@@ -859,7 +932,10 @@
     "publisherId": "to-books",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "naisei",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2023,
@@ -888,7 +964,10 @@
     "publisherId": "enterbrain",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "battle-action",
+      "sf",
+      "naisei"
     ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2023,
@@ -915,7 +994,9 @@
     "themeIds": [
       "isekai-tensei",
       "ken-to-mahou",
-      "dungeon"
+      "dungeon",
+      "battle-action",
+      "naisei"
     ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2022,
@@ -945,7 +1026,9 @@
     "themeIds": [
       "gakuen",
       "mahou",
-      "isekai-tensei"
+      "isekai-tensei",
+      "battle-action",
+      "harem"
     ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2025,
@@ -971,7 +1054,10 @@
     "publisherId": "overlap-bunko",
     "themeIds": [
       "isekai-fantasy",
-      "ken-to-mahou"
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "romance"
     ],
     "firstPublishedYear": 2013,
     "latestPublishedYear": 2025,
@@ -998,7 +1084,9 @@
     "themeIds": [
       "gakuen",
       "mahou",
-      "gakuen-ianou"
+      "gakuen-ianou",
+      "mystery",
+      "battle-action"
     ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2023,
@@ -1031,7 +1119,10 @@
     "publisherId": "famitsu-bunko",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "gakuen",
+      "comedy",
+      "harem"
     ],
     "firstPublishedYear": 2015,
     "status": "ongoing",
@@ -1058,7 +1149,9 @@
     ],
     "publisherId": "hero-bunko",
     "themeIds": [
-      "isekai-fantasy"
+      "isekai-fantasy",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2015,
     "status": "ongoing",
@@ -1084,7 +1177,9 @@
     "themeIds": [
       "isekai-tensei",
       "dungeon",
-      "fukushuu"
+      "fukushuu",
+      "battle-action",
+      "harem"
     ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2024,
@@ -1113,7 +1208,10 @@
     "publisherId": "gc-novels",
     "themeIds": [
       "isekai-tensei",
-      "ken-to-mahou"
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "comedy"
     ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2025,
@@ -1149,7 +1247,10 @@
     "publisherId": "mf-books",
     "themeIds": [
       "isekai-tensei",
-      "mahou"
+      "mahou",
+      "romance",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2022,
@@ -1178,7 +1279,10 @@
     "publisherId": "hj-novels",
     "themeIds": [
       "isekai-fantasy",
-      "harem"
+      "harem",
+      "comedy",
+      "mahou",
+      "adventure"
     ],
     "firstPublishedYear": 2015,
     "latestPublishedYear": 2026,
@@ -1203,7 +1307,9 @@
     ],
     "publisherId": "ga-bunko",
     "themeIds": [
-      "isekai-fantasy"
+      "isekai-fantasy",
+      "naisei",
+      "comedy"
     ],
     "firstPublishedYear": 2018,
     "status": "ongoing",
@@ -1228,7 +1334,10 @@
     "publisherId": "k-ranobe-books",
     "themeIds": [
       "isekai-tensei",
-      "ken-to-mahou"
+      "ken-to-mahou",
+      "naisei",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2020,
     "status": "ongoing",
@@ -1256,7 +1365,10 @@
     "publisherId": "alphapolis",
     "themeIds": [
       "isekai-tensei",
-      "dungeon"
+      "dungeon",
+      "battle-action",
+      "naisei",
+      "comedy"
     ],
     "firstPublishedYear": 2012,
     "latestPublishedYear": 2024,
@@ -1284,7 +1396,10 @@
     ],
     "publisherId": "fujimi-fantasia",
     "themeIds": [
-      "isekai-fantasy"
+      "isekai-fantasy",
+      "naisei",
+      "comedy",
+      "adventure"
     ],
     "firstPublishedYear": 2019,
     "status": "ongoing",
@@ -1310,7 +1425,8 @@
     "themeIds": [
       "seishun-lovecome",
       "gakuen",
-      "romance"
+      "romance",
+      "comedy"
     ],
     "firstPublishedYear": 2018,
     "latestPublishedYear": 2025,
@@ -1346,7 +1462,10 @@
     "publisherId": "kadokawa-books",
     "themeIds": [
       "isekai-tensei",
-      "harem"
+      "harem",
+      "battle-action",
+      "adventure",
+      "comedy"
     ],
     "firstPublishedYear": 2014,
     "latestPublishedYear": 2026,
@@ -1375,7 +1494,10 @@
     "publisherId": "kadokawa-books",
     "themeIds": [
       "vrmmo",
-      "dungeon"
+      "dungeon",
+      "comedy",
+      "battle-action",
+      "adventure"
     ],
     "firstPublishedYear": 2016,
     "latestPublishedYear": 2026,
@@ -1401,7 +1523,10 @@
     "publisherId": "kadokawa-sneaker",
     "themeIds": [
       "isekai-tensei",
-      "fukushuu"
+      "fukushuu",
+      "time-travel",
+      "battle-action",
+      "mahou"
     ],
     "firstPublishedYear": 2017,
     "latestPublishedYear": 2024,
@@ -1427,7 +1552,9 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "vrmmo",
-      "sf"
+      "sf",
+      "battle-action",
+      "romance"
     ],
     "firstPublishedYear": 2014,
     "status": "ongoing",
@@ -1453,7 +1580,8 @@
     "themeIds": [
       "robot-mecha",
       "sf",
-      "romance"
+      "romance",
+      "battle-action"
     ],
     "firstPublishedYear": 2017,
     "status": "ongoing",
