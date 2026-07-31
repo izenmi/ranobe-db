@@ -1,12 +1,45 @@
-import { useParams } from "react-router-dom";
+import { useMemo } from "react";
+import { useParams, useSearchParams } from "react-router-dom";
 import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 
+const STATUS_OPTIONS: { value: string; label: string }[] = [
+  { value: "completed", label: "完結" },
+  { value: "ongoing", label: "刊行中" },
+  { value: "unknown", label: "不明" },
+];
+
+const WEB_NOVEL_OPTIONS: { value: string; label: string }[] = [
+  { value: "narou", label: "小説家になろう発" },
+  { value: "kakuyomu", label: "カクヨム発" },
+  { value: "none", label: "書き下ろし(Web小説以外)" },
+];
+
 export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTheme(id!), [id]);
+  const [params, setParams] = useSearchParams();
+  const status = params.get("status") ?? "";
+  const webNovel = params.get("webNovel") ?? "";
+
+  const filtered = useMemo(() => {
+    if (state.status !== "ready" || !state.data) return [];
+    return state.data.works.filter((w) => {
+      if (status && w.status !== status) return false;
+      if (webNovel === "none" && w.webNovelSource) return false;
+      if ((webNovel === "narou" || webNovel === "kakuyomu") && w.webNovelSource?.platform !== webNovel) return false;
+      return true;
+    });
+  }, [state, status, webNovel]);
+
+  function updateParam(key: string, value: string) {
+    const next = new URLSearchParams(params);
+    if (value) next.set(key, value);
+    else next.delete(key);
+    setParams(next, { replace: true });
+  }
 
   return (
     <div className="page">
@@ -18,8 +51,27 @@ export function ThemeDetailPage() {
           <h1>{state.data.name}</h1>
           <p className="page-subtitle">{state.data.workCount}作品</p>
           {state.data.description && <p>{state.data.description}</p>}
+          <div className="filter-row">
+            <select value={status} onChange={(e) => updateParam("status", e.target.value)}>
+              <option value="">完結状況で絞り込み</option>
+              {STATUS_OPTIONS.map((s) => (
+                <option value={s.value} key={s.value}>
+                  {s.label}
+                </option>
+              ))}
+            </select>
+            <select value={webNovel} onChange={(e) => updateParam("webNovel", e.target.value)}>
+              <option value="">Web小説原作で絞り込み</option>
+              {WEB_NOVEL_OPTIONS.map((o) => (
+                <option value={o.value} key={o.value}>
+                  {o.label}
+                </option>
+              ))}
+            </select>
+          </div>
+          {filtered.length === 0 && <EmptyState />}
           <div className="work-grid">
-            {state.data.works.map((w) => (
+            {filtered.map((w) => (
               <WorkCard work={w} key={w.id} />
             ))}
           </div>
