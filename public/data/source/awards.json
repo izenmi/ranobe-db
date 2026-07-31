@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dengeki-novel-taisho",
+    "name": "電撃小説大賞",
+    "organizer": "KADOKAWA(電撃文庫)",
+    "description": "電撃文庫が主催する新人賞。大賞・金賞・銀賞などの部門があり、「狼と香辛料」「アクセル・ワールド」など数多くの人気シリーズの著者を輩出してきた。",
+    "firstYear": 1994,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃小説大賞" },
+    "sourceNote": "Wikipedia日本語版「電撃小説大賞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "sneaker-taisho",
+    "name": "スニーカー大賞",
+    "organizer": "KADOKAWA(角川スニーカー文庫)",
+    "description": "角川スニーカー文庫が主催する新人賞。大賞受賞者には「涼宮ハルヒの憂鬱」の谷川流など、後に看板作家となる書き手が名を連ねる。",
+    "firstYear": 1996,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スニーカー大賞" },
+    "sourceNote": "Wikipedia日本語版「スニーカー大賞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fantasia-taisho",
+    "name": "ファンタジア大賞",
+    "organizer": "KADOKAWA(富士見ファンタジア文庫)",
+    "description": "富士見ファンタジア文庫が主催する新人賞。大賞のほか準入選などの部門があり、橘公司など数多くの人気作家がここからデビューしている。",
+    "firstYear": 1989,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファンタジア大賞" },
+    "sourceNote": "Wikipedia日本語版「ファンタジア大賞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kono-light-novel-ga-sugoi-taisho",
+    "name": "『このライトノベルがすごい!』大賞",
+    "organizer": "宝島社",
+    "description": "宝島社が主催する新人賞。年鑑ムック『このライトノベルがすごい!』と連動し、大賞受賞作は文庫化される。",
+    "firstYear": 2009,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!大賞" },
+    "sourceNote": "Wikipedia日本語版「このライトノベルがすごい!大賞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mf-bunko-j-shinjinshou",
+    "name": "MF文庫Jライトノベル新人賞",
+    "organizer": "KADOKAWA(MF文庫J)",
+    "description": "MF文庫Jが主催する新人賞。最優秀賞・優秀賞などの部門があり、独創的な設定のファンタジー作品を発掘してきた。",
+    "firstYear": 2003,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫Jライトノベル新人賞" },
+    "sourceNote": "Wikipedia日本語版「MF文庫Jライトノベル新人賞」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  }
+]

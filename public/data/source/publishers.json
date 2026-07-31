@@ -1,0 +1,119 @@
+[
+  {
+    "id": "kadokawa-sneaker",
+    "name": "角川スニーカー文庫",
+    "nameKana": "かどかわすにーかーぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "1988年創刊のKADOKAWAのライトノベルレーベル。「涼宮ハルヒ」シリーズや「このすば」など学園・異世界ファンタジー作品を多く送り出している。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川スニーカー文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「角川スニーカー文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "dengeki-bunko",
+    "name": "電撃文庫",
+    "nameKana": "でんげきぶんこ",
+    "parentCompany": "KADOKAWA(旧アスキー・メディアワークス)",
+    "description": "1993年創刊。「電撃小説大賞」を主催し、SF・ファンタジー・学園異能まで幅広いジャンルの人気シリーズを多数刊行する国内最大級のライトノベルレーベル。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「電撃文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fujimi-fantasia",
+    "name": "富士見ファンタジア文庫",
+    "nameKana": "ふじみふぁんたじあぶんこ",
+    "parentCompany": "KADOKAWA(旧富士見書房)",
+    "description": "1988年創刊の老舗レーベル。「ファンタジア大賞」を主催し、剣と魔法のファンタジーから学園ラブコメまで長く支持される作品を輩出してきた。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富士見ファンタジア文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「富士見ファンタジア文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mf-bunko-j",
+    "name": "MF文庫J",
+    "nameKana": "えむえふぶんこじぇー",
+    "parentCompany": "KADOKAWA(旧メディアファクトリー)",
+    "description": "2002年創刊。「MF文庫Jライトノベル新人賞」を主催し、「Re:ゼロ」などWeb小説発の作品や独創的な設定の異世界ファンタジーを多く刊行する。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫J"
+    },
+    "sourceNote": "Wikipedia日本語版「MF文庫J」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "fujimi-mystery",
+    "name": "富士見ミステリー文庫",
+    "nameKana": "ふじみみすてりーぶんこ",
+    "parentCompany": "KADOKAWA(旧富士見書房)",
+    "description": "2002年創刊、2011年に富士見ファンタジア文庫へ統合され新刊終了した過去のレーベル。ミステリ色の強いライトノベルを中心に刊行していた。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富士見ミステリー文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「富士見ミステリー文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gagaga-bunko",
+    "name": "ガガガ文庫",
+    "nameKana": "がががぶんこ",
+    "parentCompany": "小学館",
+    "description": "2007年創刊。小学館のライトノベルレーベルで、「やはり俺の青春ラブコメはまちがっている。」など青春ラブコメ作品で高い存在感を持つ。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガガガ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「ガガガ文庫」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kadokawa-books",
+    "name": "カドカワBOOKS",
+    "nameKana": "かどかわぶっくす",
+    "parentCompany": "KADOKAWA",
+    "description": "2015年創刊のWeb小説書籍化に強いレーベル。「小説家になろう」発の異世界転生・悪役令嬢ものなどを数多く書籍化している。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カドカワBOOKS"
+    },
+    "sourceNote": "Wikipedia日本語版「カドカワBOOKS」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mf-books",
+    "name": "MFブックス",
+    "nameKana": "えむえふぶっくす",
+    "parentCompany": "KADOKAWA",
+    "description": "2013年創刊のWeb小説書籍化レーベル。「盾の勇者の成り上がり」など「小説家になろう」発の異世界ものを中心に刊行する。",
+    "foundedYear": 2013,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MFブックス"
+    },
+    "sourceNote": "Wikipedia日本語版「MFブックス」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "gc-novels",
+    "name": "GCノベルズ",
+    "nameKana": "じーしーのべるず",
+    "parentCompany": "マイクロマガジン社",
+    "description": "2014年創刊のWeb小説書籍化レーベル。「転生したらスライムだった件」など「小説家になろう」発の異世界転生ものの大ヒット作を送り出した。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GCノベルズ"
+    },
+    "sourceNote": "Wikipedia日本語版「GCノベルズ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  }
+]

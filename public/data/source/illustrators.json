@@ -1,0 +1,137 @@
+[
+  {
+    "id": "itou-noiji",
+    "name": "いとうのいぢ",
+    "nameKana": "いとうのいぢ",
+    "description": "「涼宮ハルヒ」シリーズの挿絵で知られるイラストレーター。シャープで印象的なキャラクターデザインを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/いとうのいぢ" },
+    "sourceNote": "Wikipedia日本語版「いとうのいぢ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "abec",
+    "name": "abec",
+    "nameKana": "えいびーしー",
+    "description": "「ソードアート・オンライン」の挿絵を手がけるイラストレーター。キリトやアスナなど作品世界を象徴するキャラクターデザインで知られる。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Abec" },
+    "sourceNote": "Wikipedia日本語版「Abec」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ayakura-juu",
+    "name": "文倉十",
+    "nameKana": "あやくらじゅう",
+    "description": "「狼と香辛料」の挿絵で知られるイラストレーター。ホロをはじめとする中世ヨーロッパ風の世界観に合う落ち着いた絵柄が特徴。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/文倉十" },
+    "sourceNote": "Wikipedia日本語版「文倉十」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "haimura-kiyotaka",
+    "name": "はいむらきよたか",
+    "nameKana": "はいむらきよたか",
+    "description": "「とある魔術の禁書目録」の挿絵を長年手がけるイラストレーター。初期は「灰村キヨタカ」表記で活動していた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/はいむらきよたか" },
+    "sourceNote": "Wikipedia日本語版「はいむらきよたか」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shiki-douji",
+    "name": "四季童子",
+    "nameKana": "しきどうじ",
+    "description": "「フルメタル・パニック!」の挿絵を手がけるイラストレーター。軍事メカと学園コメディの両方の雰囲気を描き分けた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルメタル・パニック!" },
+    "sourceNote": "Wikipedia日本語版「フルメタル・パニック!」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "otsuka-shinichirou",
+    "name": "大塚真一郎",
+    "nameKana": "おおつかしんいちろう",
+    "description": "「Re:ゼロから始める異世界生活」の挿絵で知られるイラストレーター。エミリアやレムなど作品の顔となるヒロインたちを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/大塚真一郎" },
+    "sourceNote": "Wikipedia日本語版「大塚真一郎」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mishima-kurone",
+    "name": "三嶋くろね",
+    "nameKana": "みしまくろね",
+    "description": "「この素晴らしい世界に祝福を!」の挿絵で知られるイラストレーター。コミカルな表情豊かなキャラクター表現を得意とする。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/三嶋くろね" },
+    "sourceNote": "Wikipedia日本語版「三嶋くろね」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ishida-kana",
+    "name": "石田可奈",
+    "nameKana": "いしだかな",
+    "description": "「魔法科高校の劣等生」の挿絵を手がけるイラストレーター。近未来的な制服やデバイスのデザインを緻密に描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/石田可奈" },
+    "sourceNote": "Wikipedia日本語版「石田可奈」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "takeda-hinata",
+    "name": "武田日向",
+    "nameKana": "たけだひなた",
+    "description": "「GOSICK -ゴシック-」の富士見ミステリー文庫版で挿絵を手がけたイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK" },
+    "sourceNote": "Wikipedia日本語版「GOSICK」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "tsunako",
+    "name": "つなこ",
+    "nameKana": "つなこ",
+    "description": "「デート・ア・ライブ」の挿絵で知られるイラストレーター。精霊たちの多彩な衣装デザインを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/つなこ" },
+    "sourceNote": "Wikipedia日本語版「つなこ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "enomoto-yuu",
+    "name": "榎宮祐",
+    "nameKana": "えのみやゆう",
+    "description": "「ノーゲーム・ノーライフ」の作者自身であり、小説の挿絵も自ら手がけている。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/榎宮祐" },
+    "sourceNote": "Wikipedia日本語版「榎宮祐」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ponkan8",
+    "name": "ぽんかん⑧",
+    "nameKana": "ぽんかんえいと",
+    "description": "「やはり俺の青春ラブコメはまちがっている。」の挿絵で知られるイラストレーター。等身大の学生らしい表情描写を得意とする。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぽんかん⑧" },
+    "sourceNote": "Wikipedia日本語版「ぽんかん⑧」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kiryuu-tsukasa",
+    "name": "輝竜司",
+    "nameKana": "きりゅうつかさ",
+    "description": "「蜘蛛ですが、なにか?」の挿絵を手がけるイラストレーター。蜘蛛の魔物としての主人公の造形を印象的に描いた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか" },
+    "sourceNote": "Wikipedia日本語版「蜘蛛ですが、なにか?」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yanami-seira",
+    "name": "弥南せいら",
+    "nameKana": "やなみせいら",
+    "description": "「盾の勇者の成り上がり」の挿絵を手がけるイラストレーター。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり" },
+    "sourceNote": "Wikipedia日本語版「盾の勇者の成り上がり」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mitz-vah",
+    "name": "みっつばー",
+    "nameKana": "みっつばー",
+    "description": "「転生したらスライムだった件」の挿絵で知られるイラストレーター。スライムの姿から人型まで幅広いキャラクターデザインを手がけた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件" },
+    "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  }
+]

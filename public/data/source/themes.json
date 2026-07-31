@@ -1,0 +1,21 @@
+[
+  { "id": "isekai-tensei", "name": "異世界転生", "description": "現代日本の人物が死などをきっかけに異世界へ転生する物語。" },
+  { "id": "isekai-fantasy", "name": "異世界ファンタジー", "description": "転移・召喚を含む、現実とは異なる世界を舞台にした広義のファンタジー。" },
+  { "id": "vrmmo", "name": "VRMMO", "description": "VR技術によるフルダイブ型オンラインゲームを舞台にした物語。" },
+  { "id": "gakuen", "name": "学園", "description": "学校を主な舞台にした物語。" },
+  { "id": "gakuen-ianou", "name": "学園異能", "description": "学校を舞台に、超能力・魔術などの異能バトルが絡む物語。" },
+  { "id": "seishun-lovecome", "name": "青春ラブコメ", "description": "思春期の恋愛模様を軸にしたコメディ色の強い物語。" },
+  { "id": "robot-mecha", "name": "ロボット・メカ", "description": "巨大ロボットや兵器・軍事要素が物語の中心にある作品。" },
+  { "id": "time-travel", "name": "タイムトラベル", "description": "時間移動や時間のループが物語の鍵になる作品。" },
+  { "id": "mahou", "name": "魔法", "description": "魔法・魔術が世界観の核となる作品。" },
+  { "id": "yuri", "name": "百合", "description": "女性同士の親密な関係を描く作品。" },
+  { "id": "mystery", "name": "ミステリ", "description": "謎解き・推理の要素が中心となる作品。" },
+  { "id": "horror", "name": "ホラー", "description": "恐怖・怪異を描く作品。" },
+  { "id": "dungeon", "name": "ダンジョン攻略", "description": "迷宮やゲーム的なフィールドを攻略していく作品。" },
+  { "id": "ken-to-mahou", "name": "剣と魔法", "description": "剣術と魔法が併存する王道ファンタジー的世界観。" },
+  { "id": "imouto", "name": "妹", "description": "兄妹・きょうだいの関係が物語上重要な位置を占める作品。" },
+  { "id": "sf", "name": "SF", "description": "科学技術やありえない現象を扱うサイエンスフィクション要素を持つ作品。" },
+  { "id": "harem", "name": "ハーレム", "description": "主人公の周囲に複数のヒロインが集まる関係性を描く作品。" },
+  { "id": "romance", "name": "恋愛", "description": "男女の恋愛関係が物語の主軸となる作品。" },
+  { "id": "fukushuu", "name": "復讐", "description": "裏切りや不当な扱いへの復讐が物語の動機になる作品。" }
+]

@@ -1,0 +1,77 @@
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --color-primary: #8c5ea8; /* ラノベらしい紫 */
+  --color-secondary: #e8a0bf; /* パステルピンク */
+  --color-accent: #f2c14e; /* 受賞バッジ用の金 */
+  --color-ink: #3a2e4d;
+  --color-background: #fbf7ff;
+  --color-surface: #ffffff;
+  --color-surface-variant: #f3ecfa;
+  --color-text: #2f2640;
+  --color-text-muted: #6e6480;
+  --color-outline: #d9cdea;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --color-primary: #c9a4de;
+  --color-secondary: #f0b8d0;
+  --color-accent: #f2d16e;
+  --color-ink: #f3eefc;
+  --color-background: #201c2b;
+  --color-surface: #2a2537;
+  --color-surface-variant: #352f42;
+  --color-text: #f3eefc;
+  --color-text-muted: #b6adc8;
+  --color-outline: #544c64;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --color-primary: #c9a4de;
+    --color-secondary: #f0b8d0;
+    --color-accent: #f2d16e;
+    --color-ink: #f3eefc;
+    --color-background: #201c2b;
+    --color-surface: #2a2537;
+    --color-surface-variant: #352f42;
+    --color-text: #f3eefc;
+    --color-text-muted: #b6adc8;
+    --color-outline: #544c64;
+  }
+}
+
+:root {
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", system-ui, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: var(--color-primary);
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+}
