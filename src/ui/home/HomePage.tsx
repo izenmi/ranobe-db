@@ -5,8 +5,8 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
 
 const BADGES: { key: keyof Awaited<ReturnType<typeof getCounts>>; label: string; to: string; color: string }[] = [
-  { key: "works", label: "作品", to: "/works", color: "pink" },
-  { key: "authors", label: "著者", to: "/authors", color: "blue" },
+  { key: "works", label: "作品", to: "/works", color: "blue" },
+  { key: "authors", label: "著者", to: "/authors", color: "pink" },
   { key: "illustrators", label: "イラストレーター", to: "/illustrators", color: "mint" },
   { key: "publishers", label: "出版社", to: "/publishers", color: "yellow" },
   { key: "themes", label: "テーマ", to: "/themes", color: "purple" },

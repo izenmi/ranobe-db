@@ -5,8 +5,8 @@
 }
 
 .top-nav {
-  background: var(--color-pink);
-  border-bottom: 4px solid var(--color-pink-strong);
+  background: var(--color-blue);
+  border-bottom: 4px solid var(--color-blue-strong);
   position: sticky;
   top: 0;
   z-index: 10;
@@ -96,10 +96,10 @@ h1 {
 }
 
 .entity-list__item:nth-child(4n + 1) a {
-  border-left: 5px solid var(--color-pink-strong);
+  border-left: 5px solid var(--color-blue-strong);
 }
 .entity-list__item:nth-child(4n + 2) a {
-  border-left: 5px solid var(--color-blue-strong);
+  border-left: 5px solid var(--color-pink-strong);
 }
 .entity-list__item:nth-child(4n + 3) a {
   border-left: 5px solid var(--color-mint-strong);
@@ -144,12 +144,12 @@ h1 {
 }
 
 .chip-row .chip:nth-child(4n + 1) {
-  background: var(--color-pink);
-  border-color: var(--color-pink-strong);
-}
-.chip-row .chip:nth-child(4n + 2) {
   background: var(--color-blue);
   border-color: var(--color-blue-strong);
+}
+.chip-row .chip:nth-child(4n + 2) {
+  background: var(--color-pink);
+  border-color: var(--color-pink-strong);
 }
 .chip-row .chip:nth-child(4n + 3) {
   background: var(--color-mint);
@@ -177,7 +177,7 @@ h1 {
   border-radius: var(--radius-lg);
   background: var(--color-surface);
   border: 2px solid var(--color-outline);
-  border-left: 7px solid var(--color-pink-strong);
+  border-left: 7px solid var(--color-blue-strong);
   text-decoration: none;
   color: var(--color-text);
   margin-bottom: 12px;
@@ -185,10 +185,10 @@ h1 {
 }
 
 .work-card:nth-of-type(4n + 1) {
-  border-left-color: var(--color-pink-strong);
+  border-left-color: var(--color-blue-strong);
 }
 .work-card:nth-of-type(4n + 2) {
-  border-left-color: var(--color-blue-strong);
+  border-left-color: var(--color-pink-strong);
 }
 .work-card:nth-of-type(4n + 3) {
   border-left-color: var(--color-mint-strong);
@@ -255,14 +255,14 @@ h1 {
   margin: -20px -20px 0;
   border-radius: 0 0 var(--radius-lg) var(--radius-lg);
   background: var(--color-surface-variant);
-  border-bottom: 4px dashed var(--color-pink-strong);
+  border-bottom: 4px dashed var(--color-blue-strong);
 }
 
 .home-hero h1 {
   font-size: 2.2rem;
   margin: 0;
   color: var(--color-primary-strong);
-  text-shadow: 3px 3px 0 var(--color-pink);
+  text-shadow: 3px 3px 0 var(--color-blue);
   letter-spacing: 0.03em;
 }
 
@@ -358,7 +358,7 @@ h1 {
 
 .winner-year {
   color: var(--color-ink);
-  background: var(--color-pink);
+  background: var(--color-blue);
   border-radius: var(--radius-pill);
   padding: 2px 10px;
   margin-right: 8px;
