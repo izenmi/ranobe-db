@@ -26,7 +26,7 @@ export function HomePage() {
   return (
     <div className="page">
       <div className="home-hero">
-        <h1>らのべDB</h1>
+        <h1 className="font-display">らのべDB</h1>
         <p className="page-subtitle">日本語ライトノベルを著者・イラストレーター・受賞歴・テーマから探せるデータベース</p>
       </div>
 

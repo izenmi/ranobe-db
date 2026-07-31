@@ -97,11 +97,18 @@ body,
 
 body {
   margin: 0;
-  font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic",
-    system-ui, sans-serif;
+  font-family: "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
   background: var(--color-background);
   color: var(--color-text);
   -webkit-tap-highlight-color: transparent;
+}
+
+/* Rounded display font reserved for branding (logo, home hero title) — body text stays in
+   Noto Sans JP since the rounded face reads poorly at small sizes for dense meta text. */
+.font-display {
+  font-family: "M PLUS Rounded 1c", "Noto Sans JP", sans-serif;
 }
 
 a {

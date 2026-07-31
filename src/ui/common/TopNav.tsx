@@ -13,7 +13,7 @@ export function TopNav() {
   return (
     <header className="top-nav">
       <div className="top-nav__inner">
-        <NavLink to="/" className="top-nav__title">
+        <NavLink to="/" className="top-nav__title font-display">
           らのべDB
         </NavLink>
         <ul className="top-nav__links">
