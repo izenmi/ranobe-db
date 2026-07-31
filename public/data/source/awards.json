@@ -111,5 +111,15 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「弱キャラ友崎くん」を参照(2026年7月時点)。開始年など詳細は未確認のため要追加調査。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "seiun-sho",
+    "name": "星雲賞",
+    "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",
+    "description": "日本SF大会参加登録者の投票により選ばれるSFのファン賞。小説・コミック・メディア部門など複数部門があり、「図書館戦争」が第39回(2008年)日本長編部門を受賞した。新人賞ではなく既発表作品を対象とするファン投票賞である点が他の受賞歴と異なる。",
+    "firstYear": 1970,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/星雲賞" },
+    "sourceNote": "Wikipedia日本語版「星雲賞」「図書館戦争」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]

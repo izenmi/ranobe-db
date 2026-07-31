@@ -3096,7 +3096,7 @@
     "publisherId": "dengeki-bunko",
     "themeIds": [
       "mystery",
-      "sf",
+      "battle-action",
       "adventure"
     ],
     "firstPublishedYear": 2004,
@@ -3176,6 +3176,7 @@
     "publisherId": "kadokawa-bunko",
     "themeIds": [
       "sf",
+      "senki",
       "romance",
       "battle-action"
     ],
@@ -3187,8 +3188,15 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/図書館戦争"
     },
-    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「塩の街」で電撃小説大賞・大賞を受賞しデビュー)。初刊はメディアワークスのハードカバー単行本で、後に角川文庫化。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「塩の街」で電撃小説大賞・大賞を受賞しデビュー)。初刊はメディアワークスのハードカバー単行本で、後に角川文庫化。図書館戦争シリーズは第39回星雲賞(2008年)日本長編部門を受賞。",
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 2008,
+        "result": "第39回日本長編部門受賞"
+      }
+    ]
   },
   {
     "id": "missing-kamikakushi-no-monogatari",
