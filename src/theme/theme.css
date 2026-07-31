@@ -1,69 +1,78 @@
 :root,
 [data-theme="light"] {
   color-scheme: light;
-  --color-primary: #b34fd6; /* ビビッドパープル */
-  --color-primary-strong: #8f2fc7;
-  --color-secondary: #ff6fb0; /* ポップピンク */
-  --color-accent: #ffc93c; /* 金星バッジ */
-  --color-accent-strong: #ff9d2f;
-  --gradient-brand: linear-gradient(120deg, #ff8ad4 0%, #b34fd6 55%, #6a5bff 100%);
-  --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 138, 212, 0.35), transparent 45%),
-    radial-gradient(circle at 85% 15%, rgba(106, 91, 255, 0.3), transparent 45%),
-    radial-gradient(circle at 50% 90%, rgba(255, 201, 60, 0.25), transparent 40%);
-  --color-ink: #3a1f52;
-  --color-background: #fff5fb;
+  --color-primary: #b48ee8; /* パステルパープル */
+  --color-primary-strong: #9868d1;
+  --color-pink: #ffc7e2;
+  --color-pink-strong: #ff9fc9;
+  --color-blue: #bfe3ff;
+  --color-blue-strong: #8fcbf5;
+  --color-mint: #bdf0d6;
+  --color-mint-strong: #8fdfb5;
+  --color-yellow: #ffe8ab;
+  --color-yellow-strong: #ffd166;
+  --color-peach: #ffd3bd;
+  --color-peach-strong: #ffab84;
+  --color-ink: #5a4770;
+  --color-background: #fff8fb;
   --color-surface: #ffffff;
-  --color-surface-variant: #fbeeff;
-  --color-text: #3a1f52;
-  --color-text-muted: #8a6ea3;
-  --color-outline: #f0d6f7;
-  --shadow-pop: 0 6px 16px rgba(179, 79, 214, 0.18);
-  --shadow-pop-hover: 0 10px 24px rgba(179, 79, 214, 0.28);
+  --color-surface-variant: #fbeef8;
+  --color-text: #5a4770;
+  --color-text-muted: #9a86b3;
+  --color-outline: #f0dced;
+  --shadow-pop: 0 3px 0 var(--color-outline);
+  --shadow-pop-hover: 0 5px 0 var(--color-outline);
 }
 
 [data-theme="dark"] {
   color-scheme: dark;
-  --color-primary: #e2a4ff;
-  --color-primary-strong: #f0c2ff;
-  --color-secondary: #ff9fcd;
-  --color-accent: #ffd873;
-  --color-accent-strong: #ffcb4d;
-  --gradient-brand: linear-gradient(120deg, #ff9fcd 0%, #c987f5 55%, #8f9dff 100%);
-  --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 159, 205, 0.25), transparent 45%),
-    radial-gradient(circle at 85% 15%, rgba(143, 157, 255, 0.25), transparent 45%),
-    radial-gradient(circle at 50% 90%, rgba(255, 216, 115, 0.18), transparent 40%);
-  --color-ink: #fbeeff;
-  --color-background: #241834;
-  --color-surface: #2f2044;
-  --color-surface-variant: #3b2955;
-  --color-text: #fbeeff;
-  --color-text-muted: #c6aee0;
-  --color-outline: #4f3a6b;
-  --shadow-pop: 0 6px 16px rgba(0, 0, 0, 0.35);
-  --shadow-pop-hover: 0 10px 26px rgba(0, 0, 0, 0.45);
+  --color-primary: #cba7f2;
+  --color-primary-strong: #dcc3fa;
+  --color-pink: #f2a9cb;
+  --color-pink-strong: #f68fbe;
+  --color-blue: #a3d3f2;
+  --color-blue-strong: #8bc4ea;
+  --color-mint: #a3e6c2;
+  --color-mint-strong: #8adcae;
+  --color-yellow: #f2d896;
+  --color-yellow-strong: #f0c765;
+  --color-peach: #f2be9e;
+  --color-peach-strong: #eea87e;
+  --color-ink: #f5eefc;
+  --color-background: #2a2338;
+  --color-surface: #352c46;
+  --color-surface-variant: #3f3552;
+  --color-text: #f5eefc;
+  --color-text-muted: #bdaed4;
+  --color-outline: #4e4362;
+  --shadow-pop: 0 3px 0 var(--color-outline);
+  --shadow-pop-hover: 0 5px 0 var(--color-outline);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --color-primary: #e2a4ff;
-    --color-primary-strong: #f0c2ff;
-    --color-secondary: #ff9fcd;
-    --color-accent: #ffd873;
-    --color-accent-strong: #ffcb4d;
-    --gradient-brand: linear-gradient(120deg, #ff9fcd 0%, #c987f5 55%, #8f9dff 100%);
-    --gradient-hero: radial-gradient(circle at 15% 20%, rgba(255, 159, 205, 0.25), transparent 45%),
-      radial-gradient(circle at 85% 15%, rgba(143, 157, 255, 0.25), transparent 45%),
-      radial-gradient(circle at 50% 90%, rgba(255, 216, 115, 0.18), transparent 40%);
-    --color-ink: #fbeeff;
-    --color-background: #241834;
-    --color-surface: #2f2044;
-    --color-surface-variant: #3b2955;
-    --color-text: #fbeeff;
-    --color-text-muted: #c6aee0;
-    --color-outline: #4f3a6b;
-    --shadow-pop: 0 6px 16px rgba(0, 0, 0, 0.35);
-    --shadow-pop-hover: 0 10px 26px rgba(0, 0, 0, 0.45);
+    --color-primary: #cba7f2;
+    --color-primary-strong: #dcc3fa;
+    --color-pink: #f2a9cb;
+    --color-pink-strong: #f68fbe;
+    --color-blue: #a3d3f2;
+    --color-blue-strong: #8bc4ea;
+    --color-mint: #a3e6c2;
+    --color-mint-strong: #8adcae;
+    --color-yellow: #f2d896;
+    --color-yellow-strong: #f0c765;
+    --color-peach: #f2be9e;
+    --color-peach-strong: #eea87e;
+    --color-ink: #f5eefc;
+    --color-background: #2a2338;
+    --color-surface: #352c46;
+    --color-surface-variant: #3f3552;
+    --color-text: #f5eefc;
+    --color-text-muted: #bdaed4;
+    --color-outline: #4e4362;
+    --shadow-pop: 0 3px 0 var(--color-outline);
+    --shadow-pop-hover: 0 5px 0 var(--color-outline);
   }
 }
 
