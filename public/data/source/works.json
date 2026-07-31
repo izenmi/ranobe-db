@@ -2418,5 +2418,116 @@
     },
     "sourceNote": "Wikipedia日本語版「聖剣使いの禁呪詠唱」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "toaru-hikuushi-e-no-tsuioku",
+    "title": "とある飛空士への追憶",
+    "titleKana": "とあるひくうしへのついおく",
+    "authorIds": [
+      "inumura-kouroku"
+    ],
+    "illustratorIds": [
+      "morisawa-haruyuki"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "romance",
+      "battle-action",
+      "adventure",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "架空の二大陸が争う戦争を背景に、敵の制空権下で皇女を運ぶ極秘任務「海猫作戦」を通じ、混血の飛空士シャルルと皇女ファナが身分を超えて心を通わせていく恋愛・戦争アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある飛空士への追憶"
+    },
+    "sourceNote": "Wikipedia日本語版「とある飛空士への追憶」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "outbreak-company",
+    "title": "アウトブレイク・カンパニー 萌える侵略者",
+    "titleKana": "あうとぶれいくかんぱにー もえるしんりゃくしゃ",
+    "authorIds": [
+      "sakaki-ichirou"
+    ],
+    "illustratorIds": [
+      "yuugen"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "comedy",
+      "harem",
+      "adventure"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "ニート気味のオタク青年が就職試験のはずが異世界「神聖エルダント帝国」へ連行され、オタク文化を広める企業の総支配人に任命される。ハーフエルフのメイドや少女皇帝と関わりながら、萌え文化を武器に異文化交流と政治的軋轢に立ち向かうコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アウトブレイク・カンパニー_萌える侵略者"
+    },
+    "sourceNote": "Wikipedia日本語版「アウトブレイク・カンパニー_萌える侵略者」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "dansho-no-grimm",
+    "title": "断章のグリム",
+    "titleKana": "だんしょうのぐりむ",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [
+      "mikazuki-kakeru"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "「神の悪夢」から生まれる怪異“泡禍”に巻き込まれた少年が、悪夢の記憶を継承する“断章保持者”として覚醒。童話をモチーフにした泡禍と戦う組織に加わり、仲間たちと共に泡禍に宿る人々のトラウマや過去と向き合っていくダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/断章のグリム"
+    },
+    "sourceNote": "Wikipedia日本語版「断章のグリム」を参照し独自に要約(2026年7月時点)。旧版(電撃文庫、全17巻)の情報。2025年からKADOKAWAメディアワークス文庫で完全版が刊行中だが本エントリでは旧版を基準とした。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "ben-to",
+    "title": "ベン・トー",
+    "titleKana": "べんとー",
+    "authorIds": [
+      "asaura"
+    ],
+    "illustratorIds": [
+      "shibano-kaito"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "comedy",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "貧乏な高校1年生が、閉店間際のスーパーで半額弁当を巡る争奪戦“半額戦争”に巻き込まれる。「氷結の魔女」と呼ばれる少女に導かれ、“狼”と称される強者たちが割引弁当を賭けて格闘するアクションコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベン・トー"
+    },
+    "sourceNote": "Wikipedia日本語版「ベン・トー」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "updatedAt": "2026-07-31"
   }
 ]

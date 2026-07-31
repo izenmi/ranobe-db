@@ -542,11 +542,11 @@
     "id": "morisawa-haruyuki",
     "name": "森沢晴行",
     "nameKana": "もりさわはるゆき",
-    "description": "「蒼穹のカルマ」の挿絵で知られるイラストレーター。",
+    "description": "「蒼穹のカルマ」「とある飛空士への追憶」の挿絵で知られるイラストレーター。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼穹のカルマ"
     },
-    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」を参照(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」「とある飛空士への追憶」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
   {
@@ -732,6 +732,33 @@
     "description": "「聖剣使いの禁呪詠唱」のイラストを手がけるイラストレーター。",
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「聖剣使いの禁呪詠唱」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "yuugen",
+    "name": "ゆーげん",
+    "nameKana": "ゆーげん",
+    "description": "「アウトブレイク・カンパニー 萌える侵略者」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「アウトブレイク・カンパニー_萌える侵略者」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mikazuki-kakeru",
+    "name": "三日月かける",
+    "nameKana": "みかづきかける",
+    "description": "「断章のグリム」(旧版)のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「断章のグリム」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "shibano-kaito",
+    "name": "柴乃櫂人",
+    "nameKana": "しばのかいと",
+    "description": "「ベン・トー」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ベン・トー」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   }
 ]

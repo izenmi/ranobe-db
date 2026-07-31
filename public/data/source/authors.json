@@ -801,5 +801,38 @@
     },
     "sourceNote": "Wikipedia日本語版「あわむら赤光」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "inumura-kouroku",
+    "name": "犬村小六",
+    "nameKana": "いぬむらこうろく",
+    "description": "「とある飛空士への追憶」で知られる作家。飛空士シリーズ各作を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬村小六"
+    },
+    "sourceNote": "Wikipedia日本語版「犬村小六」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "kouda-gakuto",
+    "name": "甲田学人",
+    "nameKana": "こうだがくと",
+    "description": "「断章のグリム」で知られる作家。2001年『Missing 神隠しの物語』で電撃文庫からデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/甲田学人"
+    },
+    "sourceNote": "Wikipedia日本語版「甲田学人」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "asaura",
+    "name": "アサウラ",
+    "nameKana": "あさうら",
+    "description": "「ベン・トー」で知られる作家。別作品「黄色い花の紅」で第5回スーパーダッシュ小説新人賞・大賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサウラ"
+    },
+    "sourceNote": "Wikipedia日本語版「アサウラ」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
   }
 ]
