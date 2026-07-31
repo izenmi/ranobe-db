@@ -1,7 +1,33 @@
-:root,
+:root {
+  color-scheme: dark;
+  --color-primary: #cba7f2;
+  --color-primary-strong: #dcc3fa;
+  --color-pink: #f2a9cb;
+  --color-pink-strong: #f68fbe;
+  --color-blue: #a3d3f2;
+  --color-blue-strong: #8bc4ea;
+  --color-blue-deep: #7cd0ff;
+  --color-mint: #a3e6c2;
+  --color-mint-strong: #8adcae;
+  --color-yellow: #f2d896;
+  --color-yellow-strong: #f0c765;
+  --color-peach: #f2be9e;
+  --color-peach-strong: #eea87e;
+  --color-ink: #f2f2f5;
+  --color-background: #000000;
+  --color-surface: #000000;
+  --color-surface-variant: #141416;
+  --color-text: #f2f2f5;
+  --color-text-muted: #a8a3b5;
+  --color-outline: #3a3742;
+  --shadow-pop: 0 3px 0 var(--color-outline);
+  --shadow-pop-hover: 0 5px 0 var(--color-outline);
+}
+
+/* Preserved for a possible future light-mode toggle; not active by default. */
 [data-theme="light"] {
   color-scheme: light;
-  --color-primary: #b48ee8; /* パステルパープル */
+  --color-primary: #b48ee8;
   --color-primary-strong: #9868d1;
   --color-pink: #ffc7e2;
   --color-pink-strong: #ff9fc9;
@@ -25,64 +51,15 @@
   --shadow-pop-hover: 0 5px 0 var(--color-outline);
 }
 
-[data-theme="dark"] {
-  color-scheme: dark;
-  --color-primary: #cba7f2;
-  --color-primary-strong: #dcc3fa;
-  --color-pink: #f2a9cb;
-  --color-pink-strong: #f68fbe;
-  --color-blue: #a3d3f2;
-  --color-blue-strong: #8bc4ea;
-  --color-blue-deep: #7cd0ff;
-  --color-mint: #a3e6c2;
-  --color-mint-strong: #8adcae;
-  --color-yellow: #f2d896;
-  --color-yellow-strong: #f0c765;
-  --color-peach: #f2be9e;
-  --color-peach-strong: #eea87e;
-  --color-ink: #f5eefc;
-  --color-background: #2a2338;
-  --color-surface: #352c46;
-  --color-surface-variant: #3f3552;
-  --color-text: #f5eefc;
-  --color-text-muted: #bdaed4;
-  --color-outline: #4e4362;
-  --shadow-pop: 0 3px 0 var(--color-outline);
-  --shadow-pop-hover: 0 5px 0 var(--color-outline);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --color-primary: #cba7f2;
-    --color-primary-strong: #dcc3fa;
-    --color-pink: #f2a9cb;
-    --color-pink-strong: #f68fbe;
-    --color-blue: #a3d3f2;
-    --color-blue-strong: #8bc4ea;
-    --color-mint: #a3e6c2;
-    --color-mint-strong: #8adcae;
-    --color-yellow: #f2d896;
-    --color-yellow-strong: #f0c765;
-    --color-peach: #f2be9e;
-    --color-peach-strong: #eea87e;
-    --color-ink: #f5eefc;
-    --color-background: #2a2338;
-    --color-surface: #352c46;
-    --color-surface-variant: #3f3552;
-    --color-text: #f5eefc;
-    --color-text-muted: #bdaed4;
-    --color-outline: #4e4362;
-    --shadow-pop: 0 3px 0 var(--color-outline);
-    --shadow-pop-hover: 0 5px 0 var(--color-outline);
-  }
-}
-
 :root {
   --radius-sm: 10px;
   --radius-md: 18px;
   --radius-lg: 26px;
   --radius-pill: 999px;
+  /* Fixed dark text color for use on pastel accent backgrounds (nav bar, chips, badges) —
+     those backgrounds stay light/pastel regardless of the page theme, so the text on them
+     must stay dark rather than following --color-ink (which flips light on a black page). */
+  --color-ink-on-accent: #2b2438;
 }
 
 * {
