@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkRefRow } from "../common/WorkCard";
+import { WorkCard } from "../common/WorkCard";
 
 export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
@@ -20,7 +20,7 @@ export function ThemeDetailPage() {
           {state.data.description && <p>{state.data.description}</p>}
           <div className="work-grid">
             {state.data.works.map((w) => (
-              <WorkRefRow work={w} key={w.id} />
+              <WorkCard work={w} key={w.id} />
             ))}
           </div>
         </>

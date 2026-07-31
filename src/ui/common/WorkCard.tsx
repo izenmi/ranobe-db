@@ -1,21 +1,6 @@
 import { Link } from "react-router-dom";
-import type { WorkGenerated, WorkRef } from "../../types";
+import type { WorkGenerated } from "../../types";
 import { WorkCover } from "./WorkCover";
-
-/** Compact row for a work reference (used inside author/theme/award detail pages). */
-export function WorkRefRow({ work }: { work: WorkRef }) {
-  return (
-    <div className="work-card">
-      <Link className="work-card__link" to={`/works/${work.id}`}>
-        <WorkCover title={work.title} size="sm" />
-        <div className="work-card__body">
-          <div className="work-card__title">{work.title}</div>
-          <div className="work-card__meta">{work.firstPublishedYear}年〜</div>
-        </div>
-      </Link>
-    </div>
-  );
-}
 
 const STATUS_LABEL: Record<string, string> = {
   completed: "完結",

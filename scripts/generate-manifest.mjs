@@ -80,8 +80,13 @@ const worksGenerated = works.map((w) => ({
   })),
 }));
 
-function workRef(w) {
-  return { id: w.id, title: w.title, firstPublishedYear: w.firstPublishedYear };
+// Cross-reference lists (author/illustrator/publisher/theme pages) embed the full
+// denormalized work — same shape as generated/works.json — so those pages can render a full
+// WorkCard (cover, publisher, awards, theme tags) instead of just a bare title+year link.
+const worksGeneratedById = new Map(worksGenerated.map((w) => [w.id, w]));
+
+function fullWork(w) {
+  return worksGeneratedById.get(w.id);
 }
 
 // ---- generated/{authors,illustrators,publishers}.json ----
@@ -96,7 +101,7 @@ function buildPersonList(people, worksByPersonId) {
         description: p.description,
         externalLinks: p.externalLinks,
         workCount: theirWorks.length,
-        works: theirWorks.map(workRef).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
+        works: theirWorks.map(fullWork).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
       };
     })
     .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
@@ -128,7 +133,7 @@ const themesGenerated = themes
     return {
       ...t,
       workCount: theirWorks.length,
-      works: theirWorks.map(workRef).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
+      works: theirWorks.map(fullWork).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
     };
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));

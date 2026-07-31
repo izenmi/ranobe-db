@@ -359,11 +359,11 @@ h1 {
 
 .home-hero {
   text-align: center;
-  padding: 24px 20px 14px;
-  margin: -14px -20px 0;
+  padding: 28px 20px 18px;
+  margin: -14px -20px 18px;
   border-radius: 0 0 var(--radius-lg) var(--radius-lg);
   background: var(--color-surface-variant);
-  border-bottom: 3px dashed var(--color-blue-strong);
+  box-shadow: 0 8px 24px -6px rgba(140, 190, 255, 0.18);
 }
 
 .home-hero h1 {

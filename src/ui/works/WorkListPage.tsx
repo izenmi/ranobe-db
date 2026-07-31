@@ -11,6 +11,12 @@ const STATUS_OPTIONS: { value: string; label: string }[] = [
   { value: "unknown", label: "不明" },
 ];
 
+const WEB_NOVEL_OPTIONS: { value: string; label: string }[] = [
+  { value: "narou", label: "小説家になろう発" },
+  { value: "kakuyomu", label: "カクヨム発" },
+  { value: "none", label: "書き下ろし(Web小説以外)" },
+];
+
 const PAGE_SIZE = 50;
 
 export function WorkListPage() {
@@ -19,6 +25,7 @@ export function WorkListPage() {
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
   const status = params.get("status") ?? "";
+  const webNovel = params.get("webNovel") ?? "";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const worksState = useAsyncData(getWorks, []);
@@ -36,9 +43,11 @@ export function WorkListPage() {
       if (themeId && !w.themeIds.includes(themeId)) return false;
       if (publisherId && w.publisherId !== publisherId) return false;
       if (status && w.status !== status) return false;
+      if (webNovel === "none" && w.webNovelSource) return false;
+      if ((webNovel === "narou" || webNovel === "kakuyomu") && w.webNovelSource?.platform !== webNovel) return false;
       return true;
     });
-  }, [worksState, q, themeId, publisherId, status]);
+  }, [worksState, q, themeId, publisherId, status, webNovel]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const page = Math.min(pageParam, totalPages);
@@ -96,6 +105,14 @@ export function WorkListPage() {
           {STATUS_OPTIONS.map((s) => (
             <option value={s.value} key={s.value}>
               {s.label}
+            </option>
+          ))}
+        </select>
+        <select value={webNovel} onChange={(e) => updateParam("webNovel", e.target.value)}>
+          <option value="">Web小説原作で絞り込み</option>
+          {WEB_NOVEL_OPTIONS.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
             </option>
           ))}
         </select>

@@ -82,12 +82,6 @@ export interface AwardSource {
 
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
-export interface WorkRef {
-  id: string;
-  title: string;
-  firstPublishedYear: number;
-}
-
 /** Denormalized work: source fields plus resolved names for direct rendering. */
 export interface WorkGenerated extends WorkSource {
   authorNames: string[];
@@ -105,12 +99,12 @@ export interface PersonOrPublisherGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  works: WorkRef[];
+  works: WorkGenerated[];
 }
 
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
-  works: WorkRef[];
+  works: WorkGenerated[];
 }
 
 export interface AwardWinner {

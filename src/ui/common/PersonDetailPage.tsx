@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getAuthor, getIllustrator, getPublisher } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
-import { WorkRefRow } from "./WorkCard";
+import { WorkCard } from "./WorkCard";
 import type { PersonKind } from "./PersonListPage";
 
 const FETCHER: Record<PersonKind, (id: string) => ReturnType<typeof getAuthor>> = {
@@ -34,7 +34,7 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
           )}
           <div className="work-grid">
             {state.data.works.map((w) => (
-              <WorkRefRow work={w} key={w.id} />
+              <WorkCard work={w} key={w.id} />
             ))}
           </div>
         </>
