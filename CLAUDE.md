@@ -73,8 +73,8 @@ npm run preview
 
 ## 表紙画像・購入リンク(2026-08-01実装)
 
-- **表紙画像**: `npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数、[楽天ウェブサービス](https://webservice.rakuten.co.jp/)で無料即時発行)が楽天ブックス書籍検索API(`BooksTotal/Search`)でシリーズタイトルから代表巻(基本1巻)のISBN・表紙URLを解決し、`public/data/source/covers-cache.json`に保存する。楽天ブックスで見つからない場合は楽天Kobo電子書籍検索API(`Kobo/EbookSearch`、同じapplicationId/accessKeyで利用可)にフォールバックする(2026-08-01実装。Web小説発の作品など紙の在庫がなくKoboにのみ電子版があるケースをカバーするため)。Koboでマッチした場合キャッシュに`source: "kobo"`が付き、ISBNは持たない(`isbn: null`)。155作品中154作品(99.4%)で解決済み(2026-08-01時点、24作品がKobo経由)。唯一未解決の「陰陽ノ京」は楽天ブックス・Koboどちらにも書誌が存在せず絶版と判断、プレースホルダーのまま
-  - **既知の限界**: 「Overlord」のようにキーワードがジャンル横断で一般的すぎると、無関係な商品(輸入楽譜・音楽CD等)がAPIのヒット件数上限内を埋めてしまい、実際の書籍がマッチしないことがある(著者名で再検索すると見つかる)。ヒットしない場合は著者名や副題を使ってcurlで直接叩き、`covers-cache.json`を手編集するのが手っ取り早い(`isbn`/`coverUrl`/`matchedTitle`/`source`を書き換えるだけ)
+- **表紙画像**: `npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数、[楽天ウェブサービス](https://webservice.rakuten.co.jp/)で無料即時発行)が楽天ブックス書籍検索API(`BooksTotal/Search`)でシリーズタイトルから代表巻(基本1巻)のISBN・表紙URLを解決し、`public/data/source/covers-cache.json`に保存する。楽天ブックスで見つからない場合は楽天Kobo電子書籍検索API(`Kobo/EbookSearch`、同じapplicationId/accessKeyで利用可)にフォールバックする(2026-08-01実装。Web小説発の作品など紙の在庫がなくKoboにのみ電子版があるケースをカバーするため)。Koboでマッチした場合キャッシュに`source: "kobo"`が付き、ISBNは持たない(`isbn: null`)。205作品中203作品(99.0%)で解決済み(2026-08-01時点)。未解決の2作品(「陰陽ノ京」「境界の彼方」)は楽天ブックス・Koboどちらにも書誌が存在せず(境界の彼方はKAエスマ文庫という京都アニメーション自社レーベルのためRakutenでの取り扱いが薄いことが原因と推測)、プレースホルダーのまま
+  - **既知の限界**: 「Overlord」のようにキーワードがジャンル横断で一般的すぎると、無関係な商品(輸入楽譜・音楽CD等)がAPIのヒット件数上限内を埋めてしまい、実際の書籍がマッチしないことがある(著者名で再検索すると見つかる)。逆に「十二国記」のようなシリーズ名キーワードだと画集・関連グッズが誤マッチすることもあるため、`matchedTitle`が本編の巻タイトルとして自然かは目視確認する。ヒットしない/誤マッチの場合は著者名や副題を使ってcurlで直接叩き、`covers-cache.json`を手編集するのが手っ取り早い(`isbn`/`coverUrl`/`matchedTitle`/`source`を書き換えるだけ)
   - このAPIは`Referer`/`Origin`ヘッダーがアプリ登録時の「アプリケーションURL」(`https://izenmi.github.io/ranobe-db/`)と一致している必要がある(`scripts/fetch-covers.mjs`内の`REFERER_URL`/`ORIGIN_URL`で送信)
   - openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用と判断済み(再検討不要)
 - **購入リンク**: `amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「1巻をAmazonで探す」「シリーズ全体を探す」の2リンクを表示
@@ -83,7 +83,11 @@ npm run preview
 
 全105作品について`mediaMix?: { anime?: boolean; comic?: boolean }`(`src/types.ts`の`WorkSource`)を追加し、`sourceNote`にアニメ化・コミカライズの確認内容を追記した。`WorkListPage`/`ThemeDetailPage`に既存のstatus/webNovelフィルターと同じパターンで「アニメ化」「コミカライズ」「メディアミックスなし」のセレクトフィルターを実装(`?mediaMix=anime|comic|none`)。`WorkCard`のメタ行・`WorkDetailPage`のメタ行にも該当作品はテキストで表示する。新規作品を追加する際は、Wikipedia確認時にあわせて`mediaMix`も設定すること(テレビアニメ・OVAがあれば`anime: true`、コミカライズ版があれば`comic: true`。記述がなければ両方`false`)。
 
+## データ規模の推移
+
+15作品(初回)→105作品(2026-07-31)→155作品(2026-08-01、受賞作50作品追加)→205作品(2026-08-01、デスゲームジャンル20作品+幅広いジャンル30作品を追加)。205作品時点で著者188・イラストレーター180・出版社39・テーマ37・アワード29。
+
 ## 既知の未着手事項
 
 - **新人賞 / それ以外の賞でのフィルター**: 受賞歴を「新人賞(デビュー契機の公募賞)」と「それ以外(このラノすごい!等の人気投票・ランキング)」に区別してフィルターできるようにする。awards.jsonに賞の種別を表すフィールドの追加が必要
-- **表紙画像の未解決作品**: 「陰陽ノ京」のみ楽天ブックス・Koboどちらにも書誌が見つからず未解決(絶版の可能性が高い)。他の書誌情報源を個別確認するか、`covers-cache.json`を手動で埋める
+- **表紙画像の未解決作品**: 「陰陽ノ京」「境界の彼方」の2作品のみ楽天ブックス・Koboどちらにも書誌が見つからず未解決。他の書誌情報源を個別確認するか、`covers-cache.json`を手動で埋める
