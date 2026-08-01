@@ -1,7 +1,7 @@
 // Reads public/data/source/*.json (hand-authored) and writes public/data/generated/*.json:
 // denormalized, name-resolved data ready for direct rendering, plus reference-integrity
 // checks so a typo'd id fails the build instead of silently rendering blank names.
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -19,6 +19,12 @@ const illustrators = readSource("illustrators");
 const publishers = readSource("publishers");
 const themes = readSource("themes");
 const awards = readSource("awards");
+
+// Optional: built by `npm run fetch-covers` (scripts/fetch-covers.mjs), which resolves an ISBN
+// per work via NDL Search and a cover image URL via openBD, then commits the result here so
+// builds stay offline/deterministic. Absent entries just mean "no cover resolved yet".
+const coversCachePath = path.join(sourceDir, "covers-cache.json");
+const coversCache = existsSync(coversCachePath) ? JSON.parse(readFileSync(coversCachePath, "utf-8")) : {};
 
 const authorsById = new Map(authors.map((a) => [a.id, a]));
 const illustratorsById = new Map(illustrators.map((i) => [i.id, i]));
@@ -78,6 +84,7 @@ const worksGenerated = works.map((w) => ({
     year: r.year,
     result: r.result,
   })),
+  coverUrl: coversCache[w.id]?.coverUrl ?? undefined,
 }));
 
 // Cross-reference lists (author/illustrator/publisher/theme pages) embed the full

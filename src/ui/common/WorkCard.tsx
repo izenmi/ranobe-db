@@ -20,7 +20,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
   return (
     <div className="work-card">
       <Link className="work-card__link" to={`/works/${work.id}`}>
-        <WorkCover title={work.title} size="sm" />
+        <WorkCover title={work.title} coverUrl={work.coverUrl} size="sm" />
         <div className="work-card__body">
           <div className="work-card__title">{work.title}</div>
           <div className="work-card__meta">

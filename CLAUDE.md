@@ -17,8 +17,8 @@
 
 - **出典は日本語版Wikipediaを一次情報とする**。ユーザーが口頭で伝えるタイトル・著者名・レーベル名・巻数等はしばしば誤っているので、書き込む前に必ずWikipediaで裏取りする。矛盾があれば訂正し、`sourceNote`に何を確認したか・何が未確認かを明記する
 - **あらすじはコピペ禁止**。Wikipediaの文章表現をそのまま転記せず、150〜250字程度で必ず自分の言葉で要約する(事実自体は著作権保護対象外だが、文章表現はCC BY-SA 4.0の対象になりうるため)
-- **表紙画像は実画像を使わない(現状)**。`WorkCover`コンポーネントがタイトル文字列のハッシュ値からパステルカラーのプレースホルダーを生成する。将来的にopenBDへ切り替える方針は「既知の未着手事項」を参照。直リンクの画像URL(`m.media-amazon.com/images/I/...`等)は推測・ハードコードしない
-- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンク(ASIN指定の`/dp/<ASIN>`等)は使わない。理由: 直リンクには巻ごとのISBN/ASINデータが必要だが、`works.json`はシリーズ単位のデータしか持っておらず、収集コストに見合わないとユーザーと合意済み(2026-08-01)。フォーマットは「既知の未着手事項」のAmazonアフィリエイトリンクの節を参照
+- **表紙画像は`covers-cache.json`にあれば実画像、なければプレースホルダー**。`scripts/fetch-covers.mjs`(`npm run fetch-covers`、要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`)が楽天ブックス書籍検索APIでシリーズごとのISBN・表紙URLを解決し`public/data/source/covers-cache.json`に**コミットする**(ビルド時には叩かない)。`WorkCover`コンポーネントは`coverUrl`があれば`<img>`、なければタイトル文字列のハッシュ値からパステルカラーのプレースホルダーを生成(画像404時もプレースホルダーにフォールバック)。openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用(2026-08-01検証)。直リンクの画像URL(`m.media-amazon.com/images/I/...`等)を推測・ハードコードすることはしない
+- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンク(ASIN指定の`/dp/<ASIN>`等)は使わない。理由: 直リンクには巻ごとのISBN/ASINデータが必要だが、`works.json`はシリーズ単位のデータしか持っておらず、収集コストに見合わないとユーザーと合意済み(2026-08-01)。`amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成する
 - **Web小説サイトへのリンクは検索URLパターンのみ**使う(`小説家になろう`: `https://yomou.syosetu.com/search.php?word=<encoded>`、`カクヨム`: `https://kakuyomu.jp/search?q=<encoded>`)。個別作品のパーマリンクは推測しない
 - 新規idを追加する前に既存の`authors.json`/`illustrators.json`/`publishers.json`を確認し、同一人物・レーベルの重複登録を避ける(既存作の著者が新規作にも登場するケースが多い)
 
@@ -71,9 +71,15 @@ npm run preview
 
 `main`へのpushで`.github/workflows/deploy.yml`が自動ビルド・GitHub Pagesデプロイを行う。
 
+## 表紙画像・購入リンク(2026-08-01実装)
+
+- **表紙画像**: `npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数、[楽天ウェブサービス](https://webservice.rakuten.co.jp/)で無料即時発行)が楽天ブックス書籍検索API(`BooksTotal/Search`)でシリーズタイトルから代表巻(基本1巻)のISBN・表紙URLを解決し、`public/data/source/covers-cache.json`に保存する。105作品中90作品(86%)で解決済み(2026-08-01時点)。解決できなかった作品(絶版などで楽天カタログに1巻が存在しない等)はプレースホルダーのまま。マッチ精度に問題があれば`covers-cache.json`を直接手編集して直せる(`isbn`/`coverUrl`/`matchedTitle`を書き換えるだけ)
+  - このAPIは`Referer`/`Origin`ヘッダーがアプリ登録時の「アプリケーションURL」(`https://izenmi.github.io/ranobe-db/`)と一致している必要がある(`scripts/fetch-covers.mjs`内の`REFERER_URL`/`ORIGIN_URL`で送信)
+  - openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用と判断済み(再検討不要)
+- **購入リンク**: `amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「1巻をAmazonで探す」「シリーズ全体を探す」の2リンクを表示
+
 ## 既知の未着手事項
 
 - **アニメ化/コミック化フィルター**: 作品一覧・テーマ詳細ページに、メディアミックス状況で絞り込めるフィルターを追加する
 - **新人賞 / それ以外の賞でのフィルター**: 受賞歴を「新人賞(デビュー契機の公募賞)」と「それ以外(このラノすごい!等の人気投票・ランキング)」に区別してフィルターできるようにする。awards.jsonに賞の種別を表すフィールドの追加が必要
-- **表紙画像はopenBDから取得**: Amazon PA-API 5.0は実績要件を満たせず利用不可と判明(再検討不要)。代わりに[openBD](https://openbd.jp/)のISBN検索APIから表紙画像を取得する方針
-- **購入リンクはAmazonアフィリエイトタグ付き検索URL**: 直リンクではなく検索URL形式に、ユーザーのアソシエイトタグを付与する。フォーマット: `https://www.amazon.co.jp/s?k=<作品名+巻数をURLエンコード>&tag=izenmi-22`。既存のWeb小説検索リンク(なろう/カクヨム)と同じ「検索URLのみ、直リンク・画像URL推測禁止」の考え方を踏襲する
+- **表紙画像の未解決15作品**: `npm run fetch-covers`で見つからなかった作品(なれる!SE、キーリ、塩の街、イリヤの空、半分の月がのぼる空など)は、`covers-cache.json`を手動で埋めるか、楽天カタログ側に該当書誌がないか個別確認する

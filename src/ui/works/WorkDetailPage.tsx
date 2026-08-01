@@ -23,14 +23,12 @@ export function WorkDetailPage() {
         <>
           <div className="work-detail__hero">
             <div className="work-detail__hero-cover">
-              <WorkCover title={state.data.title} size="lg" />
-              <a
-                className="cover-link"
-                href={amazonSearchUrl(state.data.title, state.data.authorNames)}
-                target="_blank"
-                rel="noreferrer"
-              >
-                表紙をAmazonで見る
+              <WorkCover title={state.data.title} coverUrl={state.data.coverUrl} size="lg" />
+              <a className="cover-link" href={amazonSearchUrl(state.data.title, "1巻")} target="_blank" rel="noreferrer">
+                1巻をAmazonで探す
+              </a>
+              <a className="cover-link" href={amazonSearchUrl(state.data.title)} target="_blank" rel="noreferrer">
+                シリーズ全体を探す
               </a>
             </div>
             <div className="work-card__body">

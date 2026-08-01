@@ -89,6 +89,9 @@ export interface WorkGenerated extends WorkSource {
   publisherName: string;
   themeNames: string[];
   awardSummaries: { awardId: string; awardName: string; year: number; result: string }[];
+  /** Resolved at build time from public/data/source/covers-cache.json (see scripts/fetch-covers.mjs).
+   *  Absent when no ISBN/cover could be matched — callers must fall back to the placeholder cover. */
+  coverUrl?: string;
 }
 
 /** Shared shape for authors/illustrators/publishers list+detail pages. */

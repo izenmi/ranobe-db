@@ -300,8 +300,13 @@ h1 {
   border-color: var(--color-primary-strong);
 }
 
+.work-cover--image {
+  object-fit: cover;
+  background: var(--color-surface);
+}
+
 .cover-link {
-  display: inline-block;
+  display: block;
   margin-top: 6px;
   font-size: 0.78rem;
   font-weight: 700;

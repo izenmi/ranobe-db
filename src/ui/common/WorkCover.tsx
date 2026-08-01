@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 const COVER_COLORS = ["blue", "pink", "mint", "yellow", "peach", "purple"] as const;
 
 function colorFor(title: string): (typeof COVER_COLORS)[number] {
@@ -6,9 +8,23 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
   return COVER_COLORS[sum % COVER_COLORS.length];
 }
 
-/** Generated placeholder "cover" (title on a pastel card) — we deliberately don't source or
- *  host real book cover art, since that's copyrighted illustration work, not a fact. */
-export function WorkCover({ title, size = "sm" }: { title: string; size?: "sm" | "lg" }) {
+/** Real cover image when one was resolved (public/data/source/covers-cache.json, built by
+ *  `npm run fetch-covers` — see scripts/fetch-covers.mjs), falling back to a generated
+ *  placeholder (title on a pastel card) when absent or the image fails to load. We don't host
+ *  cover art ourselves; that's copyrighted illustration work, not a fact. */
+export function WorkCover({ title, coverUrl, size = "sm" }: { title: string; coverUrl?: string; size?: "sm" | "lg" }) {
+  const [broken, setBroken] = useState(false);
+  if (coverUrl && !broken) {
+    return (
+      <img
+        className={`work-cover work-cover--${size} work-cover--image`}
+        src={coverUrl}
+        alt={title}
+        loading="lazy"
+        onError={() => setBroken(true)}
+      />
+    );
+  }
   return (
     <div className={`work-cover work-cover--${size} work-cover--${colorFor(title)}`}>
       <span className="work-cover__title">{title}</span>
@@ -16,9 +32,16 @@ export function WorkCover({ title, size = "sm" }: { title: string; size?: "sm" |
   );
 }
 
-export function amazonSearchUrl(title: string, authorNames: string[]): string {
-  const query = [title, authorNames[0]].filter(Boolean).join(" ");
-  return `https://www.amazon.co.jp/s?k=${encodeURIComponent(query)}`;
+const AMAZON_AFFILIATE_TAG = "izenmi-22";
+
+/** Amazon search-results link — never a direct product page. works.json only tracks
+ *  series-level data (no per-volume ISBN/ASIN), so we can't link a specific product reliably;
+ *  see CLAUDE.md "購入リンクは検索URL形式のみ". Pass `volumeLabel` (e.g. "1巻") to narrow the
+ *  query to one volume, or omit it to search the whole series. */
+export function amazonSearchUrl(title: string, volumeLabel?: string): string {
+  const query = volumeLabel ? `${title} ${volumeLabel}` : title;
+  const params = new URLSearchParams({ k: query, tag: AMAZON_AFFILIATE_TAG });
+  return `https://www.amazon.co.jp/s?${params.toString()}`;
 }
 
 const WEB_NOVEL_SITE: Record<"narou" | "kakuyomu", { label: string; searchUrl: (title: string) => string }> = {
