@@ -11852,5 +11852,431 @@
       "anime": true,
       "comic": false
     }
+  },
+  {
+    "id": "inkya-gal-beta-bore",
+    "title": "陰キャの僕に罰ゲームで告白してきたはずのギャルが、どう見ても僕にベタ惚れです",
+    "titleKana": "いんきゃのぼくにばつげーむでこくはくしてきたはずのぎゃるが、どうみてもぼくにべたぼれです",
+    "authorIds": [
+      "kesseki"
+    ],
+    "illustratorIds": [
+      "kagachisaku"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "罰ゲームのはずの告白で付き合うことになった陰キャ男子と、学校でも目立つギャルの女の子。彼女の態度はどう見ても本気の恋心にしか見えず、周囲を巻き込みながら二人の関係が少しずつ育っていく学園ラブコメ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰キャの僕に罰ゲームで告白してきたはずのギャルが、どう見ても僕にベタ惚れです"
+    },
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。「小説家になろう」「ノベルアップ+」で2020年3月連載開始、2021年12月書籍化、既刊13巻・続刊中、コミカライズ(2022年6月開始)ありを確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "sankaku-no-kyori-wa-kagirinai-zero",
+    "title": "三角の距離は限りないゼロ",
+    "titleKana": "さんかくのきょりはかぎりないぜろ",
+    "authorIds": [
+      "misaki-saginomiya"
+    ],
+    "illustratorIds": [
+      "hiten"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "高校2年の矢野四季は転校生の水瀬秋玻に惹かれるが、彼女には春珂というもう一つの人格が同居していることを知る。ふたつの人格の狭間で揺れる恋心を描く、痛みを伴う三角関係の青春ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "新作部門3位・文庫部門8位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三角の距離は限りないゼロ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2018年5月刊行開始、2023年4月完結の全9巻、コミカライズ(月刊コミックアライブ、全3巻)ありを確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "watashi-nibanme-no-kanojo-de-iikara",
+    "title": "わたし、二番目の彼女でいいから。",
+    "titleKana": "わたし、にばんめのかのじょでいいから。",
+    "authorIds": [
+      "saijou-akira"
+    ],
+    "illustratorIds": [
+      "re-gaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "それぞれ別に本命の相手がいる高校生の男女が、本命同士が結ばれたら別れる約束のもと「二番目」の恋人として付き合い始める。本心を隠したまま少しずつ近づいていく危うい関係を描く青春ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "文庫部門7位・総合新作3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/わたし、二番目の彼女でいいから。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2021年9月刊行開始、全9巻完結(最終巻2026年5月)、コミカライズ(電撃コミックレグルス、2022年9月開始)ありを確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "imouto-wa-kanojo-ni-dekinai-noni",
+    "title": "妹はカノジョにできないのに",
+    "titleKana": "いもうとはかのじょにできないのに",
+    "authorIds": [
+      "kagami-yuu"
+    ],
+    "illustratorIds": [
+      "mikuro"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "imouto",
+      "seishun-lovecome",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "中学生の妹・雪季と親密な兄妹関係を築いていた春太だが、ある日二人が血の繋がらない義理の兄妹だったという事実が発覚する。妹だと思っていた相手との関係の変化に戸惑いながら惹かれ合っていく現代学園ラブコメ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鏡遊"
+    },
+    "sourceNote": "著者個人のWikipedia日本語版記事およびKADOKAWA公式商品ページを参照(2026年8月時点)。作品専用のWikipedia記事は確認できず。2022年4月～2023年11月刊行、全5巻完結を確認。コミカライズ等メディアミックス情報は未確認のためmediaMixフィールドは省略した。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "watashi-ga-koibito-ni-nareru-wake-nai-jan-murimuri",
+    "title": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+    "titleKana": "わたしがこいびとになれるわけないじゃん、むりむり！",
+    "authorIds": [
+      "mikami-teren"
+    ],
+    "illustratorIds": [
+      "takeshima-eku"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "yuri",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "ぼっちだった過去を変えるため高校デビューした甘織れな子は、学園随一の人気者・王塚真唯から突然「恋をしてしまった」と告白される。戸惑いながらも自分の気持ちと向き合っていく女子高生同士の青春ガールズラブコメ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2020年2月刊行開始、既刊8巻以上・続刊中(2026年8月時点で正確な最新刊数は未確認)を確認。2025年夏にテレビアニメ化、マンガ化(ヤンジャン+)されたことを確認。出版社「ダッシュエックス文庫」(集英社)は既存レーベル一覧に無いためnewPublisherProposalとして提案。「次にくるライトノベル大賞2021」受賞歴は確認したが既存アワード一覧に一致項目が無く省略した。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "yuujin-kyara-wa-taihen-desuka",
+    "title": "友人キャラは大変ですか？",
+    "titleKana": "ゆうじんきゃらはたいへんですか",
+    "authorIds": [
+      "date-yasushi"
+    ],
+    "illustratorIds": [
+      "benio"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "「友人キャラのプロ」を自称する小林一郎は、高校で理想の主人公・日ノ森竜牙と出会い、彼を陰から支える最強の脇役人生を歩み始める。物語の定石を茶化しながら青春を描くメタ学園コメディ。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・コミックシーモア・紀伊國屋書店等の書誌情報を参照(2026年8月時点)。Wikipedia独自記事は確認できず。既刊10巻で完結、コミカライズ(2020年6月配信開始)を確認。刊行開始年は第7巻が2019年6月発売という情報から逆算した推定値(2017年頃)であり、1巻の正確な発売年は未確認。latestPublishedYearも未確認のため省略。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "title": "灰原くんの強くて青春ニューゲーム",
+    "titleKana": "はいばらくんのつよくてせいしゅんにゅーげーむ",
+    "authorIds": [
+      "amamiya-kazuki"
+    ],
+    "illustratorIds": [
+      "gin"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "time-travel",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "高校デビューに失敗し冴えない人生を送っていた大学4年生の灰原夏希は、ある日高校入学直前の7年前へ遡ってしまう。今度こそという思いで積み重ねた経験を武器に青春をやり直し、片想いの相手との関係を築き直していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰原くんの強くて青春ニューゲーム"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2021年12月刊行開始、2026年6月完結の全11巻、テレビアニメ化(2026年4-6月)・複数のコミカライズを確認。HJ小説大賞2020受賞歴は既存アワード一覧に該当項目がなく省略した。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "class-de-nibanme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "クラスで2番目に可愛い女の子と友だちになった",
+    "titleKana": "くらすでにばんめにかわいいおんなのことともだちになった",
+    "authorIds": [
+      "takata"
+    ],
+    "illustratorIds": [
+      "osabe-tomu",
+      "hinata-azuri"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "男子高校生の前原真樹は「クラスで2番目に可愛い女の子」と呼ばれる朝凪海と、周囲には秘密の放課後の時間を過ごすようになる。素顔を見せ合いながら少しずつ変化していく二人の関係を描く青春ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2020,
+        "result": "第6回カクヨムWeb小説コンテスト ラブコメ部門特別賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラスで2番目に可愛い女の子と友だちになった"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。カクヨムで2020年11月連載開始、2021年12月書籍化、全11巻(本編10巻+短編集1巻)完結、テレビアニメ化(2026年4-6月)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasu",
+    "title": "カノジョに浮気されていた俺が、小悪魔な後輩に懐かれています",
+    "titleKana": "かのじょにうわきされていたおれが、こあくまなこうはいになつかれています",
+    "authorIds": [
+      "miyami-yuu"
+    ],
+    "illustratorIds": [
+      "eru"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "クリスマス直前に恋人に浮気された大学生・羽瀬川悠太のもとに、遠慮なく家に上がり込んでは彼をからかう後輩・志乃原真由が通うようになる。傷心の日々を支えてくれる彼女との距離が少しずつ縮まっていく年下ヒロインとの恋愛コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2017,
+        "result": "第4回カクヨムWeb小説コンテスト ラブコメ部門特別賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カノジョに浮気されていた俺が、小悪魔な後輩に懐かれています"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2017年12月「小説家になろう」で連載開始、2019年12月書籍化、2024年10月刊行の特別編を含め全9巻で完結、コミカライズありを確認。舞台は大学生設定のため学園(gakuen)タグは付与していない。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "shujinkou-no-osananajimi-ga-wakiyaku-no-ore-ni-guigui-kuru",
+    "title": "主人公の幼馴染が、脇役の俺にグイグイくる",
+    "titleKana": "しゅじんこうのおさななじみが、わきやくのおれにぐいぐいくる",
+    "authorIds": [
+      "rakuda"
+    ],
+    "illustratorIds": [
+      "kompi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "time-travel",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "ラブコメの主人公に人生を振り回され続けた脇役の男は、高校入学式の朝まで人生をやり直すことになる。二度目の高校生活で、主人公の幼馴染である学園随一の「氷の女帝」から突然告白されるが、その真意を測りかねる青春ラブコメ。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKER書誌情報を参照(2026年8月時点)。Wikipedia独自記事は確認できず。2025年1月刊行開始、既刊4巻(2026年6月時点)・続刊中、コミカライズ(北斗すい作画)ありを確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "youkya-ni-natta-ore-no-seishun-shijoushugi",
+    "title": "陽キャになった俺の青春至上主義",
+    "titleKana": "ようきゃになったおれのせいしゅんしじょうしゅぎ",
+    "authorIds": [
+      "mochizaki-yuba"
+    ],
+    "illustratorIds": [
+      "nyumu"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "陰キャだった過去を捨て高校デビューに成功した上田橋汰は、陽キャグループの一員として青春を謳歌しようとするが、なぜか好意を寄せてくるのは陰キャな女子ばかり。陰と陽が入り混じるネオ青春ラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2022,
+        "result": "金賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式サイト(ga.sbcr.jp)を参照(2026年8月時点)。Wikipedia記事は確認できず。第14回GA文庫大賞金賞受賞、2023年1月刊行開始を確認。受賞回の正確な開催年は公式サイトに明記が無く2022年と推定。最新刊年・完結状況は未確認のためstatusはongoingとし、latestPublishedYearは省略した。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
+    "title": "透明な夜に駆ける君と、目に見えない恋をした。",
+    "titleKana": "とうめいなよるにかけるきみと、めにみえないこいをした。",
+    "authorIds": [
+      "shiba-nanigashi"
+    ],
+    "illustratorIds": [
+      "raemz"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "山口県から上京した内気な大学生・空野かけるは、視覚に障害を持ちながらも前向きに大学生活を楽しむ冬月小春と出会う。何も諦めない彼女の姿に惹かれ、少しずつ距離を縮めていく現代青春ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2022,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/透明な夜に駆ける君と、目に見えない恋をした。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。第15回GA文庫大賞大賞受賞、2023年8月刊行開始、全2巻完結(2024年8月)、コミカライズ・テレビアニメ化(2026年7月)・実写ドラマ化(2025年12月-2026年2月)を確認。舞台は大学生のため学園(gakuen)タグは付与していない。受賞回の正確な開催年は明記が無く2022年と推定。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

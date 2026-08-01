@@ -597,5 +597,18 @@
     },
     "sourceNote": "Wikipedia日本語版「ハヤカワ文庫」を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "dash-x-bunko",
+    "name": "ダッシュエックス文庫",
+    "nameKana": "だっしゅえっくすぶんこ",
+    "parentCompany": "集英社",
+    "description": "集英社が2016年に「スーパーダッシュ文庫」の後継として創刊したライトノベルレーベル。学園ラブコメ・エンタメ作品を中心に刊行している。",
+    "foundedYear": 2016,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダッシュエックス文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「ダッシュエックス文庫」を参照(2026年8月時点)。前身「スーパーダッシュ文庫」(既存id: super-dash-bunko)とは別idで管理。",
+    "updatedAt": "2026-08-01"
   }
 ]

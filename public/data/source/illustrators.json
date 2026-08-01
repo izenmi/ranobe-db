@@ -2612,5 +2612,95 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kagachisaku",
+    "name": "かがちさく",
+    "nameKana": "かがちさく",
+    "description": "本作のキャラクターイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事内の表記を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hiten",
+    "name": "Hiten",
+    "nameKana": "ひてん",
+    "description": "本作のキャラクターイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "re-gaku",
+    "name": "Re岳",
+    "nameKana": "れいがく",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。読み仮名の公式表記は確認できず推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikuro",
+    "name": "三九呂",
+    "nameKana": "みくろ",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページを参照。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takeshima-eku",
+    "name": "竹嶋えく",
+    "nameKana": "たけしまえく",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "osabe-tomu",
+    "name": "長部トム",
+    "nameKana": "おさべとむ",
+    "description": "1巻のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hinata-azuri",
+    "name": "日向あずり",
+    "nameKana": "ひなたあずり",
+    "description": "2巻以降のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "eru",
+    "name": "えーる",
+    "nameKana": "える",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kompi",
+    "name": "こむぴ",
+    "nameKana": "こむぴ",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式ページより確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nyumu",
+    "name": "にゅむ",
+    "nameKana": "にゅむ",
+    "description": "本作のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
   }
 ]

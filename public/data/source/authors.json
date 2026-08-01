@@ -2992,5 +2992,108 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kesseki",
+    "name": "結石",
+    "nameKana": "けっせき",
+    "description": "「小説家になろう」発の学園ラブコメを手がけるウェブ発ライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事内の著者表記を確認。個人のWikipedia記事は無し。生年など経歴詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "misaki-saginomiya",
+    "name": "岬鷺宮",
+    "nameKana": "みさきさぎのみや",
+    "description": "電撃文庫を中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岬鷺宮"
+    },
+    "sourceNote": "Wikipedia日本語版(著者個人記事)を参照(2026年8月時点)。生年の記載は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "saijou-akira",
+    "name": "西条陽",
+    "nameKana": "さいじょうあきら",
+    "description": "電撃文庫でラブコメ作品を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事内の著者表記を確認。個人のWikipedia記事は無し。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kagami-yuu",
+    "name": "鏡遊",
+    "nameKana": "かがみゆう",
+    "description": "アダルトゲームのシナリオライターを経てライトノベル作家に転身。「僕のカノジョ先生」などを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鏡遊"
+    },
+    "sourceNote": "Wikipedia日本語版(著者個人記事)を参照(2026年8月時点)。生年の記載は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikami-teren",
+    "name": "みかみてれん",
+    "nameKana": "みかみてれん",
+    "description": "ダッシュエックス文庫でガールズラブコメを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事内の著者表記を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "date-yasushi",
+    "name": "伊達康",
+    "nameKana": "だてやすし",
+    "description": "ガガガ文庫でメタ視点の学園コメディを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "コミックシーモア等の書誌情報を参照。Wikipedia個人記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amamiya-kazuki",
+    "name": "雨宮和希",
+    "nameKana": "あまみやかずき",
+    "description": "HJ文庫でタイムリープ青春ラブコメを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。個人記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takata",
+    "name": "たかた",
+    "nameKana": "たかた",
+    "description": "カクヨム発の学園ラブコメで人気を博す作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。個人記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miyami-yuu",
+    "name": "御宮ゆう",
+    "nameKana": "みやみゆう",
+    "description": "「小説家になろう」発のラブコメを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mochizaki-yuba",
+    "name": "持崎湯葉",
+    "nameKana": "もちざきゆうば",
+    "description": "GA文庫大賞金賞受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式サイトを参照。Wikipedia個人記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiba-nanigashi",
+    "name": "志馬なにがし",
+    "nameKana": "しばなにがし",
+    "description": "GA文庫大賞受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "作品Wikipedia記事より確認。",
+    "updatedAt": "2026-08-01"
   }
 ]
