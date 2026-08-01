@@ -1252,5 +1252,103 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "haruna-don",
+    "name": "榛名丼",
+    "nameKana": "はるなどん",
+    "description": "電撃文庫作家。第29回電撃小説大賞《大賞》を受賞しデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takemachi",
+    "name": "竹町",
+    "nameKana": "たけまち",
+    "description": "カクヨム発のライトノベル作家。第32回ファンタジア大賞《大賞》受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "inaka-dachima",
+    "name": "井中だちま",
+    "nameKana": "いなかだちま",
+    "description": "第29回ファンタジア大賞《大賞》受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amagi-kei",
+    "name": "天城ケイ",
+    "nameKana": "あまぎけい",
+    "description": "第28回ファンタジア大賞《大賞》受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "murasaki-daigo",
+    "name": "紫大悟",
+    "nameKana": "むらさきだいご",
+    "description": "第33回ファンタジア大賞《大賞》受賞作家。ゲーム好きが高じて本作を執筆。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "asano-hajime",
+    "name": "あさのハジメ",
+    "nameKana": "あさのはじめ",
+    "description": "第5回MF文庫Jライトノベル新人賞《最優秀賞》受賞作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あさのハジメ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nishino-katsumi",
+    "name": "西野かつみ",
+    "nameKana": "にしのかつみ",
+    "description": "第1回MF文庫Jライトノベル新人賞《佳作》受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "satou-to-shio",
+    "name": "サトウとシオ",
+    "nameKana": "さとうとしお",
+    "description": "第8回GA文庫大賞《優秀賞》受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakamura-erika",
+    "name": "中村恵里加",
+    "nameKana": "なかむらえりか",
+    "description": "1999年に「ダブルブリッド」で第6回電撃ゲーム小説大賞金賞を受賞しデビューした小説家。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村恵里加"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "watase-souichirou",
+    "name": "渡瀬草一郎",
+    "nameKana": "わたせそういちろう",
+    "description": "2000年に第7回電撃ゲーム小説大賞金賞(応募時タイトル『平安京八卦』)を受賞し、翌年『陰陽ノ京』でデビューした小説家。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡瀬草一郎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

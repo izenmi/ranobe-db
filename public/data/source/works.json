@@ -4979,5 +4979,405 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "replica-datte-koi-wo-suru",
+    "title": "レプリカだって、恋をする。",
+    "titleKana": "れぷりかだってこいをする",
+    "authorIds": [
+      "haruna-don"
+    ],
+    "illustratorIds": [
+      "raemz"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "seishun-lovecome",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "自分と同じ姿の分身「レプリカ」を生み出す能力を持つ少女・愛川素直。彼女が望んだときにだけ現れ、代役として生きてきたレプリカの「ナオ」は、ある日クラスメイトの少年・真田秋也に恋をしてしまい、オリジナルとは異なる感情の芽生えに戸惑い始める。「本物」と「複製」を隔てる境界はどこにあるのか、そして恋する資格とは何かを静かに問いかける、切なくも温かい青春ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2022,
+        "result": "第29回電撃小説大賞 大賞(受賞時タイトル「ドッペルゲンガーは恋をする」)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レプリカだって、恋をする。"
+    },
+    "sourceNote": "Wikipedia日本語版「レプリカだって、恋をする。」を参照し独自に要約(2026年8月時点)。メディアミックス: 2026年4月にテレビアニメ放送、電撃マオウにてコミカライズ連載。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "supai-kyoushitsu",
+    "title": "スパイ教室",
+    "titleKana": "すぱいきょうしつ",
+    "authorIds": [
+      "takemachi"
+    ],
+    "illustratorIds": [
+      "tomari",
+      "gabiran"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "battle-action",
+      "senki",
+      "mystery",
+      "adventure",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "世界最大の国家「ガルガド帝国」との情報戦を担う諜報機関の養成学校で、実技も座学も落第の烙印を押された少女ばかりが選ばれる。超一流スパイのクラウスは、そんな彼女たちを寄せ集めてチーム「灯」を結成し、誰も生きて帰れないとされる不可能任務に挑ませる。嘘と裏切りが渦巻く騙し合いの中で、少女たちが互いの過去や実力を競い合いながら着実に成長していく群像スパイアクション。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2019,
+        "result": "第32回ファンタジア大賞 大賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "文庫部門・新作部門ともに2位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スパイ教室"
+    },
+    "sourceNote": "Wikipedia日本語版「スパイ教室」を参照し独自に要約(2026年8月時点)。メディアミックス: 2023年にテレビアニメ2クール放送、月刊コミックアライブ等でコミカライズ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "okaasan-wa-suki-desu-ka",
+    "title": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "titleKana": "つうじょうこうげきがぜんたいこうげきでにかいこうげきのおかあさんはすきですか",
+    "authorIds": [
+      "inaka-dachima"
+    ],
+    "illustratorIds": [
+      "iida-pochi"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "新作VRMMORPGのモニターに選ばれた高校生の益荒虎徹は、意気揚々とゲーム世界に降り立つが、家族思いの母親までもがなぜか一緒にログインしてしまう。しかも母の「通常攻撃」はまさかの全体攻撃・二回攻撃という規格外の性能で、常識外れの強さを見せつけていく。ゲーム内の非常識な母の活躍と、親子のこそばゆい絆を軸に描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2016,
+        "result": "第29回ファンタジア大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
+    },
+    "sourceNote": "Wikipedia日本語版「通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?」を参照し独自に要約(2026年8月時点)。メディアミックス: 2019年テレビアニメ化(全13話)、ヤングエースUPにてコミカライズ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "assassins-pride",
+    "title": "アサシンズプライド",
+    "titleKana": "あさしんずぷらいど",
+    "authorIds": [
+      "amagi-kei"
+    ],
+    "illustratorIds": [
+      "ninomoto-nino"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "ken-to-mahou",
+      "battle-action",
+      "gakuen",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "太陽を失い、夜と闇夜獣が支配する世界フランドール。魔力「マナ」を持たない「無能才女」メリダのもとに、暗殺者ギルド出身の家庭教師クーファが派遣される。初日は見限りかけたクーファだったが、危険を顧みず戦うメリダの姿に心を動かされ、本来禁忌とされる技を用いて彼女を一流の騎士へと鍛え上げる決意を固める、師弟の絆を描くバトルファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2015,
+        "result": "第28回ファンタジア大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサシンズプライド"
+    },
+    "sourceNote": "Wikipedia日本語版「アサシンズプライド」を参照し独自に要約(2026年8月時点)。メディアミックス: 2019年テレビアニメ化、加藤よし江作画でコミカライズ(全10巻)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "maou-2099",
+    "title": "魔王2099",
+    "titleKana": "まおうにぜろきゅうきゅう",
+    "authorIds": [
+      "murasaki-daigo"
+    ],
+    "illustratorIds": [
+      "kureta"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "ken-to-mahou",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "定命と不死の覇権をかけた不死戦争の最終決戦で、勇者グラムに敗れ滅びたはずの魔王ベルトールが、500年後、魔法とサイバーパンクが融合した近未来都市で不完全な姿のまま蘇る。弱体化した自身の力を取り戻すため、なんとゲーム配信者として活動を始めた魔王と、彼を取り巻く人々との攻防を描く近未来SFファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2020,
+        "result": "第33回ファンタジア大賞 大賞(受賞時タイトル「剣と魔王のサイバーパンク」)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王2099"
+    },
+    "sourceNote": "Wikipedia日本語版「魔王2099」を参照し独自に要約(2026年8月時点)。メディアミックス: 2024年テレビアニメ化(J.C.STAFF制作)、複数版のコミカライズあり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mayo-chiki",
+    "title": "まよチキ！",
+    "titleKana": "まよちき",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [
+      "kikuchi-seiji"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "母と妹の格闘技の稽古台にされ続けたせいで重度の女性恐怖症を患う高校生・坂町近次郎。ある日、学園一の令嬢とされる涼月奏の執事「近衛スバル」が実は女性であるという秘密を知ってしまい、恐怖症克服の協力と引き換えに口止めを申し出られる。三人それぞれの思惑が絡み合いながら、秘密を抱えた関係が少しずつ変化していく学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "第5回MF文庫Jライトノベル新人賞 最優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まよチキ！"
+    },
+    "sourceNote": "Wikipedia日本語版「まよチキ!」を参照し独自に要約(2026年8月時点)。メディアミックス: 2011年テレビアニメ化(全13話)、月刊コミックアライブ版など複数コミカライズ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kanokon",
+    "title": "かのこん",
+    "titleKana": "かのこん",
+    "authorIds": [
+      "nishino-katsumi"
+    ],
+    "illustratorIds": [
+      "kitsunejirushi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "harem",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "田舎から都会の高校に転校してきた小山田耕太は、転校初日に学校一の美少女と噂される源ちずるから熱烈な告白を受けるが、同時に彼女が人を化かす力を持つ妖狐であるという秘密を知らされてしまう。人間と妖怪の恋人たちが入り交じる賑やかで艶っぽい毎日が幕を開ける、笑いとお色気たっぷりの学園ラブコメディの人気シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "第1回MF文庫Jライトノベル新人賞 佳作"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/かのこん"
+    },
+    "sourceNote": "Wikipedia日本語版「かのこん」を参照し独自に要約(2026年8月時点)。メディアミックス: 2008年テレビアニメ化(AT-X)、月刊コミックアライブでコミカライズ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tatoeba-last-dungeon-mae-no-mura-no-shounen",
+    "title": "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語",
+    "titleKana": "たとえばらすとだんじょんまえのむらのしょうねんがじょばんのまちでくらすようなものがたり",
+    "authorIds": [
+      "satou-to-shio"
+    ],
+    "illustratorIds": [
+      "wari-nao"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "魔王を倒した勇者たちの子孫が暮らす、ラストダンジョン目前の寒村出身の少年ロイドは、軍人を志して王都に匹敵する賑わいを誇る「序盤の街」へ単身赴任する。実は魔王軍幹部をも凌ぐ規格外の実力の持ち主だったが、本人はその強さにまるで気づかぬまま淡々と日常を送り、周囲を巻き込む騒動をのんびりコミカルに描く冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2016,
+        "result": "第8回GA文庫大賞 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語"
+    },
+    "sourceNote": "Wikipedia日本語版「たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語」を参照し独自に要約(2026年8月時点)。メディアミックス: 2021年テレビアニメ化、ガンガンONLINEでコミカライズ、スピンオフ漫画あり。シリーズ累計300万部。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "double-brid",
+    "title": "ダブルブリッド",
+    "titleKana": "だぶるぶりっど",
+    "authorIds": [
+      "nakamura-erika"
+    ],
+    "illustratorIds": [
+      "fujikura-kazune"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mystery",
+      "horror"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "現代日本に、人間とは異なる特異な遺伝子を持つ怪異「怪(あやかし)」が実在する世界。怪と人間の混血として生まれた青年・片倉優樹は、怪の凶行を取り締まる特務部隊の隊員・山崎太一郎と出会い、怪が引き起こす事件の捜査に協力していくことになる。人でも怪でもない自らの存在への葛藤や社会の偏見と向き合いながら、二つの種族の狭間で戦い、絆を育んでいく現代伝奇バトルアクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1999,
+        "result": "第6回電撃ゲーム小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダブルブリッド"
+    },
+    "sourceNote": "Wikipedia日本語版「ダブルブリッド」「中村恵里加」等を参照し独自に要約(2026年8月時点)。メディアミックス: アニメ化なし。しろー作画によるコミカライズが『月刊コミック電撃大王』に連載(単行本全2巻)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "onmyou-no-miyako",
+    "title": "陰陽ノ京",
+    "titleKana": "おんみょうのみやこ",
+    "authorIds": [
+      "watase-souichirou"
+    ],
+    "illustratorIds": [
+      "tajima-shouu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou",
+      "mystery",
+      "horror",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "平安時代の京を舞台に、陰陽道の名門・賀茂家に生まれながら家業を継がず文章道を志した青年・慶滋保胤が主人公。安倍晴明からの依頼をきっかけに洛外の怪しげな法師の素性を探ることになった保胤は、都に潜む怨霊や妖異が絡む怪異事件へと次第に巻き込まれていく。史実の人物や陰陽道の知識を織り交ぜながら、平安京の闇に潜む怪異と陰陽師たちの活躍を描く歴史伝奇ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2000,
+        "result": "第7回電撃ゲーム小説大賞 金賞(応募時タイトル『平安京八卦』)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰陽ノ京"
+    },
+    "sourceNote": "Wikipedia日本語版「陰陽ノ京」「渡瀬草一郎」「田島昭宇」等を参照し独自に要約(2026年8月時点)。メディアミックス: アニメ化・コミカライズともになし。電撃文庫本編5巻に加え、メディアワークス文庫より番外編『陰陽ノ京 月風譚』が2巻刊行(全7巻)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   }
 ]
