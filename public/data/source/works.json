@@ -2558,7 +2558,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/境界線上のホライゾン"
     },
     "sourceNote": "Wikipedia日本語版「境界線上のホライゾン」を参照し独自に要約(2026年7月時点)。本編は全32巻で完結、続編『NEXT BOX』はカクヨム発で刊行中。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "総合部門5位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門10位"
+      }
+    ]
   },
   {
     "id": "zero-kara-hajimeru-mahou-no-sho",
@@ -2845,7 +2857,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある飛空士への追憶"
     },
     "sourceNote": "Wikipedia日本語版「とある飛空士への追憶」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "作品総合ランキング10位"
+      },
+      {
+        "awardId": "daigaku-dokushojin-taisho",
+        "year": 2009,
+        "result": "2位"
+      }
+    ]
   },
   {
     "id": "outbreak-company",

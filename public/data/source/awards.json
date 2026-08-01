@@ -192,6 +192,16 @@
     "updatedAt": "2026-07-31"
   },
   {
+    "id": "daigaku-dokushojin-taisho",
+    "name": "大学読書人大賞",
+    "organizer": "「大学読書人大賞」実行委員会・出版文化産業振興財団(JPIC)",
+    "description": "大学生の書評・文芸サークル有志が選考する文学賞。2008年創設。ライトノベルに限らない一般文芸作品も対象となる。",
+    "firstYear": 2008,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/大学読書人大賞" },
+    "sourceNote": "Web検索でWikipedia記事「大学読書人大賞」の内容を確認(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
     "id": "seiun-sho",
     "name": "星雲賞",
     "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",
