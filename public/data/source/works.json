@@ -662,7 +662,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ"
     },
     "sourceNote": "Wikipedia日本語版「灼眼のシャナ」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで短編集6巻は含まない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2008,
+        "result": "作品部門10位"
+      }
+    ]
   },
   {
     "id": "kino-no-tabi",
@@ -691,7 +698,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/キノの旅"
     },
     "sourceNote": "Wikipedia日本語版「キノの旅」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "作品部門2位"
+      }
+    ]
   },
   {
     "id": "zero-no-tsukaima",
@@ -821,7 +835,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない"
     },
     "sourceNote": "Wikipedia日本語版「俺の妹がこんなに可愛いわけがない」を参照し独自に要約(2026年7月時点)。巻数は本編+ifシリーズの合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門5位"
+      }
+    ]
   },
   {
     "id": "highschool-dxd",
@@ -850,7 +871,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスクールD×D"
     },
     "sourceNote": "Wikipedia日本語版「ハイスクールD×D」を参照し独自に要約(2026年7月時点)。無印版で完結、続編『真ハイスクールD×D』は別記録として扱っていない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2013,
+        "result": "ライトノベル部門5位"
+      }
+    ]
   },
   {
     "id": "infinite-stratos",
