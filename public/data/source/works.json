@@ -13503,5 +13503,229 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "yagate-kimi-ni-naru-saeki-sayaka-ni-tsuite",
+    "title": "やがて君になる 佐伯沙弥香について",
+    "titleKana": "やがてきみになる さえきさやかについて",
+    "authorIds": [
+      "iruma-hitoma"
+    ],
+    "illustratorIds": [
+      "nakatani-nio"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "yuri",
+      "gakuen",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "人気コミック『やがて君になる』のスピンオフ小説。生徒会副会長として登場する佐伯沙弥香に焦点を当て、中学時代に先輩へ抱いた淡い恋心や、大学生になってから経験する新たな出会いと葛藤を描く。原作本編では語られなかった彼女自身の視点からの恋愛と成長の物語。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/やがて君になる"
+    },
+    "sourceNote": "Wikipedia日本語版「やがて君になる」記事内のスピンオフ小説節を参照(2026年8月時点)。原作漫画は2015-2019年連載、全8巻でアニメ化もされているが、本スピンオフ小説自体はアニメ化・コミカライズされていない。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "urasekai-picnic",
+    "title": "裏世界ピクニック",
+    "titleKana": "うらせかいピクニック",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "illustratorIds": [
+      "shirakaba"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "yuri",
+      "horror",
+      "sf",
+      "mystery",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "廃屋の扉の奥に広がる異界「裏世界」に迷い込んだ女子大生・紙越空魚は、怪異「くねくね」に襲われかけたところを仁科鳥子に救われる。行方不明の友人を捜す鳥子に誘われた空魚は、ネット上の怪談を手がかりに危険な裏世界の探索を重ね、命がけの冒険の中で互いへの想いを深めていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/裏世界ピクニック"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行巻数(既刊10巻)、テレビアニメ化(2021年)、コミカライズ(月刊少年ガンガン、既刊16巻)を確認。『SFが読みたい!2018年版』ベストSF国内篇7位だが該当する既存アワードIDがないため受賞歴は省略。イラストレーター「シラカバ」の個人経歴は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "twin-star-cyclone-runaway",
+    "title": "ツインスター・サイクロン・ランナウェイ",
+    "titleKana": "ついんすたー・さいくろん・らんなうぇい",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "illustratorIds": [
+      "mochizuki-kei"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "yuri",
+      "sf",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "遠い未来の宇宙を舞台に、正体不明の生物「昏魚(ベッシュ)」を追う女性二人の漁師コンビの物語。男女ペアで営むのが常識とされる漁の世界に飛び込んだ二人が、周囲の偏見と向き合いながら唯一無二の絆を育んでいく姿を描くSF百合譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ツインスター・サイクロン・ランナウェイ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2019年に短編として発表後、2020年から2025年にかけて全4巻刊行、漫画版(角川ブシロードコミックス、全3巻)も確認。アニメ化は未確認(なし)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "call-me-by-no-name",
+    "title": "コールミー・バイ・ノーネーム",
+    "titleKana": "こーるみー・ばい・のーねーむ",
+    "authorIds": [
+      "shasendou-yuki"
+    ],
+    "illustratorIds": [
+      "kuwabara-tamotsu"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "yuri",
+      "mystery",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "ゴミ捨て場で謎めいた女性・古橋琴葉と出会った大学生・世次愛。他人の家を転々とする琴葉に生活を改めるよう迫ると、琴葉は「友達ではなく恋人として付き合うなら言うことを聞く」と持ちかけ、奇妙な「名前当てゲーム」を提案する。二人の関係が深まるにつれ隠された秘密が明らかになるガールズラブミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コールミー・バイ・ノーネーム"
+    },
+    "sourceNote": "Wikipedia日本語版および書誌情報サイトを参照(2026年8月時点)。星海社FICTIONSより2019年刊行の単発作品。アニメ化・コミカライズはないが、2025年1月より毎日放送でテレビドラマ化(GLドラマとして紹介)されたことを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "shuu-ni-ichido-classmate-wo-kau-hanashi",
+    "title": "週に一度クラスメイトを買う話",
+    "titleKana": "しゅうにいちどくらすめいとをかうはなし",
+    "authorIds": [
+      "haneda-usa"
+    ],
+    "illustratorIds": [
+      "u35"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "yuri",
+      "gakuen",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "クラスメイトの女子から「週に一度、放課後の3時間だけ5000円で自分の時間を買われてほしい」と持ちかけられた主人公。社会的な立場も性格も対照的な二人が、奇妙な契約のもとで過ごす放課後を通じて少しずつ互いへの想いに気づいていく学園百合ラブストーリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/週に一度クラスメイトを買う話"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2020年2月連載開始、2026年5月時点で既刊9巻を確認。2024年6月開始のコミカライズ(秋田書店、既刊2巻)も確認。アニメ化は未確認(なし)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiriwasuretara-densetsu-ni-natteta",
+    "title": "VTuberなんだが配信切り忘れたら伝説になってた",
+    "titleKana": "ぶいちゅーばーなんだがはいしんきりわすれたらでんせつになってた",
+    "authorIds": [
+      "nanato-nana"
+    ],
+    "illustratorIds": [
+      "shio-kazunoko"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "yuri",
+      "gendai-drama",
+      "comedy",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "清楚系VTuberとして人気を得ようとしていた心音天雪は伸び悩んでいたが、酒に酔って配信を切り忘れ素の姿を晒してしまったことで一躍伝説となる。清楚なイメージと本来の姿とのギャップに戸惑いながらも、同じ事務所の女性配信者たちとの絆を育んでいくVTuberコメディ。",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/VTuberなんだが配信切り忘れたら伝説になってた"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。カクヨム及びハーメルンでのWeb連載を経て書籍化、全10巻を確認。アニメ化・コミカライズの有無は記事中に記載がなくメディアミックス情報未確認のためmediaMixフィールドは省略。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "assault-lily-ichiryuutai-shutsugeki-shimasu",
+    "title": "アサルトリリィ 〜一柳隊、出撃します!〜",
+    "titleKana": "あさるとりりぃ いちりゅうたい しゅつげきします",
+    "authorIds": [
+      "kasama-hiroyuki"
+    ],
+    "illustratorIds": [
+      "yaegashi-minami",
+      "hosoi-mieko"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "yuri",
+      "battle-action",
+      "gakuen",
+      "sf"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "人類の脅威「ヒュージ」に対抗するため、少女たちが特殊装備を纏い戦う名門校・百合ヶ丘女学院を舞台にしたシリーズ発端の小説。補欠合格で入学した一柳梨璃たちが、上級生と下級生が絆を結ぶ「シュッツエンゲル制度」のもとで仲間との関係を深めながら未知の敵に挑む姿を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサルトリリィ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。本作はWikipediaのカテゴリ「百合(ジャンル)」に分類されており、女性キャラクター間の絆(シュッツエンゲル制度)が明示的に描かれる一方、ロボット・アクション要素も主軸のシリーズである点に留意。テレビアニメ化(2020年『アサルトリリィ BOUQUET』)・コミカライズ(2020-2023年『League of Gardens -full bloom-』全5巻)を確認。著者・イラストレーターの個人経歴の詳細情報は限定的。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

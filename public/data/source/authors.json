@@ -3400,5 +3400,67 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miyazawa-iori",
+    "name": "宮澤伊織",
+    "nameKana": "みやざわいおり",
+    "description": "秋田県出身のライトノベル・SF作家。2011年『僕の魔剣が、うるさい件について』でデビュー。テーブルトークRPGのシナリオ制作でも知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮澤伊織"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年の記載はなし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ogawa-issui",
+    "name": "小川一水",
+    "nameKana": "おがわいっすい",
+    "description": "岐阜県出身のSF作家。1996年デビュー。星雲賞を複数回受賞するなど日本SF界を代表する作家の一人。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小川一水"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shasendou-yuki",
+    "name": "斜線堂有紀",
+    "nameKana": "しゃせんどうゆうき",
+    "description": "2016年に第23回電撃小説大賞メディアワークス文庫賞を受賞しデビューしたミステリ・SF作家。上智大学でドイツ文学を専攻。",
+    "birthYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斜線堂有紀"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "haneda-usa",
+    "name": "羽田宇佐",
+    "nameKana": "はねだうさ",
+    "description": "『週に一度クラスメイトを買う話』の著者。富士見ファンタジア文庫で活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版記事より。個人のプロフィール詳細(生年等)は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nanato-nana",
+    "name": "七斗七",
+    "nameKana": "ななとなな",
+    "description": "Key社のビジュアルノベル作品などに影響を受け創作を志したライトノベル作家。VTuber文化を題材にした本作でデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等の詳細は記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kasama-hiroyuki",
+    "name": "笠間裕之",
+    "nameKana": "かさまひろゆき",
+    "description": "『アサルトリリィ』シリーズのライトノベルを手掛ける作家。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細はWikipediaに未記載。",
+    "updatedAt": "2026-08-01"
   }
 ]

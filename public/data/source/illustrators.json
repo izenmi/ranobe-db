@@ -2938,5 +2938,79 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakatani-nio",
+    "name": "仲谷鳰",
+    "nameKana": "なかたににお",
+    "description": "滋賀県出身の漫画家。原作漫画『やがて君になる』(月刊コミック電撃大王)の作者で、本スピンオフ小説のカバーイラストを担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/仲谷鳰"
+    },
+    "sourceNote": "Wikipedia日本語版「仲谷鳰」記事を参照(2026年8月時点)。生年の記載はなし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shirakaba",
+    "name": "シラカバ",
+    "nameKana": "しらかば",
+    "description": "『裏世界ピクニック』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「裏世界ピクニック」記事より。個人の詳細経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mochizuki-kei",
+    "name": "望月けい",
+    "nameKana": "もちづきけい",
+    "description": "『ツインスター・サイクロン・ランナウェイ』のキャラクターデザイン・挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細はWikipediaに未記載。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuwabara-tamotsu",
+    "name": "くわばらたもつ",
+    "nameKana": "くわばらたもつ",
+    "description": "『コールミー・バイ・ノーネーム』の装画を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "u35",
+    "name": "U35",
+    "nameKana": "U35",
+    "description": "『週に一度クラスメイトを買う話』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。読み仮名・個人経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shio-kazunoko",
+    "name": "塩かずのこ",
+    "nameKana": "しおかずのこ",
+    "description": "『VTuberなんだが配信切り忘れたら伝説になってた』のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yaegashi-minami",
+    "name": "八重樫南",
+    "nameKana": "やえがしみなみ",
+    "description": "『アサルトリリィ』シリーズのカラーイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hosoi-mieko",
+    "name": "細居美恵子",
+    "nameKana": "ほそいみえこ",
+    "description": "『アサルトリリィ』シリーズの挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品情報より。個人経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]
