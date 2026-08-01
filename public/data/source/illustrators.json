@@ -2098,5 +2098,86 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "jaian",
+    "name": "じゃいあん",
+    "nameKana": "じゃいあん",
+    "description": "『望まぬ不死の冒険者』(小説)のキャラクター原案イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(BOOK LIVE等)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hotosouka",
+    "name": "ホトソウカ",
+    "nameKana": "ほとそうか",
+    "description": "本作(1〜8巻)のイラストレーター。9巻以降は「希」が担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。イラストレーター交代あり(9巻以降「希」)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "super-zombie",
+    "name": "すーぱーぞんび",
+    "nameKana": "すーぱーぞんび",
+    "description": "本作のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・書誌サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "chokoan",
+    "name": "ちょこ庵",
+    "nameKana": "ちょこあん",
+    "description": "本作のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fuuro",
+    "name": "ふーろ",
+    "nameKana": "ふーろ",
+    "description": "本作のキャラクター原案イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "daburyuu",
+    "name": "だぶ竜",
+    "nameKana": "だぶりゅう",
+    "description": "本作のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ramuya",
+    "name": "らむ屋",
+    "nameKana": "らむや",
+    "description": "本作のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miya-kazutomo",
+    "name": "三弥カズトモ",
+    "nameKana": "みやかずとも",
+    "description": "本作のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takahashi-ai",
+    "name": "高橋愛",
+    "nameKana": "たかはしあい",
+    "description": "本作の小説イラスト・コミカライズを担当。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(BOOK☆WALKER、講談社)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

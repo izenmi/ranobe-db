@@ -502,5 +502,25 @@
     },
     "sourceNote": "Wikipedia日本語版「コバルト文庫」を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "m-novels",
+    "name": "Mノベルス",
+    "nameKana": "えむのべるす",
+    "parentCompany": "双葉社",
+    "description": "双葉社が展開するライトノベル・異世界ファンタジー系レーベル。既存の「双葉社ジュニア文庫」とは別系統の新文芸系レーベル。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイト(BOOK LIVE等)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ga-novel",
+    "name": "GAノベル",
+    "nameKana": "じーえーのべる",
+    "parentCompany": "SBクリエイティブ",
+    "description": "SBクリエイティブが展開するソフトカバー単行本形式のライトノベルレーベル。文庫形式の「GA文庫」とは別の単行本叢書。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

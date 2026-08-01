@@ -9525,5 +9525,416 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "nozomanu-fushi-no-boukensha",
+    "title": "望まぬ不死の冒険者",
+    "titleKana": "のぞまぬふしのぼうけんしゃ",
+    "authorIds": [
+      "okano-yuu"
+    ],
+    "illustratorIds": [
+      "jaian"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "tsuihou",
+      "dungeon",
+      "ken-to-mahou",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "銅級止まりの冒険者レントは、迷宮でドラゴンに殺され、最弱モンスターであるスケルトンとして目覚める。仲間に見捨てられた末の非業の死から一転、人知れず強敵を屠り成長を重ねながら、諦めきれなかった一流冒険者の夢を追い続ける不死者の物語。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/望まぬ不死の冒険者"
+    },
+    "sourceNote": "Wikipedia日本語版および書誌サイト(BOOK LIVE、ebookjapan等)を参照(2026年8月時点)。web連載開始2016年・書籍化2017年、既刊14巻(2024年12月時点)、2024年テレビアニメ化・2期制作決定を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "yuusha-party-wo-tsuihou-sareta-beast-tamer",
+    "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
+    "titleKana": "ゆうしゃパーティーをついほうされたビーストテイマー、さいきょうしゅのねこみみしょうじょとであう",
+    "authorIds": [
+      "miyama-suzu"
+    ],
+    "illustratorIds": [
+      "hotosouka"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "勇者パーティで雑用扱いされていたビーストテイマーのレインは、役立たずの烙印を押されて追放される。冒険者として再出発した彼は、行き倒れていた最強種「猫霊族」の少女カナデと出会い契約を結ぶ。仲間との絆を通じて、これまで見過ごされてきた自身の真の実力が明らかになっていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2018年開始、Kラノベブックスより2019年書籍化、既刊12巻(2026年3月時点)、2022年テレビアニメ化(全13話)・コミカライズ(マンガUP!)を確認。累計270万部(2024年9月時点)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "a-rank-party-wo-ridatsu-shita-ore-wa",
+    "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+    "titleKana": "えーらんくぱーてぃをりだつしたおれは、もときょうえこたちとめいきゅうしんぶをめざす",
+    "authorIds": [
+      "unagi-kousuke"
+    ],
+    "illustratorIds": [
+      "super-zombie"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "dungeon",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "Aランクパーティ「サンダーパイク」で5年間不当に軽んじられ続けた赤魔道士ユークは、パーティを離脱する。かつて指導した教え子マリナたちの駆け出しパーティに拾われたことで、実は自分が桁外れの魔力と実力を持つことが明らかになり、教え子たちと共に迷宮の深部を目指していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2020年10月〜2025年2月、Kラノベブックスより2021年6月〜2025年2月に全5巻刊行(完結)、2025年テレビアニメ化(全24話・2期決定)・コミカライズ(マガポケ)を確認。「Sランク」ではなく正式には「Aランク」である点に注意。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "dekisokonai-to-yobareta-moto-eiyuu-wa",
+    "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
+    "titleKana": "できそこないとよばれたもとえいゆうは、じっかからついほうされたのですきかってにいきることにした",
+    "authorIds": [
+      "kouzuki-shin"
+    ],
+    "illustratorIds": [
+      "chokoan"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-tensei",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "世界を守った元英雄アレンは、味方に裏切られ命を落とすが、才能の証である「ギフト」を持たない実家の子として転生してしまう。無能の出来損ないとして貴族の実家から追放された彼は、前世で培った実力を隠しながら、しがらみのない土地で自由気ままな第二の人生を歩み始める。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2018年1月開始、TOブックスより2018年10月書籍化、既刊7巻(2024年5月時点)、2024年テレビアニメ化・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-sareta-s-kyuu-kanteishi",
+    "title": "追放されたS級鑑定士は最強のギルドを創る",
+    "titleKana": "ついほうされたえすきゅうかんていしはさいきょうのぎるどをつくる",
+    "authorIds": [
+      "seto-natsuki"
+    ],
+    "illustratorIds": [
+      "fuuro"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "tsuihou",
+      "naisei",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "人の隠れた才能を見抜く「鑑定」の力を持つロランは、ギルド長の嫉妬から大手ギルド「黄金の鷲」を追放される。恩人である女魔術師リリアンヌの助けを得て新たなギルドを設立したロランは、鑑定眼を武器に、世間から見過ごされてきた才能ある人材を発掘・育成し、最強のギルドを築き上げていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia記事は未確認(独立記事なし)。オーバーラップ公式サイト・BOOK LIVE・小説家になろうを参照(2026年8月時点)。なろう連載2018年6月開始、オーバーラップ文庫より2019年5月書籍化、全6巻で完結(2022年3月最終巻)、コミカライズ(コミックガルド)あり。アニメ化情報は確認できず(未アニメ化と推定)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "party-kara-tsuihou-sareta-sono-chiyushi",
+    "title": "パーティーから追放されたその治癒師、実は最強につき",
+    "titleKana": "ぱーてぃーからついほうされたそのちゆし、じつはさいきょうにつき",
+    "authorIds": [
+      "kage-kinoko"
+    ],
+    "illustratorIds": [
+      "kakao-lantern"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "「ヒール」しか使えない治癒師として冒険者パーティから追放された青年は、実は誰にも気づかれていない桁外れの治癒の才を持っていた。追放を機に自らの力と真摯に向き合い、鍛錬を重ねることで真価を発揮していく、追放系ヒーリングファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パーティーから追放されたその治癒師、実は最強につき"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2018年5月開始、双葉社Mノベルスより2019年1月書籍化、既刊5巻(2024年9月時点)、2024年テレビアニメ化・コミカライズ(がうがうモンスター)を確認。出版レーベル「Mノベルス」(双葉社)は既存レーベル一覧に該当なしのためnewPublisherProposalで提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-sareta-tensei-juukishi",
+    "title": "追放された転生重騎士はゲーム知識で無双する",
+    "titleKana": "ついほうされたてんせいじゅうきしはげーむちしきでむそうする",
+    "authorIds": [
+      "nekoko"
+    ],
+    "illustratorIds": [
+      "jaian"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-tensei",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "貴族家に生まれた青年は、この世界で見下されがちな「重騎士」の適性しか出せず実家を追放される。だが彼には日本人だった前世で「重騎士」を極めたオンラインゲーマーとしての記憶があり、実はこの職業こそ極めれば最強と知っていた。ゲーム知識を武器に冒険者として無双していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/追放された転生重騎士はゲーム知識で無双する"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2021年4月開始(「大ハズレだと追放された〜」のタイトルで連載)、Kラノベブックスより2022年6月書籍化、既刊4巻程度、コミカライズ(ヤンマガWeb)・テレビアニメ化(2026年〜)を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi",
+    "title": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
+    "titleKana": "いっしゅんでちりょうしていたのにやくたたずとついほうされたてんさいちゆし、やみひーらーとしてたのしくいきる",
+    "authorIds": [
+      "hishikawa-sakaku"
+    ],
+    "illustratorIds": [
+      "daburyuu"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "tsuihou",
+      "dark-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "パーティから役立たず扱いされ追放された治癒師ゼノスは、無免許のまま貧民街の廃墟で治療院を開業する。実際には一瞬で万病を治す超人的な腕を持ちながらも周囲に評価されなかった彼が、日陰者として貧しい人々を癒し続ける「闇医者」ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一瞬で治療していたのに役立たずと追放された天才治癒師"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2020年11月開始、SBクリエイティブ「GAノベル」より2021年10月書籍化、既刊8巻(2025年3月時点)、2025年テレビアニメ化(2期制作決定)・コミカライズ複数を確認。レーベル「GAノベル」は既存の「GA文庫」とは別のソフトカバー叢書のためnewPublisherProposalで提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "yuusha-party-wo-oidasareta-kiyou-binbou",
+    "title": "勇者パーティを追い出された器用貧乏 〜パーティ事情で付与術士をやっていた剣士、万能へと至る〜",
+    "titleKana": "ゆうしゃぱーてぃをおいだされたきようびんぼう ぱーてぃじじょうでふよじゅつしをやっていたけんし、ばんのうへといたる",
+    "authorIds": [
+      "toshin-itsuki"
+    ],
+    "illustratorIds": [
+      "kisaragi-yuri"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "剣術も魔術も付与術も、何でもそこそこにこなせるが突出した才はない剣士オルンは、実力不足を理由に勇者パーティを追い出されてしまう。しかし一人で活動を始めたことで、器用貧乏ゆえに培った幅広い技能こそが誰にも真似できない万能の強みだったと気づいていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者パーティを追い出された器用貧乏_〜パーティ事情で付与術士をやっていた剣士、万能へと至る〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2021年2月開始、Kラノベブックスより2021年9月書籍化、既刊10巻(2026年5月時点)、2026年テレビアニメ化(2期決定)・コミカライズ(水曜日のシリウス)を確認。累計480万部(2025年12月時点)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "oidasareta-bannou-shoku-ni-atarashii-jinsei",
+    "title": "追い出された万能職に新しい人生が始まりました",
+    "titleKana": "おいだされたばんのうしょくにあたらしいじんせいがはじまりました",
+    "authorIds": [
+      "toudou-daiki"
+    ],
+    "illustratorIds": [
+      "ramuya"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "shigoto",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "冒険者パーティで7年間、雑用役の「万能職」をこなしてきた青年ロアは、パーティが英雄に昇格した際にお払い箱にされてしまう。使い魔とも引き離された彼は、旧知の商会経営者に生産職として雇われることになり、そこで魔法薬作りなど隠れた才能を開花させ、新たな人生を歩んでいく。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia独立記事は確認できず(未掲載)。アルファポリス公式・BOOK LIVE・BOOK☆WALKERを参照(2026年8月時点)。第1巻発売日2019年3月15日、既刊11巻、コミカライズありを確認。アニメ化情報は見当たらず未アニメ化と推定。アルファポリス発のためwebNovelSourceフィールドは規定のplatform値(narou/kakuyomu)に該当せず省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "onna-dakara-to-party-wo-tsuihou-sareta",
+    "title": "女だから、とパーティを追放されたので伝説の魔女と最強タッグを組みました",
+    "titleKana": "おんなだからと ぱーてぃをついほうされたので でんせつのまじょとさいきょうタッグをくみました",
+    "authorIds": [
+      "kaeruda-ameko"
+    ],
+    "illustratorIds": [
+      "miya-kazutomo"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "tsuihou",
+      "fukushuu",
+      "isekai-fantasy",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "女性というだけで実力を正当に評価されず冒険者パーティを追放された魔術師ターニャは、封印から解いてしまった伝説の魔女ラプラスと出会う。二人は「リリウム」というパーティを結成し、性差別的な扱いを受けてきた者たちのために、自分たちを蔑んだ相手を見返していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "書誌サイト・レビュー記事を参照(2026年8月時点、日本語版Wikipedia独立記事は未確認)。なろう連載2018年8月開始、オーバーラップノベルスより2019年2月書籍化、全2巻で完結、コミカライズ(全6巻)あり。アニメ化情報は確認できず。第5回オーバーラップWEB小説大賞にて奨励賞受賞との情報があるが、既存アワード一覧に該当賞が無いため受賞歴は記載せず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "jitsu-wa-ore-saikyou-deshita",
+    "title": "実は俺、最強でした?",
+    "titleKana": "じつはおれ、さいきょうでした",
+    "authorIds": [
+      "sumimori-sai"
+    ],
+    "illustratorIds": [
+      "takahashi-ai"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-tensei",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "synopsis": "いじめを受け引きこもりになった少年は、女神の手違いで桁外れの魔力を授かった王子として異世界転生する。しかし魔力を測る水晶が2桁までしか表示できず、無属性で障壁魔法しか使えないと判断された彼は、死産扱いされ森に捨てられてしまう。たった一つの魔法を工夫して使いこなし、たくましく生き延びていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/実は俺、最強でした%3F"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。なろう連載2018年9月開始、Kラノベブックスより2019年5月書籍化、2023年テレビアニメ化(7〜10月)・コミカライズ(水曜日のシリウス)を確認。既刊巻数・完結状況は情報源により差異があり未確定のためstatusをunknownとした。王族の子として生まれてすぐ森に捨てられる設定であり、パーティ追放ではなく「家からの追放(遺棄)」に該当する点に留意。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

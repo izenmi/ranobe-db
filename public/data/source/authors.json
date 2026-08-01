@@ -2370,5 +2370,131 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "okano-yuu",
+    "name": "丘野優",
+    "nameKana": "おかのゆう",
+    "description": "『望まぬ不死の冒険者』の原作者。小説家になろう出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/望まぬ不死の冒険者"
+    },
+    "sourceNote": "Wikipedia日本語版・書誌サイトを参照(2026年8月時点)。読み仮名は書誌情報サイトの表記を採用。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miyama-suzu",
+    "name": "深山鈴",
+    "nameKana": "みやますず",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "unagi-kousuke",
+    "name": "右薙光介",
+    "nameKana": "うなぎこうすけ",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/右薙光介"
+    },
+    "sourceNote": "Wikipedia日本語版(個人記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kouzuki-shin",
+    "name": "紅月シン",
+    "nameKana": "こうづきしん",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。読み仮名は一般的な表記を採用(公式表記未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "seto-natsuki",
+    "name": "瀬戸夏樹",
+    "nameKana": "せとなつき",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(BOOK LIVE、オーバーラップ公式)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kage-kinoko",
+    "name": "影茸",
+    "nameKana": "かげきのこ",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パーティーから追放されたその治癒師、実は最強につき"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nekoko",
+    "name": "猫子",
+    "nameKana": "ねここ",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/追放された転生重騎士はゲーム知識で無双する"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。読み仮名は推定表記。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hishikawa-sakaku",
+    "name": "菱川さかく",
+    "nameKana": "ひしかわさかく",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一瞬で治療していたのに役立たずと追放された天才治癒師"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "toshin-itsuki",
+    "name": "都神樹",
+    "nameKana": "としんいつき",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者パーティを追い出された器用貧乏_〜パーティ事情で付与術士をやっていた剣士、万能へと至る〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。読み仮名は推定表記(公式読み未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "toudou-daiki",
+    "name": "東堂大稀",
+    "nameKana": "とうどうだいき",
+    "description": "アルファポリス出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(BOOK LIVE、アルファポリス)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kaeruda-ameko",
+    "name": "蛙田アメコ",
+    "nameKana": "かえるだあめこ",
+    "description": "小説家になろう出身のライトノベル作家。2018年東京医科大学入試における女性差別問題を着想源に本作を執筆。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sumimori-sai",
+    "name": "澄守彩",
+    "nameKana": "すみもりさい",
+    "description": "小説家になろう出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/実は俺、最強でした%3F"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
