@@ -655,5 +655,26 @@
     "externalLinks": {},
     "sourceNote": "公式サイト(arianrose.jp)を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shinchosha-bunko-nex",
+    "name": "新潮文庫nex",
+    "nameKana": "しんちょうぶんこねくす",
+    "parentCompany": "新潮社",
+    "description": "新潮社が展開するヤングアダルト向けライト文芸レーベル。青春・スポーツものを中心に刊行。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tokuma-novels-edge",
+    "name": "トクマ・ノベルズEdge",
+    "nameKana": "とくまのべるずえっじ",
+    "parentCompany": "徳間書店",
+    "description": "徳間書店が2005年に創刊したトクマ・ノベルズのサブレーベル。",
+    "foundedYear": 2005,
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -3724,5 +3724,58 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ooji-kouji",
+    "name": "おおじこうじ",
+    "nameKana": "おおじこうじ",
+    "description": "京都アニメーション大賞出身のライトノベル作家。「Free!」原案となる本作でデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ハイ☆スピード!」記事より。個別の著者記事は確認できず、生年等は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ayano-kotoko",
+    "name": "綾野ことこ",
+    "nameKana": "あやのことこ",
+    "description": "京都アニメーション大賞出身のライトノベル作家。「夜多の森弓道場」で審査員特別賞を受賞し「ツルネ」として書籍化。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ツルネ -風舞高校弓道部-」より。個別の著者記事はなく、詳細経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiwasu-tooru",
+    "name": "師走トオル",
+    "nameKana": "しわすとおる",
+    "description": "1980年生まれのライトノベル作家。代表作に「火の国、風の国物語」など。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/師走トオル"
+    },
+    "sourceNote": "Wikipedia日本語版「師走トオル」を参照。生年・代表作を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sasahara-shio",
+    "name": "佐々原史緒",
+    "nameKana": "ささはらしお",
+    "description": "東京都世田谷区出身、文教大学卒業のライトノベル作家・小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々原史緒"
+    },
+    "sourceNote": "Wikipedia日本語版「佐々原史緒」を参照。読み仮名・出身地を確認。生年は記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kagurazaka-atsushi",
+    "name": "神楽坂淳",
+    "nameKana": "かぐらざかあつし",
+    "description": "1966年広島市生まれの時代小説家。代表作に「うちの旦那が甘ちゃんで」シリーズ(2020年日本歴史時代作家協会賞受賞)。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神楽坂淳"
+    },
+    "sourceNote": "Wikipedia日本語版「神楽坂淳」を参照(2026年8月時点)。生年・読み仮名・代表作を確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

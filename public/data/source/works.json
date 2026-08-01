@@ -14825,5 +14825,235 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "high-speed",
+    "title": "ハイ☆スピード!",
+    "titleKana": "はいすぴーど",
+    "authorIds": [
+      "ooji-kouji"
+    ],
+    "illustratorIds": [
+      "nishiya-taishi"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "廃部寸前だった男子水泳部を舞台に、高校生たちが仲間と共に泳ぐことの意味を見つめ直す青春群像劇。テレビアニメ「Free!」シリーズの原作となった作品で、部活動を通じた友情と成長を丁寧に描く。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2011,
+        "result": "奨励賞(第2回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイ☆スピード!"
+    },
+    "sourceNote": "Wikipedia日本語版「ハイ☆スピード!」「京都アニメーション大賞」を参照(2026年8月時点)。第2回京都アニメーション大賞奨励賞受賞作、2013年KAエスマ文庫刊行、全2巻、テレビアニメ・コミカライズ化を確認。第2巻の正確な刊行年月は未確認のため初刊年と同一値を暫定使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "cheers",
+    "title": "チアーズ!",
+    "titleKana": "ちあーず",
+    "authorIds": [
+      "akamatsu-chuugaku"
+    ],
+    "illustratorIds": [
+      "kobuichi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "comedy",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "廃部寸前のチアリーディング部「チアーズ」に入部した浅羽舞桜が、元チア選手の川澄千愛を誘い、二人三脚で部の立て直しを目指す学園スポーツコメディ。試合の応援というチア本来の役割を軸に青春を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チアーズ!_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「チアーズ!(小説)」「赤松中学」を参照(2026年8月時点)。MF文庫Jより2017-2020年に全6巻刊行、コミカライズ(月刊コミックアライブ)を確認。アニメ化は無し。イラストレーターのこぶいちは既存ID流用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsurune",
+    "title": "ツルネ -風舞高校弓道部-",
+    "titleKana": "つるね ふうぶこうこうきゅうどうぶ",
+    "authorIds": [
+      "ayano-kotoko"
+    ],
+    "illustratorIds": [
+      "morimoto-chinatsu"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "中学最後の試合で挫折し弓道をやめていた鳴宮湊が、凄腕の射手との出会いをきっかけに再び弓を取り、風舞高校弓道部に入部。仲間たちと共に県大会優勝を目指す姿を描く青春スポーツ小説。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2016,
+        "result": "審査員特別賞(第7回、応募時タイトル「夜多の森弓道場」)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ツルネ_-風舞高校弓道部-"
+    },
+    "sourceNote": "Wikipedia日本語版「ツルネ -風舞高校弓道部-」「京都アニメーション大賞」を参照(2026年8月時点)。KAエスマ文庫、既刊3巻(2022年8月時点)、テレビアニメ2期・劇場版化を確認。コミカライズの有無は確認できず(comicはfalseで暫定)。続刊状況は未確認のためstatusはunknownとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "boku-to-kanojo-no-game-sensou",
+    "title": "僕と彼女のゲーム戦争",
+    "titleKana": "ぼくとかのじょのげーむせんそう",
+    "authorIds": [
+      "shiwasu-tooru"
+    ],
+    "illustratorIds": [
+      "happoubi-jin"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "comedy",
+      "seishun-lovecome",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "ゲームが国策として奨励される架空の日本を舞台に、読書好きの高校生・岸峰健四郎が「現代遊戯部」に勧誘され、対戦ゲームの部活動対抗戦に身を投じていく青春コメディ。競技としてのゲーム対戦を軸に描く、eスポーツ的な部活動小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕と彼女のゲーム戦争"
+    },
+    "sourceNote": "Wikipedia日本語版「僕と彼女のゲーム戦争」「師走トオル」を参照(2026年8月時点)。電撃文庫2011-2016年全11巻、電撃魔王でのコミカライズを確認。アニメ化は無し。対戦ゲームを競技として扱う設定のためeスポーツ題材として既存テーマ「スポーツ」で採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "bofuu-girls-fight",
+    "title": "暴風ガールズファイト",
+    "titleKana": "ぼうふうがーるずふぁいと",
+    "authorIds": [
+      "sasahara-shio"
+    ],
+    "illustratorIds": [
+      "kuratou-sachi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ミッションスクールの中高一貫女子校を舞台に、マイナー競技であるラクロス部の部員たちが試合勝利を目指して奮闘する学園スポーツ小説。数少ないラクロスを題材にしたライトノベル作品。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ラクロス」記事内の言及、「佐々原史緒」記事、openBD書誌データ(ISBN 9784757737525/9784757739192)を参照(2026年8月時点)。ファミ通文庫より2007-2008年に全2巻刊行を確認。詳細なあらすじ本文・イラストレーターの読み仮名は情報不足のため一部推定。2014年より前の刊行だが、ラクロスという希少題材のため採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "kimi-to-kogu",
+    "title": "君と漕ぐ ながとろ高校カヌー部",
+    "titleKana": "きみとこぐ ながとろこうこうかぬーぶ",
+    "authorIds": [
+      "takeda-ayano"
+    ],
+    "illustratorIds": [
+      "otonai-chiaki"
+    ],
+    "publisherId": "shinchosha-bunko-nex",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "gendai-drama",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 5,
+    "synopsis": "両親の離婚で埼玉に越してきた高校一年生の舞奈が、川でカヌーを操る少女・恵梨香と出会い、彼女を誘ってながとろ高校カヌー部に入部する。先輩ペアの間に生じた距離や恵梨香の突出した実力を軸に、部員たちの関係と成長を描く青春スポーツ小説。",
+    "externalLinks": {},
+    "sourceNote": "既存著者「武田綾乃」の新シリーズ。Wikipedia日本語版(著者ページ・関連記事)、新潮社公式サイト、国立国会図書館サーチ、openBDを参照(2026年8月時点)。新潮文庫nexより2019-2023年に既刊5巻。NHK「アニ×パラ」企画で原作世界観を用いたオリジナルアニメ化(2023年)を確認したためanime:trueとしたが、原作の直接アニメ化ではない点に注意。コミカライズ情報は確認できず。出版社「新潮文庫nex」は既存出版社リストに無いため末尾にnewPublisherProposalとして提案。続刊予定は未確認のためstatusはunknown。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "taishou-yakyuu-musume",
+    "title": "大正野球娘。",
+    "titleKana": "たいしょうやきゅうむすめ",
+    "authorIds": [
+      "kagurazaka-atsushi"
+    ],
+    "illustratorIds": [
+      "koike-sadaji"
+    ],
+    "publisherId": "tokuma-novels-edge",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "adventure"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "大正14年、良家の子女が通う名門女学校で、鈴川小梅と小笠原晶子が女子だけの野球チーム「桜華会」を結成。時代の価値観に反発しながら、男子校・浅香中学の野球部に挑む姿を描く大正浪漫スポーツ小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大正野球娘。"
+    },
+    "sourceNote": "Wikipedia日本語版「大正野球娘。」「神楽坂淳」を参照(2026年8月時点)。トクマ・ノベルズEdge(徳間書店)より2007-2010年に全4巻刊行、テレビアニメ化・コミカライズ化(月刊コミック@リュウ)を確認。2014年より前の刊行だが、野球×大正時代という希少な題材のため採用。出版社「トクマ・ノベルズEdge」は既存出版社リストに無いため末尾にnewPublisherProposalとして提案(暴風ガールズファイトと合わせて同一新規出版社提案の対象ではなく別レーベルのため個別提案)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

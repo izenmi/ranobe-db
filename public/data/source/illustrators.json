@@ -3259,5 +3259,61 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nishiya-taishi",
+    "name": "西屋太志",
+    "nameKana": "にしやたいし",
+    "description": "「ハイ☆スピード!」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ハイ☆スピード!」記事より。個別記事は確認できず、詳細経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "morimoto-chinatsu",
+    "name": "森本ちなつ",
+    "nameKana": "もりもとちなつ",
+    "description": "「ツルネ」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ツルネ -風舞高校弓道部-」より。個別記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "happoubi-jin",
+    "name": "八宝備仁",
+    "nameKana": "はっぽうびじん",
+    "description": "ライトノベルの挿絵を手掛ける日本のイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八宝備仁"
+    },
+    "sourceNote": "Wikipedia日本語版「八宝備仁」を参照。読み仮名を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuratou-sachi",
+    "name": "倉藤倖",
+    "nameKana": "くらとうさち",
+    "description": "「暴風ガールズファイト」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「佐々原史緒」より挿絵担当として確認。読み仮名の確証は取れず、一般的な読みを暫定使用。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "otonai-chiaki",
+    "name": "おとないちあき",
+    "nameKana": "おとないちあき",
+    "description": "「君と漕ぐ」のカバーイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "新潮社公式サイトの書籍ページよりカバーイラスト担当として確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "koike-sadaji",
+    "name": "小池定路",
+    "nameKana": "こいけさだじ",
+    "description": "「大正野球娘。」原著版の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「大正野球娘。」より原著版イラストレーターとして確認。個別記事なし。",
+    "updatedAt": "2026-08-01"
   }
 ]
