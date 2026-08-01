@@ -72,7 +72,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン"
     },
     "sourceNote": "Wikipedia日本語版「ソードアート・オンライン」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2012,
+        "result": "作品部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "2010年代総合ランキング1位(殿堂入り)"
+      }
+    ]
   },
   {
     "id": "ookami-to-koushinryou",
@@ -142,7 +154,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある魔術の禁書目録"
     },
     "sourceNote": "Wikipedia日本語版「とある魔術の禁書目録」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2011,
+        "result": "作品部門1位(男性・女性キャラ部門/イラストレーター部門と合わせ4冠)"
+      },
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2014,
+        "result": "ライトノベル部門2位"
+      }
+    ]
   },
   {
     "id": "full-metal-panic",
@@ -171,7 +195,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルメタル・パニック!"
     },
     "sourceNote": "Wikipedia日本語版「フルメタル・パニック!」を参照し独自に要約(2026年7月時点)。巻数は本編・短編・外伝の合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2008,
+        "result": "作品部門1位"
+      }
+    ]
   },
   {
     "id": "re-zero",
@@ -204,7 +235,19 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "文庫部門2位"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2017,
+        "result": "ラノベ部門1位"
+      }
+    ]
   },
   {
     "id": "konosuba",
@@ -338,7 +381,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デート・ア・ライブ"
     },
     "sourceNote": "Wikipedia日本語版「デート・ア・ライブ」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値、以降未確認。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "インパクト部門4位"
+      },
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2014,
+        "result": "ライトノベル部門4位"
+      }
+    ]
   },
   {
     "id": "no-game-no-life",
@@ -461,7 +516,14 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "単行本・ノベルズ部門2位"
+      }
+    ]
   },
   {
     "id": "tate-no-yuusha-no-nariagari",
@@ -524,7 +586,14 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "単行本・ノベルズ部門5位"
+      }
+    ]
   },
   {
     "id": "toradora",
@@ -552,7 +621,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とらドラ!"
     },
     "sourceNote": "Wikipedia日本語版「とらドラ!」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "light-novel-award",
+        "year": 2007,
+        "result": "ラブコメ部門賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "作品部門2位"
+      }
+    ]
   },
   {
     "id": "shakugan-no-shana",

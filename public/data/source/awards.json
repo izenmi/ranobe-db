@@ -182,6 +182,16 @@
     "updatedAt": "2026-07-31"
   },
   {
+    "id": "light-novel-award",
+    "name": "ライトノベルアワード",
+    "organizer": "角川グループホールディングス(角川書店・富士見書房・メディアワークス・エンターブレイン)",
+    "description": "角川グループ4社が共催した読者投票イベント。ラブコメ・学園・アクション・ミステリー・ノベライズの5部門、各4作品(計20作品)がエントリーし、読者投票により各部門の大賞を決定した。2007年に1回開催。",
+    "firstYear": 2007,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライトノベルアワード" },
+    "sourceNote": "Wikipedia日本語版「ライトノベルアワード」を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
     "id": "seiun-sho",
     "name": "星雲賞",
     "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",
