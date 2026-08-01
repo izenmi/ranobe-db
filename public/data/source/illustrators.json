@@ -2269,5 +2269,79 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版・書誌情報を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fuyu-yuki",
+    "name": "冬ゆき",
+    "nameKana": "ふゆゆき",
+    "description": "『現実主義勇者の王国再建記』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kazahana-kazahana",
+    "name": "風花風花",
+    "nameKana": "かざはなかざはな",
+    "description": "『転生賢者の異世界ライフ』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "benio",
+    "name": "紅緒",
+    "nameKana": "べにお",
+    "description": "『スライム倒して300年』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fuji-choko",
+    "name": "藤ちょこ",
+    "nameKana": "ふじちょこ",
+    "description": "多数のライトノベル挿絵・キャラクターデザインを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ririnra",
+    "name": "りりんら",
+    "nameKana": "りりんら",
+    "description": "『神達に拾われた男』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "naji-yanagida",
+    "name": "NAJI柳田",
+    "nameKana": "なじやなぎた",
+    "description": "『転生したらドラゴンの卵だった』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "jon-dii",
+    "name": "ジョンディー",
+    "nameKana": "じょんでぃー",
+    "description": "『アラフォー賢者の異世界生活日記』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shimahara",
+    "name": "40原",
+    "nameKana": "しまはら",
+    "description": "『異世界召喚は二度目です』のキャラクター原案・挿絵を担当するイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/40原"
+    },
+    "sourceNote": "Wikipedia日本語版(個人記事)を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

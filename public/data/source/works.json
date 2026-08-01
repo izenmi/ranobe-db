@@ -10364,5 +10364,439 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "genjitsu-shugi-yuusha-no-oukoku-saikenki",
+    "title": "現実主義勇者の王国再建記",
+    "titleKana": "げんじつしゅぎゆうしゃのおうこくさいけんき",
+    "authorIds": [
+      "dozeu-maru"
+    ],
+    "illustratorIds": [
+      "fuyu-yuki"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "senki",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "異世界に召喚された青年ソーマは、勇者としての戦闘力ではなく行政手腕を見込まれ、衰退した王国の国王代理に任命される。財政再建や人材登用、外交交渉といった現実的な政策を次々に実行し、周囲の反発や他国の思惑とも渡り合いながら、荒廃した小国を大陸屈指の強国へと導いていく、内政と成り上がりを軸にした異色の異世界ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/現実主義勇者の王国再建記"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2016)・既刊21巻・アニメ2期(2021,2022)・コミカライズを確認。著者・イラストレーターの読み仮名は個人記事がなく作品記事の表記に基づく。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tensei-kenja-no-isekai-life",
+    "title": "転生賢者の異世界ライフ 〜第二の職業を得て、世界最強になりました〜",
+    "titleKana": "てんせいけんじゃのいせかいらいふ",
+    "authorIds": [
+      "shinkou-shotou"
+    ],
+    "illustratorIds": [
+      "kazahana-kazahana"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "battle-action",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "過労で追い詰められたサラリーマンが異世界でテイマーとして転生するが、魔物使いとしての適性はからきしだった。代わりに古い魔導書との出会いから「賢者」という第二の職業を得て、世界最強クラスの魔法の才能が開花する。自らの規格外の強さに気づかないまま、頼れる仲間たちと共に冒険者として着実に名を上げていく無自覚チート系ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生賢者の異世界ライフ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2018)・最新19巻(2026年3月)・アニメ化(2022年)・コミカライズを確認。レーベルは『GAノベル』(SBクリエイティブ、GA文庫と同ブランド)のため既存publisherId『ga-bunko』を便宜上使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "slime-taoshite-300-nen",
+    "title": "スライム倒して300年、知らないうちにレベルMAXになってました",
+    "titleKana": "すらいむたおしてさんびゃくねん、しらないうちにれべるまっくすになってました",
+    "authorIds": [
+      "morita-kisetsu"
+    ],
+    "illustratorIds": [
+      "benio"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "comedy",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 29,
+    "synopsis": "過労が原因で命を落とした女性が、不老不死の魔女として異世界に転生する。人目を避けて300年間ひたすらスライム退治だけを続けた結果、いつの間にかレベルが上限に達し圧倒的な力を身につけていた。目立たず静かな暮らしを望みながらも、行く先々で頼られる存在となり、やがて家族のような繋がりを増やしていくスローライフファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2017)・既刊29巻・アニメ化(2021年)・コミカライズを確認。レーベルは『GAノベル』(SBクリエイティブ)のため既存publisherId『ga-bunko』を便宜上使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hachinan-tte-sore-wa-naideshou",
+    "title": "八男って、それはないでしょう!",
+    "titleKana": "はちなんってそれはないでしょう",
+    "authorIds": [
+      "y-a"
+    ],
+    "illustratorIds": [
+      "fuji-choko"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "naisei",
+      "harem",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 36,
+    "synopsis": "日本人サラリーマンが異世界の貧乏貴族家に八男として転生する。家督を継げない立場ゆえ自由に生きようと決意するが、桁外れの魔法の才能が判明し冒険者として頭角を現す。仲間や婚約者たちに囲まれながら、未開の辺境地の開拓や領地経営にも携わり、周囲を巻き込みつつ着実に成り上がっていく異世界転生ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八男って、それはないでしょう!"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2014)・本編完結(外伝は継続中)・計36巻・アニメ化(2020年)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kuma-kuma-kuma-bear",
+    "title": "くまクマ熊ベアー",
+    "titleKana": "くまくまくまべあー",
+    "authorIds": [
+      "kumanano"
+    ],
+    "illustratorIds": [
+      "ozaji"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "comedy",
+      "adventure",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "引きこもりのゲーマー少女ユナは、ある日突然、お気に入りのVRMMOの世界そのものへ転移してしまう。運営特典で得た着ぐるみ装備「くまセット」は見た目に反して規格外の性能を誇り、その力を頼りに冒険者として活動を始める。異世界で出会った人々と交流を深めながら、のんびりと自分らしく生きていく転移系ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/くまクマ熊ベアー"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2015)・既刊23巻・アニメ2期(2020,2023)・コミカライズを確認。イラストレーター『029』は既存illustrator一覧の『ozaji』と同一人物として既存id流用。出版社『PASH!ブックス』(主婦と生活社)は既存一覧に無いためnewPublisherProposalで提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kamitachi-ni-hirowareta-otoko",
+    "title": "神達に拾われた男",
+    "titleKana": "かみたちにひろわれたおとこ",
+    "authorIds": [
+      "roy"
+    ],
+    "illustratorIds": [
+      "ririnra"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "shigoto",
+      "comedy",
+      "mahou"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "くしゃみをした拍子に命を落とした39歳の会社員リョウマは、詫びとして三柱の神々から様々な加護を授かり異世界へ転移する。人里離れた森でスライムの研究に没頭しつつ洗濯代行の商売を始め、やがて冒険者としても頭角を現していく。持ち前の知識と加護を活かしてマイペースに生き抜く、のんびりとした異世界生活譚。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神達に拾われた男"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。Web小説連載開始は2014年、書籍化は2017年である旨を確認しfirstPublishedYearは書籍化年を採用。既刊17巻・アニメ2期(2020,2023)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tensei-shitara-dragon-no-tamago-datta",
+    "title": "転生したらドラゴンの卵だった〜最強以外目指さねぇ〜",
+    "titleKana": "てんせいしたらどらごんのたまごだった",
+    "authorIds": [
+      "nekoko"
+    ],
+    "illustratorIds": [
+      "naji-yanagida"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "adventure",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "神の声を聞きながら目覚めた主人公は、なんと孵化前のドラゴンの卵に転生していた。過酷な弱肉強食の世界で生き延びるため、幾度もの進化を重ねて姿を変えながら仲間を得て、やがて「最強」の座を目指して成長していく。人型ではない存在からスタートするという異色の設定を持つ、転生バトルファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらドラゴンの卵だった〜最強以外目指さねぇ〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2015)・全17巻で完結・アニメ化(2026年1月放送開始)・コミカライズを確認。刊行レーベルは当初アース・スターノベルで、既存publisherId『earth-star-novel』を採用(後年スクウェア・エニックスSQEXノベルへ移行した経緯あり)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "arafo-kenja-no-isekai-seikatsu-nikki",
+    "title": "アラフォー賢者の異世界生活日記",
+    "titleKana": "あらふぉーけんじゃのいせかいせいかつにっき",
+    "authorIds": [
+      "juansei"
+    ],
+    "illustratorIds": [
+      "jon-dii"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "comedy",
+      "harem",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "会社をリストラされた40代男性がオンラインゲーム中の事故で命を落とし、そのままのステータスを引き継いだ姿で異世界に転生する。魔導士ゼロスと名乗り、魔法の使えない没落貴族の娘の家庭教師を務めることになり、規格外の実力を飄々と隠しながら、周囲を振り回しつつ気ままな異世界暮らしを送っていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アラフォー賢者の異世界生活日記"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2016)・既刊21巻・コミカライズ2種・2026年4月アニメ化発表を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "saikyou-onmyouji-no-isekai-tenseiki",
+    "title": "最強陰陽師の異世界転生記 〜下僕の妖怪どもに比べてモンスターが弱すぎるんだが〜",
+    "titleKana": "さいきょうおんみょうじのいせかいてんせいき",
+    "authorIds": [
+      "kosuzu-kiichi"
+    ],
+    "illustratorIds": [
+      "yuu-nagi"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "かつて朝廷に仕えた陰陽師が、魔力を持たないという理由だけで落ちこぼれ扱いされる存在として異世界に転生する。しかし本来の力は妖怪を使役する呪力であり、この世界のモンスターよりも遥かに強大な妖怪たちを従えることで、周囲の評価を覆しその真価を発揮していく。和風の陰陽術とバトルを融合させた異世界転生譚。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2019,
+        "result": "受賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最強陰陽師の異世界転生記_〜下僕の妖怪どもに比べてモンスターが弱すぎるんだが〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。単行本(Mノベルス)2019年開始・文庫版(モンスター文庫)2022年開始・第7回ネット小説大賞受賞・アニメ化(2023年)・コミカライズを確認。volumeCountは文庫版既刊8巻を採用(単行本と文庫で巻数体系が異なる)。出版社『双葉社 モンスター文庫/Mノベルス』は既存一覧に無いためnewPublisherProposalで提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-shoukan-wa-nidome-desu",
+    "title": "異世界召喚は二度目です",
+    "titleKana": "いせかいしょうかんはにどめです",
+    "authorIds": [
+      "kishimoto-kazuha"
+    ],
+    "illustratorIds": [
+      "shimahara"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "senki",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "かつて勇者として異世界に召喚され、苦難の末に戦乱を平定した青年は、その記憶を保ったまま転生し別人として静かに暮らしていた。ところが同じクラスメイトが新たな勇者として同じ世界に召喚されたことをきっかけに、再び各地で戦火が広がり始める。二度の召喚経験と積み重ねた知識を武器に、平和を取り戻すため再び立ち上がる物語。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界召喚は二度目です"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行期間(2015-2017)・全5巻完結・アニメ化(2023年)・コミカライズを確認。出版社『双葉社 モンスター文庫』は既存一覧に無いため『最強陰陽師の異世界転生記』と共通のnewPublisherProposalで提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-meikyuu-no-saishinbu-wo-mezasou",
+    "title": "異世界迷宮の最深部を目指そう",
+    "titleKana": "いせかいめいきゅうのさいしんぶをめざそう",
+    "authorIds": [
+      "warinai-tarisa"
+    ],
+    "illustratorIds": [
+      "ukai-saki"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dungeon",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "病弱な妹の治療費のため大金を得ようとした高校生の主人公は、気づくと見知らぬ巨大な迷宮の中に立っていた。どんな願いも叶うと噂される「最深部」への到達を目指し、迷宮内で出会った個性豊かな仲間たちと共に、罠やモンスターが待ち受ける階層を一つずつ着実に突破していくダンジョン攻略ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界迷宮の最深部を目指そう"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行期間(2014-2021)・全16巻完結・コミカライズ(既刊9巻)を確認。アニメ化情報は無し(未アニメ化)。イラストレーター『鵜飼沙樹』は既存イラストレーター一覧の『ukai-saki』と同一人物として既存id流用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-meikyuu-de-harem-wo",
+    "title": "異世界迷宮でハーレムを",
+    "titleKana": "いせかいめいきゅうではーれむを",
+    "authorIds": [
+      "soga-shachi"
+    ],
+    "illustratorIds": [
+      "shiki-douji"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "harem",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "引きこもりがちな高校生が、ネット上のゲームサイトで初期設定を終えた直後に異世界へ強制転移させられてしまう。手に入れたチート級の装備を頼りに、奴隷制度が存在する世界で仲間となった女性たちと絆を深め、時には彼女たちの過去や事情にも向き合いながら、危険な迷宮の深部を目指して探索を進めていくハーレム色の強い異世界冒険ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界迷宮でハーレムを"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始年(2012)・既刊13巻・アニメ化(2022年)・コミカライズ・累計700万部超を確認。イラストレーター『四季童子』は既存イラストレーター一覧の『shiki-douji』と同一人物として既存id流用。刊行開始が2014年より前の古めの作品だが、既存作品と重複せず知名度・確認容易性を優先し採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
