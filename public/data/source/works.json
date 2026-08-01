@@ -13727,5 +13727,281 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "watashi-no-hatsukoi-wa-hazukashisugite-dare-nimo-ienai",
+    "title": "私の初恋は恥ずかしすぎて誰にも言えない",
+    "titleKana": "わたしのはつこいははずかしすぎてだれにもいえない",
+    "authorIds": [
+      "fushimi-tsukasa"
+    ],
+    "illustratorIds": [
+      "kanzaki-hiro"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "tsf",
+      "seishun-lovecome",
+      "gakuen",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "容姿に恵まれながらも女子にモテない高校生・八隅千秋は、入学初日に突然女性へと性転換してしまう。さらに翌日、妹の楓が男性化していることが発覚し、双子きょうだいはそれぞれ逆の性で高校生活を送ることに。戸惑いと発見の中で綴られる、性が入れ替わった兄妹のラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/私の初恋は恥ずかしすぎて誰にも言えない"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点、WebFetch経由)。2024年1月刊行開始、電撃文庫、3巻(2024年11月時点)を確認。双子兄妹がそれぞれ異性化する設定を確認。白泉社『ヤングアニマル』でのコミカライズ(全4巻、2026年1月完結)を確認。アニメ化情報なし。原作小説の続巻状況・完結有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kampfer",
+    "title": "けんぷファー",
+    "titleKana": "けんぷふぁー",
+    "authorIds": [
+      "tsukiji-toshihiko"
+    ],
+    "illustratorIds": [
+      "senmu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "tsf",
+      "battle-action",
+      "gakuen",
+      "comedy",
+      "harem"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "ごく普通の男子高校生・扇奈流は、ある朝目覚めると女性の姿に変わっていた。喋るぬいぐるみ虎から「ケンプファー」として戦うよう告げられ、事情も分からぬまま同じ境遇の少女たちと勢力入り乱れる戦いに巻き込まれていく。性転換×バトル×学園ラブコメを組み合わせた2000年代後半の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/けんぷファー"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2006年11月〜2010年3月刊行、本編12巻+番外編3巻の全15巻、MF文庫J(メディアファクトリー)を確認。アニメ化(2009年)・コミカライズ(月刊コミックアライブ)も確認。2014年以前の刊行開始だが、TS(性転換)ジャンルの代表的古典作品のため例外的に採用。volumeCountは本編12巻のみを記載。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "bishoujo-ni-natta-kedo-netoge-haijin-yattemasu",
+    "title": "美少女になったけど、ネトゲ廃人やってます。",
+    "titleKana": "びしょうじょになったけど、ねとげはいじんやってます",
+    "authorIds": [
+      "hoshikuzu-ponpon"
+    ],
+    "illustratorIds": [
+      "neko-megane"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsf",
+      "vrmmo",
+      "comedy",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 4,
+    "synopsis": "何らかの原因で美少女の姿に変わってしまった男性プレイヤーが、それでもVRMMO「クランクラン」への熱意を失わずログインを続ける。リアルな姿を映すアバターでネトゲ生活を送るうち、ゲーム内の出来事が現実にも影響を及ぼし始める、性転換×VRMMOコメディ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/美少女になったけど、ネトゲ廃人やってます。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2015年刊行開始、講談社Kラノベブックス、4巻(2021年4月時点)を確認。小説家になろう発(後にカクヨムでも掲載)、水曜日のシリウスでのコミカライズ(全5巻)を確認。2021年以降の新刊情報は確認できず、継続状況は不明のためstatusをunknownとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "senpai-to-boku",
+    "title": "先輩とぼく",
+    "titleKana": "せんぱいとぼく",
+    "authorIds": [
+      "okita-miyabi"
+    ],
+    "illustratorIds": [
+      "hiyagi-kokoyori"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "tsf",
+      "seishun-lovecome",
+      "gakuen",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "ひょんなことから男女の脳が入れ替わってしまった先輩と後輩。互いの体に閉じ込められたまま、異性として学校生活を送らざるを得なくなる。第10回電撃ゲーム小説大賞〈銀賞〉受賞、性が入れ替わった二人の戸惑いと恋心を描く学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2003,
+        "result": "銀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/先輩とぼく"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2004年2月〜2005年12月刊行、電撃文庫(メディアワークス)、全6巻・完結を確認。第10回電撃ゲーム小説大賞〈銀賞〉受賞を確認したが、当時の賞名(電撃ゲーム小説大賞)と現行の既存awardId(dengeki-novel-taisho=電撃小説大賞)が同一賞の改称前後にあたるかは厳密には未確認、受賞年も回次からの推定。メディアミックス情報は記事に記載なし。2014年以前の刊行開始だが、TS(性転換)ジャンルの初期作例として例外的に採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "ts-eiseihei-san-no-senjou-nikki",
+    "title": "TS衛生兵さんの戦場日記",
+    "titleKana": "てぃーえすえいせいへいさんのせんじょうにっき",
+    "authorIds": [
+      "masaki-tama"
+    ],
+    "illustratorIds": [
+      "kureta"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "tsf",
+      "isekai-tensei",
+      "senki",
+      "dark-fantasy",
+      "mahou"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 8,
+    "synopsis": "FPSの元プロゲーマーだった男が転生した先は、魔法が存在するものの戦場は泥臭く過酷なファンタジー世界だった。女性の姿で二等衛生兵トウリ・ノエルとして生きることになった主人公が、回復魔法の腕を頼りに孤児院への仕送りのため戦場を駆け抜ける、性転換×戦記もの。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER検索結果および複数の検索結果を参照(2026年8月時点、Wikipedia記事なしのため書店・Web情報で代替)。KADOKAWA「電撃の新文芸」より刊行、8巻(2023年7月時点)、電撃コミックNEXTでコミカライズ(4巻)を確認。何らかのライトノベル賞(2023年)を受賞した旨の言及があったが、既存アワード一覧と一致する賞名を特定できなかったためawardResultsは記載せず。現在の刊行継続状況・完結有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tensei-mae-wa-otoko-datta-node-gyaku-harem-wa-okotowa-shite-orimasu",
+    "title": "転生前は男だったので逆ハーレムはお断りしております",
+    "titleKana": "てんせいまえはおとこだったのでぎゃくはーれむはおことわりしております",
+    "authorIds": [
+      "morishita-ringo"
+    ],
+    "illustratorIds": [
+      "miwabe-sakura"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "tsf",
+      "isekai-tensei",
+      "harem",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "前世は男性だった主人公は、異世界転生後は女性として生きることになった。おかげで自分に群がる男たちの「逆ハーレム」展開に嫌悪感を隠せず、周囲の好意をことごとく突っぱねようとする。前世が男だったからこその価値観のズレを笑いに変える、性転換×異世界ラブコメ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER検索結果を参照(2026年8月時点、Wikipedia記事なしのため書店情報で代替)。アース・スターノベルより2020年1月16日刊行開始、全2巻・完結を確認。小説家になろう/カクヨム発を確認。コミカライズ版(全6巻、完結)も確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "bishoujo-ni-ts-tensei-shitakara-joyuu-wo-mezasu",
+    "title": "美少女にTS転生したから大女優を目指す!",
+    "titleKana": "びしょうじょにてぃーえすてんせいしたからじょゆうをめざす",
+    "authorIds": [
+      "mutou-kannuki"
+    ],
+    "illustratorIds": [
+      "atte-nanakusa"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "tsf",
+      "gendai-drama",
+      "comedy",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "かつて役者を志しながら病に倒れ、長い闘病の末に人生を終えた男性。目を覚ますとTS転生した美少女の体で第二の人生を歩んでいた。今度こそ夢を叶えようと、女優として舞台に立つことを目指す第二の人生譚。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "検索結果を参照(2026年8月時点、Wikipedia記事なしのため書店・Web情報で代替)。HJ文庫より2022年12月28日刊行開始、2025年5月7日発売の2巻で完結(全2巻)を確認。小説家になろう/カクヨム発を確認。ガンガンコミックスUPでのコミカライズ(作画:十束椿)も確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "muyoku-no-seijo-wa-kane-ni-tokimeku",
+    "title": "無欲の聖女は金にときめく",
+    "titleKana": "むよくのせいじょはかねにときめく",
+    "authorIds": [
+      "nakamura-satsuki"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "tsf",
+      "gakuen",
+      "isekai-fantasy",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "金に汚いことで有名な孤児院育ちの少年レオは、ある日貴族の令嬢リーナと体が入れ替わってしまう。彼女の体のまま貴族学園へ送り込まれたレオは、金への執着を隠しきれないまま、なぜか清らかな「聖女」と勘違いされていく体入れ替わりコメディ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "検索結果を参照(2026年8月時点、Wikipedia記事なしのため書店・Web情報で代替)。ヒーロー文庫より2016年7月30日刊行開始、全4巻を確認。小説家になろう発(Web版本編は2021年4月完結)を確認。コミカライズ情報は確認できず、mediaMixのcomicはfalseとしたが未確認の可能性あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   }
 ]

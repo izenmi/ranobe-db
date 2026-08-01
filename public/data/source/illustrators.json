@@ -3012,5 +3012,41 @@
     "externalLinks": {},
     "sourceNote": "作品情報より。個人経歴の詳細は未確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "senmu",
+    "name": "せんむ",
+    "nameKana": "せんむ",
+    "description": "ライトノベルのイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で本作の担当イラストレーターであることを確認。既存イラストレーター一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "neko-megane",
+    "name": "ネコメガネ",
+    "nameKana": "ねこめがね",
+    "description": "ライトノベルのイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照。既存イラストレーター一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hiyagi-kokoyori",
+    "name": "日柳こより",
+    "nameKana": "ひやなぎこより",
+    "description": "ライトノベルのイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照。既存イラストレーター一覧に該当なし、新規id発行。読み仮名は未確認のため推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "atte-nanakusa",
+    "name": "あって⇒七草",
+    "nameKana": "あってななくさ",
+    "description": "ライトノベルのイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "検索結果を参照。既存イラストレーター一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
   }
 ]

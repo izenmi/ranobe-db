@@ -3462,5 +3462,50 @@
     "externalLinks": {},
     "sourceNote": "作品情報より。個人経歴の詳細はWikipediaに未記載。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hoshikuzu-ponpon",
+    "name": "星屑ぽんぽん",
+    "nameKana": "ほしくずぽんぽん",
+    "description": "小説家になろう発の作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照。既存著者一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "okita-miyabi",
+    "name": "沖田雅",
+    "nameKana": "おきたみやび",
+    "description": "電撃ゲーム小説大賞出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照。既存著者一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "masaki-tama",
+    "name": "まさきたま",
+    "nameKana": "まさきたま",
+    "description": "小説家になろう発の作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・検索結果を参照。既存著者一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "morishita-ringo",
+    "name": "森下りんご",
+    "nameKana": "もりしたりんご",
+    "description": "小説家になろう発の作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・検索結果を参照。既存著者一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mutou-kannuki",
+    "name": "武藤かんぬき",
+    "nameKana": "むとうかんぬき",
+    "description": "小説家になろう発の作家。",
+    "externalLinks": {},
+    "sourceNote": "検索結果を参照。既存著者一覧に該当なし、新規id発行。",
+    "updatedAt": "2026-08-01"
   }
 ]
