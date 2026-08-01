@@ -73,7 +73,7 @@ npm run preview
 
 ## 表紙画像・購入リンク(2026-08-01実装)
 
-- **表紙画像**: `npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数、[楽天ウェブサービス](https://webservice.rakuten.co.jp/)で無料即時発行)が楽天ブックス書籍検索API(`BooksTotal/Search`)でシリーズタイトルから代表巻(基本1巻)のISBN・表紙URLを解決し、`public/data/source/covers-cache.json`に保存する。105作品中90作品(86%)で解決済み(2026-08-01時点)。解決できなかった作品(絶版などで楽天カタログに1巻が存在しない等)はプレースホルダーのまま。マッチ精度に問題があれば`covers-cache.json`を直接手編集して直せる(`isbn`/`coverUrl`/`matchedTitle`を書き換えるだけ)
+- **表紙画像**: `npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数、[楽天ウェブサービス](https://webservice.rakuten.co.jp/)で無料即時発行)が楽天ブックス書籍検索API(`BooksTotal/Search`)でシリーズタイトルから代表巻(基本1巻)のISBN・表紙URLを解決し、`public/data/source/covers-cache.json`に保存する。楽天ブックスで見つからない場合は楽天Kobo電子書籍検索API(`Kobo/EbookSearch`、同じapplicationId/accessKeyで利用可)にフォールバックする(2026-08-01実装。Web小説発の作品など紙の在庫がなくKoboにのみ電子版があるケースをカバーするため)。Koboでマッチした場合キャッシュに`source: "kobo"`が付き、ISBNは持たない(`isbn: null`)。155作品中154作品(99%)で解決済み(2026-08-01時点、うち10作品はKobo経由)。解決できなかった作品(絶版などで楽天カタログ・Koboどちらにも書誌が存在しない。例: 陰陽ノ京)はプレースホルダーのまま。マッチ精度に問題があれば`covers-cache.json`を直接手編集して直せる(`isbn`/`coverUrl`/`matchedTitle`を書き換えるだけ)
   - このAPIは`Referer`/`Origin`ヘッダーがアプリ登録時の「アプリケーションURL」(`https://izenmi.github.io/ranobe-db/`)と一致している必要がある(`scripts/fetch-covers.mjs`内の`REFERER_URL`/`ORIGIN_URL`で送信)
   - openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用と判断済み(再検討不要)
 - **購入リンク**: `amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「1巻をAmazonで探す」「シリーズ全体を探す」の2リンクを表示
@@ -85,5 +85,4 @@ npm run preview
 ## 既知の未着手事項
 
 - **新人賞 / それ以外の賞でのフィルター**: 受賞歴を「新人賞(デビュー契機の公募賞)」と「それ以外(このラノすごい!等の人気投票・ランキング)」に区別してフィルターできるようにする。awards.jsonに賞の種別を表すフィールドの追加が必要
-- **表紙画像の未解決作品**: `npm run fetch-covers`で見つからなかった作品(なれる!SE、キーリ、塩の街、イリヤの空、半分の月がのぼる空など)は、`covers-cache.json`を手動で埋めるか、楽天カタログ側に該当書誌がないか個別確認する
-- **2026-08-01追加の50作品分の表紙画像未取得**: 受賞作50作品を追加(105→155作品)したが、`npm run fetch-covers`は未実行のためこれらは全てプレースホルダー表示。`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`を用意して`npm run fetch-covers`を再実行し、`covers-cache.json`を更新・コミットする必要がある
+- **表紙画像の未解決作品**: 楽天ブックス・Koboどちらでも見つからなかった作品(陰陽ノ京など)は、`covers-cache.json`を手動で埋めるか、他の書誌情報源を個別確認する

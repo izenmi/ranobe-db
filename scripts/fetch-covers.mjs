@@ -12,6 +12,11 @@
 // light-novel publisher in this dataset — so real-world coverage was ~0%. Rakuten Books
 // actually sells these titles, so its own cover images are far more complete.
 //
+// When a title has no Rakuten Books hit (small-press / web-novel-only series that Rakuten
+// doesn't stock in print), this falls back to the Rakuten Kobo e-book search API
+// (Kobo/EbookSearch) using the same app credentials. Kobo hits are cached with isbn: null
+// (Kobo items have no ISBN field) and source: "kobo" so they're distinguishable later.
+//
 // Requires a Rakuten Web Service app — free, instant self-serve (no sales-history approval like
 // Amazon PA-API): register at https://webservice.rakuten.co.jp/, create an app with
 // "アプリケーションURL" set to this site's URL (https://izenmi.github.io/ranobe-db/), and copy
@@ -81,6 +86,27 @@ async function searchRakuten(keyword) {
   return (data.Items ?? []).map((wrapped) => wrapped.Item);
 }
 
+// Fallback for series Rakuten Books doesn't carry (small-press / web-novel-origin titles that
+// only ship as e-books). Same app credentials work across Rakuten Web Service APIs. Kobo items
+// have no ISBN field (itemNumber instead), so these are cached with isbn: null.
+async function searchKobo(keyword) {
+  const params = new URLSearchParams({
+    applicationId: APP_ID,
+    accessKey: ACCESS_KEY,
+    keyword,
+    hits: "30",
+    sort: "+releaseDate",
+    format: "json",
+  });
+  const url = `https://openapi.rakuten.co.jp/services/api/Kobo/EbookSearch/20170426?${params.toString()}`;
+  const res = await fetch(url, { headers: { Referer: REFERER_URL, Origin: ORIGIN_URL } });
+  const data = await res.json();
+  if (!res.ok || data.errors) {
+    throw new Error(data.errors?.errorMessage || data.error_description || `HTTP ${res.status}`);
+  }
+  return (data.Items ?? []).map((wrapped) => wrapped.Item);
+}
+
 function pickBestMatch(items, work) {
   const target = normalize(work.title);
   // Already sorted oldest-first by the API (sort=+releaseDate). Require a 978-4 (Japan
@@ -96,6 +122,11 @@ function pickBestMatch(items, work) {
   );
 }
 
+function pickBestKoboMatch(items, work) {
+  const target = normalize(work.title);
+  return items.find((it) => normalize(it.title ?? "").startsWith(target));
+}
+
 async function run() {
   const targets = works.filter((w) => (ONLY ? ONLY.includes(w.id) : true));
   let updated = 0;
@@ -109,21 +140,40 @@ async function run() {
     try {
       const items = await searchRakuten(work.title);
       const best = pickBestMatch(items, work);
-      if (!best) {
-        cache[work.id] = { title: work.title, isbn: null, coverUrl: null, resolvedAt: new Date().toISOString() };
-        console.log(`[miss] ${work.title}: 該当書誌が見つかりませんでした`);
+      if (best) {
+        const coverUrl = best.largeImageUrl ? upscale(best.largeImageUrl) : null;
+        cache[work.id] = {
+          title: work.title,
+          isbn: best.isbn,
+          matchedTitle: best.title,
+          coverUrl,
+          source: "rakuten-books",
+          resolvedAt: new Date().toISOString(),
+        };
+        console.log(`[${coverUrl ? "ok" : "no-cover"}] ${work.title} -> matched "${best.title}" (ISBN ${best.isbn})`);
+        updated++;
         await sleep(1100);
         continue;
       }
-      const coverUrl = best.largeImageUrl ? upscale(best.largeImageUrl) : null;
+
+      await sleep(1100);
+      const koboItems = await searchKobo(work.title);
+      const koboBest = pickBestKoboMatch(koboItems, work);
+      if (!koboBest) {
+        cache[work.id] = { title: work.title, isbn: null, coverUrl: null, resolvedAt: new Date().toISOString() };
+        console.log(`[miss] ${work.title}: 楽天ブックス・Koboともに該当書誌が見つかりませんでした`);
+        await sleep(1100);
+        continue;
+      }
       cache[work.id] = {
         title: work.title,
-        isbn: best.isbn,
-        matchedTitle: best.title,
-        coverUrl,
+        isbn: null,
+        matchedTitle: koboBest.title,
+        coverUrl: koboBest.largeImageUrl || null,
+        source: "kobo",
         resolvedAt: new Date().toISOString(),
       };
-      console.log(`[${coverUrl ? "ok" : "no-cover"}] ${work.title} -> matched "${best.title}" (ISBN ${best.isbn})`);
+      console.log(`[ok-kobo] ${work.title} -> matched "${koboBest.title}" (Kobo電子書籍)`);
       updated++;
     } catch (err) {
       console.error(`[error] ${work.title}: ${err.message}`);
