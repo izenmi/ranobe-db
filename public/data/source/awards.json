@@ -246,5 +246,24 @@
     },
     "sourceNote": "Wikipedia日本語版「星雲賞」「図書館戦争」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "piccoma-award",
+    "name": "ピッコマAWARD",
+    "organizer": "Kakao Piccoma",
+    "description": "電子コミック・小説配信サービス「ピッコマ」が主催するアワード。作品の人気や話題性を基に各部門を選出する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピッコマAWARD"
+    },
+    "sourceNote": "Wikipedia日本語版「ピッコマAWARD」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "dengeki-shinbungei-anniversary-contest",
+    "name": "電撃の新文芸記念コンテスト",
+    "organizer": "KADOKAWA(電撃の新文芸)",
+    "description": "電撃の新文芸レーベルが周年記念などの節目に開催する新人発掘コンテスト。「電撃の新文芸スタートアップコンテスト」(dengeki-shinbungei-startup-contest)とは別に開催される回もあり、resultに開催回・部門名を明記する。",
+    "sourceNote": "KAKUYOMU.jp掲載のコンテスト情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -5850,5 +5850,445 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "unnamed-memory",
+    "title": "Unnamed Memory",
+    "titleKana": "あんねーむどめもりー",
+    "authorIds": [
+      "komiya-kuji"
+    ],
+    "illustratorIds": [
+      "chibi"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "呪われた王オスカーは、子を成せば命を落とす呪いを解くため、「最悪の魔女」と呼ばれる青き月の魔女ティナーシャに助力を求める。ティナーシャは一年間だけ王妃としてそばにいることを条件に協力を約束するが、二人の関係は次第に深まり、大陸の運命を左右する戦いへと巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "単行本・ノベルズ部門1位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Unnamed_Memory"
+    },
+    "sourceNote": "日本語版Wikipediaおよびamazon.co.jp・bookwalker.jp掲載の書誌情報を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ2期まで放送済、コミカライズは月刊コミックDenGeki DAIOHで連載中。原作はカクヨム発のWeb小説。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+    "title": "ようこそ実力至上主義の教室へ",
+    "titleKana": "ようこそじつりょくしじょうしゅぎのきょうしつへ",
+    "authorIds": [
+      "kinugasa-shougo"
+    ],
+    "illustratorIds": [
+      "tomose-shunsaku"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "seishun-lovecome",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 33,
+    "synopsis": "進学率・就職率がほぼ100%を誇る名門校・高度育成高等学校。実は生徒の実力を厳しく選別する学校であり、クラス対抗の特別試験で無能力者揃いと烙印を押された最底辺クラスに配属された綾小路清隆は、本当の実力を隠しながらクラスメイトと共に成り上がりを目指していく学園頭脳戦サバイバル。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "文庫部門1位(殿堂入り)"
+      },
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2020,
+        "result": "読者投票1位(以降4年連続1位)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ようこそ実力至上主義の教室へ"
+    },
+    "sourceNote": "日本語版Wikipediaを参照し独自に要約(2026年8月時点)。既刊33巻(本編27巻+短編集6巻)。メディアミックス: TVアニメ第1期(2017)〜第3期(2024)放送済、第4期は2026年放送予定。コミカライズは複数展開中。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "sasaki-to-pi-chan",
+    "title": "佐々木とピーちゃん",
+    "titleKana": "ささきとぴーちゃん",
+    "authorIds": [
+      "bunkorori"
+    ],
+    "illustratorIds": [
+      "kantoku"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "gendai-drama",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "冴えないアラサー会社員・佐々木は、ペットショップで見つけた文鳥を衝動買いする。実はその文鳥の正体は、異世界で数百年生きた元英雄の賢者だった。契約を結び魔法の力を得た佐々木は、異世界でのスローライフと、現代日本での超常現象対策の任務という二つの生活を並行して送ることになる。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2019,
+        "result": "第4回カクヨムWeb小説コンテスト特別賞(異世界ファンタジー部門)"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "単行本・ノベルズ部門1位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々木とピーちゃん"
+    },
+    "sourceNote": "日本語版Wikipediaおよびkakuyomu.jp掲載の受賞結果ページを参照し独自に要約(2026年8月時点)。原題はカクヨム版『異世界でスローライフを楽しもうとしたら、現代で異能バトルに巻き込まれた件』。メディアミックス: TVアニメ第1期(2024年)放送済、第2期は2026年予定。コミカライズは複数版展開中。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "ishura",
+    "title": "異修羅",
+    "titleKana": "いしゅら",
+    "authorIds": [
+      "keiso"
+    ],
+    "illustratorIds": [
+      "kureta"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "魔王が討たれてから半年。誰が真の勇者だったのか、その正体を確かめるべく、「修羅」と呼ばれる十六人の規格外の強者たちが北の果てで一堂に会し、勝ち抜き戦「六合上覧」に挑む。全員が最強、全員が英雄、されど勇者は一人だけという、群雄が入り乱れる群像戦記。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "単行本・ノベルズ部門1位/新作部門1位(ダブル受賞)"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異修羅"
+    },
+    "sourceNote": "日本語版Wikipediaを参照し独自に要約(2026年8月時点)。Web版は2017年カクヨム・小説家になろうで連載開始。メディアミックス: TVアニメ第1期(2024年)・第2期(2025年)放送済、コミカライズ(作画:メグリ)は月刊少年マガジンで連載。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "madougushi-daria-wa-utsumukanai",
+    "title": "魔導具師ダリヤはうつむかない",
+    "titleKana": "まどうぐしだりやはうつむかない",
+    "authorIds": [
+      "amagishi-hisaya"
+    ],
+    "illustratorIds": [
+      "kei-madougushi",
+      "amaichi-esora",
+      "komada-hachi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "前世は過労死した日本人という記憶を持つ魔導具師ダリヤは、婚約破棄をきっかけに、誰かに寄りかかるのではなく自分の腕一本で生きていくと決意する。魔導具作りの才を武器に工房を興し、恋や友情、商売敵との駆け引きを通じて、異世界でうつむかずに前を向く女性の姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "単行本・ノベルズ部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "単行本・ノベルズ部門3位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔導具師ダリヤはうつむかない"
+    },
+    "sourceNote": "日本語版Wikipediaを参照し独自に要約(2026年8月時点)。既刊14巻(本編13巻+番外編1巻)。挿絵担当は巻によって景(1-8巻)→雨壱絵穹(9巻)→駒田ハチ(10巻以降)と交代。メディアミックス: TVアニメ(2024年放送)、コミカライズ複数版あり。原作は小説家になろう。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "silent-witch",
+    "title": "サイレント・ウィッチ",
+    "titleKana": "さいれんとうぃっち",
+    "authorIds": [
+      "isora-matsuri"
+    ],
+    "illustratorIds": [
+      "fujimi-nanna"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "gakuen",
+      "mahou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "無詠唱魔術を極めた稀代の天才魔術師モニカ・エヴァレットは、国内最高位の魔術師「七賢人」の一人でありながら極度の人見知り。彼女は正体を隠したまま名門セレンディア学園に生徒として潜入し、第二王子フェリクスの秘密護衛任務にあたることになるが、そこで様々な人々と出会い変わっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "単行本・ノベルズ部門1位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サイレント・ウィッチ"
+    },
+    "sourceNote": "日本語版Wikipediaを参照し独自に要約(2026年8月時点)。既刊13巻。メディアミックス: TVアニメ(2025年放送、全13話)、コミカライズはB's-LOG COMIC・カドコミで連載中。原作は小説家になろう。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "koishita-hito-wa-imouto-no-kawari-ni-shinde-kure-to-itta",
+    "title": "恋した人は、妹の代わりに死んでくれと言った。",
+    "titleKana": "こいしたひとは、いもうとのかわりにしんでくれといった。",
+    "authorIds": [
+      "nagano-mizuki"
+    ],
+    "illustratorIds": [
+      "toyota-saori"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "romance",
+      "isekai-fantasy",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "養女として育ったウィステリアは、幼なじみブライトに片思いしていたが、彼が求めたのは妹ロザリーの身代わりとして瘴気の異界の番人になることだった。二十数年後、老いを止めた姿のまま暮らす彼女の前に、ブライトによく似た青年ロイドが現れ、封じたはずの過去と想いが再び動き出す。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "単行本・ノベルズ部門1位"
+      },
+      {
+        "awardId": "piccoma-award",
+        "year": 2025,
+        "result": "小説部門受賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋した人は、妹の代わりに死んでくれと言った。"
+    },
+    "sourceNote": "日本語版Wikipedia、tobooks.jp特設サイト、報道記事を参照し独自に要約(2026年8月時点)。既刊9巻(本編8巻+短編集1巻、TOブックス「Celicaノベルズ」レーベル)。Web連載(小説家になろう)は完結済だが書籍版は継続中。メディアミックス: コミカライズは2022年から連載中。TVアニメは2026年1月に制作決定と発表されたが本稿時点で放送実績が未確認のためanime:falseとした(要再確認)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "otonari-no-tenshi-sama",
+    "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "titleKana": "おとなりのてんしさまにいつのまにかだめにんげんにされていたけん",
+    "authorIds": [
+      "saeki-san"
+    ],
+    "illustratorIds": [
+      "wabu-hazano",
+      "hanekoto"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "堕落した生活を送る高校生・周は、雨の日に傘を貸したことをきっかけに、学校一の美少女で隣人の椎名真昼と関わるようになる。世話焼きな真昼に食事や身の回りの世話を焼かれるうちに、生活を立て直していく周。互いの距離が少しずつ縮まっていく、隣人同士の甘く優しいラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "文庫部門1位(史上初の5冠達成)"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/お隣の天使様にいつの間にか駄目人間にされていた件"
+    },
+    "sourceNote": "日本語版Wikipediaを参照し独自に要約(2026年8月時点)。既刊15巻(本編12巻+短編集3巻)。イラスト担当は1巻のみ和武はざの、2巻以降ははねこと。メディアミックス: TVアニメ第1期(2023年)・第2期(2026年)放送済、コミカライズは2022年から連載中。原作は小説家になろう。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "dare-ga-yuusha-wo-koroshita-ka",
+    "title": "誰が勇者を殺したか",
+    "titleKana": "だれがゆうしゃをころしたか",
+    "authorIds": [
+      "daken"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mystery",
+      "dark-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "魔王討伐から四年、勇者アレスは帰還しないまま消息を絶っていた。国は勇者の偉業を後世に残すため記録編纂を進めるが、元パーティーメンバーである騎士・僧侶・賢者への聞き取りが進むにつれ、誰もが口を濁す勇者の死の真相と、パーティー内に潜んでいた歪んだ人間関係が明らかになっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "総合新作部門1位、文庫部門2位"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/誰が勇者を殺したか"
+    },
+    "sourceNote": "日本語版Wikipedia、bookwalker.jp掲載の書誌情報を参照し独自に要約(2026年8月時点)。既刊4巻。原作は小説家になろう。メディアミックス: コミカライズ(作画:石田あきら)はカドコミで連載中。本稿時点でTVアニメ化の情報は確認できずanime:falseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "aru-majo-ga-shinu-made",
+    "title": "ある魔女が死ぬまで",
+    "titleKana": "あるまじょがしぬまで",
+    "authorIds": [
+      "saka"
+    ],
+    "illustratorIds": [
+      "korefuji"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "mahou",
+      "terminal-illness",
+      "gendai-drama",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "見習い魔女メグは十七歳の誕生日、師ファウストから余命一年の呪いをかけられていることを告げられる。呪いを解くには「千粒の嬉し涙」を集めなければならない。残された時間の中で様々な人々と出会い、涙と笑顔を分かち合いながら、メグは魔女として、そして一人の人間として成長していく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-shinbungei-anniversary-contest",
+        "year": 2021,
+        "result": "電撃の新文芸2周年記念コンテスト〈熱い師弟関係〉部門大賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ある魔女が死ぬまで"
+    },
+    "sourceNote": "日本語版Wikipediaおよびkakuyomu.jp掲載のコンテスト情報を参照し独自に要約(2026年8月時点)。Web版は2019-2022年にカクヨムで連載、書籍版(電撃の新文芸、全4巻)は2025年に完結。メディアミックス: TVアニメ(2025年放送、全12話)、コミカライズ(作画:雨霰けぬ)は2023年から連載中。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
