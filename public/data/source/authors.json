@@ -2144,5 +2144,94 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "torako",
+    "name": "虎虎",
+    "nameKana": "とらこ",
+    "description": "覆面作家。投稿作『中二病でも恋がしたい！』が第1回京都アニメーション大賞奨励賞を受賞し2011年デビュー。学歴・生年・性別非公開で活動する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虎虎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "anda-sadanatsu",
+    "name": "庵田定夏",
+    "nameKana": "あんださだなつ",
+    "description": "大阪府出身、神戸大学卒業。第11回エンターブレインえんため大賞小説部門特別賞受賞作を改題・改稿し、2010年『ココロコネクト ヒトランダム』でファミ通文庫よりデビュー。",
+    "birthYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/庵田定夏"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "jin-shizen-no-teki-p",
+    "name": "じん(自然の敵P)",
+    "nameKana": "じん",
+    "description": "ボーカロイド楽曲プロデューサー「自然の敵P」としても活動する小説家・アニメーション監督。楽曲群「カゲロウプロジェクト」の原作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "misaki-jun",
+    "name": "箕崎准",
+    "nameKana": "みさきじゅん",
+    "description": "脚本家・ゲームデザイナー・小説家。アダルトゲームブランド出身で、『ハンドレッド』などのライトノベルを執筆。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/箕崎准"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "matsu-tomohiro",
+    "name": "松智洋",
+    "nameKana": "まつともひろ",
+    "description": "福岡県出身のライトノベル作家(本名・成松孝洋)。2008年『迷い猫オーバーラン!』でデビュー。多作で知られたが2016年に肝臓癌のため43歳で逝去。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松智洋"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikami-en",
+    "name": "三上延",
+    "nameKana": "みかみえん",
+    "description": "神奈川県横浜市出身の小説家。2002年『ダーク・バイオレッツ』(電撃小説大賞3次選考通過作)でデビュー。初期はホラー作品を執筆していたが本作で人気作家に。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三上延"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "araki-shin",
+    "name": "新木伸",
+    "nameKana": "あらきしん",
+    "description": "東京都出身のライトノベル作家。ゲーム雑誌ライターを経て1994年電撃文庫でデビュー。代表作『GJ部』。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新木伸"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ceez",
+    "name": "Ceez",
+    "nameKana": "しーず",
+    "description": "『リアデイルの大地にて』で2019年デビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

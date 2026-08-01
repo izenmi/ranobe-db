@@ -1901,5 +1901,71 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "osaka-nozomi",
+    "name": "逢坂望美",
+    "nameKana": "おおさかのぞみ",
+    "description": "本作のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "horiguchi-yukiko",
+    "name": "堀口悠紀子",
+    "nameKana": "ほりぐちゆきこ",
+    "description": "『らき☆すた』『けいおん!』のキャラクターデザインで知られるイラストレーター・アニメーター。本作では「白身魚」名義でイラストを担当。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/堀口悠紀子"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shizu-illustrator",
+    "name": "しづ",
+    "nameKana": "しづ",
+    "description": "イラストレーター・アニメーター。カゲロウプロジェクト関連のPV等で活動。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ookuma-panzasuke",
+    "name": "大熊猫介",
+    "nameKana": "おおくまぱんざすけ",
+    "description": "『ハンドレッド』のキャラクターデザイン・イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "koshima-hagu",
+    "name": "越島はぐ",
+    "nameKana": "こしまはぐ",
+    "description": "本作のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "aruya",
+    "name": "あるや",
+    "nameKana": "あるや",
+    "description": "本作のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tenmaso",
+    "name": "てんまそ",
+    "nameKana": "てんまそ",
+    "description": "本作のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

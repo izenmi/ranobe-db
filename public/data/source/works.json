@@ -8530,5 +8530,342 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "chuunibyou-demo-koi-ga-shitai",
+    "title": "中二病でも恋がしたい！",
+    "titleKana": "ちゅうにびょうでもこいがしたい",
+    "authorIds": [
+      "torako"
+    ],
+    "illustratorIds": [
+      "osaka-nozomi"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "中二病を克服したはずの富樫勇太は、高校進学早々「邪王真眼」を名乗る現役中二病の少女・小鳥遊六花に契約者として指名される。振り回されるうちに、痛々しくも眩しい彼女の孤独と本音が見えてくる青春譚。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2010,
+        "result": "第1回奨励賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中二病でも恋がしたい！"
+    },
+    "sourceNote": "Wikipedia日本語版「中二病でも恋がしたい！」「虎虎」を参照(2026年8月時点)。京都アニメーション/KAエスマ文庫刊、全4巻完結。TVアニメ2期(2012・2014)と劇場版(2013・2018)が制作された。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "kokoro-connect",
+    "title": "ココロコネクト",
+    "titleKana": "ここころこねくと",
+    "authorIds": [
+      "anda-sadanatsu"
+    ],
+    "illustratorIds": [
+      "horiguchi-yukiko"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "文化部の寄り合い所帯「文研部」の五人は、ある日を境に意思とは無関係に体が入れ替わる怪異に見舞われる。「げんし様」と名乗る謎の存在による人格観察実験に翻弄されながら、互いの隠された本心と向き合っていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2011,
+        "result": "新作部門1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ココロコネクト"
+    },
+    "sourceNote": "Wikipedia日本語版「ココロコネクト」「庵田定夏」を参照(2026年8月時点)。エンターブレイン/ファミ通文庫刊、全11巻(本編8+短編集3)完結。2012年にTVアニメ化(13話+OVA4話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kagerou-days",
+    "title": "カゲロウデイズ",
+    "titleKana": "かげろうでいず",
+    "authorIds": [
+      "jin-shizen-no-teki-p"
+    ],
+    "illustratorIds": [
+      "shizu-illustrator"
+    ],
+    "publisherId": "kcg-bunko",
+    "themeIds": [
+      "sf",
+      "mystery",
+      "music",
+      "time-travel"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "引きこもりの少年シンタローと彼のパソコンに棲む電脳少女エネ、そして「目」にまつわる異能を持つ「メカクシ団」。8月14日と15日を巡る奇妙な時間ループの中で、それぞれが抱える過去の喪失と後悔が少しずつ重なり合っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カゲロウデイズ"
+    },
+    "sourceNote": "Wikipedia日本語版「カゲロウデイズ」「メカクシティアクターズ」を参照(2026年8月時点)。エンターブレイン(角川コンテンツゲート)/KCG文庫刊、全8巻完結。ボーカロイド楽曲・アルバム発のメディアミックス作品で累計発行部数1500万部超。2014年にTVアニメ「メカクシティアクターズ」放映。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "fate-strange-fake",
+    "title": "Fate/strange Fake",
+    "titleKana": "ふぇいと・すとれんじふぇいく",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "morii-shizuki"
+    ],
+    "publisherId": "typemoon-books",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mystery"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "アメリカの都市スノーフィールドで、本来存在しないはずの聖杯戦争が偽りのシステムのもと模造・開催される。欠けたクラスや歴史に名を残さぬ偽りの英霊が入り乱れ、魔術師と怪物たちが偽物の聖杯を巡って争う群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/strange_Fake"
+    },
+    "sourceNote": "Wikipedia日本語版「Fate/strange Fake」を参照(2026年8月時点)。TYPE-MOON BOOKSレーベルで2015年より刊行、既刊9巻で継続中。原作:成田良悟×TYPE-MOON。イラストレーター森井しづきは既存収録『ブラックロッド』とは別に、本作の挿絵・コミカライズ作画も担当する同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hundred",
+    "title": "ハンドレッド",
+    "titleKana": "はんどれっど",
+    "authorIds": [
+      "misaki-jun"
+    ],
+    "illustratorIds": [
+      "ookuma-panzasuke"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "harem",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "謎の外来脅威「Savage」に対抗するため、意志の力で武器に変化する「HUNDRED」の使い手を育てる浮遊学園リトルガーデン。転入生ハヤトは規格外の適性を持つ「ヴァリアント」として覚醒し、仲間たちと激化する戦いに身を投じる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハンドレッド_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「ハンドレッド(小説)」「箕崎准」を参照(2026年8月時点)。SBクリエイティブ/GA文庫刊、全16巻完結。2016年にTVアニメ化(全12話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "papa-no-iukoto-wo-kikinasai",
+    "title": "パパのいうことを聞きなさい!",
+    "titleKana": "ぱぱのいうことをきなさい",
+    "authorIds": [
+      "matsu-tomohiro"
+    ],
+    "illustratorIds": [
+      "nakajima-yuka"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "大学生の一颯は、飛行機事故で他界した姉夫婦に代わり、遺された三人の姪の保護者になることに。年齢も性格も違う姪たちとの不慣れな共同生活を通じ、不器用な家族の形を見つけていくハートフルコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パパのいうことを聞きなさい!"
+    },
+    "sourceNote": "Wikipedia日本語版「パパのいうことを聞きなさい!」「松智洋」を参照(2026年8月時点、実際の記事タイトルは半角!)。集英社スーパーダッシュ文庫刊、全19巻(本編18+エピローグ1)完結。2012年にTVアニメ化。イラストレーターなかじまゆかは既存収録『甘城ブリリアントパーク』と同一人物のため既存IDを再利用(Wikipediaインフォボックスで直接確認済み)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "biblia-koshodou-no-jiken-techou",
+    "title": "ビブリア古書堂の事件手帖",
+    "titleKana": "びぶりあこしょどうのじけんてちょう",
+    "authorIds": [
+      "mikami-en"
+    ],
+    "illustratorIds": [
+      "koshima-hagu"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "鎌倉の古書店「ビブリア古書堂」を営む美貌の店主・栞子は、極度の人見知りながら古書の知識だけは並外れている。持ち込まれる一冊一冊にまつわる謎を、常連客の大輔とともに静かに解き明かしていく日常ミステリ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ビブリア古書堂の事件手帖"
+    },
+    "sourceNote": "Wikipedia日本語版「ビブリア古書堂の事件手帖」「三上延」を参照(2026年8月時点)。KADOKAWA/メディアワークス文庫刊、既刊12巻で継続中(第8巻より娘・扉子が主人公の第2部)。2012年本屋大賞ノミネート、実写映画化(2018)・TVドラマ化(2013)。シリーズ累計850万部超。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "gj-bu",
+    "title": "GJ部",
+    "titleKana": "じーじぇいぶ",
+    "authorIds": [
+      "araki-shin"
+    ],
+    "illustratorIds": [
+      "aruya"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "何をする部なのか誰も知らない謎の部活「GJ部」に強引に入部させられた庄司恭也。優雅な姉妹や天才ゲーマー、留学生など個性豊かな部員たちと過ごす、何気ないけれど愛おしい日常を描く学園コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GJ部"
+    },
+    "sourceNote": "Wikipedia日本語版「GJ部」「新木伸」を参照(2026年8月時点)。小学館ガガガ文庫刊、全11巻(本編9+特別編2)完結。2013年にTVアニメ化(日本テレビ系、12話+特別編)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "seitokai-tantei-kirika",
+    "title": "生徒会探偵キリカ",
+    "titleKana": "せいとかいたんていきりか",
+    "authorIds": [
+      "sugii-hikaru"
+    ],
+    "illustratorIds": [
+      "ponkan8"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "生徒数八千人を数える巨大学園に転入した主人公は、なりゆきで生徒会に加わることに。奇矯な会長や引きこもり気味の「学園の名探偵」である会計担当とともに、学内で起こる不可解な謎を解決していく学園ミステリコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/生徒会探偵キリカ"
+    },
+    "sourceNote": "Wikipedia日本語版「生徒会探偵キリカ」を参照(2026年8月時点)。講談社ラノベ文庫刊、既刊7巻。著者杉井光は既存収録『楽園ノイズ』、イラストレーターぽんかん⑧は既存収録『やはり俺の青春ラブコメはまちがっている。』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "leadale-no-daichi-nite",
+    "title": "リアデイルの大地にて",
+    "titleKana": "りあでいるのだいちにて",
+    "authorIds": [
+      "ceez"
+    ],
+    "illustratorIds": [
+      "tenmaso"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "vrmmo",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "病により体の自由を失った女性は、かつて没頭したVRMMOのキャラクターとして、200年後の姿となったゲーム世界そのものに転移してしまう。ログアウトできぬまま、最強のエルフ魔導士としてかつての仲間の痕跡を探す旅に出る。",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "4位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "単巻部門1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアデイルの大地にて"
+    },
+    "sourceNote": "Wikipedia日本語版「リアデイルの大地にて」を参照(2026年8月時点)。KADOKAWA/ファミ通文庫刊、既刊8巻で継続中。2022年にTVアニメ化。BOOK☆WALKER新作ラノベ選挙2019で4位、ラノベ好き書店員大賞2020単巻部門1位。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
