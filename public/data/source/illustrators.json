@@ -1660,5 +1660,102 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takeuchi-takashi",
+    "name": "武内崇",
+    "nameKana": "たけうちたかし",
+    "description": "TYPE-MOON所属のイラストレーター。『Fate/stay night』などTYPE-MOON作品のキャラクターデザインを多数手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武内崇"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "e9l",
+    "name": "E9L",
+    "nameKana": "いーないんえる",
+    "description": "カバーイラスト・口絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "won-illustrator",
+    "name": "をん",
+    "nameKana": "をん",
+    "description": "『落第騎士の英雄譚』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "taiki-illustrator",
+    "name": "タイキ",
+    "nameKana": "たいき",
+    "description": "『インフィニット・デンドログラム』本編の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kobuichi",
+    "name": "こぶいち",
+    "nameKana": "こぶいち",
+    "description": "『これはゾンビですか?』のキャラクターデザイン・挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "muririn",
+    "name": "むりりん",
+    "nameKana": "むりりん",
+    "description": "『これはゾンビですか?』の挿絵を共同で担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kippu",
+    "name": "切符",
+    "nameKana": "きっぷ",
+    "description": "『のうりん』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "oogure-ito",
+    "name": "大暮維人",
+    "nameKana": "おおくれいと",
+    "description": "『エア・ギア』『マルドゥック・スクランブル』などで知られる漫画家・イラストレーター。本作のカバーイラストを担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大暮維人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakajima-yuka",
+    "name": "なかじまゆか",
+    "nameKana": "なかじまゆか",
+    "description": "『甘城ブリリアントパーク』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "izubuchi-yutaka",
+    "name": "出渕裕",
+    "nameKana": "いづぶちゆたか",
+    "description": "デザイナー・イラストレーター・アニメ監督。『機動戦士ガンダム』シリーズ等のメカデザインで知られ、本作の挿絵で日本のファンタジー作品に大きな影響を与えた。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/出渕裕"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

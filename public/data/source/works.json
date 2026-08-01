@@ -7576,5 +7576,326 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "fate-zero",
+    "title": "Fate/Zero",
+    "titleKana": "フェイト・ゼロ",
+    "authorIds": [
+      "urobuchi-gen"
+    ],
+    "illustratorIds": [
+      "takeuchi-takashi"
+    ],
+    "publisherId": "typemoon-books",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "聖杯を巡り七人の魔術師とその使い魔たる英霊が殺し合う「聖杯戦争」。『Fate/stay night』の十年前を舞台に、衛宮切嗣ら人間くさい魔術師たちの思惑と英雄たちの死闘を描く、シリーズの原点となる悲劇的な物語。",
+    "awardResults": [
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "ライトノベル部門6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/Zero"
+    },
+    "sourceNote": "Wikipedia日本語版「Fate/Zero」を参照(2026年8月時点)。原著はTYPE-MOON BOOKSより2006-2007年刊行(全4巻)、後に星海社文庫版(全6巻)も刊行。アニメはufotable制作、2011-2012年放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mikkakan-no-koufuku",
+    "title": "三日間の幸福",
+    "titleKana": "みっかかんのこうふく",
+    "authorIds": [
+      "miaki-sugaru"
+    ],
+    "illustratorIds": [
+      "e9l"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "借金を抱えた青年が、余命を一年一万円で買い取ってもらい、残り三十年の人生をわずか三日間に圧縮してしまう。監視役として付き添う女性と過ごす最後の時間を通して、幸福とは何かを静かに問いかける切ないヒューマンドラマ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三日間の幸福"
+    },
+    "sourceNote": "Wikipedia日本語版「三日間の幸福」を参照(2013年12月メディアワークス文庫刊)。2020年にアニメ映画化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "rakudai-kishi-no-eiyuutan",
+    "title": "落第騎士の英雄譚",
+    "titleKana": "らくだいきしのえいゆうたん",
+    "authorIds": [
+      "misora-riku"
+    ],
+    "illustratorIds": [
+      "won-illustrator"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "battle-action",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "特殊能力「伐刀絶技」を持つ者だけが集う破軍学園。魔力は乏しいが剣技だけで戦う最弱の劣等生・黒鉄一輝が、七星剣王候補の皇女ステラとの決闘を機に、実力至上主義の学園で成り上がっていく学園剣戟ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/落第騎士の英雄譚"
+    },
+    "sourceNote": "Wikipedia日本語版「落第騎士の英雄譚」を参照(2026年8月時点)。GA文庫より2013-2023年刊行、全20巻で完結。アニメは2015年、SILVER LINK.とNexus制作。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "infinite-dendrogram",
+    "title": "インフィニット・デンドログラム",
+    "titleKana": "いんふぃにっとでんどろぐらむ",
+    "authorIds": [
+      "kaidou-sakon"
+    ],
+    "illustratorIds": [
+      "taiki-illustrator"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "vrmmo",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "2043年稼働のフルダイブ型VRMMO「Infinite Dendrogram」。大学受験を終えた青年レイは、無限に成長する従者“エンブリオ”を得て冒険者となり、聖騎士として仲間たちと共に広大な仮想世界に隠された秘密へと迫っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インフィニット・デンドログラム"
+    },
+    "sourceNote": "Wikipedia日本語版「インフィニット・デンドログラム」を参照(2026年8月時点)。HJ文庫より2016年刊行開始、既刊27巻、継続中。アニメは2020年放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "sakurasou-no-pet-na-kanojo",
+    "title": "さくら荘のペットな彼女",
+    "titleKana": "さくらそうのぺっとなかのじょ",
+    "authorIds": [
+      "kamoshida-hajime"
+    ],
+    "illustratorIds": [
+      "mizoguchi-keiji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "飼い猫の一件で問題児寮「さくら荘」送りにされた空太は、生活能力皆無だが天才的な絵の才能を持つ美咲の世話係を任される。個性豊かな寮生たちとの共同生活の中で、自分の夢と向き合っていく青春群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さくら荘のペットな彼女"
+    },
+    "sourceNote": "Wikipedia日本語版「さくら荘のペットな彼女」を参照(2026年8月時点)。電撃文庫より2010-2014年刊行、全13巻。著者・鴨志田一とイラストレーター・溝口ケージは既存収録『青春ブタ野郎』シリーズと同一人物のため既存IDを再利用。アニメは2012-2013年放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "kore-wa-zombie-desu-ka",
+    "title": "これはゾンビですか？",
+    "titleKana": "これはぞんびですか",
+    "authorIds": [
+      "kimura-shinichi"
+    ],
+    "illustratorIds": [
+      "kobuichi",
+      "muririn"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "comedy",
+      "harem",
+      "horror",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "連続殺人事件で命を落とした高校生・歩は、ネクロマンサーの少女ユーによってゾンビとして蘇生される。奪われた「魔装少女」の力を巡り、個性豊かな美少女たちと同居する羽目になった主人公が巻き起こす、笑いと戦闘に満ちたドタバタコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/これはゾンビですか？"
+    },
+    "sourceNote": "Wikipedia日本語版「これはゾンビですか？」を参照(2026年8月時点)。富士見ファンタジア文庫より2009-2015年刊行、全19巻。アニメは2011年・2012年の2期、スタジオディーン制作。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "nourin",
+    "title": "のうりん",
+    "titleKana": "のうりん",
+    "authorIds": [
+      "shiratori-shirou"
+    ],
+    "illustratorIds": [
+      "kippu"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "農業高校を舞台に、元アイドルオタクの少年と、アイドルから転身した農家の少女、幼なじみらが繰り広げる下品スレスレのギャグと本格的な農業描写が同居する学園ラブコメ。長期休載を経て2026年に最終巻が刊行され完結した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/のうりん"
+    },
+    "sourceNote": "Wikipedia日本語版「のうりん」を参照(2026年8月時点)。GA文庫より2011年刊行開始、全14巻。著者・白鳥士郎は既存収録『りゅうおうのおしごと!』と同一著者IDを再利用。長期休載後、2026年6月完結。アニメは2014年放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "undead-girl-murder-farce",
+    "title": "アンデッドガール・マーダーファルス",
+    "titleKana": "あんでっどがーるまーだーふぁるす",
+    "authorIds": [
+      "aosaki-yuugo"
+    ],
+    "illustratorIds": [
+      "oogure-ito"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "battle-action",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "明治時代、不死の生首となった探偵・輪堂鴉夜と、半人半鬼の相棒、人狼の男の三人が「怪物専門の探偵」としてヨーロッパを渡り歩き、吸血鬼や怪物が絡む猟奇事件を解決していくバディ・ミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンデッドガール・マーダーファルス"
+    },
+    "sourceNote": "Wikipedia日本語版「アンデッドガール・マーダーファルス」を参照(2026年8月時点)。講談社タイガより2015年刊行開始、既刊4巻。アニメは2023年フジテレビ+Ultra枠、ラパントラック制作。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "amagi-brilliant-park",
+    "title": "甘城ブリリアントパーク",
+    "titleKana": "あまぎぶりりあんとぱーく",
+    "authorIds": [
+      "gatou-shouji"
+    ],
+    "illustratorIds": [
+      "nakajima-yuka"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "comedy",
+      "mahou",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "経営難で閉園寸前のテーマパーク「甘城ブリリアントパーク」に、自信家の高校生・西也が経営再建役として引き抜かれる。異世界からやってきた個性豊かなスタッフたちと共に、期限付きで来園者数増加を目指す再建コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/甘城ブリリアントパーク"
+    },
+    "sourceNote": "Wikipedia日本語版「甘城ブリリアントパーク」を参照(2026年8月時点)。富士見ファンタジア文庫より2013-2016年刊行、全8巻。著者・賀東招二は既存収録『フルメタル・パニック!』と同一著者IDを再利用。アニメは京都アニメーション制作、2014年放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "lodoss-tou-senki",
+    "title": "ロードス島戦記",
+    "titleKana": "ろーどすとうせんき",
+    "authorIds": [
+      "mizuno-ryo"
+    ],
+    "illustratorIds": [
+      "izubuchi-yutaka"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "「呪われた島」ロードスを舞台に、若き戦士パーンがエルフの戦士ディードリットら仲間と共に、灰色の魔女カーラの陰謀に立ち向かう。TRPGリプレイから生まれ、日本のファンタジー系ライトノベルの原点となった不朽の名作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロードス島戦記"
+    },
+    "sourceNote": "Wikipedia日本語版「ロードス島戦記」を参照(2026年8月時点)。角川文庫→角川スニーカー文庫より1988-1993年刊行、全7巻(初代シリーズ)で完結、累計1000万部突破。アニメは1991年OVA、1998年TVアニメ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
