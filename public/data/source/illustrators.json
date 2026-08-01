@@ -1476,5 +1476,117 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "uesugi-hisayo",
+    "name": "上杉久代",
+    "nameKana": "",
+    "description": "角川スニーカー文庫版「古典部」シリーズの装画を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takano-otohiko",
+    "name": "高野音彦",
+    "nameKana": "",
+    "description": "角川スニーカー文庫版「古典部」シリーズの装画を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "abe-yoshitoshi",
+    "name": "安倍吉俊",
+    "nameKana": "あべよしとし",
+    "description": "「serial experiments lain」のキャラクターデザインなどで知られるイラストレーター・アニメーション作家。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安倍吉俊"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mizoguchi-keiji",
+    "name": "溝口ケージ",
+    "nameKana": "みぞぐちけーじ",
+    "description": "電撃文庫「さくら荘のペットな彼女」「青春ブタ野郎」シリーズの挿絵で知られるイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/溝口ケージ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "non",
+    "name": "のん",
+    "nameKana": "のん",
+    "description": "「安達としまむら」1〜8巻の挿絵を担当したイラストレーター。2020年以降は本名の田中森よこた名義で活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/のん_(イラストレーター)"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yura-kairi",
+    "name": "由羅カイリ",
+    "nameKana": "ゆらかいり",
+    "description": "ゲーム「アンジェリークシリーズ」のキャラクターデザインや「彩雲国物語」の挿絵で知られるイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/由羅カイリ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ukai-saki",
+    "name": "鵜飼沙樹",
+    "nameKana": "うかいさき",
+    "description": "緻密なデジタルイラストを手がける「ブラック・ブレット」の挿絵担当イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "neco",
+    "name": "neco",
+    "nameKana": "",
+    "description": "「なぜ僕の世界を誰も覚えていないのか?」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yamamoto-yamato",
+    "name": "山本ヤマト",
+    "nameKana": "やまもとやまと",
+    "description": "イラストレーター・漫画家。原作漫画「終わりのセラフ」の作画を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本ヤマト"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kugami-kou",
+    "name": "狗神煌",
+    "nameKana": "",
+    "description": "「生徒会の一存」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "misaki-kurehito",
+    "name": "深崎暮人",
+    "nameKana": "みさきくれひと",
+    "description": "「冴えない彼女の育てかた」の挿絵を担当したイラストレーター・原画家。北海道出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深崎暮人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

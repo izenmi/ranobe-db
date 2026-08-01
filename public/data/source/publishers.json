@@ -405,5 +405,17 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kadokawa-beans-bunko",
+    "name": "角川ビーンズ文庫",
+    "nameKana": "かどかわびーんずぶんこ",
+    "description": "2001年創刊の少女向けライトノベルレーベル。恋愛・ファンタジー要素を含む女性読者向け作品を中心に刊行しており、「彩雲国物語」などのヒット作を送り出している。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川ビーンズ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「角川ビーンズ文庫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

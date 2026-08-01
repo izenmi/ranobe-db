@@ -265,5 +265,27 @@
     "description": "電撃の新文芸レーベルが周年記念などの節目に開催する新人発掘コンテスト。「電撃の新文芸スタートアップコンテスト」(dengeki-shinbungei-startup-contest)とは別に開催される回もあり、resultに開催回・部門名を明記する。",
     "sourceNote": "KAKUYOMU.jp掲載のコンテスト情報を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kadokawa-gakuen-shousetsu-taisho",
+    "name": "角川学園小説大賞",
+    "organizer": "角川書店(現KADOKAWA)",
+    "description": "角川書店が1997年から2010年まで主催した新人ライトノベル賞。ヤングミステリー&ホラー部門など複数部門を設置し、米澤穂信「氷菓」などを輩出した。",
+    "firstYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川学園小説大賞"
+    },
+    "sourceNote": "Wikipedia日本語版「角川学園小説大賞」を参照(2026年8月時点)。2009年に「学園小説大賞」に改称、2010年に終了。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kadokawa-beans-taisho",
+    "name": "角川ビーンズ小説賞",
+    "organizer": "KADOKAWA(角川ビーンズ文庫)",
+    "description": "角川ビーンズ文庫が主催する新人賞。雪乃紗衣「彩雲国綺譚」が第1回奨励賞・読者賞を受賞している。",
+    "firstYear": 2002,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「雪乃紗衣」の記述を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

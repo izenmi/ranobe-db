@@ -6901,5 +6901,344 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "hyouka",
+    "title": "氷菓",
+    "titleKana": "ひょうか",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "illustratorIds": [
+      "uesugi-hisayo",
+      "takano-otohiko"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "進学校・神山高校の古典部に幽霊部員として入部した省エネ主義の少年・折木奉太郎が、好奇心旺盛な後輩たちと共に部内やOBにまつわる過去の謎を解き明かしていく学園ミステリ。派手な事件は起きないが、日常に潜む小さな謎を丁寧に紐解く連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-gakuen-shousetsu-taisho",
+        "year": 2001,
+        "result": "ヤングミステリー&ホラー部門 奨励賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/氷菓"
+    },
+    "sourceNote": "Wikipedia日本語版「古典部シリーズ」「米澤穂信」を参照(2026年8月時点)。角川学園小説大賞は1997-2010年に実施された新人賞。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "all-you-need-is-kill",
+    "title": "All You Need Is Kill",
+    "titleKana": "おーるゆーにーどいずきる",
+    "authorIds": [
+      "sakurazaka-hiroshi"
+    ],
+    "illustratorIds": [
+      "abe-yoshitoshi"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "sf",
+      "time-travel",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "謎の異星生命体ギタイと人類が戦う近未来。初陣で死んだ新兵キリヤ・ケイジは、同じ一日を繰り返す時間ループに囚われる。戦闘のたびに死んでは記憶を保持したまま蘇る彼は、伝説の兵士リタと共に、ループを断ち切る糸口を探る。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    "sourceNote": "Wikipedia日本語版「All You Need Is Kill」「桜坂洋」「安倍吉俊」を参照(2026年8月時点)。単巻完結。2014年に小畑健作画で漫画化、トム・クルーズ主演で実写映画化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "seishun-buta-yarou",
+    "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "titleKana": "せいしゅんぶたやろうはばにーがーるせんぱいのゆめをみない",
+    "authorIds": [
+      "kamoshida-hajime"
+    ],
+    "illustratorIds": [
+      "mizoguchi-keiji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen-ianou"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "思春期特有の不安定な心が引き起こす奇妙な現象「思春期症候群」に悩まされる高校生たちを描く物語。主人公・咲太は、姿が他人に見えなくなった先輩・桜島麻衣と出会い、彼女を救うため症候群の謎に向き合っていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "文庫部門5位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青春ブタ野郎はバニーガール先輩の夢を見ない"
+    },
+    "sourceNote": "Wikipedia日本語版「青春ブタ野郎はバニーガール先輩の夢を見ない」「鴨志田一」「溝口ケージ」を参照(2026年8月時点)。2025年7月刊行の第16巻で完結。TVアニメ2期・劇場版複数展開。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "adachi-to-shimamura",
+    "title": "安達としまむら",
+    "titleKana": "あだちとしまむら",
+    "authorIds": [
+      "iruma-hitoma"
+    ],
+    "illustratorIds": [
+      "non"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "yuri",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "体育館の裏で出会った女子高生の安達としまむらは、たわいない会話を重ねるうちに奇妙な友情を育んでいく。特別な出来事は起きないが、どこか噛み合わないふたりの距離感が少しずつ縮まっていく、淡くやわらかな青春の記録。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安達としまむら"
+    },
+    "sourceNote": "Wikipedia日本語版「安達としまむら」「入間人間」を参照(2026年8月時点)。イラストは1-8巻がのん。2020年10-12月にTVアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "saiunkoku-monogatari",
+    "title": "彩雲国物語",
+    "titleKana": "さいうんこくものがたり",
+    "authorIds": [
+      "yukino-sai"
+    ],
+    "illustratorIds": [
+      "yura-kairi"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "alternate-history",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "貧乏名門貴族の娘・秀麗は、女人禁制の官吏の道を志し、皇帝直々の家庭教師役を経て念願の科挙に挑む。舞台は架空の中華風王朝・彩雲国。身分や性別の壁に阻まれながらも己の力で道を切り拓く、少女の立身出世譚。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-beans-taisho",
+        "year": 2002,
+        "result": "奨励賞・読者賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/彩雲国物語"
+    },
+    "sourceNote": "Wikipedia日本語版「彩雲国物語」「雪乃紗衣」「角川ビーンズ文庫」を参照(2026年8月時点)。2006-2008年にTVアニメ2期展開、既刊23巻で2012年完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "black-bullet",
+    "title": "ブラック・ブレット",
+    "titleKana": "ぶらっくぶれっと",
+    "authorIds": [
+      "kanzaki-shiden"
+    ],
+    "illustratorIds": [
+      "ukai-saki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "post-apocalypse",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2014,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "謎のウイルス「ガストレア」により人類の大半が死滅した近未来の日本。感染しながらも人智を超えた力を得た少女「呪われ子」と、彼女を相棒とする民間治安維持組織の少年・玲斗が、東京地区を脅かす脅威に立ち向かう。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラック・ブレット"
+    },
+    "sourceNote": "Wikipedia日本語版「ブラック・ブレット」「神崎紫電」を参照(2026年8月時点)。著者の体調不良により2015年以降新刊が出ておらず既刊7巻のまま長期停止中(公式に完結宣言はされていないためongoingとした)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "naze-boku-no-sekai",
+    "title": "なぜ僕の世界を誰も覚えていないのか?",
+    "titleKana": "なぜぼくのせかいをだれもおぼえていないのか",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "neco"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "五種族大戦の勝利から百年後、目の前で世界の記録が書き換えられ、自分だけが誰の記憶にも残らない存在になってしまった少年カイ。廃墟に眠る不思議な少女リンネと出会い、上書きされた世界を取り戻す戦いに身を投じる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なぜ僕の世界を誰も覚えていないのか?"
+    },
+    "sourceNote": "Wikipedia日本語版「なぜ僕の世界を誰も覚えていないのか?」を参照(2026年8月時点)。著者細音啓は既存著者ID「sazane-kei」(『神は遊戯に飢えている。』の著者)と同一人物のため既存IDを再利用。全9巻で完結、2024年7-9月にTVアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "owari-no-seraph-mikaela",
+    "title": "終わりのセラフ 吸血鬼ミカエラの物語",
+    "titleKana": "おわりのせらふ きゅうけつきみかえらのものがたり",
+    "authorIds": [
+      "kagami-takaya"
+    ],
+    "illustratorIds": [
+      "yamamoto-yamato"
+    ],
+    "publisherId": "jump-j-books",
+    "themeIds": [
+      "post-apocalypse",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "謎のウイルスで大人が死滅し、吸血鬼が人類を支配する世界。人間から吸血鬼の眷属となった少年ミカエラの視点から、絶望の中で育んだ人間側の親友・優一郎との絆や、吸血鬼社会の内情を描くスピンオフ長編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/終わりのセラフ"
+    },
+    "sourceNote": "Wikipedia日本語版「終わりのセラフ」「鏡貴也」「山本ヤマト」を参照(2026年8月時点)。原作漫画(鏡貴也原作・山本ヤマト作画)のノベライズ的スピンオフ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "seitokai-no-ichizon",
+    "title": "生徒会の一存",
+    "titleKana": "せいとかいのいちぞん",
+    "authorIds": [
+      "aoi-sekina"
+    ],
+    "illustratorIds": [
+      "kugami-kou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "人気投票で選ばれた美少女ばかりが集う碧陽学園生徒会に、成績優秀枠でただ一人選ばれた男子・杉崎鍵。菓子を食べながら駄弁るだけの生徒会活動を通し、個性的な役員たちとの掛け合いを軽妙な会話劇で描くドタバタコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "作品部門7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/生徒会の一存"
+    },
+    "sourceNote": "Wikipedia日本語版「生徒会の一存」「葵せきな」を参照(2026年8月時点)。本編10巻+番外編9巻+外伝2巻の全20巻で2018年完結。TVアニメ2期(2009・2013年)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "saenai-kanojo-no-sodatekata",
+    "title": "冴えない彼女の育てかた",
+    "titleKana": "さえないかのじょのそだてかた",
+    "authorIds": [
+      "maruto-fumiaki"
+    ],
+    "illustratorIds": [
+      "misaki-kurehito"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "romance",
+      "harem",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "桜舞う坂道で運命の出会いを果たしたオタク高校生・安芸倫也は、その体験を美少女ゲームにしようと同人サークルを結成する。絵の上手いクラスメイトや覆面作家の先輩を巻き込み、平凡な日常からヒロインを見出し創作に挑む青春譚。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2016,
+        "result": "文庫部門9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/冴えない彼女の育てかた"
+    },
+    "sourceNote": "Wikipedia日本語版「冴えない彼女の育てかた」「丸戸史明」「深崎暮人」を参照(2026年8月時点)。本編13巻+短編集7巻の全20巻で2019年完結。TVアニメ2期・劇場版・ゲーム化など多数展開。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
