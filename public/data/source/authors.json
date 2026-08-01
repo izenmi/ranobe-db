@@ -3618,5 +3618,37 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia内の関連記事(漫画家「雪子」「玉岡かがり」項目等)を参照(2026年8月時点)。単独の著者記事は未確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ooizumi-taka",
+    "name": "大泉貴",
+    "nameKana": "おおいずみ たか",
+    "description": "『アニソンの神様』などを手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版に著者単独記事はないが、『アニソンの神様』記事内で著者名・読み仮名を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "wakagi-mio",
+    "name": "若木未生",
+    "nameKana": "わかぎ みお",
+    "description": "1993年から続くロックバンド小説『グラスハート』の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/若木未生"
+    },
+    "sourceNote": "Wikipedia日本語版「グラスハート」記事より著者名を確認。著者個人の生年等の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakamura-kou",
+    "name": "中村航",
+    "nameKana": "なかむら こう",
+    "description": "1969年生まれ、岐阜県出身の小説家。『100回泣くこと』『トリガール!』などで知られ、2015年より音楽メディアミックスプロジェクト『BanG Dream!』の原作・ストーリー原案を担当。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村航"
+    },
+    "sourceNote": "Wikipedia日本語版「中村航」記事より生年・経歴・BanG Dream!への関与を確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

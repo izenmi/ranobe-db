@@ -14332,5 +14332,227 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "shine-post",
+    "title": "シャインポスト",
+    "titleKana": "しゃいんぽすと",
+    "authorIds": [
+      "rakuda"
+    ],
+    "illustratorIds": [
+      "buriki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "music",
+      "shigoto",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "解散寸前だったアイドルユニット「TiNgS」の前に、嘘をつく人間が輝いて見えるという特殊な感覚を持つ青年・日生直輝が新マネージャーとして現れる。芸能界の虚飾に一度は失望した彼が、メンバーの純粋さに触れて再びやる気を取り戻し、世界中にアイドルの魅力を届けるべく奮闘するアイドル群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャインポスト"
+    },
+    "sourceNote": "Wikipedia日本語版「シャインポスト」を参照(2026年8月時点)。既刊数は記事更新が2022年7月時点で止まっており、それ以降の巻数・最新刊年は未確認(3巻以降も継続中と思われる)。声優ラジオのウラオモテ・スタァ・ミライプロジェクトとは別のオリジナルアイドルライトノベルであることを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "sayonara-piano-sonata",
+    "title": "さよならピアノソナタ",
+    "titleKana": "さよならぴあのそなた",
+    "authorIds": [
+      "sugii-hikaru"
+    ],
+    "illustratorIds": [
+      "ueda-ryou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "music",
+      "romance",
+      "seishun-lovecome",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "音楽評論家を父に持つ平凡な高校生・氷川尚美は、クラシックの神童でありながらピアノを捨てた少女・海老沢真冬と出会う。真冬の才能に触れた尚美は彼女を誘ってバンドを結成し、クラシックとロックが交錯する音楽を通じて二人の関係と成長を描く青春音楽小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さよならピアノソナタ"
+    },
+    "sourceNote": "Wikipedia日本語版「さよならピアノソナタ」を参照(2026年8月時点)。刊行年・巻数・赤坂アカによるコミカライズ(2011-2012年)を確認。アニメ化はなし。2007年刊行開始と2014年以降の方針より古いが、音楽もの(バンド題材)の代表的作品として採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "anison-no-kamisama",
+    "title": "アニソンの神様",
+    "titleKana": "あにそんのかみさま",
+    "authorIds": [
+      "ooizumi-taka"
+    ],
+    "illustratorIds": [
+      "osaka-nozomi"
+    ],
+    "publisherId": "kono-light-novel-ga-sugoi-bunko",
+    "themeIds": [
+      "music",
+      "gakuen",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ドイツからの留学生エヴァ・F・ヴァグナーは、日本の高校でクラスメイトたちとアニメソングのカバーバンド「レーゲンボーゲン」を結成する。文化祭のステージを目指し、実在のアニソンやロックバンドへのオマージュを散りばめながら練習と衝突を重ねる青春音楽コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アニソンの神様"
+    },
+    "sourceNote": "Wikipedia日本語版「アニソンの神様」を参照(2026年8月時点)。著者名・イラストレーター・刊行年・巻数を確認。アニメ化・コミカライズの記載はなく、オーディオブック化のみ確認。2012年刊行と2014年以前だが、アニメソング×バンドという題材の希少性から採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "glass-heart",
+    "title": "グラスハート",
+    "titleKana": "ぐらすはーと",
+    "authorIds": [
+      "wakagi-mio"
+    ],
+    "illustratorIds": [
+      "hashimoto-mitsuru",
+      "umino-chika",
+      "fujita-takami"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "music",
+      "romance",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "学生バンドをクビになったドラマー・西条朱音は、音楽業界の有名人からの誘いで新バンド「テン・ブランク」に参加することになる。メンバーそれぞれの音楽性や癖がぶつかり合いながら曲を作り上げていく過程と、バンドを取り巻く人間関係を描く群像音楽小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グラスハート"
+    },
+    "sourceNote": "Wikipedia日本語版「グラスハート」を参照(2026年8月時点)。1993年よりコバルト文庫で連載開始、既刊11巻(2023年12月時点)、2024年から漫画化、2025年にNetflixで実写ドラマ化されたことを確認。刊行開始が1993年と非常に古いが、バンドものライトノベルの代表作かつ現在も刊行中のため採用。イラストレーター3名の担当巻の詳細な区分けは未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "bang-dream-bandori-novel",
+    "title": "BanG Dream! バンドリ",
+    "titleKana": "ばんどりーむ ばんどり",
+    "authorIds": [
+      "nakamura-kou"
+    ],
+    "illustratorIds": [
+      "hitowa"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "music",
+      "gakuen",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "高校生たちがガールズバンドを結成し、音楽を通じて成長していく『BanG Dream!』プロジェクトの原作者・中村航による書き下ろし小説。プロジェクト初期の世界観とキャラクターたちの出会い、バンド結成にいたる過程を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村航"
+    },
+    "sourceNote": "Wikipedia日本語版「中村航」記事および関連情報を参照(2026年8月時点)。2016年8月にKADOKAWAより単行本刊行、2019年に電撃文庫版刊行を確認。中村航は2015年からBanG Dream!プロジェクトの原作・ストーリー原案を担当しており、漫画『星の鼓動』とは別に書き下ろされた小説であることを確認。mediaMixはBanG Dream!プロジェクト全体(アニメ・漫画あり)を反映。単独記事「BanG Dream! バンドリ」は404のため、著者記事の記述をもとに作成。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kimi-ga-saigo-ni-nokoshita-uta",
+    "title": "君が最後に遺した歌",
+    "titleKana": "きみがさいごにのこしたうた",
+    "authorIds": [
+      "ichijou-misaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "music",
+      "romance",
+      "gendai-drama",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "詩作を趣味とする高校生・水嶋春人は、発達性ディスレクシアを抱えながらも卓越した作曲・歌唱の才能を持つクラスメイト・遠坂綾音と出会う。路上ライブなどを通じて共に歌を作り上げていく中で惹かれ合っていく二人を描く、音楽と恋愛が交差する単巻の青春小説。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一条岬"
+    },
+    "sourceNote": "Wikipedia日本語版「一条岬」記事を参照(2026年8月時点)。2020年12月刊行、単巻であることを確認。イラストレーター情報は記事内で確認できず(挿絵の有無自体未確認のため空欄)。2026年3月に道枝駿佑主演で実写映画化予定であることも確認(mediaMixのanime/comic項目には該当しないため両方falseとした)。同著者の既存作『今夜、世界からこの恋が消えても』とは別の単独作品。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "shinkyoku-soukai-polyphonica",
+    "title": "神曲奏界ポリフォニカ",
+    "titleKana": "しんきょくそうかいぽりふぉにか",
+    "authorIds": [
+      "sakaki-ichirou"
+    ],
+    "illustratorIds": [
+      "kaminazuki-noboru"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "music",
+      "isekai-fantasy",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "人間と精霊が共存する異世界を舞台に、精霊と契約して「神曲」と呼ばれる特殊な楽曲を演奏することで力を借りる「楽師」たちを描くシェアードワールド作品。神曲楽士を目指す学生タタラ・フォロンを中心に、音楽が精霊との対話手段かつ戦闘の力ともなる世界を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカ"
+    },
+    "sourceNote": "Wikipedia日本語版「神曲奏界ポリフォニカ」を参照(2026年8月時点)。2005年のキネティックノベル(ocelot)を原作としつつ、2006年からGA文庫でシェアードワールド形式のライトノベルが刊行開始されたことを確認(既存作Fate/ZeroやFate/Apocryphaと同様、ゲーム発ライトノベルの扱いとして採用)。ここでは主著者・榊一郎によるクリムゾン・シリーズ(本編12巻+クリムゾンS6巻+アフタースクール3巻=21巻)を代表として登録。テレビアニメ化(2007・2009年)、複数のコミカライズを確認。刊行開始2006年は2014年以前だが、音楽(神曲)を中核システムとする希少なファンタジー作品として採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

@@ -3158,5 +3158,52 @@
     },
     "sourceNote": "日本語版Wikipedia「雪子」記事を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ueda-ryou",
+    "name": "植田亮",
+    "nameKana": "うえだ りょう",
+    "description": "埼玉県出身のフリーイラストレーター。ゲーム原画やライトノベル挿絵で活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/植田亮"
+    },
+    "sourceNote": "Wikipedia日本語版「植田亮」記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hashimoto-mitsuru",
+    "name": "橋本みつる",
+    "nameKana": "はしもと みつる",
+    "description": "『グラスハート』の挿絵を担当したイラストレーターの一人。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「グラスハート」記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "umino-chika",
+    "name": "羽海野チカ",
+    "nameKana": "うみの ちか",
+    "description": "漫画家。『グラスハート』の挿絵を一部担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「グラスハート」記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fujita-takami",
+    "name": "藤田貴美",
+    "nameKana": "ふじた たかみ",
+    "description": "『グラスハート』の挿絵を担当したイラストレーターの一人。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「グラスハート」記事より確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hitowa",
+    "name": "ひと和",
+    "nameKana": "ひとわ",
+    "description": "『BanG Dream! バンドリ』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「中村航」記事内で挿絵担当として言及されているのみで、単独記事や読み仮名の確証は取れず(推定表記)。",
+    "updatedAt": "2026-08-01"
   }
 ]
