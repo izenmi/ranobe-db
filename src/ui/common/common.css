@@ -136,16 +136,16 @@ h1 {
 
 .award-chip {
   background: transparent !important;
-  border-color: var(--color-yellow-strong) !important;
-  color: var(--color-yellow-strong);
+  border-color: var(--color-outline) !important;
+  color: var(--color-text-muted);
   font-weight: 500;
   font-size: 0.68rem;
   padding: 1px 8px;
 }
 
 .award-chip:hover {
-  background: var(--color-yellow) !important;
-  color: var(--color-ink-on-accent);
+  background: var(--color-surface-variant) !important;
+  color: var(--color-text);
 }
 
 /* ---- Work list rows ---- */
