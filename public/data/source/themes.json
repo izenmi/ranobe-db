@@ -158,5 +158,20 @@
     "id": "gendai-drama",
     "name": "現代ドラマ",
     "description": "異世界・学園異能などのファンタジー要素を伴わない、現代日本を舞台にした人間ドラマ。"
+  },
+  {
+    "id": "gambling",
+    "name": "賭博",
+    "description": "賭け事・ギャンブルを題材にした作品。"
+  },
+  {
+    "id": "terminal-illness",
+    "name": "難病",
+    "description": "不治の病や余命ものをテーマにした恋愛・ドラマ作品。"
+  },
+  {
+    "id": "memory-loss",
+    "name": "記憶喪失",
+    "description": "記憶を保持できない・失う設定を軸にした作品。"
   }
 ]

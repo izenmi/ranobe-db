@@ -1155,5 +1155,102 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shudou-ren",
+    "name": "周藤蓮",
+    "nameKana": "しゅどうれん",
+    "description": "電撃小説大賞出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sano-tetsuya",
+    "name": "佐野徹夜",
+    "nameKana": "さのてつや",
+    "description": "京都府出身、同志社大学卒の小説家。本作でデビュー。",
+    "birthYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐野徹夜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "rakuda",
+    "name": "駱駝",
+    "nameKana": "らくだ",
+    "description": "神奈川県在住のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kizaki-chiaki",
+    "name": "木崎ちあき",
+    "nameKana": "きさきちあき",
+    "description": "福岡市出身の小説家。漫画原作も手掛ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/木崎ちあき"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sakasai-takuma",
+    "name": "逆井卓馬",
+    "nameKana": "さかさいたくま",
+    "description": "本作でデビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nigatsu-kou",
+    "name": "二月公",
+    "nameKana": "にがつこう",
+    "description": "愛知の大学卒業後、会社員を経て本作でデビューした作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ichijou-misaki",
+    "name": "一条岬",
+    "nameKana": "いちじょうみさき",
+    "description": "愛知県出身、本作でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kikuishi-mareho",
+    "name": "菊石まれほ",
+    "nameKana": "きくいしまれほ",
+    "description": "愛知県在住、二次創作から執筆を始めた小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/菊石まれほ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kousaka-mato",
+    "name": "香坂マト",
+    "nameKana": "こうさかまと",
+    "description": "本作で商業デビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shirogane-tooru",
+    "name": "白金透",
+    "nameKana": "しろがねとおる",
+    "description": "大阪府出身、約20年の投稿活動を経て本作でデビューした作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

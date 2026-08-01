@@ -4596,5 +4596,388 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "tobakushi-wa-inoranai",
+    "title": "賭博師は祈らない",
+    "titleKana": "とばくしはいのらない",
+    "authorIds": [
+      "shudou-ren"
+    ],
+    "illustratorIds": [
+      "niritsu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "adventure",
+      "romance",
+      "alternate-history",
+      "gambling"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "18世紀末のロンドンを舞台にした異色の賭博譚。腕利きの賭博師ラザルスは大勝負の末、声も感情も失った奴隷少女リーラを手に入れる。メイドとして迎え、根気強く向き合ううちに頑なだった彼女の心が少しずつ解けていく。互いに譲れない信念を持つ者同士がぶつかり合いながら絆を育む、賭け事と再生の物語。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2016,
+        "result": "第23回電撃小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭博師は祈らない"
+    },
+    "sourceNote": "Wikipedia日本語版「賭博師は祈らない」を参照し独自に要約(2026年8月時点)。メディアミックス: コミカライズ(ComicWalker)あり、アニメ化は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kimi-wa-tsukiyo-ni-hikari-kagayaku",
+    "title": "君は月夜に光り輝く",
+    "titleKana": "きみはつきよにひかりかがやく",
+    "authorIds": [
+      "sano-tetsuya"
+    ],
+    "illustratorIds": [
+      "loundraw"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "不治の病「発光病」に侵され余命わずかな女子高生・まみずと、偶然入院先で出会った同級生の男子高校生の物語。彼女がやり残したことを彼が代わりに叶えていく「代行」を通じ、二人は少しずつ心を通わせていく。切なくも美しい死と生を見つめる青春恋愛小説。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2016,
+        "result": "第23回電撃小説大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/君は月夜に光り輝く"
+    },
+    "sourceNote": "Wikipedia日本語版「君は月夜に光り輝く」を参照し独自に要約(2026年8月時点)。メディアミックス: コミカライズ(『ダ・ヴィンチ』連載)あり、2019年に実写映画化。テレビアニメ化は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ore-wo-suki-nano-wa-omae-dake-kayo",
+    "title": "俺を好きなのはお前だけかよ",
+    "titleKana": "おれをすきなのはおまえだけかよ",
+    "authorIds": [
+      "rakuda"
+    ],
+    "illustratorIds": [
+      "buriki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "鈍感キャラを装う高校生ジョーロは、幼馴染ひまわりと先輩コスモスの両方から好かれていると思い込んでいたが、実は図書委員パンジーに一方的にストーキングされていたという衝撃の事実が発覚。予測不能などんでん返しの連続で、王道ラブコメの型を次々と裏切っていく学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2015,
+        "result": "第22回電撃小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ"
+    },
+    "sourceNote": "Wikipedia日本語版「俺を好きなのはお前だけかよ」を参照し独自に要約(2026年8月時点)。メディアミックス: コミカライズ(少年ジャンプ+)、テレビアニメ化(2019年)、OVA(2020年)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hakata-tonkotsu-ramens",
+    "title": "博多豚骨ラーメンズ",
+    "titleKana": "はかたとんこつらーめんず",
+    "authorIds": [
+      "kizaki-chiaki"
+    ],
+    "illustratorIds": [
+      "isshiki-hako"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "battle-action",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "福岡・博多を舞台に、裏の顔として殺し屋業を営む面々の日常と仕事を描く群像劇。元締めの女性、女装癖のある殺し屋、復讐に燃える者など個性豊かなキャラクターたちが、時にコミカルに時にシリアスに絡み合う。サスペンスと人情が入り混じるハードボイルド群像コメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2013,
+        "result": "第20回電撃小説大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/博多豚骨ラーメンズ"
+    },
+    "sourceNote": "Wikipedia日本語版「博多豚骨ラーメンズ」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化(2018年)、コミカライズ(月刊Gファンタジー)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "buta-no-reba-wa-kanetsushiro",
+    "title": "豚のレバーは加熱しろ",
+    "titleKana": "ぶたのればーはかねつしろ",
+    "authorIds": [
+      "sakasai-takuma"
+    ],
+    "illustratorIds": [
+      "tousaka-asagi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "adventure",
+      "ken-to-mahou",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "生の豚レバーを食べて命を落とした大学生の「俺」は、異世界で豚に転生してしまう。人の心を読む力を持つが差別に晒される少女ジェスと出会い、彼女を王都へ送り届けるため二人三脚の逃避行が始まる。豚という不遇な姿の主人公が知略と絆で困難に立ち向かうダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2019,
+        "result": "第26回電撃小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/豚のレバーは加熱しろ"
+    },
+    "sourceNote": "Wikipedia日本語版「豚のレバーは加熱しろ」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化(2023-2024年)、コミカライズあり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "title": "声優ラジオのウラオモテ",
+    "titleKana": "せいゆうらじおのうらおもて",
+    "authorIds": [
+      "nigatsu-kou"
+    ],
+    "illustratorIds": [
+      "sabamizore"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "shigoto",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "同じ高校に通う女子高生声優、夕陽とやすみ。学校では険悪な関係を隠しているが、抜擢された深夜ラジオ番組のパーソナリティーとして息を合わせるうち、互いをライバルとして意識し合い、声優として、そして一人の少女として成長していく。声優業界の華やかさと苦しさを描く青春コメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2019,
+        "result": "第26回電撃小説大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/声優ラジオのウラオモテ"
+    },
+    "sourceNote": "Wikipedia日本語版「声優ラジオのウラオモテ」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化(2024年)、コミカライズ(全6巻完結)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "konya-sekai-kara-kono-koi-ga-kietemo",
+    "title": "今夜、世界からこの恋が消えても",
+    "titleKana": "こんやせかいからこのこいがきえても",
+    "authorIds": [
+      "ichijou-misaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama",
+      "memory-loss"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "いじめを止めるため同級生の日野真織に嘘の告白をした神谷透。真織は「本気で好きにならない」など3つの約束を条件に交際に応じるが、やがて透は本気で彼女に惹かれていく。真織は眠るたびその日の記憶を失う前向性健忘を患っており、透は残された時間の中で懸命に彼女を支え続ける。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2019,
+        "result": "第26回電撃小説大賞 メディアワークス文庫賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今夜、世界からこの恋が消えても"
+    },
+    "sourceNote": "Wikipedia日本語版「今夜、世界からこの恋が消えても」を参照し独自に要約(2026年8月時点)。メディアミックス: 2022年に実写映画化。テレビアニメ・コミカライズは確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "your-forma",
+    "title": "ユア・フォルマ",
+    "titleKana": "ゆあふぉるま",
+    "authorIds": [
+      "kikuishi-mareho"
+    ],
+    "illustratorIds": [
+      "nozaki-tsubata"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "mystery",
+      "robot-mecha"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "パンデミック後の近未来、脳に埋め込む電子情報体「ユア・フォルマ」が普及した世界を舞台に、他者の記憶を読み解く「電索官」エチカ・ヒエダと、人型の高性能自律ロボット・ハロルドが国際刑事警察機構でコンビを組み、猟奇的な事件の捜査に挑む。人とロボットの信頼と正体を巡るSFミステリ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2020,
+        "result": "第27回電撃小説大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユア・フォルマ"
+    },
+    "sourceNote": "Wikipedia日本語版「ユア・フォルマ」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化(2025年)、コミカライズ(『ヤングエース』、全3巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "guild-no-uketsukejou",
+    "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+    "titleKana": "ぎるどのうけつけじょうですがざんぎょうはいやなのでぼすをそろとうばつしようとおもいます",
+    "authorIds": [
+      "kousaka-mato"
+    ],
+    "illustratorIds": [
+      "gaou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "dungeon",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "unknown",
+    "volumeCount": 8,
+    "synopsis": "冒険者ギルドの受付嬢アリナは、山積みの残業を減らすため一計を案じ、こっそり冒険者ライセンスを取得。規格外の神域スキルを隠し持つ彼女は、面倒な依頼はさっさと自分でソロ討伐して定時退社を目指すという、お仕事とダンジョン攻略を両立させるコメディファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2020,
+        "result": "第27回電撃小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います"
+    },
+    "sourceNote": "Wikipedia日本語版「ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化(2025年)、コミカライズ(月刊コミック電撃大王)あり。旧版小説は2025年7月にイラストレーターの不祥事により絶版・電子配信停止、新装版刊行予定のため刊行状況が流動的。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "himekishisama-no-himo",
+    "title": "姫騎士様のヒモ",
+    "titleKana": "ひめきしさまのひも",
+    "authorIds": [
+      "shirogane-tooru"
+    ],
+    "illustratorIds": [
+      "mashima-saki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "本当の実力を隠し、姫騎士の「ヒモ」として気ままに暮らしているように見える男マシューだが、その正体は圧倒的な実力を持つ元凄腕冒険者。表向きは怠惰を装いながら、裏では姫騎士を陰から支え、迫りくる陰謀に立ち向かう。ノワール調の裏社会描写と剣戟が魅力の異世界ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2021,
+        "result": "第28回電撃小説大賞 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/姫騎士様のヒモ"
+    },
+    "sourceNote": "Wikipedia日本語版「姫騎士様のヒモ」を参照し独自に要約(2026年8月時点)。メディアミックス: テレビアニメ化決定(2027年放送予定)、コミカライズ(第1部完結、第2部連載中)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
