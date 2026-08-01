@@ -42,8 +42,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱"
     },
-    "sourceNote": "Wikipedia日本語版「涼宮ハルヒの憂鬱」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「涼宮ハルヒの憂鬱」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2006年TVアニメ化(全14話、2009年再放送)。ツガノガク版など複数コミカライズあり。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "sword-art-online",
@@ -71,7 +75,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン"
     },
-    "sourceNote": "Wikipedia日本語版「ソードアート・オンライン」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「ソードアート・オンライン」を参照し独自に要約(2026年7月時点)。 メディアミックス: TVアニメ・劇場アニメ化(別記事あり)。アインクラッド等複数コミカライズ版あり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -84,7 +88,11 @@
         "year": 2020,
         "result": "2010年代総合ランキング1位(殿堂入り)"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "ookami-to-koushinryou",
@@ -124,8 +132,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/狼と香辛料"
     },
-    "sourceNote": "Wikipedia日本語版「狼と香辛料」を参照し独自に要約(2026年7月時点)。続編『新・狼と香辛料』『狼と羊皮紙』は別記録として扱っていない。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「狼と香辛料」を参照し独自に要約(2026年7月時点)。続編『新・狼と香辛料』『狼と羊皮紙』は別記録として扱っていない。 メディアミックス: 2008年TVアニメ化、2024年新作アニメも。2007年より小梅けいとがコミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "toaru-majutsu-no-index",
@@ -153,7 +165,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある魔術の禁書目録"
     },
-    "sourceNote": "Wikipedia日本語版「とある魔術の禁書目録」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。",
+    "sourceNote": "Wikipedia日本語版「とある魔術の禁書目録」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。 メディアミックス: 2008・2010・2018年に3期TVアニメ化。2007年より近木野中哉がコミカライズ中。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -166,7 +178,11 @@
         "year": 2014,
         "result": "ライトノベル部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "full-metal-panic",
@@ -194,7 +210,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルメタル・パニック!"
     },
-    "sourceNote": "Wikipedia日本語版「フルメタル・パニック!」を参照し独自に要約(2026年7月時点)。巻数は本編・短編・外伝の合算値。",
+    "sourceNote": "Wikipedia日本語版「フルメタル・パニック!」を参照し独自に要約(2026年7月時点)。巻数は本編・短編・外伝の合算値。 メディアミックス: 2002〜2018年に4期TVアニメ化、OVAもあり。2000年より複数のコミカライズ版が展開。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -207,7 +223,11 @@
         "year": 2003,
         "result": "3位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "re-zero",
@@ -236,7 +256,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活"
     },
-    "sourceNote": "Wikipedia日本語版「Re:ゼロから始める異世界生活」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。",
+    "sourceNote": "Wikipedia日本語版「Re:ゼロから始める異世界生活」を参照し独自に要約(2026年7月時点)。巻数は短編集を除く本編ベース。 メディアミックス: 2016〜2024年に3期以上TVアニメ化、OVAも制作。2014年より各章ごとにコミカライズ。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -252,7 +272,11 @@
         "year": 2017,
         "result": "ラノベ部門1位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "konosuba",
@@ -278,7 +302,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
     },
-    "sourceNote": "Wikipedia日本語版「この素晴らしい世界に祝福を!」を参照し独自に要約(2026年7月時点)。既刊巻数は未確認のため未記載。",
+    "sourceNote": "Wikipedia日本語版「この素晴らしい世界に祝福を!」を参照し独自に要約(2026年7月時点)。既刊巻数は未確認のため未記載。 メディアミックス: 2016・2017年にTVアニメ2期、2019年劇場版も。2014年より本編・スピンオフ漫画あり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -286,7 +310,11 @@
         "year": 2017,
         "result": "文庫部門9位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "mahouka-koukou-no-rettousei",
@@ -313,7 +341,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法科高校の劣等生"
     },
-    "sourceNote": "Wikipedia日本語版「魔法科高校の劣等生」を参照し独自に要約(2026年7月時点)。巻数は2020年時点の情報で以降未確認。",
+    "sourceNote": "Wikipedia日本語版「魔法科高校の劣等生」を参照し独自に要約(2026年7月時点)。巻数は2020年時点の情報で以降未確認。 メディアミックス: 2014・2020・2024年に3期TVアニメ化。2011年より複数系統のコミカライズあり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -326,7 +354,11 @@
         "year": 2020,
         "result": "2010年代総合ランキング8位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "gosick",
@@ -355,8 +387,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK"
     },
-    "sourceNote": "Wikipedia日本語版「GOSICK」を参照し独自に要約(2026年7月時点)。刊行レーベルは富士見ミステリー文庫(初出)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「GOSICK」を参照し独自に要約(2026年7月時点)。刊行レーベルは富士見ミステリー文庫(初出)。 メディアミックス: 2011年1〜7月にTVアニメ化(全24話)。2008年より天乃咲哉らによるコミカライズあり。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "date-a-live",
@@ -385,7 +421,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デート・ア・ライブ"
     },
-    "sourceNote": "Wikipedia日本語版「デート・ア・ライブ」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値、以降未確認。",
+    "sourceNote": "Wikipedia日本語版「デート・ア・ライブ」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値、以降未確認。 メディアミックス: 2013〜2024年に5期TVアニメ化、劇場版・OVAも。2012年より複数コミカライズ版あり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -398,7 +434,11 @@
         "year": 2014,
         "result": "ライトノベル部門4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "no-game-no-life",
@@ -426,7 +466,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーゲーム・ノーライフ"
     },
-    "sourceNote": "Wikipedia日本語版「ノーゲーム・ノーライフ」を参照し独自に要約(2026年7月時点)。巻数は外伝を含む。",
+    "sourceNote": "Wikipedia日本語版「ノーゲーム・ノーライフ」を参照し独自に要約(2026年7月時点)。巻数は外伝を含む。 メディアミックス: 2014年4〜6月にTVアニメ化(全12話)。2013年よりコミカライズ、スピンオフ漫画も。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -444,7 +484,11 @@
         "year": 2013,
         "result": "第2回2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "oregairu",
@@ -471,7 +515,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。"
     },
-    "sourceNote": "Wikipedia日本語版「やはり俺の青春ラブコメはまちがっている。」を参照し独自に要約(2026年7月時点)。巻数は完結編「完」までの合算、後継作「新」は含まない。",
+    "sourceNote": "Wikipedia日本語版「やはり俺の青春ラブコメはまちがっている。」を参照し独自に要約(2026年7月時点)。巻数は完結編「完」までの合算、後継作「新」は含まない。 メディアミックス: 2013・2015・2020年に3期TVアニメ化。2012年より複数系統のコミカライズあり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -489,7 +533,11 @@
         "year": 2015,
         "result": "第1回ラノベ部門1位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kumo-desu-ga-nanika",
@@ -517,7 +565,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか"
     },
-    "sourceNote": "Wikipedia日本語版「蜘蛛ですが、なにか?」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「蜘蛛ですが、なにか?」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2021年1〜7月にTVアニメ化(全24話)。2015年よりかかし朝浩がコミカライズ中。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -528,7 +576,11 @@
         "year": 2017,
         "result": "単行本・ノベルズ部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tate-no-yuusha-no-nariagari",
@@ -555,10 +607,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
     },
-    "sourceNote": "Wikipedia日本語版「盾の勇者の成り上がり」を参照し独自に要約(2026年7月時点)。巻数は2019年時点の情報で以降未確認。",
+    "sourceNote": "Wikipedia日本語版「盾の勇者の成り上がり」を参照し独自に要約(2026年7月時点)。巻数は2019年時点の情報で以降未確認。 メディアミックス: 2019〜2025年に4期TVアニメ化。2014年より藍屋球らによるコミカライズあり。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -587,7 +643,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
     },
-    "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「転生したらスライムだった件」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2018〜2026年に4期TVアニメ化。2015年より川上泰樹がコミカライズ中。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -598,7 +654,11 @@
         "year": 2019,
         "result": "単行本・ノベルズ部門5位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "toradora",
@@ -625,7 +685,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とらドラ!"
     },
-    "sourceNote": "Wikipedia日本語版「とらドラ!」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。",
+    "sourceNote": "Wikipedia日本語版「とらドラ!」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。 メディアミックス: 2008年10月-09年3月TVアニメ化(全25話+OVA)。07年より漫画版連載。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -638,7 +698,11 @@
         "year": 2009,
         "result": "作品部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "shakugan-no-shana",
@@ -666,7 +730,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ"
     },
-    "sourceNote": "Wikipedia日本語版「灼眼のシャナ」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで短編集6巻は含まない。",
+    "sourceNote": "Wikipedia日本語版「灼眼のシャナ」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで短編集6巻は含まない。 メディアミックス: 2005年よりTVアニメ3期・劇場版・OVA製作。05年より漫画版連載(全10巻)。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -674,7 +738,11 @@
         "year": 2008,
         "result": "作品部門10位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kino-no-tabi",
@@ -702,7 +770,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/キノの旅"
     },
-    "sourceNote": "Wikipedia日本語版「キノの旅」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「キノの旅」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2003年・2017年の2度TVアニメ化。17年より講談社版・電撃版と複数漫画化。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -715,7 +783,11 @@
         "year": 2003,
         "result": "4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "zero-no-tsukaima",
@@ -743,8 +815,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロの使い魔"
     },
-    "sourceNote": "Wikipedia日本語版「ゼロの使い魔」を参照し独自に要約(2026年7月時点)。21巻以降は著者急逝により志瑞祐が代筆。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ゼロの使い魔」を参照し独自に要約(2026年7月時点)。21巻以降は著者急逝により志瑞祐が代筆。 メディアミックス: 2006-2012年にTVアニメ全4期放送。06年より複数の漫画版連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "accel-world",
@@ -779,8 +855,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクセル・ワールド"
     },
-    "sourceNote": "Wikipedia日本語版「アクセル・ワールド」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「アクセル・ワールド」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2012年TVアニメ化(全24話)、16年劇場版。10年より複数漫画版連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "dungeon-ni-deai-wo-motomeru",
@@ -815,8 +895,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか"
     },
-    "sourceNote": "Wikipedia日本語版「ダンジョンに出会いを求めるのは間違っているだろうか」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ダンジョンに出会いを求めるのは間違っているだろうか」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2015年本編TVアニメ化、OVA・劇場版も製作。13年に本編コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "ore-no-imouto",
@@ -844,7 +928,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない"
     },
-    "sourceNote": "Wikipedia日本語版「俺の妹がこんなに可愛いわけがない」を参照し独自に要約(2026年7月時点)。巻数は本編+ifシリーズの合算値。",
+    "sourceNote": "Wikipedia日本語版「俺の妹がこんなに可愛いわけがない」を参照し独自に要約(2026年7月時点)。巻数は本編+ifシリーズの合算値。 メディアミックス: 2010年・2013年にTVアニメ2期放送。09年より漫画版連載(全4巻)。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -852,7 +936,11 @@
         "year": 2013,
         "result": "作品部門5位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "highschool-dxd",
@@ -880,7 +968,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスクールD×D"
     },
-    "sourceNote": "Wikipedia日本語版「ハイスクールD×D」を参照し独自に要約(2026年7月時点)。無印版で完結、続編『真ハイスクールD×D』は別記録として扱っていない。",
+    "sourceNote": "Wikipedia日本語版「ハイスクールD×D」を参照し独自に要約(2026年7月時点)。無印版で完結、続編『真ハイスクールD×D』は別記録として扱っていない。 メディアミックス: 2012-2018年にTVアニメ全4期・OVA製作。2010年より漫画版連載。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -888,7 +976,11 @@
         "year": 2013,
         "result": "ライトノベル部門5位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "infinite-stratos",
@@ -914,8 +1006,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/IS〈インフィニット・ストラトス〉"
     },
-    "sourceNote": "Wikipedia日本語版「IS〈インフィニット・ストラトス〉」を参照し独自に要約(2026年7月時点)。MF文庫J版全7巻の後、出版元がオーバーラップ文庫に移行しており、巻数・刊行状況は未確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「IS〈インフィニット・ストラトス〉」を参照し独自に要約(2026年7月時点)。MF文庫J版全7巻の後、出版元がオーバーラップ文庫に移行しており、巻数・刊行状況は未確認。 メディアミックス: 2011年・2013年にTVアニメ2期+OVA放送。2010年より複数漫画版連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "hentai-ouji-to-warawanai-neko",
@@ -954,8 +1050,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/変態王子と笑わない猫。"
     },
-    "sourceNote": "Wikipedia日本語版「変態王子と笑わない猫。」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「変態王子と笑わない猫。」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2013年4-6月にTVアニメ化(全12話)。2011年より漫画版連載(全8巻)。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "rokka-no-yuusha",
@@ -982,7 +1082,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/六花の勇者"
     },
-    "sourceNote": "Wikipedia日本語版「六花の勇者」を参照し独自に要約(2026年7月時点)。巻数は2016年時点の情報で、以降の続刊状況・完結の有無は未確認。",
+    "sourceNote": "Wikipedia日本語版「六花の勇者」を参照し独自に要約(2026年7月時点)。巻数は2016年時点の情報で、以降の続刊状況・完結の有無は未確認。 メディアミックス: 2015年7-9月にTVアニメ化(全12話)。2012年より漫画版連載(全4巻)。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1000,7 +1100,11 @@
         "year": 2013,
         "result": "作品部門3位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "oda-nobuna-no-yabou",
@@ -1028,7 +1132,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/織田信奈の野望"
     },
-    "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照し独自に要約(2026年7月時点)。刊行レーベルはGA文庫(1〜10巻)→富士見ファンタジア文庫(全国版、11巻以降)。",
+    "sourceNote": "Wikipedia日本語版「織田信奈の野望」を参照し独自に要約(2026年7月時点)。刊行レーベルはGA文庫(1〜10巻)→富士見ファンタジア文庫(全国版、11巻以降)。 メディアミックス: 2012年7-9月にTVアニメ化(全12話)。2011年より複数漫画版連載。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1036,7 +1140,11 @@
         "year": 2013,
         "result": "ライトノベル部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tantei-wa-mou-shindeiru",
@@ -1081,8 +1189,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。"
     },
-    "sourceNote": "Wikipedia日本語版「探偵はもう、死んでいる。」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「探偵はもう、死んでいる。」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2021年7-9月にTVアニメ化、続編は2026年予定。2020年より複数漫画版連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kage-no-jitsuryokusha-ni-naritakute",
@@ -1110,7 +1222,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!"
     },
-    "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照し独自に要約(2026年7月時点)。レーベルはKADOKAWA「新文芸」。",
+    "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照し独自に要約(2026年7月時点)。レーベルはKADOKAWA「新文芸」。 メディアミックス: 2022-2023年にTVアニメ2期放送。2018年より複数漫画版連載。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -1131,7 +1243,11 @@
         "year": 2020,
         "result": "単行本・ノベルズ部門3位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "watashi-nouryoku-wa-heikinchi",
@@ -1159,10 +1275,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!"
     },
-    "sourceNote": "Wikipedia日本語版「私、能力は平均値でって言ったよね!」を参照し独自に要約(2026年7月時点)。14巻以降はSQEXノベルに移行。",
+    "sourceNote": "Wikipedia日本語版「私、能力は平均値でって言ったよね!」を参照し独自に要約(2026年7月時点)。14巻以降はSQEXノベルに移行。 メディアミックス: 2019年10-12月にTVアニメ化(全12話)。2016年より複数漫画版連載。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1191,10 +1311,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
     },
-    "sourceNote": "Wikipedia日本語版「本好きの下剋上」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。",
+    "sourceNote": "Wikipedia日本語版「本好きの下剋上」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。 メディアミックス: 2019年10月TVアニメ化(第1期)。複数作画者によるコミカライズ版が並行連載。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1223,7 +1347,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
     },
-    "sourceNote": "Wikipedia日本語版「幼女戦記」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「幼女戦記」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2017年1-3月TVアニメ化、2019年劇場版も公開。2016年よりコミカライズ連載、既刊多数。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1231,7 +1355,11 @@
         "year": 2018,
         "result": "単行本・ノベルス部門3位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "overlord",
@@ -1260,7 +1388,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Overlord"
     },
-    "sourceNote": "Wikipedia日本語版「Overlord」を参照し独自に要約(2026年7月時点)。巻数は2022年7月時点の情報で以降未確認。",
+    "sourceNote": "Wikipedia日本語版「Overlord」を参照し独自に要約(2026年7月時点)。巻数は2022年7月時点の情報で以降未確認。 メディアミックス: TVアニメ複数期放送。月刊コンプエースで漫画版連載、他4コマ版など複数コミカライズあり。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -1271,7 +1399,11 @@
         "year": 2017,
         "result": "単行本・ノベルズ部門1位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "maou-gakuin-no-futekigousha",
@@ -1299,7 +1431,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王学院の不適合者"
     },
-    "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「魔王学院の不適合者」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2020年TVアニメ化、第2期は2023-2024年放送。マンガUP!でコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1307,7 +1439,11 @@
         "year": 2019,
         "result": "文庫部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "hai-to-gensou-no-grimgar",
@@ -1335,7 +1471,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/灰と幻想のグリムガル"
     },
-    "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値。",
+    "sourceNote": "Wikipedia日本語版「灰と幻想のグリムガル」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集の合算値。 メディアミックス: 2016年1-3月TVアニメ化(全12話)。月刊ガンガンJOKERでコミカライズ、全3巻完結。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1343,7 +1479,11 @@
         "year": 2014,
         "result": "第3回4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "rokudenashi-majutsu-koushi",
@@ -1378,8 +1518,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロクでなし魔術講師と禁忌教典"
     },
-    "sourceNote": "Wikipedia日本語版「ロクでなし魔術講師と禁忌教典」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集+スピンオフの合算値。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ロクでなし魔術講師と禁忌教典」を参照し独自に要約(2026年7月時点)。巻数は本編+短編集+スピンオフの合算値。 メディアミックス: 2017年4-6月TVアニメ化(全12話)。月刊少年エースでコミカライズ、全16巻刊行。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kenja-no-mago",
@@ -1406,10 +1550,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
     },
-    "sourceNote": "Wikipedia日本語版「賢者の孫」を参照し独自に要約(2026年7月時点)。巻数の内訳(本編/スピンオフ)は情報源間で差異があり要再確認。",
+    "sourceNote": "Wikipedia日本語版「賢者の孫」を参照し独自に要約(2026年7月時点)。巻数の内訳(本編/スピンオフ)は情報源間で差異があり要再確認。 メディアミックス: 2019年4-6月TVアニメ化(全12話)。複数のコミカライズ版あり。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1435,8 +1583,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂"
     },
-    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照し独自に要約(2026年7月時点)。巻数は2021年10月時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「異世界食堂」を参照し独自に要約(2026年7月時点)。巻数は2021年10月時点の情報で以降未確認。 メディアミックス: 2017年TVアニメ化、2021年に第2期放送。複数誌でコミカライズ版が連載・完結。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "arifureta-shokugyou-de-sekai-saikyou",
@@ -1464,10 +1616,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強"
     },
-    "sourceNote": "Wikipedia日本語版「ありふれた職業で世界最強」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。",
+    "sourceNote": "Wikipedia日本語版「ありふれた職業で世界最強」を参照し独自に要約(2026年7月時点)。巻数は本編+外伝+短編集の合算値。 メディアミックス: 2019年TVアニメ化、2022・2024年に続編放送。本編・外伝含め複数のコミカライズあり。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1503,10 +1659,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした"
     },
-    "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「転生したら剣でした」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2022年10-12月TVアニメ化(第1期)、第2期は2026年放送予定。複数のコミカライズ版連載中。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1535,7 +1695,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
     },
-    "sourceNote": "Wikipedia日本語版「無職転生」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「無職転生」を参照し独自に要約(2026年7月時点)。 メディアミックス: テレビアニメ化され独立記事あり。2014年よりコミカライズ連載中。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
@@ -1546,7 +1706,11 @@
         "year": 2017,
         "result": "単行本部門4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "isekai-wa-smartphone",
@@ -1574,8 +1738,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界はスマートフォンとともに。"
     },
-    "sourceNote": "Wikipedia日本語版「異世界はスマートフォンとともに。」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「異世界はスマートフォンとともに。」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2017年TVアニメ化、2023年に第2期放送。2017年よりコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tensai-ouji-no-akaji-kokka-saisei-jutsu",
@@ -1600,7 +1768,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才王子の赤字国家再生術〜そうだ、売国しよう〜"
     },
-    "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照し独自に要約(2026年7月時点)。最新既刊数は未確認。",
+    "sourceNote": "Wikipedia日本語版「天才王子の赤字国家再生術〜そうだ、売国しよう〜」を参照し独自に要約(2026年7月時点)。最新既刊数は未確認。 メディアミックス: 2022年1-3月TVアニメ化(全12話)。スクウェア・エニックスにてコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1608,7 +1776,11 @@
         "year": 2019,
         "result": "新作部門4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tensei-kizoku-kantei-skill",
@@ -1635,10 +1807,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜"
     },
-    "sourceNote": "Wikipedia日本語版「転生貴族、鑑定スキルで成り上がる」を参照し独自に要約(2026年7月時点)。既刊数は未確認。",
+    "sourceNote": "Wikipedia日本語版「転生貴族、鑑定スキルで成り上がる」を参照し独自に要約(2026年7月時点)。既刊数は未確認。 メディアミックス: 2024年に第1・2期TVアニメ化、第3期は2026年予定。2020年よりコミカライズ連載中。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1667,10 +1843,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:Monster"
     },
-    "sourceNote": "Wikipedia日本語版「Re:Monster」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで続編「暗黒大陸編」は含まない。",
+    "sourceNote": "Wikipedia日本語版「Re:Monster」を参照し独自に要約(2026年7月時点)。巻数は本編ベースで続編「暗黒大陸編」は含まない。 メディアミックス: 2024年4-6月TVアニメ化(第1期)。2014年よりコミカライズ連載。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1698,8 +1878,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米錬金術師の店舗経営"
     },
-    "sourceNote": "Wikipedia日本語版「新米錬金術師の店舗経営」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「新米錬金術師の店舗経営」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。 メディアミックス: 2022年10-12月にTVアニメ放送。2020年よりコミカライズ連載、既刊多数。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "mamahaha-no-tsurego-ga-motokano-datta",
@@ -1743,10 +1927,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/継母の連れ子が元カノだった"
     },
-    "sourceNote": "Wikipedia日本語版「継母の連れ子が元カノだった」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「継母の連れ子が元カノだった」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2022年7-9月にTVアニメ放送。2019年よりコミカライズ連載、既刊多数。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1775,10 +1963,14 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
     },
-    "sourceNote": "Wikipedia日本語版「デスマーチからはじまる異世界狂想曲」を参照し独自に要約(2026年7月時点)。2014年に富士見書房で刊行開始後、2015年10月にカドカワBOOKSへ移行。巻数は本編+外伝の合算値。",
+    "sourceNote": "Wikipedia日本語版「デスマーチからはじまる異世界狂想曲」を参照し独自に要約(2026年7月時点)。2014年に富士見書房で刊行開始後、2015年10月にカドカワBOOKSへ移行。巻数は本編+外伝の合算値。 メディアミックス: 2018年1-3月にTVアニメ放送(全12話)。2015年よりコミカライズ連載。",
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
     }
   },
   {
@@ -1807,8 +1999,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/痛いのは嫌なので防御力に極振りしたいと思います。"
     },
-    "sourceNote": "Wikipedia日本語版「痛いのは嫌なので防御力に極振りしたいと思います。」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「痛いのは嫌なので防御力に極振りしたいと思います。」を参照し独自に要約(2026年7月時点)。巻数は本編+スピンオフの合算値。 メディアミックス: 2020年に第1期、2023年に第2期TVアニメ放送。2018年よりコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kaifuku-jutsushi-no-yarinaoshi",
@@ -1837,7 +2033,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/回復術士のやり直し"
     },
-    "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「回復術士のやり直し」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2021年1-3月にTVアニメ放送(全12話)。2017年よりコミカライズ連載。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -1845,7 +2041,11 @@
         "year": 2018,
         "result": "1位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "sao-alternative-ggo",
@@ -1871,8 +2071,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソードアート・オンライン_オルタナティブ_ガンゲイル・オンライン"
     },
-    "sourceNote": "Wikipedia日本語版「ソードアート・オンライン オルタナティブ ガンゲイル・オンライン」を参照し独自に要約(2026年7月時点)。原案は川原礫。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ソードアート・オンライン オルタナティブ ガンゲイル・オンライン」を参照し独自に要約(2026年7月時点)。原案は川原礫。 メディアミックス: 2018年に第1期、2024年に第2期TVアニメ放送。2015〜2021年にコミカライズ連載、完結。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "86-eightysix",
@@ -1915,8 +2119,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/86-エイティシックス-"
     },
-    "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照し独自に要約(2026年7月時点)。既刊数は未確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「86-エイティシックス-」を参照し独自に要約(2026年7月時点)。既刊数は未確認。 メディアミックス: 2021年に全23話TVアニメ放送。複数のコミカライズ版が存在。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "maoyu-maou-yuusha",
@@ -1944,8 +2152,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/まおゆう魔王勇者"
     },
-    "sourceNote": "Wikipedia日本語版「まおゆう魔王勇者」を参照し独自に要約(2026年7月時点)。原型は2009年の2ちゃんねる発即興小説。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「まおゆう魔王勇者」を参照し独自に要約(2026年7月時点)。原型は2009年の2ちゃんねる発即興小説。 メディアミックス: 2013年1-3月にTVアニメ放送(全13回)。複数の漫画版あり。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "gate-jieitai-kano-chi-nite-kaku-tatakaeri",
@@ -1976,8 +2188,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり"
     },
-    "sourceNote": "Wikipedia日本語版「ゲート 自衛隊 彼の地にて、斯く戦えり」を参照し独自に要約(2026年7月時点)。刊行レーベルはアルファポリス内「アルファライト文庫」(文庫版)。原作はWeb小説投稿サイト「Arcadia」。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ゲート 自衛隊 彼の地にて、斯く戦えり」を参照し独自に要約(2026年7月時点)。刊行レーベルはアルファポリス内「アルファライト文庫」(文庫版)。原作はWeb小説投稿サイト「Arcadia」。 メディアミックス: 2015-2016年に全24話TVアニメ放送。2011年よりコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "rokujouma-no-shinryakusha",
@@ -2004,8 +2220,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/六畳間の侵略者!?"
     },
-    "sourceNote": "Wikipedia日本語版「六畳間の侵略者!?」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「六畳間の侵略者!?」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2014年7-9月にTVアニメ放送(全12話)。2013年よりコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "sakurada-reset",
@@ -2032,7 +2252,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/サクラダリセット"
     },
-    "sourceNote": "Wikipedia日本語版「サクラダリセット」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「サクラダリセット」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2017年4-9月に全24話TVアニメ放送。複数のコミカライズ版あり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2040,7 +2260,11 @@
         "year": 2013,
         "result": "作品部門9位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "soukyuu-no-karma",
@@ -2078,8 +2302,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼穹のカルマ"
     },
-    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」を参照し独自に要約(2026年7月時点)。刊行開始年・受賞年はWikipedia本文に明記がなく推定値(要再確認)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「蒼穹のカルマ」を参照し独自に要約(2026年7月時点)。刊行開始年・受賞年はWikipedia本文に明記がなく推定値(要再確認)。 メディアミックス: 日本語版Wikipedia記事にアニメ化・コミカライズの記述なし。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   },
   {
     "id": "gakusen-toshi-asterisk",
@@ -2106,8 +2334,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/学戦都市アスタリスク"
     },
-    "sourceNote": "Wikipedia日本語版「学戦都市アスタリスク」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「学戦都市アスタリスク」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2015-2016年に全24話TVアニメ放送。2013年よりコミカライズ連載、全5巻。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "saredo-tsumibito-wa-ryuu-to-odoru",
@@ -2145,8 +2377,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/されど罪人は竜と踊る"
     },
-    "sourceNote": "Wikipedia日本語版「されど罪人は竜と踊る」を参照し独自に要約(2026年7月時点)。角川スニーカー文庫版全8巻(2003〜2006年)の後、ガガガ文庫へ移籍し継続。巻数はガガガ文庫版含む。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「されど罪人は竜と踊る」を参照し独自に要約(2026年7月時点)。角川スニーカー文庫版全8巻(2003〜2006年)の後、ガガガ文庫へ移籍し継続。巻数はガガガ文庫版含む。 メディアミックス: テレビアニメ版・ドラマCD版あり。2006年にコミカライズ版(灰原薬、全1巻)刊行。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "otome-game-no-hametsu-flag",
@@ -2176,8 +2412,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
     },
-    "sourceNote": "Wikipedia日本語版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2020年第1期・2021年第2期TVアニメ放送、2023年劇場版公開。2017年よりコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "chiyu-mahou-no-machigatta-tsukaikata",
@@ -2213,8 +2453,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/治癒魔法の間違った使い方"
     },
-    "sourceNote": "Wikipedia日本語版「治癒魔法の間違った使い方」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。巻数はReturnsシリーズ含む。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「治癒魔法の間違った使い方」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。巻数はReturnsシリーズ含む。 メディアミックス: 2024年TVアニメ化(2期決定)。2017年よりコミックアース・スターでコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "gaikotsu-kishi-sama",
@@ -2244,8 +2488,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/骸骨騎士様、只今異世界へお出掛け中"
     },
-    "sourceNote": "Wikipedia日本語版「骸骨騎士様、只今異世界へお出掛け中」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「骸骨騎士様、只今異世界へお出掛け中」を参照し独自に要約(2026年7月時点)。既刊数は2022年時点の情報で以降未確認。 メディアミックス: 2022年TVアニメ化、2026年2期放送中。2017年よりコミックガルドでコミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "rebuild-world",
@@ -2289,8 +2537,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/リビルドワールド"
     },
-    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。カクヨム・小説家になろう両方で連載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「リビルドワールド」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。カクヨム・小説家になろう両方で連載。 メディアミックス: 2023年TVアニメ化発表。2019年より電撃マオウでコミカライズ連載中。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tensei-shitara-dai-nana-ouji-datta-node",
@@ -2319,8 +2571,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら第七王子だったので、気ままに魔術を極めます"
     },
-    "sourceNote": "Wikipedia日本語版「転生したら第七王子だったので、気ままに魔術を極めます」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「転生したら第七王子だったので、気ままに魔術を極めます」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2024年・2025年に2期までTVアニメ化。2020年よりマガジンポケットでコミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "haiyore-nyaruko-san",
@@ -2359,8 +2615,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/這いよれ!ニャル子さん"
     },
-    "sourceNote": "Wikipedia日本語版「這いよれ!ニャル子さん」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。応募時タイトルは『夢見るままに待ちいたり』。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「這いよれ!ニャル子さん」を参照し独自に要約(2026年7月時点)。受賞年は推定(要再確認)。応募時タイトルは『夢見るままに待ちいたり』。 メディアミックス: 2012年TVアニメ化(2期・OVAあり)。ミラクルジャンプ等で複数コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "baka-to-test-to-shoukanjuu",
@@ -2400,8 +2660,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/バカとテストと召喚獣"
     },
-    "sourceNote": "Wikipedia日本語版「バカとテストと召喚獣」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「バカとテストと召喚獣」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2010年TVアニメ化(2期・OVAあり)。月刊少年エースでコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "hitsugihime-no-chaika",
@@ -2429,8 +2693,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/棺姫のチャイカ"
     },
-    "sourceNote": "Wikipedia日本語版「棺姫のチャイカ」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「棺姫のチャイカ」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし。 メディアミックス: 2014年TVアニメ化(2期・OVAあり)。月刊少年エース等で複数コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "ro-kyu-bu",
@@ -2463,8 +2731,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロウきゅーぶ!"
     },
-    "sourceNote": "Wikipedia日本語版「ロウきゅーぶ!」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ロウきゅーぶ!」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2011年TVアニメ化(2期あり)。電撃G's magazineでコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "boku-wa-tomodachi-ga-sukunai",
@@ -2491,7 +2763,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕は友達が少ない"
     },
-    "sourceNote": "Wikipedia日本語版「僕は友達が少ない」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "sourceNote": "Wikipedia日本語版「僕は友達が少ない」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2011年TVアニメ化(2期・OVAあり)。月刊コミックアライブでコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2504,7 +2776,11 @@
         "year": 2013,
         "result": "ライトノベル部門9位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "imouto-sae-ireba-ii",
@@ -2531,7 +2807,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/妹さえいればいい。"
     },
-    "sourceNote": "Wikipedia日本語版「妹さえいればいい。」を参照し独自に要約(2026年7月時点)。",
+    "sourceNote": "Wikipedia日本語版「妹さえいればいい。」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2017年TVアニメ化。月刊サンデージェネックス等で複数コミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2539,7 +2815,11 @@
         "year": 2018,
         "result": "文庫部門10位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kyoukaisenjou-no-horizon",
@@ -2567,7 +2847,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/境界線上のホライゾン"
     },
-    "sourceNote": "Wikipedia日本語版「境界線上のホライゾン」を参照し独自に要約(2026年7月時点)。本編は全32巻で完結、続編『NEXT BOX』はカクヨム発で刊行中。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "sourceNote": "Wikipedia日本語版「境界線上のホライゾン」を参照し独自に要約(2026年7月時点)。本編は全32巻で完結、続編『NEXT BOX』はカクヨム発で刊行中。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2011年TVアニメ化(2期あり)。月刊コミック電撃大王でコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2580,7 +2860,11 @@
         "year": 2013,
         "result": "作品部門10位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "zero-kara-hajimeru-mahou-no-sho",
@@ -2613,8 +2897,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロから始める魔法の書"
     },
-    "sourceNote": "Wikipedia日本語版「ゼロから始める魔法の書」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ゼロから始める魔法の書」を参照し独自に要約(2026年7月時点)。 メディアミックス: 2017年TVアニメ化。電撃マオウでコミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "hataraku-maou-sama",
@@ -2663,8 +2951,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/はたらく魔王さま!"
     },
-    "sourceNote": "Wikipedia日本語版「はたらく魔王さま!」を参照し独自に要約(2026年7月時点)。受賞時タイトルは「魔王城は六畳一間!」。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「はたらく魔王さま!」を参照し独自に要約(2026年7月時点)。受賞時タイトルは「魔王城は六畳一間!」。 メディアミックス: TVアニメ化済み。月刊コミック電撃大王等で複数コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "madan-no-ou-to-vanadis",
@@ -2692,8 +2984,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔弾の王と戦姫"
     },
-    "sourceNote": "Wikipedia日本語版「魔弾の王と戦姫」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「魔弾の王と戦姫」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2014年TVアニメ化。月刊コミックフラッパーでコミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "mahou-shoujo-ikusei-keikaku",
@@ -2720,7 +3016,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
     },
-    "sourceNote": "Wikipedia日本語版「魔法少女育成計画」を参照し独自に要約(2026年7月時点)。既刊巻数は2023年11月時点の情報。",
+    "sourceNote": "Wikipedia日本語版「魔法少女育成計画」を参照し独自に要約(2026年7月時点)。既刊巻数は2023年11月時点の情報。 メディアミックス: 2016年TVアニメ化、2026年2期予定。月刊コンプエース等で複数コミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2728,7 +3024,11 @@
         "year": 2013,
         "result": "第2回4位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "sabikui-bisco",
@@ -2773,8 +3073,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/錆喰いビスコ"
     },
-    "sourceNote": "Wikipedia日本語版「錆喰いビスコ」を参照し独自に要約(2026年7月時点)。巻数は要最終確認。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「錆喰いビスコ」を参照し独自に要約(2026年7月時点)。巻数は要最終確認。 メディアミックス: 2022年TVアニメ化(2期は2023年制作発表)。マンガUP!でコミカライズ2作あり。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "sentouin-hakenshimasu",
@@ -2803,7 +3107,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘員、派遣します!"
     },
-    "sourceNote": "Wikipedia日本語版「戦闘員、派遣します!」を参照し独自に要約(2026年7月時点)。既刊巻数は2022年6月時点、完結状況は未確認のため不明とした。",
+    "sourceNote": "Wikipedia日本語版「戦闘員、派遣します!」を参照し独自に要約(2026年7月時点)。既刊巻数は2022年6月時点、完結状況は未確認のため不明とした。 メディアミックス: 2021年4-6月TVアニメ化。コミックアライブで2018-2024年連載、全12巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2811,7 +3115,11 @@
         "year": 2018,
         "result": "2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "seiken-tsukai-no-kinjuei-shou",
@@ -2838,8 +3146,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖剣使いの禁呪詠唱"
     },
-    "sourceNote": "Wikipedia日本語版「聖剣使いの禁呪詠唱」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「聖剣使いの禁呪詠唱」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2015年1-3月TVアニメ化。月刊コンプエースでコミカライズ、全4巻。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "toaru-hikuushi-e-no-tsuioku",
@@ -2866,7 +3178,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある飛空士への追憶"
     },
-    "sourceNote": "Wikipedia日本語版「とある飛空士への追憶」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
+    "sourceNote": "Wikipedia日本語版「とある飛空士への追憶」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。 メディアミックス: TVアニメ化の記述なし(劇場アニメのみ)。ゲッサンでコミカライズ、全4巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2879,7 +3191,11 @@
         "year": 2009,
         "result": "2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   },
   {
     "id": "outbreak-company",
@@ -2907,7 +3223,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アウトブレイク・カンパニー_萌える侵略者"
     },
-    "sourceNote": "Wikipedia日本語版「アウトブレイク・カンパニー_萌える侵略者」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "sourceNote": "Wikipedia日本語版「アウトブレイク・カンパニー_萌える侵略者」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2013年10-12月TVアニメ化。good!アフタヌーンでコミカライズ、全4巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2920,7 +3236,11 @@
         "year": 2014,
         "result": "ライトノベル部門9位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "dansho-no-grimm",
@@ -2947,8 +3267,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/断章のグリム"
     },
-    "sourceNote": "Wikipedia日本語版「断章のグリム」を参照し独自に要約(2026年7月時点)。旧版(電撃文庫、全17巻)の情報。2025年からKADOKAWAメディアワークス文庫で完全版が刊行中だが本エントリでは旧版を基準とした。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「断章のグリム」を参照し独自に要約(2026年7月時点)。旧版(電撃文庫、全17巻)の情報。2025年からKADOKAWAメディアワークス文庫で完全版が刊行中だが本エントリでは旧版を基準とした。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: TVアニメ化の記述なし。2015年より漫画化開始、2018年完結全4巻。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   },
   {
     "id": "ben-to",
@@ -2974,7 +3298,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベン・トー"
     },
-    "sourceNote": "Wikipedia日本語版「ベン・トー」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
+    "sourceNote": "Wikipedia日本語版「ベン・トー」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。 メディアミックス: 2011年10-12月TVアニメ化。ジャンプスクエア等で複数コミカライズ作品あり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -2987,7 +3311,11 @@
         "year": 2012,
         "result": "総合3位(2010年版8位→2011年版5位→2012年版3位と上昇)"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "majo-no-tabitabi",
@@ -3011,7 +3339,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔女の旅々"
     },
-    "sourceNote": "Wikipedia日本語版「魔女の旅々」を参照し独自に要約(2026年7月時点)。Amazon Kindleでの自費出版を経て商業化された経歴を持ち、新人賞受賞歴はなし。既刊巻数は変動が大きいため未記載。",
+    "sourceNote": "Wikipedia日本語版「魔女の旅々」を参照し独自に要約(2026年7月時点)。Amazon Kindleでの自費出版を経て商業化された経歴を持ち、新人賞受賞歴はなし。既刊巻数は変動が大きいため未記載。 メディアミックス: 2020年10-12月TVアニメ化。マンガUP!で2018-2024年連載、全6巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3019,7 +3347,11 @@
         "year": 2019,
         "result": "単行本・ノベルズ部門6位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kamisama-no-inai-nichiyoubi",
@@ -3052,8 +3384,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/神さまのいない日曜日"
     },
-    "sourceNote": "Wikipedia日本語版「神さまのいない日曜日」を参照し独自に要約(2026年7月時点)。投稿時タイトルは『日曜の人達』。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「神さまのいない日曜日」を参照し独自に要約(2026年7月時点)。投稿時タイトルは『日曜の人達』。 メディアミックス: 2013年7-9月TVアニメ化(OVA含む)。月刊ドラゴンエイジでコミカライズ、全4巻。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "osananajimi-ga-zettai-ni-makenai-love-come",
@@ -3081,7 +3417,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼なじみが絶対に負けないラブコメ"
     },
-    "sourceNote": "Wikipedia日本語版「幼なじみが絶対に負けないラブコメ」を参照し独自に要約(2026年7月時点)。著者は電撃小説大賞での「拾い上げ」デビューで、正式な受賞歴はなし。",
+    "sourceNote": "Wikipedia日本語版「幼なじみが絶対に負けないラブコメ」を参照し独自に要約(2026年7月時点)。著者は電撃小説大賞での「拾い上げ」デビューで、正式な受賞歴はなし。 メディアミックス: 2021年4-6月TVアニメ化。コミックアライブでコミカライズ、全8巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3089,7 +3425,11 @@
         "year": 2020,
         "result": "文庫部門総合5位・新作部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kuusen-madoushi-kouhosei-no-kyoukan",
@@ -3123,8 +3463,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/空戦魔導士候補生の教官"
     },
-    "sourceNote": "Wikipedia日本語版「空戦魔導士候補生の教官」を参照し独自に要約(2026年7月時点)。応募時タイトルは『俺が教官で、彼女たちが魔導師候補生だと……そんなまさかっ!』。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「空戦魔導士候補生の教官」を参照し独自に要約(2026年7月時点)。応募時タイトルは『俺が教官で、彼女たちが魔導師候補生だと……そんなまさかっ!』。 メディアミックス: 2015年7-9月TVアニメ化(OVA含む)。コミックアライブでコミカライズ、全4巻。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "majutsushi-orphen-hagure-tabi",
@@ -3151,7 +3495,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔術士オーフェン"
     },
-    "sourceNote": "Wikipedia日本語版「魔術士オーフェン」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でファンタジア長編小説大賞・準入選を受賞しデビュー)。巻数は本編(1994〜2003年)のみを基準とし、2011年以降の新装版・新シリーズは含めていない。",
+    "sourceNote": "Wikipedia日本語版「魔術士オーフェン」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でファンタジア長編小説大賞・準入選を受賞しデビュー)。巻数は本編(1994〜2003年)のみを基準とし、2011年以降の新装版・新シリーズは含めていない。 メディアミックス: 1998-2000年及び2020年にTVアニメ化。複数の漫画家によるコミカライズあり。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3159,7 +3503,11 @@
         "year": 2003,
         "result": "7位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "goblin-slayer",
@@ -3184,7 +3532,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴブリンスレイヤー"
     },
-    "sourceNote": "Wikipedia日本語版「ゴブリンスレイヤー」を参照し独自に要約(2026年7月時点)。小説版はファンタジア大賞への投稿が三次選考で落選しており、新人賞受賞歴はなし。匿名掲示板でのAA形式連載が原型。既刊巻数は変動するため未記載。",
+    "sourceNote": "Wikipedia日本語版「ゴブリンスレイヤー」を参照し独自に要約(2026年7月時点)。小説版はファンタジア大賞への投稿が三次選考で落選しており、新人賞受賞歴はなし。匿名掲示板でのAA形式連載が原型。既刊巻数は変動するため未記載。 メディアミックス: 2018年TVアニメ1期、2020年OVA、2023年2期。黒瀬浩介版等コミカライズ多数。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3192,7 +3540,11 @@
         "year": 2017,
         "result": "新作部門1位・文庫部門5位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "tenkyou-no-alderamin",
@@ -3218,7 +3570,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじ巻き精霊戦記_天鏡のアルデラミン"
     },
-    "sourceNote": "Wikipedia日本語版「ねじ巻き精霊戦記_天鏡のアルデラミン」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
+    "sourceNote": "Wikipedia日本語版「ねじ巻き精霊戦記_天鏡のアルデラミン」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。 メディアミックス: 2016年7-9月TVアニメ化。電撃マオウでコミカライズ、全7巻。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3231,7 +3583,11 @@
         "year": 2014,
         "result": "作品部門2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "seirei-gensouki",
@@ -3261,8 +3617,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/精霊幻想記"
     },
-    "sourceNote": "Wikipedia日本語版「精霊幻想記」を参照し独自に要約(2026年7月時点)。著者個人の独立記事は未確認。既刊巻数は変動するため未記載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「精霊幻想記」を参照し独自に要約(2026年7月時点)。著者個人の独立記事は未確認。既刊巻数は変動するため未記載。 メディアミックス: 2021年・2024年にTVアニメ化(1期2期)。コミックファイアでコミカライズ連載中。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "nareru-se",
@@ -3287,8 +3647,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/なれる!SE"
     },
-    "sourceNote": "Wikipedia日本語版「なれる!SE」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「葉桜が来た夏」で電撃小説大賞・選考委員奨励賞を受賞しデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「なれる!SE」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「葉桜が来た夏」で電撃小説大賞・選考委員奨励賞を受賞しデビュー)。 メディアミックス: 2011〜2013年に『ファミ通コミッククリア』でコミカライズ。アニメ化の記述なし。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   },
   {
     "id": "tenshi-no-3p",
@@ -3314,8 +3678,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/天使の3P!"
     },
-    "sourceNote": "Wikipedia日本語版「天使の3P!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ロウきゅーぶ!」で電撃小説大賞・銀賞を受賞しデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「天使の3P!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ロウきゅーぶ!」で電撃小説大賞・銀賞を受賞しデビュー)。 メディアミックス: 2017年7〜9月にテレビアニメ放送。電撃G'sコミック等でコミカライズも。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "boogiepop-wa-warawanai",
@@ -3347,8 +3715,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブギーポップシリーズ"
     },
-    "sourceNote": "Wikipedia日本語版「ブギーポップシリーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数はシリーズ全体で変動するため未記載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「ブギーポップシリーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数はシリーズ全体で変動するため未記載。 メディアミックス: 2000年・2019年に2度テレビアニメ化。緒方剛志作画等の漫画版も複数。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "slayers",
@@ -3381,8 +3753,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スレイヤーズ"
     },
-    "sourceNote": "Wikipedia日本語版「スレイヤーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「ファンタジア長編小説大賞」(現・ファンタジア大賞)。本編は2000年に一区切りしたのち2018年に再開、既刊巻数は変動するため未記載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「スレイヤーズ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「ファンタジア長編小説大賞」(現・ファンタジア大賞)。本編は2000年に一区切りしたのち2018年に再開、既刊巻数は変動するため未記載。 メディアミックス: 1995〜2009年に5期テレビアニメ・劇場版5作。複数の漫画化作品あり。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "baccano",
@@ -3418,8 +3794,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/バッカーノ!"
     },
-    "sourceNote": "Wikipedia日本語版「バッカーノ!」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数は変動するため未記載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「バッカーノ!」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。既刊巻数は変動するため未記載。 メディアミックス: 2007年WOWOWでテレビアニメ放送。複数誌でコミカライズも実施。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "kieli",
@@ -3452,8 +3832,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/キーリ"
     },
-    "sourceNote": "Wikipedia日本語版「キーリ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「キーリ」を参照し独自に要約(2026年7月時点)。受賞名は当時の「電撃ゲーム小説大賞」(現・電撃小説大賞)。 メディアミックス: アニメ化記述なし。『ミステリーボニータ』で2006年コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   },
   {
     "id": "tokyo-ravens",
@@ -3478,7 +3862,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京レイヴンズ"
     },
-    "sourceNote": "Wikipedia日本語版「東京レイヴンズ」を参照し独自に要約(2026年7月時点)。新人賞受賞歴はなし。既刊21巻(2025年時点)だが、完結・中断いずれの宣言も確認できないため完結状況は不明とした。",
+    "sourceNote": "Wikipedia日本語版「東京レイヴンズ」を参照し独自に要約(2026年7月時点)。新人賞受賞歴はなし。既刊21巻(2025年時点)だが、完結・中断いずれの宣言も確認できないため完結状況は不明とした。 メディアミックス: 2013〜2014年テレビアニメ放送。月刊少年エースでコミカライズ連載。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3491,7 +3875,11 @@
         "year": 2014,
         "result": "ライトノベル部門10位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "jaku-chara-tomozaki-kun",
@@ -3534,8 +3922,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/弱キャラ友崎くん"
     },
-    "sourceNote": "Wikipedia日本語版「弱キャラ友崎くん」を参照し独自に要約(2026年7月時点)。受賞時タイトルは『満点飾りのがんばり論!』。既刊巻数は2024年時点の情報で、最新刊が「最終ステージ」と告知されているため近く完結する可能性がある。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「弱キャラ友崎くん」を参照し独自に要約(2026年7月時点)。受賞時タイトルは『満点飾りのがんばり論!』。既刊巻数は2024年時点の情報で、最新刊が「最終ステージ」と告知されているため近く完結する可能性がある。 メディアミックス: 2021年・2024年に2期テレビアニメ化。月刊ガンガンJOKERでコミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "seirei-tsukai-no-blade-dance",
@@ -3562,8 +3954,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/精霊使いの剣舞"
     },
-    "sourceNote": "Wikipedia日本語版「精霊使いの剣舞」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「やってきたよ、ドルイドさん!」でMF文庫Jライトノベル新人賞・佳作を受賞しデビュー)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「精霊使いの剣舞」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「やってきたよ、ドルイドさん!」でMF文庫Jライトノベル新人賞・佳作を受賞しデビュー)。 メディアミックス: 2014年7〜9月テレビアニメ放送。コミックアライブで2度コミカライズ。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "shio-no-machi",
@@ -3597,8 +3993,12 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/塩の街"
     },
-    "sourceNote": "Wikipedia日本語版「塩の街」を参照し独自に要約(2026年7月時点)。著者名は現表記の「有川ひろ」(旧表記:有川浩)。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「塩の街」を参照し独自に要約(2026年7月時点)。著者名は現表記の「有川ひろ」(旧表記:有川浩)。 メディアミックス: アニメ化記述なし。『LaLa』で2021〜2024年コミカライズ連載。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   },
   {
     "id": "durarara",
@@ -3624,7 +4024,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュラララ!!"
     },
-    "sourceNote": "Wikipedia日本語版「デュラララ!!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「バッカーノ!」でデビュー)。第一部(全13巻)を基準とし、続編「デュラララ!!SH」は含めていない。",
+    "sourceNote": "Wikipedia日本語版「デュラララ!!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「バッカーノ!」でデビュー)。第一部(全13巻)を基準とし、続編「デュラララ!!SH」は含めていない。 メディアミックス: 2010年・2015〜2016年にテレビアニメ放送。月刊Gファンタジー等でコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3632,7 +4032,11 @@
         "year": 2013,
         "result": "作品部門7位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "iriya-no-sora-ufo-no-natsu",
@@ -3658,7 +4062,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏"
     },
-    "sourceNote": "Wikipedia日本語版「イリヤの空、UFOの夏」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ブラックロッド」でデビュー)。",
+    "sourceNote": "Wikipedia日本語版「イリヤの空、UFOの夏」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ブラックロッド」でデビュー)。 メディアミックス: 2005年に東映アニメーション制作の全6巻OVA発売。電撃マオウでコミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3666,7 +4070,11 @@
         "year": 2003,
         "result": "2位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "hanbun-no-tsuki-ga-noboru-sora",
@@ -3691,7 +4099,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/半分の月がのぼる空"
     },
-    "sourceNote": "Wikipedia日本語版「半分の月がのぼる空」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「猫目狩り」で電撃ゲーム小説大賞・金賞を受賞しデビュー)。",
+    "sourceNote": "Wikipedia日本語版「半分の月がのぼる空」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「猫目狩り」で電撃ゲーム小説大賞・金賞を受賞しデビュー)。 メディアミックス: 2006年WOWOWで全6話テレビアニメ放送。ガオ!でコミカライズ(未完)。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3699,7 +4107,11 @@
         "year": 2006,
         "result": "作品部門10位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "toshokan-sensou",
@@ -3726,7 +4138,7 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/図書館戦争"
     },
-    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「塩の街」で電撃小説大賞・大賞を受賞しデビュー)。初刊はメディアワークスのハードカバー単行本で、後に角川文庫化。図書館戦争シリーズは第39回星雲賞(2008年)日本長編部門を受賞。",
+    "sourceNote": "Wikipedia日本語版「図書館戦争」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「塩の街」で電撃小説大賞・大賞を受賞しデビュー)。初刊はメディアワークスのハードカバー単行本で、後に角川文庫化。図書館戦争シリーズは第39回星雲賞(2008年)日本長編部門を受賞。 メディアミックス: 2008年ノイタミナ枠でテレビアニメ放送。LaLaで複数コミカライズ。",
     "updatedAt": "2026-07-31",
     "awardResults": [
       {
@@ -3744,7 +4156,11 @@
         "year": 2015,
         "result": "エンタメ小説部門1位"
       }
-    ]
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   },
   {
     "id": "missing-kamikakushi-no-monogatari",
@@ -3770,7 +4186,11 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Missing_(小説)"
     },
-    "sourceNote": "Wikipedia日本語版「Missing_(小説)」を参照し独自に要約(2026年7月時点)。著者は本作でデビューしたが、新人賞受賞ではなく短編『夜魔 罪科釣人奇譚』が電撃ゲーム小説大賞の最終選考に残ったことがきっかけの書き下ろしデビューのため、正式な受賞歴としては未記載。",
-    "updatedAt": "2026-07-31"
+    "sourceNote": "Wikipedia日本語版「Missing_(小説)」を参照し独自に要約(2026年7月時点)。著者は本作でデビューしたが、新人賞受賞ではなく短編『夜魔 罪科釣人奇譚』が電撃ゲーム小説大賞の最終選考に残ったことがきっかけの書き下ろしデビューのため、正式な受賞歴としては未記載。 メディアミックス: アニメ化・OVA化の記述なし。電撃hp等で2度コミカライズされている。",
+    "updatedAt": "2026-07-31",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

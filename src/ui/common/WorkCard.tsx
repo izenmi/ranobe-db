@@ -14,6 +14,13 @@ function authorLine(work: WorkGenerated): string {
   return `${authors}(${work.illustratorNames.join("・")})`;
 }
 
+function mediaMixLabel(work: WorkGenerated): string | null {
+  const parts = [];
+  if (work.mediaMix?.anime) parts.push("アニメ化");
+  if (work.mediaMix?.comic) parts.push("コミカライズ");
+  return parts.length > 0 ? parts.join("・") : null;
+}
+
 /** Fuller card for the main work list page: cover thumbnail on the left, and a right-hand
  *  column (title/author/publisher/awards + clickable theme tags) so the theme tags line up
  *  under the text instead of starting under the cover. Theme tags stay outside the title Link
@@ -29,6 +36,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
           <div className="work-card__title">{work.title}</div>
           <div className="work-card__meta">
             {authorLine(work)} / {work.publisherName} / {work.firstPublishedYear}年〜 / {STATUS_LABEL[work.status]}
+            {mediaMixLabel(work) && ` / ${mediaMixLabel(work)}`}
           </div>
           {work.awardSummaries.length > 0 && (
             <div className="work-card__awards">

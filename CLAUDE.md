@@ -78,8 +78,11 @@ npm run preview
   - openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用と判断済み(再検討不要)
 - **購入リンク**: `amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「1巻をAmazonで探す」「シリーズ全体を探す」の2リンクを表示
 
+## メディアミックス(アニメ化/コミカライズ)フィルター(2026-08-01実装)
+
+全105作品について`mediaMix?: { anime?: boolean; comic?: boolean }`(`src/types.ts`の`WorkSource`)を追加し、`sourceNote`にアニメ化・コミカライズの確認内容を追記した。`WorkListPage`/`ThemeDetailPage`に既存のstatus/webNovelフィルターと同じパターンで「アニメ化」「コミカライズ」「メディアミックスなし」のセレクトフィルターを実装(`?mediaMix=anime|comic|none`)。`WorkCard`のメタ行・`WorkDetailPage`のメタ行にも該当作品はテキストで表示する。新規作品を追加する際は、Wikipedia確認時にあわせて`mediaMix`も設定すること(テレビアニメ・OVAがあれば`anime: true`、コミカライズ版があれば`comic: true`。記述がなければ両方`false`)。
+
 ## 既知の未着手事項
 
-- **アニメ化/コミック化フィルター**: 作品一覧・テーマ詳細ページに、メディアミックス状況で絞り込めるフィルターを追加する
 - **新人賞 / それ以外の賞でのフィルター**: 受賞歴を「新人賞(デビュー契機の公募賞)」と「それ以外(このラノすごい!等の人気投票・ランキング)」に区別してフィルターできるようにする。awards.jsonに賞の種別を表すフィールドの追加が必要
 - **表紙画像の未解決15作品**: `npm run fetch-covers`で見つからなかった作品(なれる!SE、キーリ、塩の街、イリヤの空、半分の月がのぼる空など)は、`covers-cache.json`を手動で埋めるか、楽天カタログ側に該当書誌がないか個別確認する

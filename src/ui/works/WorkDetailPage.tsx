@@ -60,6 +60,8 @@ export function WorkDetailPage() {
                 {" / "}
                 {STATUS_LABEL[state.data.status]}
                 {state.data.volumeCount != null && ` / 既刊${state.data.volumeCount}巻`}
+                {state.data.mediaMix?.anime && " / アニメ化"}
+                {state.data.mediaMix?.comic && " / コミカライズ"}
               </p>
 
               {state.data.themeNames.length > 0 && (

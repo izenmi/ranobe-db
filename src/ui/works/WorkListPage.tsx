@@ -17,6 +17,12 @@ const WEB_NOVEL_OPTIONS: { value: string; label: string }[] = [
   { value: "none", label: "書き下ろし(Web小説以外)" },
 ];
 
+const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
+  { value: "anime", label: "アニメ化" },
+  { value: "comic", label: "コミカライズ" },
+  { value: "none", label: "メディアミックスなし" },
+];
+
 const PAGE_SIZE = 50;
 
 function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: number; onGoToPage: (page: number) => void }) {
@@ -42,6 +48,7 @@ export function WorkListPage() {
   const publisherId = params.get("publisher") ?? "";
   const status = params.get("status") ?? "";
   const webNovel = params.get("webNovel") ?? "";
+  const mediaMix = params.get("mediaMix") ?? "";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const worksState = useAsyncData(getWorks, []);
@@ -61,9 +68,12 @@ export function WorkListPage() {
       if (status && w.status !== status) return false;
       if (webNovel === "none" && w.webNovelSource) return false;
       if ((webNovel === "narou" || webNovel === "kakuyomu") && w.webNovelSource?.platform !== webNovel) return false;
+      if (mediaMix === "anime" && !w.mediaMix?.anime) return false;
+      if (mediaMix === "comic" && !w.mediaMix?.comic) return false;
+      if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       return true;
     });
-  }, [worksState, q, themeId, publisherId, status, webNovel]);
+  }, [worksState, q, themeId, publisherId, status, webNovel, mediaMix]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const page = Math.min(pageParam, totalPages);
@@ -127,6 +137,14 @@ export function WorkListPage() {
         <select value={webNovel} onChange={(e) => updateParam("webNovel", e.target.value)}>
           <option value="">Web小説原作で絞り込み</option>
           {WEB_NOVEL_OPTIONS.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+        <select value={mediaMix} onChange={(e) => updateParam("mediaMix", e.target.value)}>
+          <option value="">メディアミックスで絞り込み</option>
+          {MEDIA_MIX_OPTIONS.map((o) => (
             <option value={o.value} key={o.value}>
               {o.label}
             </option>

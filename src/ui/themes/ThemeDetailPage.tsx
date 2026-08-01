@@ -17,12 +17,19 @@ const WEB_NOVEL_OPTIONS: { value: string; label: string }[] = [
   { value: "none", label: "書き下ろし(Web小説以外)" },
 ];
 
+const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
+  { value: "anime", label: "アニメ化" },
+  { value: "comic", label: "コミカライズ" },
+  { value: "none", label: "メディアミックスなし" },
+];
+
 export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTheme(id!), [id]);
   const [params, setParams] = useSearchParams();
   const status = params.get("status") ?? "";
   const webNovel = params.get("webNovel") ?? "";
+  const mediaMix = params.get("mediaMix") ?? "";
 
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
@@ -30,9 +37,12 @@ export function ThemeDetailPage() {
       if (status && w.status !== status) return false;
       if (webNovel === "none" && w.webNovelSource) return false;
       if ((webNovel === "narou" || webNovel === "kakuyomu") && w.webNovelSource?.platform !== webNovel) return false;
+      if (mediaMix === "anime" && !w.mediaMix?.anime) return false;
+      if (mediaMix === "comic" && !w.mediaMix?.comic) return false;
+      if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       return true;
     });
-  }, [state, status, webNovel]);
+  }, [state, status, webNovel, mediaMix]);
 
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
@@ -63,6 +73,14 @@ export function ThemeDetailPage() {
             <select value={webNovel} onChange={(e) => updateParam("webNovel", e.target.value)}>
               <option value="">Web小説原作で絞り込み</option>
               {WEB_NOVEL_OPTIONS.map((o) => (
+                <option value={o.value} key={o.value}>
+                  {o.label}
+                </option>
+              ))}
+            </select>
+            <select value={mediaMix} onChange={(e) => updateParam("mediaMix", e.target.value)}>
+              <option value="">メディアミックスで絞り込み</option>
+              {MEDIA_MIX_OPTIONS.map((o) => (
                 <option value={o.value} key={o.value}>
                   {o.label}
                 </option>
