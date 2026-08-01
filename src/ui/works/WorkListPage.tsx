@@ -25,17 +25,63 @@ const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
 
 const PAGE_SIZE = 50;
 
+/** Numbered page list with "…" collapsing for large totals, e.g. [1,2,3,"…",710].
+ *  Always keeps a 3-page window around the current page plus the first/last page pinned;
+ *  collapses to a plain 1..totalPages list when everything already fits without gaps. */
+function getPageNumbers(page: number, totalPages: number): (number | "ellipsis")[] {
+  const windowSize = 3;
+  if (totalPages <= windowSize + 2) {
+    return Array.from({ length: totalPages }, (_, i) => i + 1);
+  }
+
+  let start: number;
+  if (page <= windowSize) {
+    start = 1;
+  } else if (page > totalPages - windowSize) {
+    start = totalPages - windowSize + 1;
+  } else {
+    start = page - 1;
+  }
+  const end = start + windowSize - 1;
+
+  const items: (number | "ellipsis")[] = [];
+  if (start > 1) {
+    items.push(1);
+    if (start > 2) items.push("ellipsis");
+  }
+  for (let n = start; n <= end; n++) items.push(n);
+  if (end < totalPages) {
+    if (end < totalPages - 1) items.push("ellipsis");
+    items.push(totalPages);
+  }
+  return items;
+}
+
 function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: number; onGoToPage: (page: number) => void }) {
   return (
     <div className="pager">
-      <button type="button" disabled={page <= 1} onClick={() => onGoToPage(page - 1)}>
-        前へ
-      </button>
-      <span className="pager__label">
-        {page} / {totalPages}
-      </span>
-      <button type="button" disabled={page >= totalPages} onClick={() => onGoToPage(page + 1)}>
-        次へ
+      <ol className="pager__pages">
+        {getPageNumbers(page, totalPages).map((item, i) =>
+          item === "ellipsis" ? (
+            <li className="pager__ellipsis" key={`ellipsis-${i}`} aria-hidden="true">
+              …
+            </li>
+          ) : (
+            <li key={item}>
+              <button
+                type="button"
+                className={item === page ? "pager__page pager__page--active" : "pager__page"}
+                aria-current={item === page ? "page" : undefined}
+                onClick={() => onGoToPage(item)}
+              >
+                {item}
+              </button>
+            </li>
+          ),
+        )}
+      </ol>
+      <button type="button" className="pager__next" disabled={page >= totalPages} onClick={() => onGoToPage(page + 1)}>
+        次へ →
       </button>
     </div>
   );
