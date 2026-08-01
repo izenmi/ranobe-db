@@ -1613,5 +1613,97 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "higashide-yuuichirou",
+    "name": "東出祐一郎",
+    "nameKana": "ひがしでゆういちろう",
+    "description": "ゲームシナリオライター・ライトノベル作家・脚本家。ビジュアルノベルブランドPropellerの中心メンバーを経てフリーに。アニメ『がっこうぐらし!』のシリーズ構成・脚本も担当。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東出祐一郎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nishio-isin",
+    "name": "西尾維新",
+    "nameKana": "にしおいしん",
+    "description": "小説家。2002年『クビキリサイクル 青色サヴァンと戯言遣い』で第23回メフィスト賞を受賞しデビュー。〈物語〉シリーズ、戯言シリーズなど数多くのヒット作を持つ。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西尾維新"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kina-chiren",
+    "name": "木爾チレン",
+    "nameKana": "きなちれん",
+    "description": "小説家。フリーゲーム『殺戮の天使』(原作:真田まこと)の公式ノベライズを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsuzuki-yoshihiro",
+    "name": "都築由浩",
+    "nameKana": "つづきよしひろ",
+    "description": "小説家。ホラーゲーム『コープスパーティー』(原作:Team GrisGris/5pb.)のノベライズを手掛ける。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sazane-kei",
+    "name": "細音啓",
+    "nameKana": "さざねけい",
+    "description": "ライトノベル作家。神奈川県出身。『黄昏色の詠使い イブは夜明けに微笑んで』で第18回ファンタジア長編小説大賞《佳作》を受賞しデビュー。第33回ファンタジア大賞から選考委員も務める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/細音啓"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kanazawa-nobuaki",
+    "name": "金沢伸明",
+    "nameKana": "かなざわのぶあき",
+    "description": "小説家。広島県呉市出身。ケータイ小説サイトMobageにて連載した『王様ゲーム』はシリーズ累計800万部を突破するヒット作となった。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/金沢伸明"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "gachazora",
+    "name": "ガチャ空",
+    "nameKana": "がちゃぞら",
+    "description": "Web小説家。「小説家になろう」「カクヨム」発の『ダンジョンバトルロワイヤル～魔王になったので世界統一を目指します～』原作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amphibian",
+    "name": "amphibian",
+    "nameKana": "あんひびあん",
+    "description": "ゲームシナリオライター。ホラーADV『レイジングループ』などデスゲーム色の強いノベルゲームのシナリオを手掛ける。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kawakami-ryou",
+    "name": "川上亮",
+    "nameKana": "かわかみりょう",
+    "description": "小説家。本名・秋口ぎぐる名義でも活動し、『並列バイオ』で第10回ファンタジア長編小説大賞審査員特別賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

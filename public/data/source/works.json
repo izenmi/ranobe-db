@@ -6597,5 +6597,309 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "fate-apocrypha",
+    "title": "Fate/Apocrypha",
+    "titleKana": "ふぇいと/あぽくりふぁ",
+    "authorIds": [
+      "higashide-yuuichirou"
+    ],
+    "illustratorIds": [
+      "konoe-ototsugu"
+    ],
+    "publisherId": "typemoon-books",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "消え去ったはずの大聖杯を巡り、黒陣営と赤陣営、計十四騎のサーヴァントが激突する「聖杯大戦」。人格を持たぬ人造人間ジークは、赤の陣営に喚ばれたルーラー・ジャンヌ・ダルクと出会い、殺し合う運命の戦場でおのれの生きる意味を見出していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/Apocrypha"
+    },
+    "sourceNote": "Wikipedia日本語版「Fate/Apocrypha」、TYPE-MOON BOOKS公式サイト、BOOK☆WALKERで実在・詳細確認。原典はTYPE-MOON BOOKSより2012-2014年刊行(全5巻)、2019-2020年に角川文庫版として再刊。アニメは2017年A-1 Pictures制作。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "juuni-taisen",
+    "title": "十二大戦",
+    "titleKana": "じゅうにたいせん",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "nakamura-hikaru"
+    ],
+    "publisherId": "jump-j-books",
+    "themeIds": [
+      "death-game",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "十二年に一度、干支の名を冠した十二人の戦士が一堂に会し、殺し合う「十二大戦」。勝者はたった一つの願いを神から叶えてもらえるが、それ以外の十一人は死ぬ運命にある。それぞれの因縁と覚悟を抱えた戦士たちの、生き残りを賭けた一夜の死闘を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十二大戦"
+    },
+    "sourceNote": "Wikipedia日本語版「十二大戦」、集英社JUMP j BOOKS公式サイトで実在・詳細確認。2015年本編、2017年続編『十二大戦対十二大戦』刊行、全2巻。アニメは2017年グラフィニカ制作。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "death-need-round",
+    "title": "デスニードラウンド",
+    "titleKana": "ですにーどらうんど",
+    "authorIds": [
+      "asaura"
+    ],
+    "illustratorIds": [
+      "akai-tera"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "借金を抱える女子高生・葛ユリは、荒くれ者ぞろいの傭兵チームで危険な仕事をこなす日々を送っていた。廃テーマパークで夜な夜な行われる怪事件の調査依頼を受けた一行は、そこに仕組まれた「デスニードラウンド」という命懸けの狂気のサバイバルゲームの存在を知ることになる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスニードラウンド"
+    },
+    "sourceNote": "Wikipedia日本語版「デスニードラウンド」、オーバーラップ文庫公式サイトで実在・詳細確認。既存著者アサウラの別作品として登録。2013-2014年刊行、全3巻完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "satsuriku-no-tenshi",
+    "title": "殺戮の天使",
+    "titleKana": "さつりくのてんし",
+    "authorIds": [
+      "kina-chiren"
+    ],
+    "illustratorIds": [
+      "negiyan"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "death-game",
+      "horror"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "心を持たない少女レイと、罪の意識に苦しむ殺人鬼ザックは、廃ビルの地下深くで出会う。互いに「自分を殺してほしい」という願いを叶え合う約束を交わした二人は、フロアごとに待ち受ける殺人鬼たちを退けながら、地上を目指して脱出行を続けていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/殺戮の天使"
+    },
+    "sourceNote": "KADOKAWA公式サイト、Kinokuniya、BOOK☆WALKERで実在・詳細確認。原作フリーゲームは真田まこと作、小説版は木爾チレンによるノベライズ。全3巻、2018年アニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "corpse-party-repeated-fear",
+    "title": "コープスパーティー ブラッドカバー リピーティッドフィアー",
+    "titleKana": "こーぷすぱーてぃー ぶらっどかばー りぴーてぃっどふぃあー",
+    "authorIds": [
+      "tsuzuki-yoshihiro"
+    ],
+    "illustratorIds": [
+      "nino-illustrator"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "転校する友人との思い出作りに行ったおまじないが引き金となり、生徒たちは三十年前に児童殺害事件が起きた異界の廃校舎に迷い込んでしまう。散り散りになった級友を捜すうち、次々と姿を消していく仲間たち。この呪われた学校からの生還は果たして可能なのか。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コープスパーティー"
+    },
+    "sourceNote": "講談社公式サイト、BOOK☆WALKERで実在・詳細確認。講談社ラノベ文庫より上下巻(2011年12月・2012年3月)刊行。原作ゲームはOVA化(2013,2015)・実写映画化(2015,2016)・多数のコミカライズあり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kami-wa-yuugi-ni-ueteiru",
+    "title": "神は遊戯に飢えている。",
+    "titleKana": "かみはゆうぎにうえている",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "tomose-toiro"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "death-game",
+      "mystery"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "気まぐれな神々が人間を弄ぶために創り出した究極の頭脳戦「神々の遊び」。参加すれば命の保証はないこの遊戯に、近年最高のルーキーと噂される少年フェイと、三千年の眠りから目覚めた元神様の少女レーシェが挑む。神をも出し抜く知略が試される、頭脳戦デスゲームの幕が上がる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神は遊戯に飢えている。"
+    },
+    "sourceNote": "Wikipedia日本語版、MF文庫J公式サイトで実在・詳細確認。2021-2024年刊行、全9巻完結。2024年ライデンフィルム制作でアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "ousama-game",
+    "title": "王様ゲーム",
+    "titleKana": "おうさまげーむ",
+    "authorIds": [
+      "kanazawa-nobuaki"
+    ],
+    "illustratorIds": [
+      "chiba-illustrator"
+    ],
+    "publisherId": "futabasha-junior-bunko",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "ある日、クラスメイト全員に届いた差出人不明のメール。件名は「王様ゲーム」。届く命令に逆らえば死が待つという理不尽なルールのもと、生徒たちは疑心暗鬼に陥りながら次々と犠牲になっていく。逃げ場のない教室から、生き残るための恐怖の一夜が始まる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様ゲーム_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「王様ゲーム(小説)」、双葉社公式サイト、BOOK☆WALKERで実在・詳細確認。2009年双葉社より書籍化、以降続編を双葉社ジュニア文庫で刊行(挿絵:千葉)、2018年最終巻。2011年実写映画化、2017年テレビアニメ化。累計発行部数800万部超。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "dungeon-battle-royale",
+    "title": "ダンジョンバトルロワイヤル～魔王になったので世界統一を目指します～",
+    "titleKana": "だんじょんばとるろわいやる まおうになったのでせかいとういつをめざします",
+    "authorIds": [
+      "gachazora"
+    ],
+    "illustratorIds": [
+      "peko-illustrator"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "death-game",
+      "isekai-fantasy",
+      "battle-action",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "大学生の黒崎紫苑は、ある日突然異世界に召喚され「魔王」に選ばれてしまう。与えられたダンジョンを運営しながら、勇者を名乗る侵入者を退け、他の魔王たちとの世界統一を賭けた生存競争に身を投じることになる、命懸けのダンジョン経営バトルロワイヤル。",
+    "externalLinks": {},
+    "sourceNote": "HJノベルス公式サイト、一二三書房公式サイト、カクヨムで実在・詳細確認。原作Web小説、HJノベルス版は2020年刊行(全3巻)。マンガBANGコミックスにてコミカライズが継続中。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "raging-loop",
+    "title": "レイジングループ REI-JIN-G-LU-P",
+    "titleKana": "れいじんぐるーぷ",
+    "authorIds": [
+      "amphibian"
+    ],
+    "illustratorIds": [
+      "kageyoshi"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "mystery"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "就活生の二階堂夕聖は、山奥の因習に縛られた集落「儀ヶ谷村」で車の故障により立ち往生してしまう。村人たちの奇妙な祭に巻き込まれた彼を待つのは、正体不明の獣を見つけ出さねば全員が死に絶えるという、人狼めいた恐怖の推理デスゲームだった。",
+    "externalLinks": {},
+    "sourceNote": "星海社公式サイト、BOOK☆WALKER、4Gamerの記事で実在・詳細確認。原作は人狼要素を含むホラーノベルゲーム、小説版はシナリオライターamphibian自らが執筆。星海社FICTIONSより2019年に全7巻刊行、完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "jinrou-game",
+    "title": "人狼ゲーム",
+    "titleKana": "じんろうげーむ",
+    "authorIds": [
+      "kawakami-ryou"
+    ],
+    "illustratorIds": [
+      "inukura-sumi"
+    ],
+    "publisherId": "takeshobo-bunko",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "ある日突然、高校生たちが拉致され、正体不明の管理者によって命がけの「人狼ゲーム」への参加を強制される。ルールに背いた者は問答無用で死に至るという絶対のシステムの下、疑心暗鬼に陥る生徒たちの、生死を懸けたサバイバル心理戦が幕を開ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人狼ゲーム_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「人狼ゲーム(小説)」で実在・詳細確認。竹書房文庫より2013年刊行開始、既刊9作10巻(2020年3月最新刊)。実写映画化8作(2013-2020)、テレビドラマ化(2018)、複数のコミカライズあり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

@@ -355,5 +355,55 @@
     },
     "sourceNote": "Wikipedia日本語版「メディアワークス文庫」を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "typemoon-books",
+    "name": "TYPE-MOON BOOKS",
+    "description": "TYPE-MOONが展開する小説レーベル。Fate関連作品などのノベライズ・オリジナル小説を刊行する。",
+    "nameKana": "たいぷむーんぶっくす",
+    "foundedYear": 2012,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "jump-j-books",
+    "name": "JUMP j BOOKS",
+    "description": "集英社が展開する小説レーベル。週刊少年ジャンプ作品のノベライズやオリジナル小説を刊行する。",
+    "nameKana": "じゃんぷじぇいぶっくす",
+    "foundedYear": 2007,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "futabasha-junior-bunko",
+    "name": "双葉社ジュニア文庫",
+    "description": "双葉社が展開する若年層向けのイラスト付き文庫レーベル。",
+    "nameKana": "ふたばしゃじゅにあぶんこ",
+    "foundedYear": 2004,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "seikaisha-fictions",
+    "name": "星海社FICTIONS",
+    "description": "星海社(講談社グループ)が展開するイラスト付き小説レーベル。",
+    "nameKana": "せいかいしゃふぃくしょんず",
+    "foundedYear": 2011,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takeshobo-bunko",
+    "name": "竹書房文庫",
+    "description": "竹書房が展開する文庫レーベル。挿絵付きのホラー・エンタメ小説を多数刊行する。",
+    "nameKana": "たけしょぼうぶんこ",
+    "foundedYear": 1988,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・出版社公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

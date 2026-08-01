@@ -1381,5 +1381,100 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "konoe-ototsugu",
+    "name": "近衛乙嗣",
+    "nameKana": "このえおとつぐ",
+    "description": "イラストレーター。武蔵野美術大学卒。Fate/Grand OrderやFate/Apocryphaのキャラクターイラストを担当し、同人サークルCLOSET CHILDを主宰。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/近衛乙嗣"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakamura-hikaru",
+    "name": "中村光",
+    "nameKana": "なかむらひかる",
+    "description": "漫画家。代表作に『聖☆おにいさん』『荒川アンダー ザ ブリッジ』など。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村光_(漫画家)"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akai-tera",
+    "name": "赤井てら",
+    "nameKana": "あかいてら",
+    "description": "イラストレーター。『デスニードラウンド』の挿絵・キャラクターデザインを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "negiyan",
+    "name": "negiyan",
+    "nameKana": "ねぎやん",
+    "description": "イラストレーター。『殺戮の天使』小説版の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nino-illustrator",
+    "name": "Nino",
+    "nameKana": "にの",
+    "description": "イラストレーター。『コープスパーティー』小説版の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tomose-toiro",
+    "name": "智瀬といろ",
+    "nameKana": "ともせといろ",
+    "description": "イラストレーター・漫画家。『神は遊戯に飢えている。』のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "chiba-illustrator",
+    "name": "千葉",
+    "nameKana": "ちば",
+    "description": "イラストレーター。双葉社ジュニア文庫版『王様ゲーム』シリーズの挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "peko-illustrator",
+    "name": "ペコー",
+    "nameKana": "ぺこー",
+    "description": "イラストレーター。『ダンジョンバトルロワイヤル』のキャラクター原案・挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kageyoshi",
+    "name": "影由",
+    "nameKana": "かげよし",
+    "description": "イラストレーター。『レイジングループ』のキャラクターイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "inukura-sumi",
+    "name": "犬倉すみ",
+    "nameKana": "いぬくらすみ",
+    "description": "イラストレーター。『人狼ゲーム』シリーズの表紙・挿絵を第1作から一貫して担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
