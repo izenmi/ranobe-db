@@ -522,5 +522,35 @@
     "externalLinks": {},
     "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kadokawa-bizlog-bunko",
+    "name": "ビーズログ文庫",
+    "nameKana": "びーずろぐぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "KADOKAWAが刊行する女性向けライトノベルレーベル。雑誌『B's-LOG』を母体とし、乙女ゲーム的世界観・悪役令嬢ものに強い。既存の「角川ビーンズ文庫」とは別インプリント。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ichijinsha-novels",
+    "name": "一迅社ノベルス",
+    "nameKana": "いちじんしゃのべるす",
+    "parentCompany": "一迅社",
+    "description": "一迅社が刊行するライトノベル・新文芸レーベル。既存の「一迅社文庫アイリス」とは別インプリントで、悪役令嬢もの・百合作品などを多く刊行。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "pash-books",
+    "name": "PASH!ブックス／PASH!文庫",
+    "nameKana": "ぱっしゅぶっくす",
+    "parentCompany": "主婦と生活社",
+    "description": "主婦と生活社が刊行するライトノベルレーベル。単行本レーベル「PASH!ブックス」と文庫レーベル「PASH!文庫」からなり、悪役令嬢・婚約破棄ものを含む異世界恋愛作品を多数刊行。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

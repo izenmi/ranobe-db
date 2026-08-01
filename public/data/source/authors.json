@@ -2496,5 +2496,121 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tanabata-satori",
+    "name": "七夕さとり",
+    "nameKana": "たなばたさとり",
+    "description": "「小説家になろう」発の異世界転生・悪役令嬢ものを手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等の詳細情報は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amekawa-touko",
+    "name": "雨川透子",
+    "nameKana": "あまかわとうこ",
+    "description": "オーバーラップノベルスfを中心に活動するループもの・悪役令嬢ものライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nagase-sarasa",
+    "name": "永瀬さらさ",
+    "nameKana": "ながせさらさ",
+    "description": "角川ビーンズ文庫を中心に活動する悪役令嬢もののライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "futsukaichi-tofurou",
+    "name": "二日市とふろう",
+    "nameKana": "ふつかいちとふろう",
+    "description": "オーバーラップノベルスを中心に活動する悪役令嬢・経済テーマのライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shinomiya-aka",
+    "name": "四宮あか",
+    "nameKana": "しのみやあか",
+    "description": "アルファポリス「レジーナブックス」を中心に活動する悪役令嬢ものの作家。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス・カクヨム等の書誌情報を参照(2026年8月時点、日本語版Wikipediaに独立記事なし)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiki-web-author",
+    "name": "しき",
+    "nameKana": "しき",
+    "description": "「小説家になろう」発の悪役令嬢もの・恋愛コメディを手がける作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/自称悪役令嬢な婚約者の観察記録。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takemoto-yoshio",
+    "name": "竹本芳生",
+    "nameKana": "たけもとよしお",
+    "description": "アルファポリス「レジーナブックス」発、悪役令嬢もの・グルメ要素の作家。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式・書誌情報を参照(2026年8月時点、日本語版Wikipediaに独立記事なし)。読み仮名は推定であり未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "enoshima-suzu",
+    "name": "恵ノ島すず",
+    "nameKana": "えのしますず",
+    "description": "カドカワBOOKSより悪役令嬢メタコメディを刊行するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "puni-chan",
+    "name": "ぷにちゃん",
+    "nameKana": "ぷにちゃん",
+    "description": "KADOKAWA「ビーズログ文庫」から悪役令嬢ものを刊行する人気ライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "inori-author",
+    "name": "いのり。",
+    "nameKana": "いのり",
+    "description": "百合ライトノベル「私の推しは悪役令嬢。」の原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/私の推しは悪役令嬢。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "makiburo",
+    "name": "まきぶろ",
+    "nameKana": "まきぶろ",
+    "description": "一迅社ノベルスより悪役令嬢×復讐劇を刊行するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪役令嬢の中の人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認、読み仮名は推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fukada-sametarou",
+    "name": "ふか田さめたろう",
+    "nameKana": "ふかださめたろう",
+    "description": "PASH!ブックス発、婚約破棄された令嬢と男性主人公の恋愛ものを手がける作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/婚約破棄された令嬢を拾った俺が、イケナイことを教え込む"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年等詳細は未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

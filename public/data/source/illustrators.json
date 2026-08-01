@@ -2179,5 +2179,95 @@
     "externalLinks": {},
     "sourceNote": "書誌サイト(BOOK☆WALKER、講談社)を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tea-illustrator",
+    "name": "Tea",
+    "nameKana": "ティー",
+    "description": "「悪役令嬢レベル99」の挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・書誌情報を参照(2026年8月時点)。読み仮名は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yabi-wan",
+    "name": "八美☆わん",
+    "nameKana": "やびわん",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。読み仮名は推定であり未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yukari-mai",
+    "name": "紫真依",
+    "nameKana": "ゆかりまい",
+    "description": "「悪役令嬢なのでラスボスを飼ってみました」等の挿絵・キャラクター原案を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。読み仮名は推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kei-illustrator-gendai",
+    "name": "景",
+    "nameKana": "けい",
+    "description": "本作第1〜4巻の挿絵を担当したイラストレーター(5巻以降はじゃいあんに交代)。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。読み仮名は推定であり、既存イラストレーター一覧の「Kei」等と同一人物かは未確認のため別idとした。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "juuichi-chan",
+    "name": "11ちゃん",
+    "nameKana": "じゅういちちゃん",
+    "description": "「悪役令嬢はヒロインを虐めている場合ではない」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。読み仮名は推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "housou",
+    "name": "封宝",
+    "nameKana": "ほうほう",
+    "description": "「婚約破棄されまして(笑)」の表紙イラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス書誌情報を参照(2026年8月時点)。読み仮名は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "eihi-illustrator",
+    "name": "えいひ",
+    "nameKana": "えいひ",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "naruse-akeno",
+    "name": "成瀬あけの",
+    "nameKana": "なるせあけの",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hanageta",
+    "name": "花ヶ田",
+    "nameKana": "はながた",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miwabe-sakura",
+    "name": "みわべさくら",
+    "nameKana": "みわべさくら",
+    "description": "本作のキャラクター原案・挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
