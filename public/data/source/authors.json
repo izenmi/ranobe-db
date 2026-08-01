@@ -3650,5 +3650,79 @@
     },
     "sourceNote": "Wikipedia日本語版「中村航」記事より生年・経歴・BanG Dream!への関与を確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "aroha-zachou",
+    "name": "アロハ座長",
+    "nameKana": "あろはざちょう",
+    "description": "Web小説投稿サイト「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Only_Sense_Online_-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-"
+    },
+    "sourceNote": "Wikipedia日本語版「Only Sense Online -オンリーセンス・オンライン-」記事を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiina-howahowa",
+    "name": "椎名ほわほわ",
+    "nameKana": "しいなほわほわ",
+    "description": "「小説家になろう」出身のライトノベル作家。第6回アルファポリスファンタジー小説大賞読者賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kikineko-shibai",
+    "name": "聴猫芝居",
+    "nameKana": "ちょうねこしばい",
+    "description": "電撃文庫を中心に活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。読み仮名は推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kazanami-shinogi",
+    "name": "風波しのぎ",
+    "nameKana": "かざなみしのぎ",
+    "description": "「小説家になろう」出身、アルファポリス系ライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sawamura-jitarou",
+    "name": "沢村治太郎",
+    "nameKana": "さわむらじたろう",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsuchihi-raito",
+    "name": "土日月",
+    "nameKana": "つちひらいと",
+    "description": "電撃小説大賞に応募歴を持つライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の著者記事「土日月」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hyouchou",
+    "name": "漂鳥",
+    "nameKana": "ひょうちょう",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "resn",
+    "name": "resn",
+    "nameKana": "れすん",
+    "description": "「小説家になろう」「カクヨム」出身のライトノベル作家。前作『Worldgate Online 〜世恵の翼〜』の続編にあたる本作を執筆。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -14554,5 +14554,276 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "only-sense-online",
+    "title": "Only Sense Online -オンリーセンス・オンライン-",
+    "titleKana": "おんりーせんすおんらいん",
+    "authorIds": [
+      "aroha-zachou"
+    ],
+    "illustratorIds": [
+      "yukisan"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "vrmmo",
+      "adventure",
+      "comedy",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "高校生シュンは、VRMMO「OSO」のキャラクター作成でシステムの誤認識により女性アバター『ユン』として登録されてしまう。戦闘向きでない生産・支援スキルを愛用し、雑貨屋『アトリエ』を営みながら、個性的な仲間や強敵との出会いを通じてマイペースに冒険を楽しんでいく姿を描くのんびり系VRMMOファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Only_Sense_Online_-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-"
+    },
+    "sourceNote": "日本語版Wikipedia「Only Sense Online -オンリーセンス・オンライン-」を参照(2026年8月時点)。著者・出版社・刊行年・既刊27巻(2025年9月時点、本編24巻+外伝3巻)を確認。コミカライズ(羽仁倉雲)を確認。アニメ化情報は記事本文に記載がなく未確認のためfalseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "toaru-ossan-no-vrmmo-katsudouki",
+    "title": "とあるおっさんのVRMMO活動記",
+    "titleKana": "とあるおっさんのぶいあーるえむえむおーかつどうき",
+    "authorIds": [
+      "shiina-howahowa"
+    ],
+    "illustratorIds": [
+      "yamaada"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "vrmmo",
+      "slow-life",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 32,
+    "synopsis": "38歳リーマン田中大地は、VRMMO「ワンモア」に『アース』として降り立つ。効率やランキングを追わず、料理や弓術、生産など多彩な活動をのんびり楽しみながら、個性的なNPCやプレイヤーたちと交流を深めていく、癒し系VRMMOスローライフ物語。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とあるおっさんのVRMMO活動記"
+    },
+    "sourceNote": "日本語版Wikipedia「とあるおっさんのVRMMO活動記」を参照(2026年8月時点)。著者・イラストレーター・出版社(アルファポリス)・既刊32巻(2025年8月時点)・第6回アルファポリスファンタジー小説大賞受賞・コミカライズ・2023年テレビアニメ化を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "netoge-no-yome-wa-onnanoko-janai-to-omotta",
+    "title": "ネトゲの嫁は女の子じゃないと思った？",
+    "titleKana": "ねとげのよめはおんなのこじゃないとおもった",
+    "authorIds": [
+      "kikineko-shibai"
+    ],
+    "illustratorIds": [
+      "hisasi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "vrmmo",
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 24,
+    "synopsis": "かつてネトゲでネカマ疑惑をかけられ傷ついた過去を持つ高校生アキラ。あるオンラインゲームのギルドメンバーと現実で意気投合するが、実はメンバー全員が同じ高校に通っていたと判明。学校にネトゲ部が誕生し、ゲームと現実が交差する青春ラブコメが幕を開ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ネトゲの嫁は女の子じゃないと思った？"
+    },
+    "sourceNote": "日本語版Wikipedia「ネトゲの嫁は女の子じゃないと思った？」を参照(2026年8月時点)。著者・イラストレーター(Hisasi)・出版社(電撃文庫)・刊行開始2013年7月・既刊24巻(Lv.24は2026年2月発売予定)・2016年アニメ化・コミカライズを確認。フルダイブ型ではなく通常のPC/オンラインゲームが舞台だがVRMMO系ゲーム世界作品として採用。刊行開始が2014年よりやや早いが著名作のため採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "the-new-gate",
+    "title": "THE NEW GATE",
+    "titleKana": "ざにゅーげーと",
+    "authorIds": [
+      "kazanami-shinogi"
+    ],
+    "illustratorIds": [
+      "makai-no-juumin"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "数万人を巻き込むデスゲームと化したVRMMO「THE NEW GATE」。最古参プレイヤー・シンはついに攻略を果たすが、脱出の瞬間、突如500年後のゲーム世界へと飛ばされてしまう。変わり果てた世界で自らが育てたサポートキャラたちの末裔と再会しながら、元の世界に帰る術を探す。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/THE_NEW_GATE"
+    },
+    "sourceNote": "日本語版Wikipedia「THE NEW GATE」を参照(2026年8月時点)。著者・出版社(アルファポリス)・既刊23巻(2024年6月時点)・2024年テレビアニメ化・コミカライズ(三輪ヨシユキ)を確認。かつてデスゲーム化していた経緯があるためdeath-gameタグも該当し得るが、現在は脱出済みで本編は探索・冒険が主題のためvrmmo系タグを中心に選定。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "moto-sekai-ichii-no-subchara-ikusei-nikki",
+    "title": "元・世界1位のサブキャラ育成日記 〜廃プレイヤー、異世界を攻略中!〜",
+    "titleKana": "もとせかいいちいのさぶきゃらいくせいにっき",
+    "authorIds": [
+      "sawamura-jitarou"
+    ],
+    "illustratorIds": [
+      "maro"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "vrmmo",
+      "isekai-tensei",
+      "adventure",
+      "harem"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "VRMMO「メヴィオン」で世界1位に君臨していた佐藤は、データ消失をきっかけに自ら命を絶つ。目覚めるとゲームによく似た異世界で、倉庫用サブキャラ『セカンド』として転生していた。ゲームで培った知識を武器に、仲間を集めて再び頂点を目指す異世界転生譚。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/元・世界1位のサブキャラ育成日記_〜廃プレイヤー、異世界を攻略中!〜"
+    },
+    "sourceNote": "日本語版Wikipedia「元・世界1位のサブキャラ育成日記 〜廃プレイヤー、異世界を攻略中!〜」を参照(2026年8月時点)。著者・イラストレーター(まろ)・出版社(カドカワBOOKS)・書籍化開始2019年1月・既刊9巻(2022年1月時点、それ以降の巻数は未確認)・コミカライズ(前田理想)を確認。アニメ化情報は記事になく未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kyuukyoku-shinka-shita-full-dive-rpg",
+    "title": "究極進化したフルダイブRPGが現実よりもクソゲーだったら",
+    "titleKana": "きゅうきょくしんかしたふるだいぶあーるぴーじーがげんじつよりもくそげーだったら",
+    "authorIds": [
+      "tsuchihi-raito"
+    ],
+    "illustratorIds": [
+      "youta"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "vrmmo",
+      "comedy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 4,
+    "synopsis": "高校生の主人公は「現実よりクソゲー」と噂される新作フルダイブVRゲーム『極・クエスト』に手を出してしまう。開始早々に親友NPCを手にかけ『親友殺し』の称号を得るなど理不尽な仕様に翻弄されながらも、なんとかクリアを目指してもがくブラックコメディ系VRMMO冒険譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/究極進化したフルダイブRPGが現実よりもクソゲーだったら"
+    },
+    "sourceNote": "日本語版Wikipedia「究極進化したフルダイブRPGが現実よりもクソゲーだったら」を参照(2026年8月時点)。著者・イラストレーター(よう太)・出版社(MF文庫J)・既刊4巻(2021年7月時点)・2021年テレビアニメ化・コミカライズ(木野)を確認。2021年以降の続刊・完結情報が確認できず既刊状況は不明とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "fukutsu-no-boukendamashii",
+    "title": "不屈の冒険魂",
+    "titleKana": "ふくつのぼうけんだましい",
+    "authorIds": [
+      "hyouchou"
+    ],
+    "illustratorIds": [
+      "katana-kanata"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "vrmmo",
+      "adventure",
+      "post-apocalypse",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "大学デビューを機にVRMMORPG『ISAO』を始めた主人公ユキムラは、支援職の巫女として効率よりも仲間との交流を重視したプレイスタイルを貫く。やがて隕石衝突により現実とゲーム世界が融合するという未曾有の事態が発生し、平穏だった日常は一変していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/不屈の冒険魂"
+    },
+    "sourceNote": "日本語版Wikipedia「不屈の冒険魂」を参照(2026年8月時点)。著者(漂鳥)・イラストレーター(刀彼方)・出版社(ダッシュエックス文庫)・Web初出2019年3月(なろう)・書籍化2020年10月・既刊3巻(2026年2月時点確認情報)を確認。アニメ化・コミカライズ情報は記事に記載がなく未確認のためfalseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "destiny-unchain-online",
+    "title": "Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜",
+    "titleKana": "でぃすてぃにーあんちぇいんおんらいん きゅうけつきしょうじょとなってやがてあかのまおうとよばれるようになりました",
+    "authorIds": [
+      "resn"
+    ],
+    "illustratorIds": [
+      "yachimoto"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "vrmmo",
+      "tsf",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "オンラインゲーム内でキャラクターを作成した高校生は、レア種族『吸血鬼』を引き当てたことでログアウト不能となり、女性ヴァンパイアの姿に囚われてしまう。前作から20年後の世界を舞台に、性別も運命も変えられた主人公が新たな仲間との出会いを通じて自らの生き方を模索していくTSFファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Destiny_Unchain_Online_〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜"
+    },
+    "sourceNote": "日本語版Wikipedia「Destiny Unchain Online」記事を参照(2026年8月時点)。著者(resn)・イラストレーター(ヤチモト)・出版社(Kラノベブックス)・Web初出2020年5月(なろう→カクヨム)・書籍化2022年11月・コミカライズ(マガジンポケット連載中)を確認。既刊巻数・latestPublishedYear・アニメ化情報は記事に明記がなく未確認。前作『Worldgate Online 〜世恵の翼〜』の続編作品。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

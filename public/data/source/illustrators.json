@@ -3205,5 +3205,59 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「中村航」記事内で挿絵担当として言及されているのみで、単独記事や読み仮名の確証は取れず(推定表記)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hisasi",
+    "name": "Hisasi",
+    "nameKana": "ひさし",
+    "description": "ライトノベル・ゲーム原画で活動するイラストレーター。本作の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "makai-no-juumin",
+    "name": "魔界の住民",
+    "nameKana": "まかいのじゅうみん",
+    "description": "ライトノベルのイラストレーター。本作1〜9巻を担当。",
+    "externalLinks": {},
+    "sourceNote": "10・11巻はKeG、12巻以降は晩杯あきらに交代したこともWikipediaで確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "maro",
+    "name": "まろ",
+    "nameKana": "まろ",
+    "description": "ライトノベルのイラストレーター。本作の挿絵・キャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "youta",
+    "name": "よう太",
+    "nameKana": "ようた",
+    "description": "元ニトロプラス所属のイラストレーター。ライトノベル・ゲーム原画を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "katana-kanata",
+    "name": "刀彼方",
+    "nameKana": "かたなかなた",
+    "description": "ライトノベルのイラストレーターを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yachimoto",
+    "name": "ヤチモト",
+    "nameKana": "やちもと",
+    "description": "ライトノベル・漫画のイラストレーター。小説版・コミカライズ版双方の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
