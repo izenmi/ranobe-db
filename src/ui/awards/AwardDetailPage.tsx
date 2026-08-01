@@ -3,6 +3,14 @@ import { getAward } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 
+const YEAR_COLORS = ["blue", "pink", "mint", "yellow", "peach", "purple"] as const;
+
+/** Deterministic pastel color per year, so scanning the winner list makes each year's cluster
+ *  easy to spot instead of every row using the same pill color. */
+function colorForYear(year: number): (typeof YEAR_COLORS)[number] {
+  return YEAR_COLORS[Math.abs(year) % YEAR_COLORS.length];
+}
+
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getAward(id!), [id]);
@@ -32,7 +40,7 @@ export function AwardDetailPage() {
           <ul className="winner-list">
             {state.data.winners.map((winner) => (
               <li key={`${winner.workId}-${winner.year}`}>
-                <span className="winner-year">{winner.year}</span>
+                <span className={`winner-year winner-year--${colorForYear(winner.year)}`}>{winner.year}</span>
                 <Link to={`/works/${winner.workId}`}>{winner.workTitle}</Link>
                 <span className="entity-list__count"> — {winner.result}</span>
               </li>

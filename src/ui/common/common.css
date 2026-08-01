@@ -471,11 +471,31 @@ h1 {
 
 .winner-year {
   color: var(--color-ink-on-accent);
-  background: var(--color-blue);
   border-radius: var(--radius-pill);
   padding: 1px 9px;
   margin-right: 6px;
   font-weight: 800;
   font-variant-numeric: tabular-nums;
   font-size: 0.82rem;
+}
+
+/* Colored per year (see colorForYear in AwardDetailPage.tsx) so winners cluster visually by
+ * year at a glance instead of every row using the same pill color. */
+.winner-year--blue {
+  background: var(--color-blue);
+}
+.winner-year--pink {
+  background: var(--color-pink);
+}
+.winner-year--mint {
+  background: var(--color-mint);
+}
+.winner-year--yellow {
+  background: var(--color-yellow);
+}
+.winner-year--peach {
+  background: var(--color-peach);
+}
+.winner-year--purple {
+  background: var(--color-primary);
 }
