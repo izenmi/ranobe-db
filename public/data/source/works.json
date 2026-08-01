@@ -13092,5 +13092,416 @@
     },
     "sourceNote": "Wikipedia日本語版「乙一」「夏と花火と私の死体」記事を参照(2026年8月時点)。初版レーベル(ジャンプ ジェイ ブックス、1996年10月)・イラストレーター・受賞歴(第6回ジャンプ小説・ノンフィクション大賞)・あらすじを確認。2000年に集英社文庫版が出ており現在は同文庫扱いが主流だが、初刊はライトノベルレーベルであるため採用。同賞は既存アワード一覧に該当項目がないためawardResultsは省略した。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "inou-battle-wa-nichijou-kei-no-naka-de",
+    "title": "異能バトルは日常系のなかで",
+    "titleKana": "いのうバトルはにちじょうけいのなかで",
+    "authorIds": [
+      "nozomu-kouta"
+    ],
+    "illustratorIds": [
+      "ozaji"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "comedy",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "泉光高校文芸部の5人はある日突然「異能」を操れるようになる。厨二病気質の安藤寿来をはじめ、部員たちの能力は軒並み地味で世界の命運を左右するような大事件も起きず、異能を持ちながらも代わり映えのしない高校の日常が淡々と続いていく学園コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異能バトルは日常系のなかで"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター・刊行期間(2012年6月～2018年1月、全13巻、完結)・アニメ化(2014年)・コミカライズを確認。Web小説発ではなく書き下ろし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mikagura-gakuen-kumikyoku",
+    "title": "ミカグラ学園組曲",
+    "titleKana": "ミカグラがくえんくみきょく",
+    "authorIds": [
+      "last-note"
+    ],
+    "illustratorIds": [
+      "akina-mikagura"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "music",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "1ヶ月以内にクラブへ入部しなければ退学という奇妙な校則を持つミカグラ学園。引きこもりだった少女が入学早々、先輩たちが特殊能力を使って戦う過激な部活対抗戦「組曲対決」を目撃し、実力主義で成り立つ学園社会の渦中に巻き込まれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミカグラ学園組曲"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。ニコニコ動画の同名楽曲シリーズの小説化作品であることを確認。著者・イラストレーター・刊行期間(2013年7月～2016年8月、全8巻、完結)・アニメ化(2015年)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "butsuriteki-ni-koritsu-shiteiru-ore-no-koukou-seikatsu",
+    "title": "物理的に孤立している俺の高校生活",
+    "titleKana": "ぶつりてきにこりつしているおれのこうこうせいかつ",
+    "authorIds": [
+      "morita-kisetsu"
+    ],
+    "illustratorIds": [
+      "mika-pikazo"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "comedy",
+      "seishun-lovecome",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "触れたものを物理的に孤立させ、周囲から切り離してしまう異能を持つ高校生が主人公。厄介な能力ゆえに人間関係にも距離ができてしまう中、同じように異能を抱えるクラスメイトたちと関わりながら、能力と折り合いをつけて高校生活を送っていく学園異能コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/物理的に孤立している俺の高校生活"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター・刊行期間(2017年2月～2020年12月、全9巻、完結)・コミカライズを確認。アニメ化はされていない。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "raijin-x-raijin",
+    "title": "ライジン×ライジン",
+    "titleKana": "ライジンライジン",
+    "authorIds": [
+      "hatsumi-youichi"
+    ],
+    "illustratorIds": [
+      "pulp-piroshi"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "超常能力者「ストレンジャー」が存在する現代日本。目覚めた能力があまりに地味な高校生・志茂音財と、幼なじみで雷を操る優秀なストレンジャー・雷号みかんが監視官とお目付け役の関係で再会する。凸凹なコンビが他のストレンジャーたちとの騒動に巻き込まれていく学園異能コメディ。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 2011,
+        "result": "大賞・読者賞(応募時タイトル「凸凹ストレンジャーズ」)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライジン×ライジン"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。第23回ファンタジア大賞(2011年発表)で大賞・読者賞を受賞したことを確認。著者・イラストレーター・刊行期間(2012年～2014年、全9巻、完結)・コミカライズ(月刊ドラゴンエイジ)を確認。アニメ化は未確認(なし)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "absolute-duo",
+    "title": "アブソリュート・デュオ",
+    "titleKana": "アブソリュート・デュオ",
+    "authorIds": [
+      "hiiragi-takumi"
+    ],
+    "illustratorIds": [
+      "asaba-yuu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "fukushuu",
+      "harem"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "自らの魂を武器として具現化する「焔牙」の力を持つ者たちを育成する昊陵学園。妹を殺された復讐を胸に入学した九重透流は、入学式で行われる決闘「資格の儀」で銀髪の少女ユリエと出会う。異形の焔牙を操る二人は、様々な超えし者たちとの戦いを通じて絆を深めていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アブソリュート・デュオ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター・刊行期間(2012年～2016年、全11巻、完結)・アニメ化(2015年)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "musaigen-no-phantom-world",
+    "title": "無彩限のファントム・ワールド",
+    "titleKana": "むさいげんのファントム・ワールド",
+    "authorIds": [
+      "hatano-souichirou"
+    ],
+    "illustratorIds": [
+      "shirabi"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "comedy",
+      "harem"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "遺伝子操作施設のテロ事故以降、人類は幽霊や妖怪などの実体を持たない存在「ファントム」を認識できるようになった現代日本。ファントムを退治する能力を持つ高校生たちが、学園のファントム対策部として日々騒動を巻き起こしながら任務に励む学園異能コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2013,
+        "result": "第4回小説部門奨励賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無彩限のファントム・ワールド"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。第4回京都アニメーション大賞小説部門奨励賞受賞作であることを確認。著者・イラストレーター(既存id再利用)・刊行期間(2013年～2016年、全3巻、完結)・アニメ化(2016年、京都アニメーション制作)を確認。コミカライズ情報は未確認のためfalseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "hidan-no-aria",
+    "title": "緋弾のアリア",
+    "titleKana": "ひだんのアリア",
+    "authorIds": [
+      "akamatsu-chuugaku"
+    ],
+    "illustratorIds": [
+      "kobuichi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 46,
+    "synopsis": "凶悪犯罪に対抗するため武力行使の権限を持つ「武偵」が実在する現代日本。平凡な武偵高校生活を望む遠山キンジは、伝説的な武偵の娘でSランク武偵の神崎アリアと成り行きで運命を共にすることになり、母の冤罪を晴らそうとする彼女の戦いに巻き込まれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/緋弾のアリア"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター(既存id再利用)・刊行開始(2008年)・既刊46巻・連載継続中・アニメ化(2011年、2015年『AA』)・コミカライズを確認。2014年以降開始の方針より外れる古めの作品だが、現在も刊行が続く代表的な学園異能バトルLNとして採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "dragon-crisis",
+    "title": "ドラゴンクライシス!",
+    "titleKana": "ドラゴンクライシス",
+    "authorIds": [
+      "jouzaki-hiya"
+    ],
+    "illustratorIds": [
+      "agata-itsuki"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "battle-action",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "平凡な高校生活を送る如月竜司は、帰国した再従姉が闇ブローカーから奪った箱の中から、ドラゴンの少女ローズが現れたことで一変する。特殊な能力を持つ道具「遺物」を巡る遺物使いたちの戦いに巻き込まれ、ローズを守るため過去のトラウマと向き合っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンクライシス!"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター(既存id再利用)・刊行期間(2007年～2011年、全13巻、完結)・アニメ化(2011年)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "9s-nine-s",
+    "title": "9S<ナインエス>",
+    "titleKana": "ナインエス",
+    "authorIds": [
+      "hayama-tooru"
+    ],
+    "illustratorIds": [
+      "yamamoto-yamato",
+      "masuda-megumi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "battle-action",
+      "sf",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "遺伝的に特殊能力を受け継いだ高校生と、伝説的な科学者を父に持つ少女を中心に、継承された技術と対立組織を巡る戦いを描くSF異能バトル。現代日本を舞台にしながら未来的なテクノロジーが絡み合い、恋愛・学園描写とアクションが並行して展開する長期シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/9S"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター2名(既存id再利用含む)・刊行期間(2003年～2025年、全16巻)を確認。長期刊行のため2014年以前開始だが2025年まで続く息の長い現代異能バトル作品として採用。アニメ化は未確認(なし)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "mahou-sensou",
+    "title": "魔法戦争",
+    "titleKana": "まほうせんそう",
+    "authorIds": [
+      "suzuki-hisashi"
+    ],
+    "illustratorIds": [
+      "runaria"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen-ianou",
+      "gakuen",
+      "mahou",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "倒れていた少女を助けようとした際のキスがきっかけで魔法使いになってしまった高校生・七瀬武。彼は魔法学院へ転校し、現存する世界と崩壊した世界という二つの世界を巡る大規模な魔法戦争に、人間関係の縺れを抱えながら巻き込まれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法戦争"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者・イラストレーター・刊行期間(2011年～2015年、全12巻、完結)・アニメ化(2014年、マッドハウス制作)・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shinhonkaku-mahou-shoujo-risuka",
+    "title": "新本格魔法少女りすか",
+    "titleKana": "しんほんかくまほうしょうじょりすか",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "nishimura-kinu"
+    ],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "gakuen-ianou",
+      "mahou",
+      "battle-action",
+      "mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "魔法が存在しない普通の人間の少年・供犠創貴と、時間操作の魔法を操る「魔法少女」水倉りすかが、りすかの失踪した父を探しながら悪しき魔法使いたちと渡り合っていく。舞台は佐賀県と、隣接する魔法の国とされる長崎県という現代日本の異能バトル×頭脳戦。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新本格魔法少女りすか"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者(既存id再利用)・イラストレーター・刊行期間(2004年～2020年、全4巻)・コミカライズ(別冊少年マガジン)を確認。2014年以前開始の古めの作品だが、既存の西尾維新作品と異なる独立シリーズであり現代異能バトルの代表例として採用。アニメ化はなし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "yoku-wakaru-gendai-mahou",
+    "title": "よくわかる現代魔法",
+    "titleKana": "よくわかるげんだいまほう",
+    "authorIds": [
+      "sakurazaka-hiroshi"
+    ],
+    "illustratorIds": [
+      "miyashita-miki"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "mahou",
+      "battle-action",
+      "sf",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "魔法がプログラムコードとして再現される現代の東京・銀座を舞台に、そそっかしい主人公と最強の現代魔法使いの少女が、シリコンベースの「魔法」を巡る騒動や陰謀に巻き込まれていく。SFとオカルトを融合させた独特な設定の現代異能バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/よくわかる現代魔法"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。著者(既存id再利用)・イラストレーター・刊行期間(2003年～2009年、既刊6巻)・アニメ化(2009年)・コミカライズ(ジャンプスクエア)を確認。2014年以前開始の古めの作品だが現代魔法バトルの代表例として採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

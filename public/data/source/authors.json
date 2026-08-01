@@ -3303,5 +3303,102 @@
     },
     "sourceNote": "Wikipedia日本語版「乙一」および「夏と花火と私の死体」記事を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nozomu-kouta",
+    "name": "望公太",
+    "nameKana": "のぞむこうた",
+    "description": "GA文庫を中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/望公太"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "last-note",
+    "name": "Last Note.",
+    "nameKana": "ラストノート",
+    "description": "ニコニコ動画発の音楽ユニット・小説家。同名楽曲シリーズを小説化した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hatsumi-youichi",
+    "name": "初美陽一",
+    "nameKana": "はつみよういち",
+    "description": "第23回ファンタジア大賞〈大賞〉受賞作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライジン×ライジン"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hiiragi-takumi",
+    "name": "柊★たくみ",
+    "nameKana": "ひいらぎたくみ",
+    "description": "MF文庫Jを中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アブソリュート・デュオ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hatano-souichirou",
+    "name": "秦野宗一郎",
+    "nameKana": "はたのそういちろう",
+    "description": "第4回京都アニメーション大賞小説部門奨励賞受賞作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無彩限のファントム・ワールド"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akamatsu-chuugaku",
+    "name": "赤松中学",
+    "nameKana": "あかまつちゅうがく",
+    "description": "MF文庫Jを中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/緋弾のアリア"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "jouzaki-hiya",
+    "name": "城崎火也",
+    "nameKana": "じょうざきひや",
+    "description": "スーパーダッシュ文庫を中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンクライシス!"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hayama-tooru",
+    "name": "葉山透",
+    "nameKana": "はやまとおる",
+    "description": "電撃文庫を中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/9S"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "suzuki-hisashi",
+    "name": "スズキヒサシ",
+    "nameKana": "すずきひさし",
+    "description": "MF文庫Jを中心に活動するライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法戦争"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
