@@ -187,7 +187,7 @@ h1 {
 .pager__pages {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 4px;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -224,6 +224,7 @@ h1 {
   padding: 0 4px;
 }
 
+.pager__prev,
 .pager__next {
   padding: 0 14px;
   height: 30px;
@@ -236,11 +237,13 @@ h1 {
   cursor: pointer;
 }
 
+.pager__prev:disabled,
 .pager__next:disabled {
   opacity: 0.4;
   cursor: default;
 }
 
+.pager__prev:not(:disabled):hover,
 .pager__next:not(:disabled):hover {
   border-color: var(--color-blue-strong);
 }

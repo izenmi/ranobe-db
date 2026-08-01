@@ -60,6 +60,9 @@ function getPageNumbers(page: number, totalPages: number): (number | "ellipsis")
 function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: number; onGoToPage: (page: number) => void }) {
   return (
     <div className="pager">
+      <button type="button" className="pager__prev" disabled={page <= 1} onClick={() => onGoToPage(page - 1)}>
+        ← 前へ
+      </button>
       <ol className="pager__pages">
         {getPageNumbers(page, totalPages).map((item, i) =>
           item === "ellipsis" ? (
