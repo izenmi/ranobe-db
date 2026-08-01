@@ -610,5 +610,30 @@
     },
     "sourceNote": "Wikipedia日本語版「ダッシュエックス文庫」を参照(2026年8月時点)。前身「スーパーダッシュ文庫」(既存id: super-dash-bunko)とは別idで管理。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shueisha-orange-bunko",
+    "name": "集英社オレンジ文庫",
+    "nameKana": "しゅうえいしゃおれんじぶんこ",
+    "parentCompany": "集英社",
+    "description": "集英社が2013年に創刊した女性向けライト文芸・ライトノベルレーベル。中華風後宮ファンタジーや現代恋愛ものを多く刊行。",
+    "foundedYear": 2013,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/集英社オレンジ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fujimi-l-bunko",
+    "name": "富士見L文庫",
+    "nameKana": "ふじみえるぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "KADOKAWAが展開する女性向けライト文芸レーベル。中華風後宮もの・和風あやかしもの・現代ファンタジーなど幅広く刊行。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富士見L文庫"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -2702,5 +2702,77 @@
     "externalLinks": {},
     "sourceNote": "同上。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kougyoshi",
+    "name": "香魚子",
+    "nameKana": "こうぎょし",
+    "description": "『後宮の烏』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "複数の書誌情報サイトで表記を確認したが、正式な読み仮名の一次情報源は確認できず(こうぎょし/こうぎょこ等の表記あり)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shitomi-sharon",
+    "name": "蔀シャロン",
+    "nameKana": "しとみしゃろん",
+    "description": "『威風堂々惡女』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yukiya",
+    "name": "ゆき哉",
+    "nameKana": "ゆきや",
+    "description": "『ふつつかな悪女ではございますが』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hirasawa-geko",
+    "name": "平沢下戸",
+    "nameKana": "ひらさわげこ",
+    "description": "『戦国小町苦労譚』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。読み仮名は一般的な読みから推定、一次情報源での確認は取れず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kiriya-takashi",
+    "name": "桐矢隆",
+    "nameKana": "きりやたかし",
+    "description": "『紅霞後宮物語』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nagi-kasumi",
+    "name": "凪かすみ",
+    "nameKana": "なぎかすみ",
+    "description": "『一華後宮料理帖』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "izumi-illustrator",
+    "name": "Izumi",
+    "nameKana": "",
+    "description": "中華風ファンタジー作品を中心に手掛けるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "同上。カタカナ表記のペンネームのためnameKanaは省略。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "laruha",
+    "name": "Laruha",
+    "nameKana": "",
+    "description": "『かくりよの宿飯』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "同上。カタカナ表記のペンネームのためnameKanaは省略。",
+    "updatedAt": "2026-08-01"
   }
 ]

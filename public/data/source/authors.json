@@ -3095,5 +3095,112 @@
     "externalLinks": {},
     "sourceNote": "作品Wikipedia記事より確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shirakawa-kouko",
+    "name": "白川紺子",
+    "nameKana": "しらかわこうこ",
+    "description": "中華風後宮ファンタジー『後宮の烏』などで知られる小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白川紺子"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shirasu-azusa",
+    "name": "白洲梓",
+    "nameKana": "しらすあずさ",
+    "description": "宮城県出身。2015年ノベル大賞受賞作『最後の王妃』でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイト(集英社オレンジ文庫公式・BOOK☆WALKER等)を参照(2026年8月時点)。Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nakamura-satsuki",
+    "name": "中村颯希",
+    "nameKana": "なかむらさつき",
+    "description": "「小説家になろう」発の中華風ファンタジー『ふつつかな悪女ではございますが』で知られる作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ふつつかな悪女ではございますが"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kyouchikutou",
+    "name": "夾竹桃",
+    "nameKana": "きょうちくとう",
+    "description": "「小説家になろう」発の戦国タイムスリップ物『戦国小町苦労譚』の作者。",
+    "externalLinks": {},
+    "sourceNote": "アース・スターノベル公式サイト・小説家になろう掲載ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yukimura-kana",
+    "name": "雪村花菜",
+    "nameKana": "ゆきむらかな",
+    "description": "第2回ラノベ文芸賞金賞を受賞し『紅霞後宮物語』でデビューした小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紅霞後宮物語"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikawa-miri",
+    "name": "三川みり",
+    "nameKana": "みかわみり",
+    "description": "中華風後宮グルメファンタジー『一華後宮料理帖』の作者。",
+    "externalLinks": {},
+    "sourceNote": "角川ビーンズ文庫公式サイト・BOOK☆WALKER等を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kojima-tamaki",
+    "name": "小島環",
+    "nameKana": "こじまたまき",
+    "description": "愛知県出身、中国学専攻。2014年第9回小説現代長編新人賞を受賞し2015年デビューした小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小島環"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shikimi-akira",
+    "name": "しきみ彰",
+    "nameKana": "しきみあきら",
+    "description": "中華風ファンタジー『後宮妃の管理人』シリーズの作者。",
+    "externalLinks": {},
+    "sourceNote": "富士見L文庫公式サイト・pixiv百科事典等を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kurobe-ayumi",
+    "name": "黒辺あゆみ",
+    "nameKana": "くろべあゆみ",
+    "description": "転生医療ファンタジー『百花宮のお掃除係』の作者。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイト・BOOK☆WALKER等を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yuma-midori",
+    "name": "友麻碧",
+    "nameKana": "ゆまみどり",
+    "description": "「小説家になろう」発の和風あやかしファンタジー『かくりよの宿飯』などで知られる小説家。",
+    "externalLinks": {},
+    "sourceNote": "富士見L文庫公式サイト等を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ishida-rinne",
+    "name": "石田リンネ",
+    "nameKana": "いしだりんね",
+    "description": "中華風「シンデレラストーリー」『茉莉花官吏伝』の作者。",
+    "externalLinks": {},
+    "sourceNote": "ビーズログ文庫公式サイト・各種書誌情報を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

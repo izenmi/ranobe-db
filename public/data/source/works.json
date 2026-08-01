@@ -12278,5 +12278,352 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "koukyuu-no-karasu",
+    "title": "後宮の烏",
+    "titleKana": "こうきゅうのからす",
+    "authorIds": [
+      "shirakawa-kouko"
+    ],
+    "illustratorIds": [
+      "kougyoshi"
+    ],
+    "publisherId": "shueisha-orange-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "mystery",
+      "romance",
+      "horror"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "後宮の奥深くには、皇帝の閨に侍らない特別な妃「烏妃」が住むという。人を寄せ付けぬその妃のもとを、即位したばかりの若き皇帝が訪ねたことから、後宮に渦巻く因縁と怪異が動き出す中華風ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/後宮の烏"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行年・巻数(全7巻完結)・2022年放送のテレビアニメ化を確認。原作は書き下ろしでWeb小説発ではない。イラストレーターの読み仮名は未確定。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "ifuu-doudou-akujo",
+    "title": "威風堂々惡女",
+    "titleKana": "いふうどうどうあくじょ",
+    "authorIds": [
+      "shirasu-azusa"
+    ],
+    "illustratorIds": [
+      "shitomi-sharon"
+    ],
+    "publisherId": "shueisha-orange-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "akuyaku-reijou",
+      "fukushuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "最下層民「陰」の少女・玉瑛は、皇帝の命で一族もろとも迫害され命を落とす。目覚めるとそこは、自分たちを陥れた張本人である寵姫・柳雪媛の体の中だった。差別の元凶として生き直す少女の、後宮を舞台にした逆転復讐譚。",
+    "externalLinks": {},
+    "sourceNote": "集英社オレンジ文庫公式サイト・BOOK☆WALKER・コミックシーモア等を参照(2026年8月時点)。第1巻刊行日(2018年10月24日)・巻数(11巻以上、既刊継続中)・コミカライズを確認。日本語版Wikipedia記事は見当たらず未確認。アニメ化情報は未確認(なしと推定)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "futsutsukana-akujo-dewa-gozaimasuga",
+    "title": "ふつつかな悪女ではございますが 〜雛宮蝶鼠とりかえ伝〜",
+    "titleKana": "ふつつかなあくじょではございますが ひなみやちょうそとりかえでん",
+    "authorIds": [
+      "nakamura-satsuki"
+    ],
+    "illustratorIds": [
+      "yukiya"
+    ],
+    "publisherId": "ichijinsha-novels",
+    "themeIds": [
+      "chuuka-fantasy",
+      "comedy",
+      "mystery",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "中華風の後宮を舞台に、皆に愛される「蝶」の宮女と、疎まれ者の「鼠」の宮女が、ある事件をきっかけに互いの人生を入れ替えることになる。虐げられていた側が知恵と機転で成り上がっていく痛快な運命逆転劇。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ふつつかな悪女ではございますが"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「小説家になろう」発であること、一迅社ノベルスからの刊行開始(2020年12月)、コミカライズ(月刊コミックZERO-SUM)、2026年7月放送開始のテレビアニメ化を確認。既刊12巻(2026年3月時点)。出版レーベル「一迅社ノベルス」は既存出版社一覧の「一迅社文庫アイリス」とは別レーベルのため新規提案とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "sengoku-komachi-kuroutan",
+    "title": "戦国小町苦労譚",
+    "titleKana": "せんごくこまちくろうたん",
+    "authorIds": [
+      "kyouchikutou"
+    ],
+    "illustratorIds": [
+      "hirasawa-geko"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "jidai-fantasy",
+      "time-travel",
+      "naisei",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "農業高校生の少女・芥川鞘子が、戦国時代の日本にタイムスリップしてしまう。現代の農業知識を武器に村の立て直しから始め、やがて織田信長に見出されてその参謀格として、内政と知略で戦国の世を変えていく物語。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦国小町苦労譚"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2013年よりなろう連載、2016年1月にアース・スターノベルより書籍化、既刊19巻(2026年3月時点)、コミカライズ済みを確認。アニメ化は未確認(なしと推定)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kouka-koukyuu-monogatari",
+    "title": "紅霞後宮物語",
+    "titleKana": "こうかこうきゅうものがたり",
+    "authorIds": [
+      "yukimura-kana"
+    ],
+    "illustratorIds": [
+      "kiriya-takashi"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "senki",
+      "naisei",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "大陳帝国の異色の女性武官・関小玉は、かつての上官が皇帝に即位したことで望まぬまま皇后となる。武人らしい率直さで後宮の権謀術数に立ち向かいながら、国と民のために皇后としての役目を果たしていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紅霞後宮物語"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。第2回ラノベ文芸賞金賞受賞作(応募時タイトル『生々流転』)であることを確認したが、この賞は既存アワード一覧に該当項目がないためawardResultsには記載せず。刊行年(2015年5月)・本編全14巻完結・コミカライズを確認。出版レーベル「富士見L文庫」は既存出版社一覧に該当なしのため新規提案とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ikka-koukyuu-ryourichou",
+    "title": "一華後宮料理帖",
+    "titleKana": "いっかこうきゅうりょうりちょう",
+    "authorIds": [
+      "mikawa-miri"
+    ],
+    "illustratorIds": [
+      "nagi-kasumi"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "gourmet",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "料理を愛する皇女・理美と、食に通じる若き学者・朱西が、後宮の料理番として奇妙な事件や人間関係の縺れを美食の知恵で解きほぐしていく、中華風の宮廷グルメファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "角川ビーンズ文庫公式サイト・BOOK☆WALKER・HMV等の書誌情報を参照(2026年8月時点、Wikipedia記事は未確認)。刊行開始(2016年7月)・全11巻完結・コミカライズを確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tougoku-no-kenshi-otome",
+    "title": "唐国の検屍乙女",
+    "titleKana": "とうごくのけんしおとめ",
+    "authorIds": [
+      "kojima-tamaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "chuuka-fantasy",
+      "mystery",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "唐を思わせる中華風の国を舞台に、検屍(遺体の検分)の才を持つ女性が、市井や宮廷で起きる不可解な死の謎を解き明かしていくミステリ仕立ての中華ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小島環"
+    },
+    "sourceNote": "Wikipedia日本語版(著者項目)を参照(2026年8月時点)。講談社タイガより2022年4月刊行開始、2023年9月に第2巻刊行を確認。イラストレーターの記載は確認できず(講談社タイガはカバーデザイン中心でイラストレーター名の明記がない書目が多い)。アニメ・コミカライズ情報は確認できず(なしと推定)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "koukyuu-hi-no-kanrinin",
+    "title": "後宮妃の管理人",
+    "titleKana": "こうきゅうひのかんりにん",
+    "authorIds": [
+      "shikimi-akira"
+    ],
+    "illustratorIds": [
+      "izumi-illustrator"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "comedy",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "商家の娘が皇帝の命により後宮入りすることになり、女装した夫を伴って共に後宮へ入る痛快中華ファンタジー。後宮内で次々起きるトラブルを、寵愛夫婦が知恵とチームワークで解決していく。",
+    "externalLinks": {},
+    "sourceNote": "富士見L文庫公式サイト・pixiv百科事典・BOOK☆WALKER等を参照(2026年8月時点、Wikipedia記事は未確認)。刊行開始(2019年5月)・既刊10巻程度・コミカライズを確認。書き下ろし作品でWeb小説発ではないことを著者プロフィールから確認。出版レーベル「富士見L文庫」は既に紅霞後宮物語で新規提案済みのものと同一。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "hyakkakyuu-no-osoujigakari",
+    "title": "百花宮のお掃除係",
+    "titleKana": "ひゃっかきゅうのおそうじがかり",
+    "authorIds": [
+      "kurobe-ayumi"
+    ],
+    "illustratorIds": [
+      "shino-touko"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "chuuka-fantasy",
+      "isekai-tensei",
+      "comedy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "前世の医療知識を持つ女性が中華風後宮の末端の「お掃除係」として働き始めるが、その知識でトラブルを次々解決するうちに周囲から頼られる存在になっていく、憧れの後宮を舞台にした転生ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイト・BOOK☆WALKER等を参照(2026年8月時点、Wikipedia記事は確認できず)。刊行開始(2020年12月)・既刊14巻程度・コミカライズ(FLOSCOMIC)を確認。Web小説(カクヨム等)発かどうかは断定情報を確認できずwebNovelSourceは付与せず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kakuriyo-no-yadomeshi",
+    "title": "かくりよの宿飯",
+    "titleKana": "かくりよのやどめし",
+    "authorIds": [
+      "yuma-midori"
+    ],
+    "illustratorIds": [
+      "laruha"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "gourmet",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "あやかしが見える体質の女子大生が、祖父の借金のかたに、あやかしたちの世界「隠世」にある宿へ連れて行かれる。望まぬ結婚を回避すべく、持ち前の料理の腕できな臭い宿の問題を解決していく和風ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "富士見L文庫公式サイト・各種書誌情報サイトを参照(2026年8月時点、Wikipedia記事は未確認)。なろう発であること、刊行開始(2015年4月)、全10巻完結、テレビアニメ化(第1期・2025年秋放送の第2期)、コミカライズを確認。出版レーベル「富士見L文庫」は既に紅霞後宮物語で新規提案済みのものと同一。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "matsurika-kanriden",
+    "title": "茉莉花官吏伝",
+    "titleKana": "まつりかかんりでん",
+    "authorIds": [
+      "ishida-rinne"
+    ],
+    "illustratorIds": [
+      "izumi-illustrator"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "romance",
+      "naisei",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "抜群の記憶力を持つ後宮の下働きの少女・茉莉花が、皇帝に才を見出され、女性初の官吏を目指していく。身分の低さをものともせず知恵と努力で成り上がっていく、中華風の立身出世ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "各種書誌情報サイト・出版社情報を参照(2026年8月時点、Wikipedia記事は未確認)。刊行開始(2017年7月)・既刊18巻程度・コミカライズ(月刊プリンセス)・テレビアニメ化決定を確認。出版レーベル「ビーズログ文庫」は既存出版社一覧の「角川ビーンズ文庫」とは別レーベルのため新規提案とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
