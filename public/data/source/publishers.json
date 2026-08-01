@@ -635,5 +635,15 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "dengeki-game-bunko",
+    "name": "電撃ゲーム文庫",
+    "nameKana": "でんげきげーむぶんこ",
+    "parentCompany": "KADOKAWA",
+    "description": "メディアワークス(後にKADOKAWA)がゲームのノベライズ作品向けに展開していた文庫レーベル。『高機動幻想ガンパレード・マーチ』小説版などを刊行。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

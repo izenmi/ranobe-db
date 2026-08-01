@@ -2774,5 +2774,61 @@
     "externalLinks": {},
     "sourceNote": "同上。カタカナ表記のペンネームのためnameKanaは省略。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akai-takami",
+    "name": "赤井孝美",
+    "nameKana": "あかいたかみ",
+    "description": "星界シリーズのイラストを一貫して担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤井孝美"
+    },
+    "sourceNote": "Wikipedia日本語版「星界の紋章」記事のInfoboxより確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kouji",
+    "name": "弘司",
+    "nameKana": "こうじ",
+    "description": "クレギオンの挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「クレギオン」記事より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "suzuki-masahisa",
+    "name": "鈴木雅久",
+    "nameKana": "すずきまさひさ",
+    "description": "『ARIEL』の挿絵・キャラクターデザインを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ARIEL(小説)」記事より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tarou2",
+    "name": "tarou2",
+    "nameKana": "たろうつー",
+    "description": "『ドウルマスターズ』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ドウルマスターズ」記事より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "green",
+    "name": "GreeN",
+    "nameKana": "ぐりーん",
+    "description": "『エンド・オブ・アルカディア』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイトを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kimura-junko",
+    "name": "きむらじゅんこ",
+    "nameKana": "きむらじゅんこ",
+    "description": "小説版『ガンパレード・マーチ』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

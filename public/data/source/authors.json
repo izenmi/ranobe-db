@@ -3202,5 +3202,74 @@
     "externalLinks": {},
     "sourceNote": "ビーズログ文庫公式サイト・各種書誌情報を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "morioka-hiroyuki",
+    "name": "森岡浩之",
+    "nameKana": "もりおかひろゆき",
+    "description": "「星界」シリーズで知られるSF作家。1992年デビュー。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森岡浩之"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年・経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nojiri-housuke",
+    "name": "野尻抱介",
+    "nameKana": "のじりほうすけ",
+    "description": "ハードSFを得意とするSF作家。ゲームのノベライズとしてクレギオンでデビュー。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野尻抱介"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年・経歴・デビュー作を確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "himana-tsubaki",
+    "name": "暇奈椿",
+    "nameKana": "ひまなつばき",
+    "description": "『クロックワーク・プラネット』を榎宮祐と共同執筆したライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「クロックワーク・プラネット」記事より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "aoi-yuujin",
+    "name": "蒼井祐人",
+    "nameKana": "あおいゆうじん",
+    "description": "第28回電撃小説大賞〈金賞〉受賞作家。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・KADOKAWA商品ページを参照(2026年8月時点)。日本語版Wikipedia記事は未確認のため出版社公式情報で代替。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hirosaki-yuui",
+    "name": "広崎悠意",
+    "nameKana": "ひろさきゆうい",
+    "description": "小説版『ガンパレード・マーチ』第1巻の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「高機動幻想ガンパレード・マーチ(小説)」記事より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sakaki-ryousuke",
+    "name": "榊涼介",
+    "nameKana": "さかきりょうすけ",
+    "description": "小説版『ガンパレード・マーチ』第2巻以降を14年にわたり執筆した作家。",
+    "externalLinks": {},
+    "sourceNote": "同上。既存著者「榊一郎(sakaki-ichirou)」とは別人であることを確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shibamura-yuuri",
+    "name": "芝村裕吏",
+    "nameKana": "しばむらゆうり",
+    "description": "小説版『ガンパレード・マーチ』第7巻などを執筆した作家。",
+    "externalLinks": {},
+    "sourceNote": "同上。既存著者「柴村仁(shibamura-jin)」とは別人(表記も異なる)であることを確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

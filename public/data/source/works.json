@@ -12625,5 +12625,308 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "seikai-no-monshou",
+    "title": "星界の紋章",
+    "titleKana": "せいかいのもんしょう",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "illustratorIds": [
+      "akai-takami"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "senki",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2005,
+    "status": "unknown",
+    "volumeCount": 12,
+    "synopsis": "人類の帝国アーヴと地球圏の対立が続く銀河を舞台に、征服された惑星出身の少年ジントは、皇帝の孫娘である少女パイロット、ラフィールと運命的に出会う。身分も価値観も異なる二人が絆を育みながら、宇宙艦隊同士の壮絶な戦いに身を投じていく本格宇宙SFの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 1997,
+        "result": "第28回日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星界の紋章"
+    },
+    "sourceNote": "Wikipedia日本語版(「星界シリーズ」記事)を参照(2026年8月時点)。1996年刊行開始、著者・イラストレーター・星雲賞受賞・アニメ化(WOWOW)・コミカライズを確認。出版社ハヤカワ文庫JAは既存出版社一覧に無いためnewPublisherProposalとして提案。シリーズは長期休止中で正式な完結宣言は未確認のためstatusはunknownとした。巻数は「星界の紋章」「星界の戦旗」「星界の断章」の合計12巻で算出。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kuregion",
+    "title": "クレギオン",
+    "titleKana": "くれぎおん",
+    "authorIds": [
+      "nojiri-housuke"
+    ],
+    "illustratorIds": [
+      "kouji"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "老朽貨物船アルフェッカ号を駆る運送屋の社長ロイドと、凄腕の女性パイロットのマージは、船の修理費を稼ぐため惑星ヴェイスを目指し危険な依頼を引き受ける。人類を意味する「クレギオン」という言葉を軸に、宇宙を股にかける荒くれ者たちとの駆け引きが軽妙な筆致で描かれる冒険譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クレギオン"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。当初は笹本祐一作と誤認していたが、実際の著者は野尻抱介、出版社は富士見ファンタジア文庫(全7巻、1992-1998年)であることを確認して訂正。アニメ化・コミカライズの記載は確認できなかったためfalseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "ariel",
+    "title": "ARIEL",
+    "titleKana": "アリエル",
+    "authorIds": [
+      "sasamoto-yuuichi"
+    ],
+    "illustratorIds": [
+      "suzuki-masahisa"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "謎の企業体ゲドー社による地球侵略を阻止するため、岸田博士が開発した女性型巨大ロボット・アリエル。3人の少女パイロットがこれに搭乗し、侵略者や未知の脅威と戦いを繰り広げる。ファーストコンタクトやタイムトラベルなど多彩なSF要素を盛り込んだ、朝日ソノラマを代表するロボットアクション作品。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 2005,
+        "result": "第36回日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ARIEL_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。1987-2006年刊行(本編20巻+番外2巻)、OVA化(1989-91年)、複数のコミカライズ、2005年星雲賞受賞を確認。出版社は妖精作戦と同じくnewPublisherProposalの朝日ソノラマ文庫を使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "clockwork-planet",
+    "title": "クロックワーク・プラネット",
+    "titleKana": "くろっくわーくぷらねっと",
+    "authorIds": [
+      "enomoto-yuu",
+      "himana-tsubaki"
+    ],
+    "illustratorIds": [
+      "ibarano"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2015,
+    "status": "unknown",
+    "volumeCount": 4,
+    "synopsis": "1000年前に滅亡の宣告を受けた地球は、たった一人の天才によって精巧な歯車仕掛けの世界へと再構築されていた。落ちこぼれの調律士・直人は、天から落ちてきた自動人形リューズと出会い、機械仕掛けの近未来東京に隠された世界の秘密と巨大な陰謀に巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2014,
+        "result": "新作部門13位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2014,
+        "result": "第3回6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロックワーク・プラネット"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2013年講談社ラノベ文庫より刊行開始、2017年TVアニメ化、月刊少年シリウスでのコミカライズ、各種ランキング受賞歴を確認。小説版は2015年12月の第4巻以降の続刊情報が記事に無く、完結宣言も確認できないためstatusはunknownとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "doll-masters",
+    "title": "ドウルマスターズ",
+    "titleKana": "どうるますたーず",
+    "authorIds": [
+      "satou-tsutomu"
+    ],
+    "illustratorIds": [
+      "tarou2"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "26世紀、限られた資源を巡り二大勢力「ポリス」と「オートン」が対立を続ける世界。特殊な精神力「シーマ」の適性者である少女サオトメ・アオイは、巨大兵器タイタニック・ドウルを操る戦士「エグザー」であることが判明し、姉と共に軍学校でパイロットとして戦う道を歩み始める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドウルマスターズ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2014年7月〜2018年2月、電撃文庫より全5巻刊行を確認。記事内に「出典不足」の注記があり、受賞歴・アニメ化・コミカライズの記載は無いためいずれもfalse/省略とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "end-of-arcadia",
+    "title": "エンド・オブ・アルカディア",
+    "titleKana": "えんど・おぶ・あるかでぃあ",
+    "authorIds": [
+      "aoi-yuujin"
+    ],
+    "illustratorIds": [
+      "green"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "senki",
+      "death-game"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "死んでも複製体として蘇る生命再生システム《アルカディア》を用い、少年少女兵士が最前線で戦い続ける近未来。合衆国軍のエース・秋人は、敵国のエリート少女フィリアと共に地中深くに孤立してしまう。反発しあう二人が地上を目指す中で、繰り返される死と再生の戦争の実態に迫っていく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2021,
+        "result": "第28回〈金賞〉"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・KADOKAWA商品ページ・電撃オンライン記事を参照(2026年8月時点、日本語版Wikipedia記事は未確認のため代替情報源を使用)。第28回電撃小説大賞〈金賞〉受賞、2022年3月〜2023年2月に全3巻刊行、三崎ユウキによるコミカライズを確認。アニメ化情報は確認できずfalseとした。イラストレーターGreeNの読み仮名は一般的な読みを採用(公式表記でのふりがな明記は未確認)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "gunparade-march",
+    "title": "高機動幻想ガンパレード・マーチ",
+    "titleKana": "こうきどうげんそうがんぱれーど・まーち",
+    "authorIds": [
+      "hirosaki-yuui",
+      "sakaki-ryousuke",
+      "shibamura-yuuri"
+    ],
+    "illustratorIds": [
+      "kimura-junko"
+    ],
+    "publisherId": "dengeki-game-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "senki",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 45,
+    "synopsis": "1945年に出現した謎の生命体「幻獣」との戦いが続く日本。熊本の高校に通う少年少女たちは、昼は学生、放課後は人型戦車「士魂号」を駆る兵士という二重生活を送る。生き残ることさえ困難な絶望的状況の中、仲間との絆や恋愛模様が交錯する、人気PSゲームを原作とする大河ノベライズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高機動幻想ガンパレード・マーチ"
+    },
+    "sourceNote": "Wikipedia日本語版(「高機動幻想ガンパレード・マーチ」および同(小説)記事)を参照(2026年8月時点)。原作はPS用ゲームだが、小説版は2000〜2015年に全45巻という異例の規模で刊行され独自の展開を含む点を確認。2003年TVアニメ化、複数のコミカライズを確認。出版社の電撃ゲーム文庫は既存出版社一覧に無いためnewPublisherProposalとして提案。ゲーム原作のノベライズである点に留意。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "dirty-pair",
+    "title": "ダーティペア",
+    "titleKana": "だーてぃぺあ",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "illustratorIds": [
+      "yasuhiko-yoshikazu"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "22世紀の銀河系で、世界福祉事業協会のトラブルコンサルタントとして活動する美少女コンビ、ケイとユリ。自らを「ラブリーエンジェルズ」と称する二人だが、依頼を解決するたびに周辺一帯を壊滅させてしまうため、人々からは恐れを込めて「ダーティペア」と呼ばれている。破天荒などたばた活劇SFの代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 1980,
+        "result": "第11回日本短編部門受賞(『ダーティペアの大冒険』)"
+      },
+      {
+        "awardId": "seiun-sho",
+        "year": 1986,
+        "result": "第17回日本長編部門受賞(『ダーティペアの大逆転』)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダーティペア"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。1980年ハヤカワ文庫より刊行開始、全9巻(本編8巻+外伝1巻)、1985年TVアニメ化・OVA/劇場版展開、複数のコミカライズ、星雲賞2度受賞(1980年・1986年)を著者ページ記事とあわせて確認。出版社は星界の紋章と同じくnewPublisherProposalのハヤカワ文庫JAを使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
