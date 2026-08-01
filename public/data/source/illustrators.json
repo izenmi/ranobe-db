@@ -2417,5 +2417,86 @@
     "externalLinks": {},
     "sourceNote": "書誌情報(ガガガ文庫公式・BOOK☆WALKER)より確認。詳細プロフィールは未確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yasumo",
+    "name": "やすも",
+    "nameKana": "やすも",
+    "description": "「異世界のんびり農家」の書籍版イラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「異世界のんびり農家」記事より確認(2026年8月時点)。個人経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ouka",
+    "name": "オウカ",
+    "nameKana": "おうか",
+    "description": "「異世界でスローライフを(願望)」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「シゲ」の記事より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ten-illustrator",
+    "name": "転",
+    "nameKana": "てん",
+    "description": "「異世界居酒屋『のぶ』」の小説版イラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「異世界居酒屋『のぶ』」の記事より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sukima",
+    "name": "すきま",
+    "nameKana": "すきま",
+    "description": "「ポーション頼みで生き延びます!」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。個人経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yamakawa",
+    "name": "やまかわ",
+    "nameKana": "やまかわ",
+    "description": "「異世界ゆるり紀行」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yoshitake",
+    "name": "吉武",
+    "nameKana": "よしたけ",
+    "description": "「名湯『異世界の湯』開拓記」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "abeno-chako",
+    "name": "阿倍野ちゃこ",
+    "nameKana": "あべのちゃこ",
+    "description": "「転生して田舎でスローライフをおくりたい」の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "ピクシブ百科事典掲載情報より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuroi-susumu",
+    "name": "黒井ススム",
+    "nameKana": "くろいすすむ",
+    "description": "「素材採取家の異世界旅行記」書籍版の挿絵を担当するイラストレーター(第7巻以降)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。イラストレーターは巻によって海島千本→オンダカツキ→黒井ススムと交代しており、現行担当者を記録。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "matsu-uni",
+    "name": "松うに",
+    "nameKana": "まつうに",
+    "description": "「チート薬師のスローライフ」(ブレイブ文庫版)の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。版元により担当イラストレーターが異なる(庄司二号/松うに)ため、主流のブレイブ文庫版を記録。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -11102,5 +11102,350 @@
     },
     "sourceNote": "Wikipedia日本語版(著者記事)および書誌情報サイトを参照(2026年8月時点)。2017年5月刊行開始、2019年2月に第5巻まで確認。完結状況・メディアミックス情報は明記が見つからず、statusはunknown、mediaMixは省略とした。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "isekai-no-nonbiri-nouka",
+    "title": "異世界のんびり農家",
+    "titleKana": "いせかいのんびりのうか",
+    "authorIds": [
+      "naitou-kinosuke"
+    ],
+    "illustratorIds": [
+      "yasumo"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "naisei",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "病で亡くなった39歳の男性が神によって蘇生され、死の森と呼ばれる危険な土地に転移する。万能農具を授かった彼は農業を始め、凶暴な魔物や亜人たちを次々と家族のように迎え入れながら、争いを避けて豊かな畑と穏やかな暮らしを築いていく異世界開拓譚。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界のんびり農家"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。Web版2016年12月開始、書籍版2017年10月刊行開始、2026年4月現在21巻、テレビアニメ第1期2023年・第2期2026年放送を確認。受賞歴の記載は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-de-slow-life-wo-ganbou",
+    "title": "異世界でスローライフを(願望)",
+    "titleKana": "いせかいですろーらいふをがんぼう",
+    "authorIds": [
+      "shige"
+    ],
+    "illustratorIds": [
+      "ouka"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "comedy",
+      "naisei"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "スローライフに憧れる青年が異世界に転生し、辺境の村でのんびりとした暮らしを望む。しかし持ち前の能力の高さゆえに周囲から頼られ、村おこしや商売にまで巻き込まれていく、平穏を望みながらも忙しくなっていく異世界生活コメディ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シゲ"
+    },
+    "sourceNote": "Wikipedia日本語版「シゲ」の記事を参照(2026年8月時点)。書籍版2018年3月刊行開始、既刊12巻(2024年8月時点)、コミカライズありを確認。アニメ化の記載は確認できず(未アニメ化とみて記録)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-izakaya-nobu",
+    "title": "異世界居酒屋「のぶ」",
+    "titleKana": "いせかいいざかやのぶ",
+    "authorIds": [
+      "semikawa-natsuya"
+    ],
+    "illustratorIds": [
+      "ten-illustrator"
+    ],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "gourmet",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "中世ヨーロッパ風の異世界アイテーリアの路地裏に、なぜか京都の商店街と繋がる扉を持つ居酒屋「のぶ」がある。大将としのぶが振る舞う和食に、冒険者や貴族といった異世界の客たちが舌鼓を打つ、料理と人情を軸にした異世界お仕事グルメ物語。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2014,
+        "result": "大賞(第2回エリュシオンライトノベルコンテスト、現ネット小説大賞の前身)"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界居酒屋「のぶ」"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「小説家になろう」2012年10月連載開始、宝島社文庫より2014年9月書籍化、第2回エリュシオンライトノベルコンテスト(現ネット小説大賞の前身)受賞、Webアニメ化(2018年)・複数コミカライズを確認。受賞年は2013〜2014年頃と推定(正確な授賞年は複数の情報源で確認できず)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "fukushokushi-lucia-wa-akiramenai",
+    "title": "服飾師ルチアはあきらめない〜今日から始める幸服計画〜",
+    "titleKana": "ふくしょくしるちあはあきらめない",
+    "authorIds": [
+      "amagishi-hisaya"
+    ],
+    "illustratorIds": [
+      "amaichi-esora",
+      "kei-madougushi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "shigoto",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "「魔導具師ダリヤはうつむかない」の登場人物ルチアを主人公にしたスピンオフ。家族と営むファーノ工房で服飾業に励むルチアが、五本指靴下の大口注文をきっかけに副工房長へ任命され、商売と職人仲間との絆を深めながら成長していく異世界お仕事物語。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「魔導具師ダリヤはうつむかない」記事内のスピンオフ紹介およびBOOK☆WALKER掲載情報を参照(2026年8月時点)。本編アニメは2024年放送済みだがルチア単独のアニメ化は無し。既刊3巻(2023年12月時点)以降の巻数は未確認。Web小説発かどうかは書き下ろしの可能性が高く未確認のためwebNovelSource省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "potion-tanomi-de-ikinobimasu",
+    "title": "ポーション頼みで生き延びます!",
+    "titleKana": "ぽーしょんたのみでいきのびます",
+    "authorIds": [
+      "funa"
+    ],
+    "illustratorIds": [
+      "sukima"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "世界管理者の手違いで肉体を失った少女カオルは、文明の遅れた世界で少し若返った体と、望み通りの効能を持つポーションを自在に作れる能力、アイテムボックス等を得て転生する。得意のポーション作りを生かして薬を商いながら、無理せず安定した生活を築いていく異世界スローライフ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポーション頼みで生き延びます!"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「小説家になろう」2015年11月連載開始、Kラノベブックスより2017年6月書籍化、テレビアニメ2023年10〜12月放送、コミカライズ(週刊水曜日のシリウス)を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-yururi-kikou",
+    "title": "異世界ゆるり紀行〜子育てしながら冒険者します〜",
+    "titleKana": "いせかいゆるりきこうこそだてしながらぼうけんしゃします",
+    "authorIds": [
+      "minazuki-shizuru"
+    ],
+    "illustratorIds": [
+      "yamakawa"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "異世界に転生した青年が、行き倒れていた幼い姉妹を拾い育てることになる。冒険者として活動しながらも子育てを最優先にし、無理のない範囲でのんびりと依頼をこなしていく、家族の情愛と異世界の穏やかな日常を描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界ゆるり紀行_〜子育てしながら冒険者します〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「アルファポリス」2016年6月連載開始、書籍版2017年4月刊行開始、テレビアニメ2024年7〜9月放送を確認。掲載元がアルファポリスでnarou/kakuyomu以外のためwebNovelSourceは省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "meiyu-isekai-no-yu-kaitakuki",
+    "title": "名湯『異世界の湯』開拓記〜アラフォー温泉マニアの転生先は、のんびり温泉天国でした〜",
+    "titleKana": "めいとういせかいのゆかいたくき",
+    "authorIds": [
+      "watanaki-konao"
+    ],
+    "illustratorIds": [
+      "yoshitake"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "温泉をこよなく愛する35歳男性が転落死し、「死の泉」として忌み嫌われる温泉が存在する異世界に転生する。お稲荷様の使いと共に、危険視される温泉の効能や魅力を伝え、湯治場として開拓していく、のんびりとした異世界温泉ビジネス物語。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名湯『異世界の湯』開拓記_〜アラフォー温泉マニアの転生先は、のんびり温泉天国でした〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「ノベルアップ+」2019年9月連載開始、HJノベルスより2021年8月書籍化、既刊3巻(2022年8月時点、以降未確認)、コミカライズ・5分枠テレビアニメ(2024年1〜3月)を確認。掲載元がnarou/kakuyomu以外のためwebNovelSourceは省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tensei-shite-inaka-de-slow-life-wo-okuritai",
+    "title": "転生して田舎でスローライフをおくりたい",
+    "titleKana": "てんせいしていなかですろーらいふをおくりたい",
+    "authorIds": [
+      "renkinou"
+    ],
+    "illustratorIds": [
+      "abeno-chako"
+    ],
+    "publisherId": "kono-light-novel-ga-sugoi-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "過労死した会社員が、田舎の貴族家の次男アルフリート=スロウレットとして異世界に転生する。もう働きすぎたくないという思いから、領地経営や品種改良、商会運営に手を出しつつも、あくまで平和でのんびりとした暮らしを追い求める異世界スローライフ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "ピクシブ百科事典・BOOK☆WALKER掲載情報を参照(2026年8月時点、日本語版Wikipedia単独記事は未確認のためwikipediaUrl省略)。「小説家になろう」2015年11月連載開始、このライトノベルがすごい!文庫より書籍化、既刊16巻、コミカライズ(このマンガがすごい!comics)を確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "sozai-saishuka-no-isekai-ryokouki",
+    "title": "素材採取家の異世界旅行記",
+    "titleKana": "そざいさいしゅかのいせかいりょこうき",
+    "authorIds": [
+      "kinoko-masuo"
+    ],
+    "illustratorIds": [
+      "kuroi-susumu"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "異世界に転移した青年が、戦闘よりも素材採取や料理などの生産活動を好み、各地を旅しながらのんびりと暮らしていく。強大な戦闘力を隠しつつ、気の合う仲間たちと採取生活を満喫する、争いを避けたマイペースな異世界旅行譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/素材採取家の異世界旅行記"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「アルファポリス」2016年7月連載開始(なろうではない)、書籍版2017年1月刊行、17巻で完結、テレビアニメ2025年10〜12月放送を確認。第9回ファンタジー小説大賞受賞は既存アワード一覧に該当項目が無いため記録せず。掲載元がnarou/kakuyomu以外のためwebNovelSourceは省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "cheat-kusushi-no-slow-life",
+    "title": "チート薬師のスローライフ〜異世界に作ろうドラッグストア〜",
+    "titleKana": "ちーとくすしのすろーらいふいせかいにつくろうどらっぐすとあ",
+    "authorIds": [
+      "kennoji"
+    ],
+    "illustratorIds": [
+      "matsu-uni"
+    ],
+    "publisherId": "brave-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "naisei",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "異世界に転移したサラリーマンが「鑑定」と「創薬」のスキルを手に入れる。傷ついた狼獣人の少女を助けたことをきっかけに、田舎町でドラッグストア「キリオドラッグ」を開業し、仲間たちと共に薬作りを通じて商売を軌道に乗せていく異世界お仕事スローライフ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チート薬師のスローライフ〜異世界に作ろうドラッグストア〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。「小説家になろう」2016年連載開始、ブレイブ文庫(一二三書房)版で既刊8巻完結(2023年)、テレビアニメ2021年放送・コミカライズ(竹書房)を確認。出版社ブレイブ文庫は既存レーベル一覧に無いためnewPublisherProposalとして提案。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

@@ -2800,5 +2800,91 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年は非公開。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "naitou-kinosuke",
+    "name": "内藤騎之介",
+    "nameKana": "ないとうきのすけ",
+    "description": "「小説家になろう」出身の作家。異世界スローライフ・農業ファンタジーの代表格を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界のんびり農家"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界のんびり農家」の記事内著者情報を参照(2026年8月時点)。個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shige",
+    "name": "シゲ",
+    "nameKana": "しげ",
+    "description": "「小説家になろう」発の作家。異世界転生スローライフ作品「異世界でスローライフを(願望)」で書籍デビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シゲ"
+    },
+    "sourceNote": "Wikipedia日本語版「シゲ」の記事を参照(2026年8月時点)。生年等の個人情報記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "semikawa-natsuya",
+    "name": "蝉川夏哉",
+    "nameKana": "せんかわなつや",
+    "description": "1983年大阪府生まれ。「小説家になろう」出身で、異世界と現代日本をつなぐ居酒屋を描く「異世界居酒屋『のぶ』」で作家デビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蝉川夏哉"
+    },
+    "sourceNote": "Wikipedia日本語版「蝉川夏哉」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "minazuki-shizuru",
+    "name": "水無月静琉",
+    "nameKana": "みなづきしずる",
+    "description": "「アルファポリス」出身の作家。子育てと冒険を両立する異世界スローライフ「異世界ゆるり紀行」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水無月静琉"
+    },
+    "sourceNote": "Wikipedia日本語版「水無月静琉」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "watanaki-konao",
+    "name": "綿涙粉緒",
+    "nameKana": "わたなきこなお",
+    "description": "Web小説投稿サイト「ノベルアップ+」出身の作家。温泉開拓をテーマにした異世界スローライフ「名湯『異世界の湯』開拓記」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名湯『異世界の湯』開拓記_〜アラフォー温泉マニアの転生先は、のんびり温泉天国でした〜"
+    },
+    "sourceNote": "Wikipedia日本語版の作品記事より確認(2026年8月時点)。個人のWikipedia記事は無く、読み仮名は同記事の記述に基づく。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "renkinou",
+    "name": "錬金王",
+    "nameKana": "れんきんおう",
+    "description": "「小説家になろう」出身の作家。過労死した社畜が田舎貴族に転生する「転生して田舎でスローライフをおくりたい」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "ピクシブ百科事典・BOOK☆WALKER掲載情報を参照(2026年8月時点)。日本語版Wikipediaに単独記事は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kinoko-masuo",
+    "name": "木乃子増緒",
+    "nameKana": "きのこますお",
+    "description": "「アルファポリス」出身の作家。第9回ファンタジー小説大賞で大賞・読者賞をダブル受賞した「素材採取家の異世界旅行記」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/素材採取家の異世界旅行記"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kennoji",
+    "name": "ケンノジ",
+    "nameKana": "けんのじ",
+    "description": "「小説家になろう」出身の作家。異世界でドラッグストアを開業する「チート薬師のスローライフ」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チート薬師のスローライフ〜異世界に作ろうドラッグストア〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
