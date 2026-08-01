@@ -8218,5 +8218,317 @@
       "anime": true,
       "comic": false
     }
+  },
+  {
+    "id": "bakemonogatari",
+    "title": "化物語",
+    "titleKana": "ばけものがたり",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "vofan"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "harem"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "高校生・阿良々木暦は、奇妙な怪異に憑かれた少女たちと出会う。吸血鬼騒動を経て人間に戻った暦のもとに、蟹の怪異に憑かれた戦場ヶ原ひたぎをはじめ様々な怪異に悩む同級生が現れ、独特の言葉遊びと対話劇を通じて怪異の謎と彼女たちの心の傷が解きほぐされていく連作短編集。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/化物語"
+    },
+    "sourceNote": "Wikipedia日本語版「化物語」を参照(2026年8月時点)。講談社BOXレーベルの大判イラスト付き小説。2009年にシャフト制作でアニメ化(全15話)。イラストレーターVOFANは既存収録『掟上今日子の備忘録』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "knights-and-magic",
+    "title": "ナイツ&マジック",
+    "titleKana": "ないつあんどまじっく",
+    "authorIds": [
+      "amazake-no-hisago"
+    ],
+    "illustratorIds": [
+      "kurogane"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "robot-mecha"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "交通事故で命を落としたロボットオタクのプログラマーが、剣と魔法の異世界に少年エルネストとして転生。この世界には巨大人型兵器「幻晶騎士」が存在し、前世の知識を活かして機体開発に没頭する主人公が、仲間と共に新技術を生み出しながら王国の危機に立ち向かう転生ロボット活劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ナイツ&マジック"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。ヒーロー文庫刊。2017年にテレビアニメ化(全12話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "tensei-oujo-to-tensai-reijou-no-mahou-kakumei",
+    "title": "転生王女と天才令嬢の魔法革命",
+    "titleKana": "てんせいおうじょとてんさいれいじょうのまほうかくめい",
+    "authorIds": [
+      "karasu-piero"
+    ],
+    "illustratorIds": [
+      "kisaragi-yuri"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-tensei",
+      "yuri",
+      "mahou"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "魔法適性を持たずに生まれた王女アニスフィアは、城を出て魔法を工学的に解き明かす「魔法科学」の研究に没頭していた。弟の婚約者で完璧な天才魔法使いユフィリアと出会った二人は互いの才能を認め合い、王国の常識を覆す発明と友情を育んでいく百合ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生王女と天才令嬢の魔法革命"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。富士見ファンタジア文庫刊。2023年にテレビアニメ化(全12話)。全14巻(本編13巻+短編集1巻)で完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-yakkyoku",
+    "title": "異世界薬局",
+    "titleKana": "いせかいやっきょく",
+    "authorIds": [
+      "takayama-rizu"
+    ],
+    "illustratorIds": [
+      "keepout"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "過労死した製薬会社の研究者が、異世界の宮廷薬師見習いファルマに転生。前世の薬学知識と魔法を組み合わせ、身分に関係なく誰もが安全な薬を受けられる社会を目指し、病に苦しむ人々を救いながら異世界の医療を変えていく物語。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界薬局"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。MFブックス刊。2022年にテレビアニメ化(全12話)。著者高山理図の単独Wikipedia記事は未確認、作品ページの情報を基に記載。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tondemo-skill-de-isekai-hourou-meshi",
+    "title": "とんでもスキルで異世界放浪メシ",
+    "titleKana": "とんでもすきるでいせかいほうろうめし",
+    "authorIds": [
+      "eguchi-ren"
+    ],
+    "illustratorIds": [
+      "miyabi-tondemo"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "勇者召喚に巻き込まれ異世界へ渡ったサラリーマン・ムコウダは、戦闘力を持たない代わりに現代の食材が買える固有スキル「ネットスーパー」を授かる。作った料理の匂いに誘われたフェンリルなどの魔獣たちと次々に従魔契約を結び、のんびり気ままな旅を続けるグルメ系異世界ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とんでもスキルで異世界放浪メシ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。オーバーラップノベルス刊。MAPPA制作でテレビアニメ化(第1期2023年、第2期2025年)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi",
+    "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
+    "titleKana": "けいけんずみなきみと、けいけんぜろなおれが、おつきあいするはなし。",
+    "authorIds": [
+      "nagaoka-makiko"
+    ],
+    "illustratorIds": [
+      "magako"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "罰ゲームで学年一の人気者・白河月愛に告白した陰キャ男子・加島龍斗。断られる覚悟だったが交際はまさかの成立。恋愛経験ゼロの龍斗と経験豊富な月愛、価値観の異なる二人が誤解とすれ違いを重ねながら距離を縮めていく等身大の青春ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/経験済みなキミと、経験ゼロなオレが、お付き合いする話。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。富士見ファンタジア文庫刊。2023年にテレビアニメ化(全12話)。2025年3月に全11巻で完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shounen-onmyouji",
+    "title": "少年陰陽師",
+    "titleKana": "しょうねんおんみょうじ",
+    "authorIds": [
+      "yuuki-mitsuru"
+    ],
+    "illustratorIds": [
+      "asagi-sakura"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 46,
+    "synopsis": "平安の都で、伝説の陰陽師・安倍晴明の孫として生まれた少年安倍昌浩。強大な霊力を受け継ぎながらも半人前扱いされる昌浩は、相棒の物の怪「もっくん」や幼なじみと共に都を脅かす怪異や陰謀に立ち向かい、真の陰陽師を目指して成長していく和風伝奇ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少年陰陽師"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。角川ビーンズ文庫刊、2001年開始の長期連載シリーズ(確認できた範囲で本編46巻+短編・外伝多数、それ以降増巻の可能性あり)。2006年にテレビアニメ化(全26話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shuumatsu-nani-shitemasuka",
+    "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
+    "titleKana": "しゅうまつなにしてますか？いそがしいですか？すくってもらっていいですか？",
+    "authorIds": [
+      "kareno-akira"
+    ],
+    "illustratorIds": [
+      "ue"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "post-apocalypse",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "世界が滅びてから526年、空に浮かぶ大陸群では「妖精兵」と呼ばれる少女たちが怪物と戦い続けている。最後の人類ヴィレムは妖精倉庫の管理人となり、記憶を持たない少女クトリと出会う。救われることと救うことの意味を静かに問いかける終末ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2016,
+        "result": "作品部門5位・新作部門2位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/終末なにしてますか？_忙しいですか？_救ってもらっていいですか？"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(正式タイトルをWikipedia API検索で特定、2026年8月時点)。角川スニーカー文庫刊。2017年にテレビアニメ化(全12話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "world-teacher-isekai-shiki-kyouiku-agent",
+    "title": "ワールド・ティーチャー 異世界式教育エージェント",
+    "titleKana": "わーるど・てぃーちゃー いせかいしききょういくえーじぇんと",
+    "authorIds": [
+      "neko-kouichi"
+    ],
+    "illustratorIds": [
+      "nardack"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "gakuen",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "かつて世界最強と謳われたエージェント、シリウス。仲間を守るため命を落とした彼は、剣と魔法の世界に転生し、前世でやり残した「後継者育成」を志す。教師として弟子たちと向き合いながら、規格外の実力で世界に波紋を広げていく異世界転生教育ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ワールド・ティーチャー -異世界式教育エージェント-」を参照(2026年8月時点)。オーバーラップ文庫刊。小説版全16巻。漫画版はコミックガルドにて連載中。アニメ化情報は確認できず false とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
+    "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
+    "titleKana": "ぼうけんしゃになりたいとみやこにでていったむすめがえすらんくになってた",
+    "authorIds": [
+      "monji-kakiya"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "辺境で隠居する元Sランク冒険者ベルグリフのもとに、冒険者を志して旅立った娘アンジェリンが数年ぶりに帰郷する。気づけば国内最高位のSランクにまで上り詰めていた娘の成長に驚きながら、親子や仲間たちの絆を温かく描く冒険者ファンタジー。異世界転生ではなく独自の異世界を舞台にした作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/冒険者になりたいと都に出て行った娘がSランクになってた"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。アース・スターノベル刊。2023年にテレビアニメ化(全12話)。転生設定のない異世界ファンタジー。イラストレーターtoi8は既存収録作品と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
