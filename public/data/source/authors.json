@@ -1350,5 +1350,86 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kobayashi-kotei",
+    "name": "小林湖底",
+    "nameKana": "こばやしこてい",
+    "description": "GA文庫大賞出身のライトノベル作家。「ひきこまり吸血姫の悶々」シリーズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "satou-masato",
+    "name": "佐藤真登",
+    "nameKana": "さとうまさと",
+    "description": "GA文庫大賞大賞受賞作家。「処刑少女の生きる道」で商業デビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "usa-naraharu",
+    "name": "宇佐楢春",
+    "nameKana": "うさならはる",
+    "description": "GA文庫大賞金賞受賞作家。「忘れえぬ魔女の物語」でデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mizusawa-yume",
+    "name": "水沢夢",
+    "nameKana": "みずさわゆめ",
+    "description": "ガガガ文庫を代表する作家の一人。「俺、ツインテールになります。」でデビュー。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akagi-taikuu",
+    "name": "赤城大空",
+    "nameKana": "あかぎたいくう",
+    "description": "小学館ライトノベル大賞出身の作家。「下ネタという概念が存在しない退屈な世界」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yume-author",
+    "name": "裕夢",
+    "nameKana": "ゆめ",
+    "description": "ガガガ文庫の作家。「千歳くんはラムネ瓶のなか」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hachimoku-mei",
+    "name": "八目迷",
+    "nameKana": "はちもくめい",
+    "description": "小学館ライトノベル大賞出身の作家。「夏へのトンネル、さよならの出口」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amamori-takibi",
+    "name": "雨森たきび",
+    "nameKana": "あまもりたきび",
+    "description": "小学館ライトノベル大賞ガガガ賞受賞作家。「負けヒロインが多すぎる!」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiratori-shirou",
+    "name": "白鳥士郎",
+    "nameKana": "しらとりしろう",
+    "description": "GA文庫の作家。将棋を題材にした「りゅうおうのおしごと!」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

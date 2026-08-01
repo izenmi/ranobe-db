@@ -5379,5 +5379,476 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "hikikomari-kyuuketsuki-no-monmon",
+    "title": "ひきこまり吸血姫の悶々",
+    "titleKana": "ひきこまりきゅうけつきのもんもん",
+    "authorIds": [
+      "kobayashi-kotei"
+    ],
+    "illustratorIds": [
+      "riichu"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "battle-action",
+      "comedy",
+      "senki",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "いじめによる三年間の引きこもり生活から抜け出せない吸血鬼の少女テラコマリは、父の策略により軍の将軍に据えられてしまう。血を吸うことも戦うことも大の苦手だが、はったりと強運、そして忖度した部下たちの暴走によって「常勝の覇者」という虚像だけが独り歩きする。本当は穏やかに暮らしたいだけの少女が、テロ組織や他国の脅威に巻き込まれながら、部下との絆を通じて少しずつ自分の居場所を見つけていく異世界戦記コメディ。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2019,
+        "result": "第11回GA文庫大賞 優秀賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "文庫部門28位・新作部門17位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひきこまり吸血姫の悶々"
+    },
+    "sourceNote": "Wikipedia日本語版「ひきこまり吸血姫の悶々」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2023年10-12月、全12話)、コミカライズ(月刊ビッグガンガン、全4巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shokei-shoujo-no-ikiru-michi",
+    "title": "処刑少女の生きる道",
+    "titleKana": "しょけいしょうじょのいきるみち",
+    "authorIds": [
+      "satou-masato"
+    ],
+    "illustratorIds": [
+      "niritsu"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "battle-action",
+      "mystery",
+      "time-travel"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "かつて世界を滅ぼしかけた「純粋概念」の力を宿す者は、処刑人によって密かに始末される運命にある。任務でその一人である少女アカリに接触した処刑人メノウは、彼女が時間を巻き戻す力で不死身であることを知る。処刑対象であることを隠したまま旅を共にする中で、メノウは自らの過去や譲れない信念と向き合っていく。少女二人の危うい旅を描くダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2019,
+        "result": "第11回GA文庫大賞 大賞"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "文庫部門6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/処刑少女の生きる道"
+    },
+    "sourceNote": "Wikipedia日本語版「処刑少女の生きる道」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2022年4-6月、全12話)、コミカライズ(ヤングガンガン、全7巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "wasureenu-majo-no-monogatari",
+    "title": "忘れえぬ魔女の物語",
+    "titleKana": "わすれえぬまじょのものがたり",
+    "authorIds": [
+      "usa-naraharu"
+    ],
+    "illustratorIds": [
+      "kamomen"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "yuri",
+      "time-travel",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "高校生の相沢綾香は、一日が数回にわたってランダムに繰り返されるという奇妙な体質を抱え、人と深く関わることを諦めていた。入学式の日、毎回変わらず声をかけてくる同級生の稲葉未散と出会ったことで、繰り返される時間の中にも少しずつ確かな絆が育っていく。忘れてしまう毎日の中で、それでも誰かを想う気持ちの尊さを描く百合ジュブナイル。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2021,
+        "result": "第12回GA文庫大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/忘れえぬ魔女の物語"
+    },
+    "sourceNote": "Wikipedia日本語版「忘れえぬ魔女の物語」を参照し独自に要約(2026年8月時点)。コミカライズ(マンガUP!、全4巻)あり。小説版は2021年4月の第2巻以降続報の記載がなく、完結状況は本文からは断定できないためunknownとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ore-twintail-ni-narimasu",
+    "title": "俺、ツインテールになります。",
+    "titleKana": "おれ、ついんてーるになります。",
+    "authorIds": [
+      "mizusawa-yume"
+    ],
+    "illustratorIds": [
+      "kasuga-ayumi"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "comedy",
+      "harem",
+      "sf"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "ツインテールをこよなく愛する高校生・観束総二は、異世界からやってきた美少女トゥアールから力を託され、ツインテールの戦士「テイルレッド」に変身することになる。人類の\"属性力\"を狙う怪物エレメリアンの侵略に対し、幼馴染や生徒会長らとともに立ち向かう変身ヒーロー活劇。ツインテール愛を貫くギャグと熱いバトルが同居するドタバタコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2011,
+        "result": "第6回小学館ライトノベル大賞 ガガガ文庫部門 審査員特別賞"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2016,
+        "result": "文庫部門7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺、ツインテールになります。"
+    },
+    "sourceNote": "Wikipedia日本語版「俺、ツインテールになります。」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2014年10-12月、全12話)、コミカライズ(月刊ビッグガンガン、全2巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+    "title": "下ネタという概念が存在しない退屈な世界",
+    "titleKana": "しもねたというがいねんがそんざいしないたいくつなせかい",
+    "authorIds": [
+      "akagi-taikuu"
+    ],
+    "illustratorIds": [
+      "shimotsuki-eito"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "sf",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "法律により下ネタという概念そのものが消滅した日本を舞台に、風紀優良校に進学した高校生・奥間狸吉が、下ネタ撲滅組織「SOX」の副会長・華城綾女に弱みを握られ、彼女とともにテロ活動に身を投じていく。性を語ることすら許されない管理社会への反抗を、学園コメディとブラックなディストピアSFとして描いた異色作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2011,
+        "result": "第6回小学館ライトノベル大賞 ガガガ文庫部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/下ネタという概念が存在しない退屈な世界"
+    },
+    "sourceNote": "Wikipedia日本語版「下ネタという概念が存在しない退屈な世界」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2015年7-9月)、コミカライズ(月刊コミックブレイド/月刊コミックガーデン)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "chitose-kun-wa-ramune-bin-no-naka",
+    "title": "千歳くんはラムネ瓶のなか",
+    "titleKana": "ちとせくんはらむねびんのなか",
+    "authorIds": [
+      "yume-author"
+    ],
+    "illustratorIds": [
+      "raemz"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "福井の進学校でスクールカーストの頂点に立つリア充高校生・千歳朔が、ひきこもりの元同級生や、それぞれ事情を抱えたクラスの女子たちと関わっていく連作短編集。かつて手が届きそうで届かなかった「ラムネ瓶の中のビー玉」のような淡い想いをすくい上げながら、青春の眩しさと痛みを丁寧に描き出す学園群像劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2018,
+        "result": "第13回小学館ライトノベル大賞 優秀賞"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "文庫部門2位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "文庫部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "文庫部門1位(2連覇)"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "文庫部門2位(殿堂入り)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/千歳くんはラムネ瓶のなか"
+    },
+    "sourceNote": "Wikipedia日本語版「千歳くんはラムネ瓶のなか」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2025年10月-、第2クール2026年10月予定)、コミカライズ(スクウェア・エニックス、全8巻完結)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "natsu-eno-tunnel-sayonara-no-deguchi",
+    "title": "夏へのトンネル、さよならの出口",
+    "titleKana": "なつへのとんねる、さよならのでぐち",
+    "authorIds": [
+      "hachimoku-mei"
+    ],
+    "illustratorIds": [
+      "kukka"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sf",
+      "time-travel",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "妹を事故で失った悲しみから逃れられない高校生・塔野カオルは、望むものと引き換えに歳を取るという都市伝説「ウラシマトンネル」を見つけてしまう。転校生の花城あんずと共にトンネルの謎を追ううち、二人はそれぞれが抱える喪失と、これから望む未来について向き合っていく。時間と代償をめぐる切ないひと夏の青春譚。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2018,
+        "result": "第13回小学館ライトノベル大賞 ガガガ賞・審査員特別賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "文庫部門9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏へのトンネル、さよならの出口"
+    },
+    "sourceNote": "Wikipedia日本語版「夏へのトンネル、さよならの出口」を参照し独自に要約(2026年8月時点)。2022年9月に劇場アニメ映画公開(TVアニメ化はなし)。コミカライズ(『群青』月刊サンデーGX、2020-2021年連載)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "make-heroine-ga-oosugiru",
+    "title": "負けヒロインが多すぎる!",
+    "titleKana": "まけひろいんがおおすぎる",
+    "authorIds": [
+      "amamori-takibi"
+    ],
+    "illustratorIds": [
+      "imigimuru"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "comedy",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "自分を「背景キャラ」だと思い込んでいる高校生・温水和彦は、クラスの人気者・八奈見杏菜が告白に失敗する場面を目撃してしまう。以来、恋に敗れた「負けヒロイン」たちと次々に関わることになった和彦の、地味だがままならない高校生活が始まる。勝ち負けでは測れない恋と青春のかたちを描く、豊橋を舞台にしたラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2020,
+        "result": "第15回小学館ライトノベル大賞 ガガガ賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "文庫部門1位"
+      },
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2021,
+        "result": "総合部門14位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/負けヒロインが多すぎる!"
+    },
+    "sourceNote": "Wikipedia日本語版「負けヒロインが多すぎる!」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(第1期2024年7-9月、第2期2025年製作決定)、コミカライズ(マンガワン/裏サンデー、既刊5巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "ryuuou-no-oshigoto",
+    "title": "りゅうおうのおしごと!",
+    "titleKana": "りゅうおうのおしごと",
+    "authorIds": [
+      "shiratori-shirou"
+    ],
+    "illustratorIds": [
+      "shirabi"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "shigoto",
+      "sports",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "十六歳で将棋の最高峰タイトル「竜王」を奪取した天才棋士・九頭竜八一は、その代償として深刻なスランプに陥ってしまう。ある日、彼のもとに押しかけてきた少女・雛鶴あいを内弟子として迎えたことをきっかけに、師弟の絆や女流棋士たちの奮闘を通して将棋界の光と影を描いていく、将棋界を舞台にした青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "文庫部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "文庫部門1位(2連覇)"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "文庫部門2位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "文庫部門2位・2010年代総合3位(殿堂入り)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/りゅうおうのおしごと!"
+    },
+    "sourceNote": "Wikipedia日本語版「りゅうおうのおしごと!」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2018年1-3月、全12話)、コミカライズ(ヤングガンガン、全10巻)あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "nanatsu-no-maken-ga-shihai-suru",
+    "title": "七つの魔剣が支配する",
+    "titleKana": "ななつのまけんがしはいする",
+    "authorIds": [
+      "uno-bokuto"
+    ],
+    "illustratorIds": [
+      "miyuki-ruria"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "ken-to-mahou",
+      "dark-fantasy",
+      "mystery",
+      "battle-action",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "魔法使いの名門キンバリー魔法学校に入学した少年オリバーは、かつて母を拷問の末に殺害した教師たちへの復讐を胸に秘めている。入学式で起きた事件をきっかけに、東方から来た剣士の少女ナナオと運命的に出会い、二人は魔剣を巡る戦いに巻き込まれていく。優しさを失わないまま過酷な魔法界を生き抜こうとする若者たちを描く学園ダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2019,
+        "result": "文庫部門1位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "文庫部門1位・新作部門1位"
+      },
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "文庫部門6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七つの魔剣が支配する"
+    },
+    "sourceNote": "Wikipedia日本語版「七つの魔剣が支配する」を参照し独自に要約(2026年8月時点)。メディアミックス: TVアニメ(2023年7-10月、全15話)、コミカライズ(月刊少年エース、全8巻)あり。著者・宇野朴人は既存id(uno-bokuto)を再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
