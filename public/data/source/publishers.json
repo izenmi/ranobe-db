@@ -122,7 +122,9 @@
     "nameKana": "じーえーぶんこ",
     "parentCompany": "SBクリエイティブ",
     "description": "「GA文庫大賞」を主催するレーベル。「ダンジョンに出会いを求めるのは間違っているだろうか」など異世界・ダンジョンものの人気作を送り出している。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫"
+    },
     "sourceNote": "Wikipedia日本語版「GA文庫」を参照(2026年7月時点)。創刊年は情報源により差異があるため未記載。",
     "updatedAt": "2026-07-31"
   },
@@ -133,7 +135,9 @@
     "parentCompany": "集英社",
     "description": "集英社のライトノベルレーベル。2016年に後継の「ダッシュエックス文庫」へ移行し新刊刊行を終了した。",
     "foundedYear": 1999,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーダッシュ文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーダッシュ文庫"
+    },
     "sourceNote": "Wikipedia日本語版「スーパーダッシュ文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -143,7 +147,9 @@
     "nameKana": "かどかわしんぶんげい",
     "parentCompany": "KADOKAWA",
     "description": "Web小説を単行本形式で書籍化するKADOKAWAのレーベル群の総称。「陰の実力者になりたくて!」など「小説家になろう」発の作品を多く刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の実力者になりたくて!"
+    },
     "sourceNote": "Wikipedia日本語版「陰の実力者になりたくて!」を参照(2026年7月時点)。創刊年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
   },
@@ -153,7 +159,9 @@
     "nameKana": "あーすすたーのべる",
     "parentCompany": "アース・スター エンターテイメント",
     "description": "Web小説書籍化に強いレーベル。「私、能力は平均値でって言ったよね!」など、のんびり系異世界ファンタジーを多く刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アース・スターノベル" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アース・スターノベル"
+    },
     "sourceNote": "Wikipedia日本語版「アース・スターノベル」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -163,7 +171,9 @@
     "nameKana": "てぃーおーぶっくす",
     "parentCompany": "TOブックス",
     "description": "「本好きの下剋上」の刊行元として知られる出版社。Web小説発の作品を中心に丁寧な装丁で書籍化することで支持を集める。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/TOブックス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/TOブックス"
+    },
     "sourceNote": "Wikipedia日本語版「TOブックス」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -173,7 +183,9 @@
     "nameKana": "えんたーぶれいん",
     "parentCompany": "KADOKAWA(旧エンターブレイン)",
     "description": "「幼女戦記」「Overlord」などを手がけた出版社。2010年代にKADOKAWAグループへ統合された。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/エンターブレイン" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エンターブレイン"
+    },
     "sourceNote": "Wikipedia日本語版「エンターブレイン」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -184,7 +196,9 @@
     "parentCompany": "オーバーラップ",
     "description": "2013年創刊。「灰と幻想のグリムガル」「ありふれた職業で世界最強」などWeb小説発・異世界ものを中心に刊行する。",
     "foundedYear": 2013,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ文庫"
+    },
     "sourceNote": "Wikipedia日本語版「オーバーラップ文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -194,7 +208,9 @@
     "nameKana": "ふぁみつうぶんこ",
     "parentCompany": "KADOKAWA",
     "description": "「賢者の孫」などで知られるレーベル。ゲーム雑誌「ファミ通」を刊行するエンターブレイン系列から生まれた。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファミ通文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファミ通文庫"
+    },
     "sourceNote": "Wikipedia日本語版「ファミ通文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -204,7 +220,9 @@
     "nameKana": "ひーろーぶんこ",
     "parentCompany": "KADOKAWA",
     "description": "「異世界食堂」などを刊行するレーベル。Web小説発のグルメ・スローライフ系異世界ものを多く手がける。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界食堂"
+    },
     "sourceNote": "Wikipedia日本語版「異世界食堂」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -214,7 +232,9 @@
     "nameKana": "えいちじぇいのべるす",
     "parentCompany": "ホビージャパン",
     "description": "ホビージャパンのライトノベルレーベル。「異世界はスマートフォンとともに。」などWeb小説発の異世界ものを多く刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫"
+    },
     "sourceNote": "Wikipedia日本語版関連項目を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -224,7 +244,9 @@
     "nameKana": "けーらのべぶっくす",
     "parentCompany": "講談社",
     "description": "講談社のWeb小説書籍化レーベル。「転生貴族、鑑定スキルで成り上がる」など「小説家になろう」発の作品を刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Kラノベブックス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Kラノベブックス"
+    },
     "sourceNote": "Wikipedia日本語版「Kラノベブックス」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -234,7 +256,9 @@
     "nameKana": "あるふぁぽりす",
     "parentCompany": "アルファポリス",
     "description": "Web小説投稿サイトを運営し、人気作を自社で書籍化する出版社。「Re:Monster」など「小説家になろう」以外の投稿サイト発の作品も多く扱う。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルファポリス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルファポリス"
+    },
     "sourceNote": "Wikipedia日本語版「アルファポリス」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -244,7 +268,9 @@
     "nameKana": "えいちじぇいぶんこ",
     "parentCompany": "ホビージャパン",
     "description": "ホビージャパンのライトノベルレーベル。「六畳間の侵略者!?」など長期連載の人気シリーズを多く抱える。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫"
+    },
     "sourceNote": "Wikipedia日本語版「HJ文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -254,7 +280,9 @@
     "nameKana": "いちじんしゃぶんこあいりす",
     "parentCompany": "一迅社",
     "description": "女性向けを中心とするライトノベルレーベル。「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」など悪役令嬢ジャンルの代表作を刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/一迅社文庫アイリス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一迅社文庫アイリス"
+    },
     "sourceNote": "Wikipedia日本語版「一迅社文庫アイリス」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -264,7 +292,9 @@
     "nameKana": "おーばーらっぷのべるす",
     "parentCompany": "オーバーラップ",
     "description": "オーバーラップのWeb小説書籍化レーベル。「骸骨騎士様、只今異世界へお出掛け中」などを刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ_(出版社)" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ_(出版社)"
+    },
     "sourceNote": "Wikipedia日本語版関連項目を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -274,7 +304,9 @@
     "nameKana": "でんげきのしんぶんげい",
     "parentCompany": "KADOKAWA",
     "description": "電撃文庫と同じKADOKAWAが手がけるWeb小説書籍化レーベル。「リビルドワールド」などを刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃文庫"
+    },
     "sourceNote": "電撃文庫公式サイト内レーベル情報を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -284,7 +316,9 @@
     "nameKana": "こうだんしゃらのべぶんこ",
     "parentCompany": "講談社",
     "description": "講談社のライトノベルレーベル。「転生したら第七王子だったので、気ままに魔術を極めます」などWeb小説発の作品を刊行する。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社ラノベ文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社ラノベ文庫"
+    },
     "sourceNote": "Wikipedia日本語版「講談社ラノベ文庫」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -304,8 +338,22 @@
     "nameKana": "かどかわぶんこ",
     "parentCompany": "KADOKAWA",
     "description": "KADOKAWAの一般文庫レーベル。「図書館戦争」など、メディアワークスのハードカバー単行本として刊行された作品の文庫化を手がける。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川文庫" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/角川文庫"
+    },
     "sourceNote": "Wikipedia日本語版「図書館戦争」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "mediaworks-bunko",
+    "name": "メディアワークス文庫",
+    "nameKana": "めでぃあわーくすぶんこ",
+    "description": "アスキー・メディアワークス(現KADOKAWA)が2009年に創刊した文庫レーベル。電撃小説大賞のメディアワークス文庫賞受賞作などを中心に刊行する。",
+    "foundedYear": 2009,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メディアワークス文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「メディアワークス文庫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

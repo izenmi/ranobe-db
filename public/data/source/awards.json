@@ -5,7 +5,9 @@
     "organizer": "KADOKAWA(電撃文庫)",
     "description": "電撃文庫が主催する新人賞。大賞・金賞・銀賞などの部門があり、「狼と香辛料」「アクセル・ワールド」など数多くの人気シリーズの著者を輩出してきた。",
     "firstYear": 1994,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃小説大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/電撃小説大賞"
+    },
     "sourceNote": "Wikipedia日本語版「電撃小説大賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -15,7 +17,9 @@
     "organizer": "KADOKAWA(角川スニーカー文庫)",
     "description": "角川スニーカー文庫が主催する新人賞。大賞受賞者には「涼宮ハルヒの憂鬱」の谷川流など、後に看板作家となる書き手が名を連ねる。",
     "firstYear": 1996,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スニーカー大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スニーカー大賞"
+    },
     "sourceNote": "Wikipedia日本語版「スニーカー大賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -25,7 +29,9 @@
     "organizer": "KADOKAWA(富士見ファンタジア文庫)",
     "description": "富士見ファンタジア文庫が主催する新人賞。大賞のほか準入選などの部門があり、橘公司など数多くの人気作家がここからデビューしている。",
     "firstYear": 1989,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファンタジア大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファンタジア大賞"
+    },
     "sourceNote": "Wikipedia日本語版「ファンタジア大賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -35,7 +41,9 @@
     "organizer": "宝島社",
     "description": "宝島社が主催する新人賞。年鑑ムック『このライトノベルがすごい!』と連動し、大賞受賞作は文庫化される。",
     "firstYear": 2009,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!大賞"
+    },
     "sourceNote": "Wikipedia日本語版「このライトノベルがすごい!大賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -45,7 +53,9 @@
     "organizer": "KADOKAWA(MF文庫J)",
     "description": "MF文庫Jが主催する新人賞。最優秀賞・優秀賞などの部門があり、独創的な設定のファンタジー作品を発掘してきた。",
     "firstYear": 2003,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫Jライトノベル新人賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫Jライトノベル新人賞"
+    },
     "sourceNote": "Wikipedia日本語版「MF文庫Jライトノベル新人賞」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -54,7 +64,9 @@
     "name": "GA文庫大賞",
     "organizer": "SBクリエイティブ(GA文庫)",
     "description": "GA文庫が主催する新人賞。大賞受賞作は書籍化され、「ダンジョンに出会いを求めるのは間違っているだろうか」などのヒット作を輩出した。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GA文庫大賞"
+    },
     "sourceNote": "Wikipedia日本語版「GA文庫大賞」を参照(2026年7月時点)。開始年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
   },
@@ -72,7 +84,9 @@
     "name": "カクヨムWeb小説コンテスト",
     "organizer": "KADOKAWA(カクヨム)",
     "description": "小説投稿サイト「カクヨム」が主催するコンテスト。ジャンルごとの部門があり、大賞受賞作は書籍化される。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/カクヨム" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カクヨム"
+    },
     "sourceNote": "Wikipedia日本語版「カクヨム」を参照(2026年7月時点)。開始年は未確認のため未記載。",
     "updatedAt": "2026-07-31"
   },
@@ -118,7 +132,9 @@
     "organizer": "宝島社",
     "description": "宝島社の年鑑ムック『このライトノベルがすごい!』が読者投票で選出する年間作品ランキング(文庫部門・単行本部門など)。新人賞である『このライトノベルがすごい!大賞』とは別企画で、既刊の人気作品を対象とする(宝島社出版物自体は集計対象外)。",
     "firstYear": 2004,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/このライトノベルがすごい!"
+    },
     "sourceNote": "Wikipedia日本語版「このライトノベルがすごい!」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -137,7 +153,9 @@
     "organizer": "全国書店員有志(運営委員会)",
     "description": "全国の書店に勤務するライトノベル好きの書店員が、読者に売りたい・読んでほしい作品を投票で選ぶ賞。2012年に発足し2014年まで開催、2019年に一度復活後2020年を最後に休止。",
     "firstYear": 2012,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラノベ好き書店員大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラノベ好き書店員大賞"
+    },
     "sourceNote": "Web検索でWikipedia記事「ラノベ好き書店員大賞」の内容を確認(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -177,7 +195,9 @@
     "organizer": "本の雑誌社(本屋大賞実行委員会)",
     "description": "全国の書店員が「いちばん売りたい本」を投票で選ぶ賞。2004年開始。ノミネート作は順位発表もされ、図書館戦争は2007年に5位を獲得。",
     "firstYear": 2004,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/本屋大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本屋大賞"
+    },
     "sourceNote": "Wikipedia日本語版「図書館戦争」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -187,7 +207,9 @@
     "organizer": "角川グループホールディングス(角川書店・富士見書房・メディアワークス・エンターブレイン)",
     "description": "角川グループ4社が共催した読者投票イベント。ラブコメ・学園・アクション・ミステリー・ノベライズの5部門、各4作品(計20作品)がエントリーし、読者投票により各部門の大賞を決定した。2007年に1回開催。",
     "firstYear": 2007,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライトノベルアワード" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライトノベルアワード"
+    },
     "sourceNote": "Wikipedia日本語版「ライトノベルアワード」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -197,7 +219,9 @@
     "organizer": "「大学読書人大賞」実行委員会・出版文化産業振興財団(JPIC)",
     "description": "大学生の書評・文芸サークル有志が選考する文学賞。2008年創設。ライトノベルに限らない一般文芸作品も対象となる。",
     "firstYear": 2008,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/大学読書人大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大学読書人大賞"
+    },
     "sourceNote": "Web検索でWikipedia記事「大学読書人大賞」の内容を確認(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   },
@@ -217,7 +241,9 @@
     "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",
     "description": "日本SF大会参加登録者の投票により選ばれるSFのファン賞。小説・コミック・メディア部門など複数部門があり、「図書館戦争」が第39回(2008年)日本長編部門を受賞した。新人賞ではなく既発表作品を対象とするファン投票賞である点が他の受賞歴と異なる。",
     "firstYear": 1970,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/星雲賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星雲賞"
+    },
     "sourceNote": "Wikipedia日本語版「星雲賞」「図書館戦争」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
   }

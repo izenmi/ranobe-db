@@ -1039,5 +1039,121 @@
     },
     "sourceNote": "Wikipedia日本語版「橋本紡」を参照(2026年7月時点)。",
     "updatedAt": "2026-07-31"
+  },
+  {
+    "id": "furuhashi-hideyuki",
+    "name": "古橋秀之",
+    "nameKana": "ふるはしひでゆき",
+    "description": "神奈川県出身のSF・伝奇小説作家。本作でメディアワークス・電撃ゲーム小説大賞よりデビュー。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古橋秀之"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "saegusa-reiichi",
+    "name": "三枝零一",
+    "nameKana": "さえぐされいいち",
+    "description": "大阪府出身・兵庫県育ちの電撃文庫作家。大学在学中に第7回電撃ゲーム小説大賞銀賞を受賞しデビュー。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三枝零一"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ueo-hisamitsu",
+    "name": "うえお久光",
+    "nameKana": "うえおひさみつ",
+    "description": "電撃文庫作家。第8回電撃ゲーム小説大賞銀賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うえお久光"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takano-wataru",
+    "name": "高野和",
+    "nameKana": "たかのわたる",
+    "description": "愛知県名古屋市出身。本作で第9回電撃ゲーム小説大賞金賞を受賞しデビューした兼業作家。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高野和"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shibamura-jin",
+    "name": "柴村仁",
+    "nameKana": "しばむらじん",
+    "description": "関西出身の電撃文庫作家。第10回電撃小説大賞金賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴村仁"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kougyoku-izuki",
+    "name": "紅玉いづき",
+    "nameKana": "こうぎょくいづき",
+    "description": "石川県金沢市出身、金沢大学文学部卒業。本作で第13回電撃小説大賞大賞を受賞しデビュー。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紅玉いづき"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "minemori-hirokazu",
+    "name": "峰守ひろかず",
+    "nameKana": "みねもりひろかず",
+    "description": "電撃文庫作家。本作(応募時タイトル「放課後百物語」)で第14回電撃小説大賞大賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/峰守ひろかず"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuoka-nozomu",
+    "name": "九岡望",
+    "nameKana": "くおかのぞむ",
+    "description": "電撃文庫作家。本作で第18回電撃小説大賞大賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/九岡望"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nozaki-mado",
+    "name": "野崎まど",
+    "nameKana": "のざきまど",
+    "description": "東京都墨田区出身、麻布大学獣医学部卒業。本作で第16回電撃小説大賞メディアワークス文庫賞を受賞しデビュー。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野崎まど"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kitagawa-emi",
+    "name": "北川恵海",
+    "nameKana": "きたがわえみ",
+    "description": "大阪府吹田市出身。本作で第21回電撃小説大賞メディアワークス文庫賞を受賞しデビュー。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北川恵海"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

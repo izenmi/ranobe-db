@@ -4192,5 +4192,409 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "black-rod",
+    "title": "ブラックロッド",
+    "titleKana": "ぶらっくろっど",
+    "authorIds": [
+      "furuhashi-hideyuki"
+    ],
+    "illustratorIds": [
+      "amemiya-keita"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "バベルのように連なる積層都市《ケイオス・ヘキサ》を舞台に、隻眼のテロリスト、公安の黒杖特捜官、屍体を蘇生させる少年、吸血鬼などが入り乱れる三部作。東西の意匠が融合した混沌都市を背景に、暴力と再生、喪失と再会を描く和製サイバーパンク×伝奇アクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1995,
+        "result": "第2回電撃ゲーム小説大賞 大賞(当時の名称)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラックロッド"
+    },
+    "sourceNote": "Wikipedia日本語版「ブラックロッド」を参照し独自に要約(2026年8月時点)。三部作は各巻でイラストレーターが異なる(ハードカバー版:雨宮慶太、第2部:伊藤義則、第3部:前嶋重機。データベースには代表として雨宮慶太を登録)。メディアミックス: 『電撃アドベンチャーズ』にて漫画化(全1巻)、1996年にドラマCD化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "wizards-brain",
+    "title": "ウィザーズ・ブレイン",
+    "titleKana": "うぃざーずぶれいん",
+    "authorIds": [
+      "saegusa-reiichi"
+    ],
+    "illustratorIds": [
+      "jun-keiichi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "post-apocalypse",
+      "senki"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "大気制御衛星の暴走で永遠の冬に閉ざされた近未来、生体量子脳「Iブレイン」を持つ魔法士たちが世界の命運を握る。他者の能力を写し取る規格外の魔法士・天樹錬は、シティの部品として扱われる少女フィアを救い出したことから、通常人類との共存か排除かを巡る世界規模の対立に巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2000,
+        "result": "第7回電撃ゲーム小説大賞 銀賞(応募時タイトル『魔法士物語』)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウィザーズ・ブレイン"
+    },
+    "sourceNote": "Wikipedia日本語版「ウィザーズ・ブレイン」を参照し独自に要約(2026年8月時点)。2001年から2024年にかけて全21巻で完結。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "akuma-no-mikata",
+    "title": "悪魔のミカタ",
+    "titleKana": "あくまのみかた",
+    "authorIds": [
+      "ueo-hisamitsu"
+    ],
+    "illustratorIds": [
+      "fujita-kaori"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "gakuen-ianou",
+      "mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2009,
+    "status": "unknown",
+    "volumeCount": 19,
+    "synopsis": "身に覚えのない契約で悪魔に魂を狙われた高校生・堂島コウは、妹そっくりの悪魔アトリと出会う。「知恵の実」という666種の能力を巡り、契約者の魂を回収する代行者として活動することになったコウは、同好会「みークル」の仲間たちと共に学園に潜む怪異と青春の裏側に迫っていく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2001,
+        "result": "第8回電撃ゲーム小説大賞 銀賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "作品部門3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔のミカタ"
+    },
+    "sourceNote": "Wikipedia日本語版「悪魔のミカタ」を参照し独自に要約(2026年8月時点)。1学期編(全13巻)完結後、2学期編は既刊2巻(2007・2009年)を刊行後、新刊情報が確認できず長期休止状態のためstatusは'unknown'とした。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "nanahime-monogatari",
+    "title": "七姫物語",
+    "titleKana": "ななひめものがたり",
+    "authorIds": [
+      "takano-wataru"
+    ],
+    "illustratorIds": [
+      "otani-osamu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "senki",
+      "isekai-fantasy",
+      "adventure",
+      "naisei"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "先王の隠し子を戴くとされる東和の七都市を舞台に、野心を抱く青年トエルとテンが孤児院育ちの少女カラスミを新興都市カセンの姫として担ぎ上げる。姫として生きることを選んだ少女の成長と、七つの都市それぞれの思惑が絡み合う様を複数視点で描く群像劇風の戦記ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2002,
+        "result": "第9回電撃ゲーム小説大賞 金賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "作品部門6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七姫物語"
+    },
+    "sourceNote": "Wikipedia日本語版「七姫物語」を参照し独自に要約(2026年8月時点)。2003年〜2011年に全6巻で完結。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "wagaya-no-oinarisama",
+    "title": "我が家のお稲荷さま。",
+    "titleKana": "わがやのおいなりさま",
+    "authorIds": [
+      "shibamura-jin"
+    ],
+    "illustratorIds": [
+      "houden-eizou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou",
+      "comedy",
+      "gakuen-ianou",
+      "harem"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "格式ある神社の家に生まれた高校生・立花仁の家には、狐の守護霊「小太郎」と「小次郎」が住み着いている。人ならざる存在との賑やかな同居生活を通じて、神使や妖と人間社会が交錯する騒動に次々と巻き込まれていく仁たちを描く、日本の神話的モチーフを下敷きにしたコメディファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2003,
+        "result": "第10回電撃小説大賞 金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/我が家のお稲荷さま。"
+    },
+    "sourceNote": "Wikipedia日本語版「我が家のお稲荷さま。」を参照し独自に要約(2026年8月時点)。コミカライズ:松風水蓮作画(2007-2013、全11巻)。テレビアニメ化:2008年4-9月放送(全24話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mimizuku-to-yoru-no-ou",
+    "title": "ミミズクと夜の王",
+    "titleKana": "みみずくとよるのおう",
+    "authorIds": [
+      "kougyoku-izuki"
+    ],
+    "illustratorIds": [
+      "isono-hiroo"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "魔物に食べられることだけを望んで森を訪れた少女ミミズクは、人間を歯牙にもかけない魔物たちの王「夜の王」に出会う。願いを聞き届けてもらえないまま、夜ごと王のもとへ通い続けるうちに、孤独な二人の距離は少しずつ変化していく。喪失と再生を静かに描いた短編ダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2006,
+        "result": "第13回電撃小説大賞 大賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2008,
+        "result": "作品部門7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミミズクと夜の王"
+    },
+    "sourceNote": "Wikipedia日本語版「ミミズクと夜の王」を参照し独自に要約(2026年8月時点)。コミカライズ:白泉社『LaLa』2020-2022年連載、全4巻。2022年に完全版刊行。アニメ化の記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "houkago-hyakumonogatari",
+    "title": "ほうかご百物語",
+    "titleKana": "ほうかごひゃくものがたり",
+    "authorIds": [
+      "minemori-hirokazu"
+    ],
+    "illustratorIds": [
+      "kyougoku-shin"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "gakuen-ianou",
+      "comedy",
+      "horror"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "美術部の少年・白塚真一は、血を吸おうと近づいてきたイタチの妖怪「伊達クズリ」の正体を見破り、なし崩し的に部員として迎え入れる。次々と現れる妖怪たちとの騒動を経て、美術部は神の降臨を企む「先触」との戦いに巻き込まれていく、学園を舞台にした妖怪コメディファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2007,
+        "result": "第14回電撃小説大賞 大賞(応募時タイトル『放課後百物語』)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ほうかご百物語"
+    },
+    "sourceNote": "Wikipedia日本語版「ほうかご百物語」を参照し独自に要約(2026年8月時点)。2008年〜2011年、最終巻『あんこーる』で完結、全10巻。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "escape-speed",
+    "title": "エスケヱプ・スピヰド",
+    "titleKana": "えすけえぷすぴいど",
+    "authorIds": [
+      "kuoka-nozomu"
+    ],
+    "illustratorIds": [
+      "gin"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "post-apocalypse",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "戦争によって荒廃した近未来国家「八洲」。暴走する機械に襲われた少女・叶葉は、巨大な虫型兵器と共に眠る少年・九曜と出会う。八洲軍の超級戦略兵器「鬼虫」の一機である九曜は、故郷の住民を守るため因縁の敵・竜胆との決戦に臨む。昆虫型メカと改造人間が戦う終末世界のSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2011,
+        "result": "第18回電撃小説大賞 大賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "作品部門7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エスケヱプ・スピヰド"
+    },
+    "sourceNote": "Wikipedia日本語版「エスケヱプ・スピヰド」を参照し独自に要約(2026年8月時点)。全8巻(本編7巻+短編集1巻)で完結。イラストレーター「吟」は既存id(gin)を再利用。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "amrita",
+    "title": "[映]アムリタ",
+    "titleKana": "あむりた",
+    "authorIds": [
+      "nozaki-mado"
+    ],
+    "illustratorIds": [
+      "morii-shizuki"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "horror"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "映像学科に通う二見遭一は、天才と噂される新入生・最原最早が監督する自主映画の撮影に参加することになる。撮影は順調に進み、二見は最原に惹かれていくが、完成した映画に隠された真実が二人の関係を静かに、そして決定的に塗り替えていく。青春群像劇の皮を被った衝撃のどんでん返しミステリ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2009,
+        "result": "第16回電撃小説大賞 メディアワークス文庫賞(初代受賞作)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野崎まど"
+    },
+    "sourceNote": "正式タイトルは『[映]アムリタ』。独立したWikipedia記事は無いため著者「野崎まど」の記事内記述を参照し独自に要約(2026年8月時点)。単発作品、2019年に新装版刊行。アニメ化・コミカライズの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "chotto-ima-kara-shigoto-yamete-kuru",
+    "title": "ちょっと今から仕事やめてくる",
+    "titleKana": "ちょっといまからしごとやめてくる",
+    "authorIds": [
+      "kitagawa-emi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ブラック企業での勤務に心身をすり減らし、駅のホームで自殺を考えていた青山隆は、謎の男「ヤマモト」に呼び止められる。ヤマモトとの奇妙な交流を通じて、隆は自分を追い詰めていた働き方や人間関係を見つめ直し、少しずつ人生を立て直していく。働くことと生きることを問い直す再生の物語。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2014,
+        "result": "第21回電撃小説大賞 メディアワークス文庫賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ちょっと今から仕事やめてくる"
+    },
+    "sourceNote": "Wikipedia日本語版「ちょっと今から仕事やめてくる」を参照し独自に要約(2026年8月時点)。全2巻(第2巻『ちょっと今から人生かえてくる』)で完結。メディアミックス: 2016-2017年『コミックフラッパー』でコミカライズ、2017年に実写映画化。原作イラストレーターの記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]
