@@ -12928,5 +12928,169 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "occultic-nine",
+    "title": "Occultic;Nine -オカルティック・ナイン-",
+    "titleKana": "おかるてぃっく・ないん",
+    "authorIds": [
+      "shikura-chiyomaru"
+    ],
+    "illustratorIds": [
+      "pako"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "sf",
+      "gakuen-ianou"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "吉祥寺でオカルトブログ「キリキリバサラ」を運営する高校生・我聞悠太は、大学教授の変死事件に遭遇し謎の鍵型オブジェを手にしたことから、集団水死事件や超能力者たちが絡む陰謀に巻き込まれていく。9人の男女の運命が交錯する、オカルトとSFを融合させた「超常科学」サスペンス。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Occultic;Nine_-オカルティック・ナイン-"
+    },
+    "sourceNote": "Wikipedia日本語版・BOOK☆WALKER(bookwalker.jp)を参照(2026年8月時点)。著者・イラストレーター・レーベル・刊行時期(2014年8月〜)・全3巻完結・アニメ化(2016年、A-1 Pictures)・コミカライズ(講談社「good!アフタヌーン」)を確認。各巻の正確な発売月は未確認のため latestPublishedYear は概算。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "reikan-shoujo-wa-hako-no-naka",
+    "title": "霊感少女は箱の中",
+    "titleKana": "れいかんしょうじょははこのなか",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [
+      "fuyuno-shunjuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "horror",
+      "gakuen-ianou",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "強い霊感を持つ少女を中心に、日常の裏側に潜む怪異と対峙していく学園ホラー。閉ざされた空間や「箱」に象徴される謎めいた怪異現象の真相を、登場人物たちが少しずつ手繰り寄せていく。「Missing」「断章のグリム」で知られる甲田学人らしい、じわりと恐怖が滲む作風の全3巻完結シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「甲田学人」記事・honto.jp・BOOK☆WALKERを参照(2026年8月時点)。著者・レーベル(電撃文庫)・刊行時期(2017年3月〜2018年、全3巻)・イラストレーター名は確認。詳細なあらすじの公式紹介文は確認できず、作品タイトルおよび作者の作風・ジャンル分類(ホラー/学園)から要約した。メディアミックス情報は確認できずmediaMixフィールドは省略。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tokitsuki-kazano-to-kuroi-douwa-no-yoru",
+    "title": "時槻風乃と黒い童話の夜",
+    "titleKana": "ときつきかぜのとくろいどうわのよる",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "horror",
+      "dark-fantasy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "グリム童話などの「黒い童話」をモチーフに、主人公・時槻風乃が身の回りに紛れ込む不気味な「物語」じみた怪異と関わっていくダークファンタジー・ホラー。BOOK☆WALKERでもホラー・ファンタジーに分類される、甲田学人によるメディアワークス文庫の作品。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「甲田学人」記事(作品一覧に2014年12月刊行開始・全3巻と記載)・BOOK☆WALKERのジャンル分類(文芸/キャラ文芸/ファンタジー/ホラー)を参照(2026年8月時点)。イラストレーター名・最終巻刊行年・詳細あらすじは情報源に記載がなく未確認のため、illustratorsは空欄とし、synopsisはタイトルとジャンル分類から要約した。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "noroware-yuurei-mansion",
+    "title": "ノロワレ 怪奇作家真木夢人と幽霊マンション",
+    "titleKana": "のろわれ かいきさっかまきゆめととゆうれいまんしょん",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "怪奇小説家・真木夢人が住むことになった曰くつきの「幽霊マンション」を舞台に、次々と起こる不可解な怪異現象の謎に挑む連作ホラー。電撃文庫版「ノロワレ」の設定を継承しつつ、都市の片隅に潜む恐怖を描く、甲田学人によるメディアワークス文庫のシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「甲田学人」記事(作品一覧に2015年6月〜2016年4月刊行・全3巻と記載)を参照(2026年8月時点)。イラストレーター名・詳細あらすじの公式紹介文は確認できず、illustratorsは空欄。synopsisはタイトルと前作「ノロワレ」の設定から要約した推測を含む。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "zanma-taisei-demonbane",
+    "title": "斬魔大聖デモンベイン",
+    "titleKana": "ざんまたいせいでもんべいん",
+    "authorIds": [
+      "suzukaze-ryo",
+      "furuhashi-hideyuki"
+    ],
+    "illustratorIds": [
+      "ni-theta"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "horror",
+      "sf",
+      "robot-mecha",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "クトゥルフ神話をベースにしたPCゲームのノベライズ。人智を超えた「旧支配者」ヨグ=ソトースや魔導書アル・アジフを巡り、巨大人型兵器「機神」を駆る主人公たちが狂気に満ちた邪神たちと戦う。クトゥルフ神話の禍々しい怪物群とロボット的な超兵器バトルを融合させたダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン"
+    },
+    "sourceNote": "Wikipedia日本語版「斬魔大聖デモンベイン」記事を参照(2026年8月時点)。原作ゲーム(ニトロプラス)のノベライズであること、著者(本編:涼風涼、外伝:古橋秀之)・イラストレーター・レーベル(角川スニーカー文庫)・各巻刊行日(2003年10月〜2007年1月、全6巻)・クトゥルフ神話要素・アニメ化(OVA/TVシリーズ)・コミカライズ複数種を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "natsu-to-hanabi-to-watashi-no-shitai",
+    "title": "夏と花火と私の死体",
+    "titleKana": "なつとはなびとわたしのしたい",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "illustratorIds": [
+      "hatachi-hideaki"
+    ],
+    "publisherId": "jump-j-books",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "友人に殺害された9歳の少女さつきは、変わり果てていく自分の死体とともに、周囲で起こる出来事を語り手として見つめ続ける。死体を隠そうとする兄と、迫る捜査の手。幼さと狂気が同居する筆致で人間の悪意と喪失を描き出す、乙一のデビュー作にして日本ホラー・ミステリ史に残る問題作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏と花火と私の死体"
+    },
+    "sourceNote": "Wikipedia日本語版「乙一」「夏と花火と私の死体」記事を参照(2026年8月時点)。初版レーベル(ジャンプ ジェイ ブックス、1996年10月)・イラストレーター・受賞歴(第6回ジャンプ小説・ノンフィクション大賞)・あらすじを確認。2000年に集英社文庫版が出ており現在は同文庫扱いが主流だが、初刊はライトノベルレーベルであるため採用。同賞は既存アワード一覧に該当項目がないためawardResultsは省略した。",
+    "updatedAt": "2026-08-01"
   }
 ]

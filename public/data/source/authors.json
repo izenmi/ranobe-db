@@ -3271,5 +3271,37 @@
     "externalLinks": {},
     "sourceNote": "同上。既存著者「柴村仁(shibamura-jin)」とは別人(表記も異なる)であることを確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shikura-chiyomaru",
+    "name": "志倉千代丸",
+    "nameKana": "しくらちよまる",
+    "description": "ゲームクリエイター・シナリオライター。「CHAOS;HEAD」「STEINS;GATE」など『科学アドベンチャー』シリーズの企画・シナリオで知られ、本作はそのシリーズの1作としてライトノベル化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/志倉千代丸"
+    },
+    "sourceNote": "Wikipedia日本語版・BOOK☆WALKER掲載情報を参照(2026年8月時点)。生年等の詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "suzukaze-ryo",
+    "name": "涼風涼",
+    "nameKana": "すずかぜりょう",
+    "description": "「斬魔大聖デモンベイン」本編のノベライズを執筆したライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「斬魔大聖デモンベイン」記事を参照(2026年8月時点)。個人の経歴・生年は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "otsuichi",
+    "name": "乙一",
+    "nameKana": "おついち",
+    "description": "1978年福岡県久留米市生まれ、本名・安達寛高。1996年、17歳のときに本作で第6回ジャンプ小説・ノンフィクション大賞を受賞しデビューしたホラー・ミステリ作家。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙一"
+    },
+    "sourceNote": "Wikipedia日本語版「乙一」および「夏と花火と私の死体」記事を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

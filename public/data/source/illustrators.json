@@ -2830,5 +2830,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版より確認(2026年8月時点)。個人のWikipedia記事は未確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "pako",
+    "name": "pako",
+    "nameKana": "ぱこ",
+    "description": "「Occultic;Nine -オカルティック・ナイン-」のキャラクターイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載のクレジット表記を確認(2026年8月時点)。経歴等は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fuyuno-shunjuu",
+    "name": "ふゆの春秋",
+    "nameKana": "ふゆのしゅんじゅう",
+    "description": "「霊感少女は箱の中」のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "honto.jp・BOOK☆WALKER掲載のクレジットおよびWikipedia「甲田学人」記事の作品リストで確認(2026年8月時点)。経歴等は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ni-theta",
+    "name": "Niθ",
+    "nameKana": "にーしーた",
+    "description": "「斬魔大聖デモンベイン」全6巻のイラストを担当したイラストレーター(原作ゲームのメインイラストレーターでもある)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「斬魔大聖デモンベイン」記事を参照(2026年8月時点)。なお第1巻の口絵の一部は洒乃渉が担当したとの記載があるが、同氏は別途イラストレーターとして登録していない。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hatachi-hideaki",
+    "name": "幡地英明",
+    "nameKana": "はたちひであき",
+    "description": "「夏と花火と私の死体」の装画・挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「夏と花火と私の死体」記事のクレジット表記を参照(2026年8月時点)。経歴等は未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]
