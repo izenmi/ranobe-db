@@ -8867,5 +8867,339 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "kara-no-kyoukai",
+    "title": "空の境界",
+    "titleKana": "からのきょうかい",
+    "authorIds": [
+      "kinoko-nasu"
+    ],
+    "illustratorIds": [
+      "takeuchi-takashi"
+    ],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "何でも斬れる眼を持つ女子高生・両儀式が、猟奇殺人や超常現象が渦巻く街で人の生と死の境界に触れていく連作ミステリ。哲学的な問答と耽美な暴力描写が交錯し、七つの章と終章で一つの真相へ収束していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空の境界"
+    },
+    "sourceNote": "Wikipedia日本語版「空の境界」を参照(2026年8月時点)。2001年に同人誌(竹箒)として発表後、2004年に講談社ノベルスで商業刊行(全2巻)、2007-2008年に講談社文庫版が刊行された。イラストレーター武内崇は既存収録『Fate/Zero』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "arslan-senki",
+    "title": "アルスラーン戦記",
+    "titleKana": "あるすらーんせんき",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "amano-yoshitaka"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "senki",
+      "jidai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "パルス王国の若き王子アルスラーンが、隣国の侵攻で祖国を失いながらも、奴隷出身の軍師ナルサスら仲間と共に国土奪還を目指す群像劇。身分や宗教を超えた友情と裏切りが交錯する中で成長する王子の姿を描く大河ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルスラーン戦記"
+    },
+    "sourceNote": "Wikipedia日本語版「アルスラーン戦記」を参照(2026年8月時点)。1986年に角川文庫より刊行開始、後に光文社(カッパ・ノベルス/光文社文庫)へ移り2017年に全16巻で完結。カバーイラストは天野喜孝。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "eromanga-sensei",
+    "title": "エロマンガ先生",
+    "titleKana": "えろまんがせんせい",
+    "authorIds": [
+      "fushimi-tsukasa"
+    ],
+    "illustratorIds": [
+      "kanzaki-hiro"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "imouto",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "小説家の高校生・和泉正宗と、自室に引きこもる義理の妹・紗霧が同居する物語。実は紗霧の正体は正宗の作品に挿絵を描く人気イラストレーター「エロマンガ先生」。創作を通じて距離を縮めていく兄妹ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エロマンガ先生"
+    },
+    "sourceNote": "Wikipedia日本語版「エロマンガ先生」を参照(2026年8月時点)。電撃文庫より2013-2022年に全13巻刊行、2017年にテレビアニメ化。著者は既存著者『俺の妹がこんなに可愛いわけがない』、イラストレーターは既存収録作品と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo",
+    "title": "問題児たちが異世界から来るそうですよ？",
+    "titleKana": "もんだいじたちがいせかいからくるそうですよ",
+    "authorIds": [
+      "tatsunoko-tarou"
+    ],
+    "illustratorIds": [
+      "amano-ari"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "類い稀な力を持つがゆえに「問題児」と呼ばれる十六夜・飛鳥・耀の3人は、謎の少女「黒ウサギ」に招かれ、神々や魔王が集う異世界「箱庭」へ。衰退したコミュニティ「ノーネーム」を率い、恩恵を賭けたギフトゲームで頂点を目指す。",
+    "awardResults": [
+      {
+        "awardId": "minna-de-erabu-best-light-novel",
+        "year": 2011,
+        "result": "新人賞部門4位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/問題児たちが異世界から来るそうですよ"
+    },
+    "sourceNote": "Wikipedia日本語版「問題児たちが異世界から来るそうですよ」を参照(2026年8月時点)。角川スニーカー文庫、2011年刊行開始。第一部全12巻(2015年完結)、第二部「ラストエンブリオ」既刊8巻で継続中。2013年にテレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "sword-oratoria",
+    "title": "ソード・オラトリア",
+    "titleKana": "そーど・おらとりあ",
+    "authorIds": [
+      "oomori-fujino"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito",
+      "haimura-kiyotaka"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dungeon",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "ダンジョン都市オラリオで、ロキ・ファミリアに所属する天才剣士アイズ・ヴァレンシュタインの視点から描かれる『ダンまち』外伝。本編主人公ベルとの出会いの裏側や、深層を目指す冒険者たちの死闘を並行世界的に描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソード・オラトリア_ダンジョンに出会いを求めるのは間違っているだろうか外伝"
+    },
+    "sourceNote": "Wikipedia日本語版「ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝」を参照(2026年8月時点)。GA文庫、2014年刊行開始、既刊16巻で継続中。2017年にテレビアニメ化。著者・イラストレーターは既存収録『ダンジョンに出会いを求めるのは間違っているだろうか』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu",
+    "title": "月が導く異世界道中",
+    "titleKana": "つきがみちびくいせかいどうちゅう",
+    "authorIds": [
+      "azumi-kei"
+    ],
+    "illustratorIds": [
+      "matsumoto-mitsuaki"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "勇者候補として異世界に召喚されながら、女神に不要と判断され辺境へ飛ばされた高校生・深澄真。獣人の少女たちと出会い、独自のスキルと商才を活かしてのんびり成り上がっていく異世界スローライフファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月が導く異世界道中"
+    },
+    "sourceNote": "Wikipedia日本語版「月が導く異世界道中」を参照(2026年8月時点)。「小説家になろう」発、アルファポリスより2013年刊行開始、既刊21巻で継続中。2021年にテレビアニメ化(第二幕2024年放送)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hige-wo-soru-soshite-joshikousei-wo-hirou",
+    "title": "ひげを剃る。そして女子高生を拾う。",
+    "titleKana": "ひげをそる。そしてじょしこうせいをひろう。",
+    "authorIds": [
+      "shimesaba"
+    ],
+    "illustratorIds": [
+      "buuta"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "会社員の吉田は、失恋直後に家出中の女子高生・沙優と出会い、成り行きで同居を始める。恋愛感情とは違う形で互いに向き合いながら、それぞれの過去やコンプレックスと向き合っていく大人と少女の再生の物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "文庫部門4位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2019,
+        "result": "文庫部門2位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひげを剃る。そして女子高生を拾う。"
+    },
+    "sourceNote": "Wikipedia日本語版「ひげを剃る。そして女子高生を拾う。」を参照(2026年8月時点)。角川スニーカー文庫、2018年刊行開始、全9巻で2023年完結。2021年にテレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "uchi-no-musume-no-tame-naraba",
+    "title": "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。",
+    "titleKana": "うちのむすめのためならば、おれはもしかしたらまおうもたおせるかもしれない。",
+    "authorIds": [
+      "chirolu"
+    ],
+    "illustratorIds": [
+      "kei-musume"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "屈強な傭兵デイルは、任務中に奴隷として売られていた魔族の幼女ラティナを保護し、養父として育てることに。娘のためなら手段を選ばない親馬鹿冒険者と、健気な少女の交流を描くほのぼの系異世界ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "単行本・ノベルス部門10位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。"
+    },
+    "sourceNote": "Wikipedia日本語版「うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。」を参照(2026年8月時点)。HJノベルス、2014年刊行開始、既刊9巻。2019年にテレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hyakuren-no-haou-to-seiyaku-no-otome",
+    "title": "百錬の覇王と聖約の戦乙女",
+    "titleKana": "ひゃくれんのはおうとせいやくのおとめ",
+    "authorIds": [
+      "takayama-seiichi"
+    ],
+    "illustratorIds": [
+      "yukisan"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "harem"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "中学生の周防勇斗は幼馴染の美月と共に肝試し中、異世界ユグドラシルへ召喚される。狼の氏族を救うため彼を呼んだ戦乙女フェリシアと出会い、蔑まれた身から知略と絆で氏族をまとめる覇者へと成り上がっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百錬の覇王と聖約の戦乙女"
+    },
+    "sourceNote": "Wikipedia日本語版「百錬の覇王と聖約の戦乙女」を参照(2026年8月時点)。HJ文庫、2013年刊行開始、全24巻で2023年完結。2018年にテレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hyouken-no-majutsushi-ga-sekai-wo-suberu",
+    "title": "氷剣の魔術師が世界を統べる",
+    "titleKana": "ひょうけんのまじゅつしがせかいをすべる",
+    "authorIds": [
+      "mikoshiba-nana"
+    ],
+    "illustratorIds": [
+      "koneda-riko"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "戦争孤児として師匠リディアに育てられた少年レイ=ホワイトは、庶民出身ながら「氷剣の魔術師」の異名を持つ規格外の実力者。正体を隠しアーノルド魔術学院に入学し、圧倒的な力で学園の常識を覆していく学園ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/氷剣の魔術師が世界を統べる"
+    },
+    "sourceNote": "Wikipedia日本語版「氷剣の魔術師が世界を統べる」を参照(2026年8月時点)。「小説家になろう」原作、講談社ラノベ文庫より2020年刊行開始、既刊9巻で継続中。2023年にテレビアニメ第1期、2026年に第2期放送。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

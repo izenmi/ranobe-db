@@ -2233,5 +2233,83 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kinoko-nasu",
+    "name": "奈須きのこ",
+    "nameKana": "なすきのこ",
+    "description": "小説家・ゲームシナリオライター。TYPE-MOON代表を務め、『Fate/stay night』『月姫』などを手がけた。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/奈須きのこ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tanaka-yoshiki",
+    "name": "田中芳樹",
+    "nameKana": "たなかよしき",
+    "description": "SF・伝奇小説の巨匠。『銀河英雄伝説』で星雲賞を受賞するなど、幅広いジャンルで活躍する重鎮作家。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中芳樹"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tatsunoko-tarou",
+    "name": "竜ノ湖太郎",
+    "nameKana": "たつのこたろう",
+    "description": "ライトノベル作家。異世界召喚とゲームバトルを組み合わせた作風で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "azumi-kei",
+    "name": "あずみ圭",
+    "nameKana": "あずみけい",
+    "description": "ウェブ小説発のライトノベル作家。異世界スローライフ系作品で人気を博す。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shimesaba",
+    "name": "しめさば",
+    "nameKana": "しめさば",
+    "description": "ライトノベル作家。等身大の人間ドラマを描く作風で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "chirolu",
+    "name": "CHIROLU",
+    "nameKana": "ちろる",
+    "description": "ライトノベル作家。ほのぼの系異世界ファンタジーを手がける。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takayama-seiichi",
+    "name": "鷹山誠一",
+    "nameKana": "たかやませいいち",
+    "description": "ライトノベル作家。異世界バトルファンタジー作品を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikoshiba-nana",
+    "name": "御子柴奈々",
+    "nameKana": "みこしばなな",
+    "description": "「小説家になろう」発のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

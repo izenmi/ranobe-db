@@ -1967,5 +1967,70 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amano-yoshitaka",
+    "name": "天野喜孝",
+    "nameKana": "あまのよしたか",
+    "description": "画家・キャラクターデザイナー。『ファイナルファンタジー』シリーズなどで知られる幻想的な画風で著名。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天野喜孝"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amano-ari",
+    "name": "天之有",
+    "nameKana": "あまのあり",
+    "description": "イラストレーター。『問題児たちが異世界から来るそうですよ？』第一部の挿絵を担当(第二部よりももこが担当)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "matsumoto-mitsuaki",
+    "name": "マツモトミツアキ",
+    "nameKana": "まつもとみつあき",
+    "description": "漫画家・イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "buuta",
+    "name": "ぶーた",
+    "nameKana": "ぶーた",
+    "description": "イラストレーター。本編の挿絵を担当(4巻のみ足立いまるが担当)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kei-musume",
+    "name": "Kei",
+    "nameKana": "けい",
+    "description": "イラストレーター。2巻以降の挿絵を担当(1巻はTruffleが担当)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yukisan",
+    "name": "ゆきさん",
+    "nameKana": "ゆきさん",
+    "description": "イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "koneda-riko",
+    "name": "梱枝りこ",
+    "nameKana": "このえだりこ",
+    "description": "イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
