@@ -1104,7 +1104,24 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "新文芸・ブックス部門1位"
+      },
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2019,
+        "result": "文庫部門3位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2020,
+        "result": "単行本・ノベルズ部門3位"
+      }
+    ]
   },
   {
     "id": "watashi-nouryoku-wa-heikinchi",
@@ -1197,7 +1214,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
     },
     "sourceNote": "Wikipedia日本語版「幼女戦記」を参照し独自に要約(2026年7月時点)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "単行本・ノベルス部門3位"
+      }
+    ]
   },
   {
     "id": "overlord",
@@ -1230,7 +1254,14 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "単行本・ノベルズ部門1位"
+      }
+    ]
   },
   {
     "id": "maou-gakuin-no-futekigousha",
@@ -1498,7 +1529,14 @@
     "updatedAt": "2026-07-31",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "単行本部門4位"
+      }
+    ]
   },
   {
     "id": "isekai-wa-smartphone",
