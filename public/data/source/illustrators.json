@@ -3450,5 +3450,59 @@
     "externalLinks": {},
     "sourceNote": "作品記事内のクレジットから確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "karimarika",
+    "name": "カリマリカ",
+    "nameKana": "かりまりか",
+    "description": "本作のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(作者・イラストレーターのSNS言及)により確認(2026年8月時点)。公式サイトでの一次確認はできず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "murakaruki",
+    "name": "村カルキ",
+    "nameKana": "むらかるき",
+    "description": "本作の小説版イラスト・キャラクターデザインを担当。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(コミカライズ版クレジット表記「キャラクターデザイン:村カルキ」)より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kushiro-kuki",
+    "name": "釧路くき",
+    "nameKana": "くしろくき",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(著者による告知)より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tomo-illustrator-akuyaku",
+    "name": "ともー",
+    "nameKana": "ともー",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Web検索より確認(2026年8月時点)。他作品との同名の可能性含め確証は弱い。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "arumikku",
+    "name": "あるみっく",
+    "nameKana": "あるみっく",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Web検索より確認(2026年8月時点)。公式一次資料での確認はできず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kurodeko",
+    "name": "くろでこ",
+    "nameKana": "くろでこ",
+    "description": "本作の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Web検索より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

@@ -3955,5 +3955,68 @@
     "externalLinks": {},
     "sourceNote": "個人のWikipedia記事から著者情報を確認(2026年8月時点)。読み仮名は一般的な読みを採用(公式未確認)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mesopo-tamia",
+    "name": "メソポ・たみあ",
+    "nameKana": "めそぽたみあ",
+    "description": "「小説家になろう」を中心に活動するWeb小説作家。複数のなろう発ライトノベルを書籍化している。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作者コメント・Web検索(2026年8月時点)を参照。経歴の詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsukishima-shuichi",
+    "name": "月島秀一",
+    "nameKana": "つきしましゅういち",
+    "description": "カクヨム発の作家。「極悪貴族、謙虚堅実に無双する」でカクヨムコン10異世界冒険部門大賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWAプレスリリース(prtimes.jp)を参照(2026年8月時点)。読み仮名は一般的な読みを採用したが公式未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "masakorin",
+    "name": "まさこりん",
+    "nameKana": "まさこりん",
+    "description": "「小説家になろう」発の作家。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作品ページを参照(2026年8月時点)。経歴詳細は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kurokawa-youji",
+    "name": "黒川陽継",
+    "nameKana": "くろかわようじ",
+    "description": "カクヨム発の作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索を参照(2026年8月時点)。読み仮名は推定であり公式未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kaedehara-kouta",
+    "name": "楓原こうた",
+    "nameKana": "かえではらこうた",
+    "description": "カクヨム発の作家。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページを参照(2026年8月時点)。読み仮名は推定であり公式未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "rom-author",
+    "name": "ROM",
+    "nameKana": "ろむ",
+    "description": "カクヨム発の作家。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページを参照(2026年8月時点)。経歴詳細・読み仮名は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "crosis-author",
+    "name": "Crosis",
+    "nameKana": "くろしす",
+    "description": "カクヨム発の作家。「奴隷使役」シリーズなどでも知られる。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページを参照(2026年8月時点)。読み仮名は推定であり公式未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]
