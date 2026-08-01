@@ -10798,5 +10798,309 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "ko-hitsuji-wa-mayowanai",
+    "title": "子ひつじは迷わない",
+    "titleKana": "こひつじはまよわない",
+    "authorIds": [
+      "gangudou"
+    ],
+    "illustratorIds": [
+      "kagome"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "comedy",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "父の勧めで進学校に転入した成田真一郎は、生徒の悩みを解決する謎の集団「迷わない子ひつじの会」に関わることになる。日常に潜む小さな謎を、会の中心人物・仙波と共に論理立てて解き明かしていく学園パズルミステリ。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2010,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/子ひつじは迷わない"
+    },
+    "sourceNote": "Wikipedia日本語版(玩具堂の項)および書誌情報サイトを参照(2026年8月時点)。原題「なるたま〜あるいは学園パズル」で第15回スニーカー大賞大賞を受賞後、改題して刊行されたことを確認。全6巻・完結を確認。メディアミックス情報は確認できず、フィールドは省略。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ryuugajou-nanana-no-maizoukin",
+    "title": "龍ヶ嬢七々々の埋蔵金",
+    "titleKana": "りゅうがじょうなななのまいぞうきん",
+    "authorIds": [
+      "ootorino-kazuma"
+    ],
+    "illustratorIds": [
+      "akaringo"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "horror",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "父に勘当され人工学園島「七重島」へ流された高校生・八真重護は、住み着いたアパートで10年前に殺害された少女の幽霊・七々々と出会う。彼女を殺した犯人を探すため冒険部に入部し、謎の力を持つ秘宝集めと事件の真相解明に挑む学園ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "enterbrain-entame-taisho",
+        "year": 2011,
+        "result": "小説部門大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍ヶ嬢七々々の埋蔵金"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全12巻・完結、2014年テレビアニメ化(ノイタミナ)、漫画化を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "denpateki-na-kanojo",
+    "title": "電波的な彼女",
+    "titleKana": "でんぱてきなかのじょ",
+    "authorIds": [
+      "katayama-kentarou"
+    ],
+    "illustratorIds": [
+      "yamamoto-yamato"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "不良少年ジュウの前に、前世で主従だったと名乗る少女アメが現れる。突飛な二人の関係は、やがて学校を揺るがす連続殺人事件と絡み合っていき、ジュウは目を背けてきた真実に向き合わされる、サスペンス色の濃い学園ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "super-dash-shousetsu-shinjinshou",
+        "year": 2004,
+        "result": "佳作"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/電波的な彼女"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全3巻・完結、2009年OVA化(2話)、2020年漫画化(月刊アフタヌーン/ウルトラジャンプ系)を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "trickstars",
+    "title": "トリックスターズ",
+    "titleKana": "とりっくすたーず",
+    "authorIds": [
+      "kuzumi-shiki"
+    ],
+    "illustratorIds": [
+      "amashio-komeko"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "mahou",
+      "gakuen",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "名門・城翠大学を舞台に、学内で頻発する「殺人予告」事件を追う物語。客員教授として現れた本物の魔術師と出会った主人公は、音を媒介に現実を書き換える魔術体系「ヘクサメロン」の謎とミステリを絡めた事件解決に巻き込まれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリックスターズ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2005〜2007年に電撃文庫全6巻で刊行後、2016年にメディアワークス文庫より改稿版(主人公の性別変更あり)全6巻が刊行されたことを確認。アニメ化・漫画化の情報はWikipedia上に記載なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "dantalian-no-shoka",
+    "title": "ダンタリアンの書架",
+    "titleKana": "だんたりあんのしょか",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "g-yousuke"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mystery",
+      "dark-fantasy",
+      "horror",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "1920年前後のイギリスを舞台に、祖父の遺した屋敷と禁書庫「ダンタリアンの書架」を相続した青年ヒューイが、書架を守る少女ダリアンと共に、禁書にまつわる怪異と謎を解き明かしていくダーク・ファンタジー×ミステリ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンタリアンの書架"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。角川スニーカー文庫刊、全8巻・完結、2011年GAINAX制作でテレビアニメ化(全12話+OVA)、漫画化を確認。冒険・ダークファンタジー・ミステリの融合作品と明記されている。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tantei-higurashi-tabito",
+    "title": "探偵・日暮旅人",
+    "titleKana": "たんていひぐらしたびと",
+    "authorIds": [
+      "yamaguchi-kouzaburou"
+    ],
+    "illustratorIds": [
+      "enraku"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "gendai-drama",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "幼少期の事故で視覚以外の感覚を失った探偵・日暮旅人が、歓楽街を舞台に持ち込まれる様々な「探し物」の依頼を、鋭い観察眼と推理で解決していく人情ミステリ。累計85万部を突破し、テレビドラマ化もされた人気シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵・日暮旅人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。メディアワークス文庫全10巻・完結、2015年・2017年にテレビドラマ化、漫画化(月刊Asuka等)を確認。アニメ化の情報は確認できず。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "zaregoto-series",
+    "title": "戯言シリーズ",
+    "titleKana": "ざれごとしりーず",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "take-illustrator"
+    ],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "mystery",
+      "battle-action",
+      "dark-fantasy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "自らを「何もしない人間」と称する語り手が、天才と称される奇人たちと出会うたびに殺人事件に巻き込まれていく一人称ミステリ。巻を追うごとに謎解きから人外じみたバトルへと作風がシフトしていく、西尾維新のデビューシリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戯言シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。講談社ノベルスで2002年開始、2005年に一区切り、2023年に18年ぶりの新作刊行を確認(既刊10巻)。2016〜2017年にOVA化(SHAFT制作)を確認。漫画化は関連派生作品「人間シリーズ」等はあるが本編の直接コミカライズは未確認のためfalseとした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "revoir-series",
+    "title": "丸太町ルヴォワール",
+    "titleKana": "まるたまちるゔぉわーる",
+    "authorIds": [
+      "madoi-ban"
+    ],
+    "illustratorIds": [
+      "kumaori-jun"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "mystery",
+      "gendai-drama",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "祖父を殺害した容疑をかけられた資産家の青年・城坂論語が、京都で古くから続く私的裁判「双龍会」の場で、消えた謎の女性の証言を巡って真相を争う法廷劇ミステリ。「烏丸」「今出川」「河原町」と続く連作シリーズの第一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/円居挽"
+    },
+    "sourceNote": "Wikipedia日本語版(著者記事)を参照(2026年8月時点)。講談社BOX版(2009年)、講談社文庫版(改稿・2012年)を確認。続編「烏丸」(2011)「今出川」(2012)「河原町」(2014)を経て文庫版は2015年まで刊行、シリーズ全4作で一区切りついたことを確認。アニメ化・漫画化情報は確認できずmediaMixフィールドは省略。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "janaken-no-yuuutsu-na-jikenbo",
+    "title": "ジャナ研の憂鬱な事件簿",
+    "titleKana": "じゃなけんのゆううつなじけんぼ",
+    "authorIds": [
+      "sakaida-kantarou"
+    ],
+    "illustratorIds": [
+      "shiromizakana"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "unknown",
+    "volumeCount": 5,
+    "synopsis": "人付き合いを避けるため部員が自分一人しかいない「ジャーナリズム研究会」に入った高校生・香道慶介が、学校中で評判の先輩・白鳥真冬と関わったことをきっかけに、校内で起こる様々な事件や騒動に巻き込まれていく日常系学園ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2017,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/酒井田寛太郎"
+    },
+    "sourceNote": "Wikipedia日本語版(著者記事)および書誌情報サイトを参照(2026年8月時点)。2017年5月刊行開始、2019年2月に第5巻まで確認。完結状況・メディアミックス情報は明記が見つからず、statusはunknown、mediaMixは省略とした。",
+    "updatedAt": "2026-08-01"
   }
 ]

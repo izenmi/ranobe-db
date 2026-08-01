@@ -2343,5 +2343,79 @@
     },
     "sourceNote": "Wikipedia日本語版(個人記事)を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kagome",
+    "name": "籠目",
+    "nameKana": "かごめ",
+    "description": "「子ひつじは迷わない」シリーズの挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報(KADOKAWA公式・Amazon商品ページ)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akaringo",
+    "name": "赤りんご",
+    "nameKana": "あかりんご",
+    "description": "「龍ヶ嬢七々々の埋蔵金」第1〜7巻の挿絵を担当したイラストレーター(第8巻以降は交代)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)より、第7巻まで担当したことを確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amashio-komeko",
+    "name": "甘塩コメコ",
+    "nameKana": "あましおこめこ",
+    "description": "電撃文庫版「トリックスターズ」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報(電撃文庫公式・Amazon商品ページ)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "g-yousuke",
+    "name": "Gユウスケ",
+    "nameKana": "じーゆうすけ",
+    "description": "「ダンタリアンの書架」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(作品記事)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "enraku",
+    "name": "煙楽",
+    "nameKana": "えんらく",
+    "description": "「探偵・日暮旅人」シリーズの表紙イラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報(BOOK☆WALKER)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "take-illustrator",
+    "name": "竹",
+    "nameKana": "たけ",
+    "description": "「戯言シリーズ」の挿絵でデビューしたイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹_(イラストレーター)"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kumaori-jun",
+    "name": "くまおり純",
+    "nameKana": "くまおりじゅん",
+    "description": "「ルヴォワール」シリーズの挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(円居挽の項)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiromizakana",
+    "name": "白身魚",
+    "nameKana": "しろみざかな",
+    "description": "「ジャナ研の憂鬱な事件簿」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報(ガガガ文庫公式・BOOK☆WALKER)より確認。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

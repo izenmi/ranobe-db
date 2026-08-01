@@ -2719,5 +2719,86 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版(作品記事)を参照(2026年8月時点)。著者個人記事は無く読み仮名の確定表記は未確認のため、流通する一般的な読みを暫定採用。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "gangudou",
+    "name": "玩具堂",
+    "nameKana": "がんぐどう",
+    "description": "2010年、第15回スニーカー大賞〈大賞〉受賞作を改題した本作でデビューしたライトノベル作家。別名義「久青玩具堂」でも活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/玩具堂"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年は記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ootorino-kazuma",
+    "name": "鳳乃一真",
+    "nameKana": "おおとりのかずま",
+    "description": "千葉県在住のライトノベル作家。第13回エンターブレインえんため大賞小説部門大賞を受賞しデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鳳乃一真"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年は非公開。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "katayama-kentarou",
+    "name": "片山憲太郎",
+    "nameKana": "かたやまけんたろう",
+    "description": "東京都出身の小説家。「電波日和」で第3回スーパーダッシュ小説新人賞佳作を受賞し、改題した本作でデビュー。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片山憲太郎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuzumi-shiki",
+    "name": "久住四季",
+    "nameKana": "くずみしき",
+    "description": "島根県松江市出身の小説家。第11回電撃小説大賞で3次選考を通過した本作で2005年にデビュー。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久住四季"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yamaguchi-kouzaburou",
+    "name": "山口幸三郎",
+    "nameKana": "やまぐちこうざぶろう",
+    "description": "福岡県出身のライトノベル作家。2008年に第15回電撃小説大賞選考委員奨励賞を受賞しデビュー。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山口幸三郎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "madoi-ban",
+    "name": "円居挽",
+    "nameKana": "まどいばん",
+    "description": "奈良県出身、京都大学推理小説研究会出身の小説家・推理作家。本作でデビュー。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/円居挽"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sakaida-kantarou",
+    "name": "酒井田寛太郎",
+    "nameKana": "さかいだかんたろう",
+    "description": "神奈川県出身の小説家。「翡翠と琥珀」で第11回小学館ライトノベル大賞優秀賞を受賞し、本作でデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/酒井田寛太郎"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年は非公開。",
+    "updatedAt": "2026-08-01"
   }
 ]
