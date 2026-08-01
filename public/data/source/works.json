@@ -14003,5 +14003,334 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "gyakkou-shita-moto-akuyaku-reijou",
+    "title": "逆行した元悪役令嬢、性格の悪さは直さず処刑エンド回避します！",
+    "titleKana": "ぎゃっこうしたもとあくやくれいじょう、せいかくのわるさはなおさずしょけいえんどかいひします",
+    "authorIds": [
+      "shimizu-seika"
+    ],
+    "illustratorIds": [
+      "torikai-yasuyuki"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "time-travel",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "婚約者を巡る醜聞の末、公爵令嬢アリスティーナは十六歳で処刑される。目覚めるとなぜか五歳に逆行しており、処刑エンドを避けるため良い子を演じようと決意するが、生来の勝ち気な性格はそう簡単には直らない。素のままの自分で周囲とぶつかりながらも、思いがけず味方が増えていくやり直し系悪役令嬢コメディ。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト(arianrose.jp)の作品ページ・シリーズ一覧を参照(2026年8月時点)。著者・イラストレーター名、既刊2巻の発売日(2023年5月・8月)を確認。2026年8月にコミックス版第1巻が発売されておりコミカライズを確認。アニメ化情報・なろう/カクヨム原作かは確認できず未記載。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "oujisama-nante-kocchikara-negaisage-desuwa",
+    "title": "王子様なんて、こっちから願い下げですわ！ 追放された元悪役令嬢、魔法の力で見返します",
+    "titleKana": "おうじさまなんて、こっちからねがいさげですわ！ ついほうされたもとあくやくれいじょう、まほうのちからでみかえします",
+    "authorIds": [
+      "kashiwa-ten"
+    ],
+    "illustratorIds": [
+      "mikoshiba-ryou"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "fukushuu",
+      "mahou",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "公爵令嬢セシリアは婚約破棄と家からの追放を言い渡される。かつての婚約者である王子アルバートと再会したことをきっかけに、友人たちを操っていた魔女の陰謀が明らかになり、身につけた魔法の力で立ち向かうことに。追放された元令嬢が実力で周囲を見返していく、ざまぁ要素を含む冒険ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「柏てん」記事およびアリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊2巻の発売日(2021年2月・7月)を確認。「悪役令嬢」記事によりコミカライズ(コミックブリーゼ)を確認。ボイスコミック化の情報もあり(声優複数名確認)だがTVアニメ化情報はなし。なろう/カクヨム原作かは未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "konyaku-haki-wo-shita-reijou-wa-gaman-wo-yamemashita",
+    "title": "婚約破棄をした令嬢は我慢を止めました",
+    "titleKana": "こんやくはきをしたれいじょうはがまんをやめました",
+    "authorIds": [
+      "natsume-akuyaku-author"
+    ],
+    "illustratorIds": [
+      "hagiwara-rin"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "comedy",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "長年、家のため周囲のためにと我慢を重ねてきた令嬢は、とうとう婚約者の座を妹に譲り渡し、これまでとは違う自分のための人生を歩み始めることを決意する。周囲の期待や貴族社会の体裁より、抑え込んできた本音と自分の意思を優先していく主人公が、新しい人間関係を築きながら本当の自由を掴んでいく婚約破棄後日談コメディ。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト(arianrose.jp)作品ページ・シリーズ一覧を参照(2026年8月時点)。既刊3巻の発売日(2021年3月・2022年5月ほか)を確認。メディアミックス情報(コミカライズ・アニメ化)は確認できず未記載。なろう/カクヨム原作かも未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "konyaku-haki-no-tsugi-wa-gisou-konyaku",
+    "title": "婚約破棄の次は偽装婚約。さて、その次は……。",
+    "titleKana": "こんやくはきのつぎはぎそうこんやく。さて、そのつぎは……。",
+    "authorIds": [
+      "mizumoto-chisa"
+    ],
+    "illustratorIds": [
+      "akuta-michi"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "naisei",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "伯爵令嬢アナベルは婚約破棄をきっかけに、幼い頃から体にかけられた呪いの腕輪を解くための手がかりを求めて王都へ移り住む。そこで事情あって公爵と偽りの婚約を結ぶことになるが、王都の貴族社会の思惑や過去の因縁が絡み合い、二人の関係も事態も二転三転していく。婚約破棄を機に始まる政略と謎解きの恋愛ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページ・シリーズ一覧を参照(2026年8月時点)。原作小説は既刊3巻(2016年11月〜2017年12月)で完結、コミカライズ版は2026年時点で単行本6巻まで刊行中であることを公式サイトの近刊情報から確認。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tensei-reijou-wa-otome-game-no-butai-souchi-toshite-shinu-wakeniha-ikimasen",
+    "title": "転生令嬢は乙女ゲームの舞台装置として死ぬ…わけにはいきません！",
+    "titleKana": "てんせいれいじょうはおとめげーむのぶたいそうちとしてしぬ…わけにはいきません！",
+    "authorIds": [
+      "hoshimi-usagi"
+    ],
+    "illustratorIds": [
+      "hanazome-nagisa"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "前世の記憶を取り戻した少女メルディーナは、自分が乙女ゲームの世界で「舞台装置」としてしか扱われない悪役令嬢だと気づく。ヒロインの企みに巻き込まれ命の危機に瀕した彼女は国外の獣人の国へ逃げ延びる。そこで出会った王子リアムたちとの交流を通じ、ただの脇役では終わらない自分の人生を切り拓いていく。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト(arianrose.jp)作品ページを参照(2026年8月時点)。2023年6月刊行の巻を確認したが、続巻情報・メディアミックス情報・なろう/カクヨム原作かは公式サイト上で確認できず未記載。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "okitara-nijuunengo-nandesukedo",
+    "title": "起きたら２０年後なんですけど！ ～悪役令嬢のその後のその後～",
+    "titleKana": "おきたらにじゅうねんごなんですけど！ ～あくやくれいじょうのそのごのそのご～",
+    "authorIds": [
+      "tono-kokonoe"
+    ],
+    "illustratorIds": [
+      "shuri-yasuyuki"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "fukushuu",
+      "naisei"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "自分が乙女ゲーム世界のライバル令嬢フィオリアだと気づいた主人公は、毒を盛られて死にかけたところを魔法で時を進められ、二十年後の世界で目を覚ます。その間に国は荒れ果て、かつてのヒロインこそが全ての黒幕だったと判明。「暴風の女帝」と恐れられる存在となった主人公が、真相を暴きながら国の立て直しに挑む。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊2巻の発売日(2017年12月・2018年4月)を確認し完結扱いとした。メディアミックス情報は確認できず未記載。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "otome-game-rokushuume-automode-ga-kiremashita",
+    "title": "乙女ゲーム六周目、オートモードが切れました。",
+    "titleKana": "おとめげーむろくしゅうめ、おーとも―どがきれました。",
+    "authorIds": [
+      "soratani-reina"
+    ],
+    "illustratorIds": [
+      "futaba-hazuki"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "time-travel",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "乙女ゲームの世界に転生し悪役令嬢マリアベルとなった主人公は、五周にわたって破滅エンドを繰り返し、そのたびに強制的にやり直しを課されて諦めかけていた。迎えた六周目、なぜかシナリオを勝手に進める「オートモード」が機能しなくなっており、初めて自分自身の意志で攻略対象たちと向き合うことに。ループする運命からの脱出と平穏な生活を目指すコメディ。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊3巻の発売日(2017年5月・2018年8月ほか)を確認。ドラマCD付き特装版の存在も確認したが、アニメ化・コミカライズ情報は確認できず未記載。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "omae-mitaina-heroine-ga-ite-tamaruka",
+    "title": "お前みたいなヒロインがいてたまるか！",
+    "titleKana": "おまえみたいなひろいんがいてたまるか！",
+    "authorIds": [
+      "shironeko-akuyaku-author"
+    ],
+    "illustratorIds": [
+      "gamu-illustrator"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "四歳のとき、自分がまだ始まっていない乙女ゲームの世界に転生したと気づいた椿。彼女はどのルートを辿っても、最後には自ら命を絶ってしまう悲惨な結末しかないライバル令嬢に転生していたのだった。破滅の運命を変えようと奮闘する椿だが、やがてゲームのヒロイン・美緒もまた前世の記憶を持つ転生者であることが明らかになり、物語は思わぬ方向へ動き出す。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊4巻の発売日(2015年9月〜2016年8月)を確認し完結扱いとした。メディアミックス情報は確認できず未記載。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akuyaku-tensei-dakedo-doushite-kou-natta",
+    "title": "悪役転生だけどどうしてこうなった。",
+    "titleKana": "あくやくてんせいだけどどうしてこうなった。",
+    "authorIds": [
+      "sekimura-imuya"
+    ],
+    "illustratorIds": [
+      "yamashita-nanao"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "子爵家の末娘エリザは、前世の記憶とともに自分が乙女ゲームにおける「悪役令嬢」の立場にあると知ってしまう。このままでは領民を苦しめる圧政の果てに家の破滅が待っていると悟った彼女は、破滅回避のため家の在り方や自らの振る舞いを見直していく。当初の打算的な思惑とは裏腹に、周囲からの評価がじわじわと好転していく様を描く群像劇。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊3巻の発売日(2016年8月〜2018年4月)を確認、公式サイトに「完結巻」と明記されているため完結扱いとした。メディアミックス情報は確認できず未記載。なろう系ネット小説が原作である旨の紹介はあるが投稿サイト名は未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "koukando-kansuto-ouji-to-tensei-reijou-niyoru-otoge-spinoff",
+    "title": "好感度カンスト王子と転生令嬢による乙ゲースピンオフ",
+    "titleKana": "こうかんどかんすとおうじとてんせいれいじょうによるおとげすぴんおふ",
+    "authorIds": [
+      "poyoko"
+    ],
+    "illustratorIds": [
+      "akatsuki-sei"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "侯爵家の娘セラフィーナは前世の記憶を持ち、自分がとある乙女ゲームの世界に転生したと気づく。知識があるのは王太子ルートだけのはずが、そもそもゲーム内で自分に婚約者はいなかったはず。それなのに七つ年上の王太子クリスから熱烈に婚約を申し込まれ、想定外の高すぎる好感度に振り回されていく乙女ゲームスピンオフ。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊2巻の発売日(2023年12月・2024年2月)を確認。他シリーズのスピンオフ作品である旨を確認。メディアミックス情報は確認できず未記載。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yandere-kei-otome-ge-no-sekai-ni-tensei-shite-shimatta-you-desu",
+    "title": "ヤンデレ系乙女ゲーの世界に転生してしまったようです",
+    "titleKana": "やんでれけいおとめげーのせかいにてんせいしてしまったようです",
+    "authorIds": [
+      "hanaki-momiji"
+    ],
+    "illustratorIds": [
+      "shikiyuri"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "気づけば、攻略対象全員がヤンデレという乙女ゲームの世界に転生していた主人公リコリス。前世の知識にあった通りなら、この先には破滅的な結末しか待っていない。婚約者ヴォルフをはじめとする攻略対象たちの重すぎる愛情に振り回されながらも、ゲーム的な悲劇を回避し穏やかな幸せを掴もうと奔走するラブサスペンス。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊4巻の発売日(2014年8月〜2016年2月)を確認し完結扱いとした。メディアミックス情報は確認できず未記載。なろう/カクヨム原作かは未確認。日本語版Wikipediaに単独記事なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tensei-oujo-wa-kyou-mo-hata-wo-tataki-oru",
+    "title": "転生王女は今日も旗を叩き折る",
+    "titleKana": "てんせいおうじょはきょうもはたをたたきおる",
+    "authorIds": [
+      "bisu"
+    ],
+    "illustratorIds": [
+      "yukiko"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "comedy",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "前世でプレイ済みだった乙女ゲームの世界に王女ローゼマリーとして転生した主人公は、モブキャラクターの方が攻略対象の王子たちより有能という違和感だらけの世界の様子に困惑する。このまま進めば待っているのは波乱と破滅だけ。平穏に暮らすため、行く先々に立ちはだかる不吉な死亡フラグや破滅フラグを次々と叩き折っていく、コミカルな乙女ゲーム転生ファンタジー。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia内の関連記事(漫画家「雪子」「玉岡かがり」項目)およびアリアンローズ公式サイト作品ページを参照(2026年8月時点)。既刊11巻、第1巻発売日(2015年7月)・最新第11巻発売日(2026年5月)を確認。2018年からコミカライズ連載開始、ドラマCD化も確認。TVアニメ化情報はなし。なろう/カクヨム原作かは未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

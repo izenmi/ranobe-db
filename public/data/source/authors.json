@@ -3507,5 +3507,116 @@
     "externalLinks": {},
     "sourceNote": "検索結果を参照。既存著者一覧に該当なし、新規id発行。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shimizu-seika",
+    "name": "清水セイカ",
+    "nameKana": "しみずせいか",
+    "description": "アリアンローズレーベルを中心に活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。生年等の詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kashiwa-ten",
+    "name": "柏てん",
+    "nameKana": "かしわてん",
+    "description": "1986年生まれ、悪役令嬢・乙女ゲーム転生ものを多く手がけるライトノベル作家。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柏てん"
+    },
+    "sourceNote": "日本語版Wikipedia「柏てん」記事を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "natsume-akuyaku-author",
+    "name": "棗",
+    "nameKana": "なつめ",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mizumoto-chisa",
+    "name": "瑞本千紗",
+    "nameKana": "みずもとちさ",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hoshimi-usagi",
+    "name": "星見うさぎ",
+    "nameKana": "ほしみうさぎ",
+    "description": "アリアンローズレーベルを中心に乙女ゲーム転生ものを手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tono-kokonoe",
+    "name": "遠野九重",
+    "nameKana": "とおのここのえ",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "soratani-reina",
+    "name": "空谷玲奈",
+    "nameKana": "そらたにれいな",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shironeko-akuyaku-author",
+    "name": "白猫",
+    "nameKana": "しろねこ",
+    "description": "アリアンローズレーベルで乙女ゲーム転生ものを手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sekimura-imuya",
+    "name": "関村イムヤ",
+    "nameKana": "せきむらいむや",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。ネット小説発である旨の紹介文があるが具体的な投稿サイト名は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "poyoko",
+    "name": "ぽよ子",
+    "nameKana": "ぽよこ",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hanaki-momiji",
+    "name": "花木もみじ",
+    "nameKana": "はなきもみじ",
+    "description": "アリアンローズレーベルで活動するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "bisu",
+    "name": "ビス",
+    "nameKana": "びす",
+    "description": "アリアンローズレーベルの看板作家の一人。乙女ゲーム世界転生ものを代表する長期シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia内の関連記事(漫画家「雪子」「玉岡かがり」項目等)を参照(2026年8月時点)。単独の著者記事は未確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

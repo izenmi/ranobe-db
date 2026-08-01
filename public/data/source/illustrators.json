@@ -3048,5 +3048,115 @@
     "externalLinks": {},
     "sourceNote": "検索結果を参照。既存イラストレーター一覧に該当なし、新規id発行。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "torikai-yasuyuki",
+    "name": "鳥飼やすゆき",
+    "nameKana": "とりかいやすゆき",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikoshiba-ryou",
+    "name": "御子柴リョウ",
+    "nameKana": "みこしばりょう",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hagiwara-rin",
+    "name": "萩原凛",
+    "nameKana": "はぎわらりん",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akuta-michi",
+    "name": "阿久田ミチ",
+    "nameKana": "あくたみち",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hanazome-nagisa",
+    "name": "花染なぎさ",
+    "nameKana": "はなぞめなぎさ",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shuri-yasuyuki",
+    "name": "珠梨やすゆき",
+    "nameKana": "しゅりやすゆき",
+    "description": "ライトノベルの表紙・挿絵を多数手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "futaba-hazuki",
+    "name": "双葉はづき",
+    "nameKana": "ふたばはづき",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "gamu-illustrator",
+    "name": "gamu",
+    "nameKana": "がむ",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yamashita-nanao",
+    "name": "山下ナナオ",
+    "nameKana": "やましたななお",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "akatsuki-sei",
+    "name": "あかつき聖",
+    "nameKana": "あかつきせい",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shikiyuri",
+    "name": "シキユリ",
+    "nameKana": "しきゆり",
+    "description": "ライトノベルの表紙・挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイト作品ページを参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yukiko",
+    "name": "雪子",
+    "nameKana": "ゆきこ",
+    "description": "ライトノベルの表紙・挿絵に加え、自ら漫画版の作画も手がけたイラストレーター・漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雪子"
+    },
+    "sourceNote": "日本語版Wikipedia「雪子」記事を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
