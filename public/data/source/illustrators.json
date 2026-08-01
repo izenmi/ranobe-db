@@ -3387,5 +3387,68 @@
     "externalLinks": {},
     "sourceNote": "Amazon商品ページ表記より確認(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "anegawa",
+    "name": "姐川",
+    "nameKana": "あねがわ",
+    "description": "キャラクター原案を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "moutatsu",
+    "name": "孟達",
+    "nameKana": "もうたつ",
+    "description": "「乙女ゲー世界はモブに厳しい世界です」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kwkm",
+    "name": "KWKM",
+    "nameKana": "KWKM",
+    "description": "「ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "moyashi",
+    "name": "もやし",
+    "nameKana": "もやし",
+    "description": "「ギルド追放された雑用係の下剋上」第1-2巻のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yutsumoe",
+    "name": "ゆつもえ",
+    "nameKana": "ゆつもえ",
+    "description": "「ギルド追放された雑用係の下剋上」第3巻以降のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mizuno-saou",
+    "name": "水野早桜",
+    "nameKana": "みずのさおう",
+    "description": "「史上最強の大魔王、村人Aに転生する」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "zounose",
+    "name": "ゾウノセ",
+    "nameKana": "ぞうのせ",
+    "description": "「勘違いの工房主」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "作品記事内のクレジットから確認。",
+    "updatedAt": "2026-08-01"
   }
 ]

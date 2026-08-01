@@ -3876,5 +3876,84 @@
     "externalLinks": {},
     "sourceNote": "Web検索結果より確認(2026年8月時点)。読み方は一般的な訓読みからの推定。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shobonnu",
+    "name": "しょぼんぬ",
+    "nameKana": "しょぼんぬ",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/農民関連のスキルばっか上げてたら何故か強くなった。"
+    },
+    "sourceNote": "個人のWikipedia記事はなし。作品記事内の著者クレジットから確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mishima-yomu",
+    "name": "三嶋与夢",
+    "nameKana": "みしまよむ",
+    "description": "鹿児島県の離島出身のライトノベル作家。「小説家になろう」で長年執筆活動を続けてきた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三嶋与夢"
+    },
+    "sourceNote": "Wikipedia日本語版の著者記事を確認(2026年8月時点)。生年は非公表。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hoshizuki-koneko",
+    "name": "星月子猫",
+    "nameKana": "ほしづきねこ",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "個人のWikipedia記事はなし。作品記事内の著者クレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shinozaki-kaoru",
+    "name": "篠崎芳",
+    "nameKana": "しのざきかおる",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "個人のWikipedia記事はなし。作品記事内の著者クレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "maji-manji",
+    "name": "馬路まんじ",
+    "nameKana": "まじまんじ",
+    "description": "日本のライトノベル作家・VTuber。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/馬路まんじ"
+    },
+    "sourceNote": "Wikipedia日本語版の著者記事を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yozakura-yuno",
+    "name": "夜桜ユノ",
+    "nameKana": "よざくらゆの",
+    "description": "「小説家になろう」発のライトノベル作家。第8回ネット小説大賞金賞受賞で商業デビュー。",
+    "externalLinks": {},
+    "sourceNote": "個人のWikipedia記事はなし。作品記事・関連記事から確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "getou-myoujin",
+    "name": "下等妙人",
+    "nameKana": "げとうみょうじん",
+    "description": "「小説家になろう」出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "個人のWikipedia記事はなし。作品記事内の著者クレジットから確認。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tokino-yousuke",
+    "name": "時野洋輔",
+    "nameKana": "ときのようすけ",
+    "description": "1984年生まれ、2015年からWeb小説投稿を開始した専業のライトノベル作家。第4回ネット小説大賞金賞、第1回カクヨムWeb小説コンテスト特別賞など受賞歴多数。",
+    "birthYear": 1984,
+    "externalLinks": {},
+    "sourceNote": "個人のWikipedia記事から著者情報を確認(2026年8月時点)。読み仮名は一般的な読みを採用(公式未確認)。",
+    "updatedAt": "2026-08-01"
   }
 ]

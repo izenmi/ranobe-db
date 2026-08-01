@@ -15443,5 +15443,324 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "nomin-kanren-no-skill",
+    "title": "農民関連のスキルばっか上げてたら何故か強くなった。",
+    "titleKana": "のうみんかんれんのすきるばっかあげてたらなぜかつよくなった",
+    "authorIds": [
+      "shobonnu"
+    ],
+    "illustratorIds": [
+      "anegawa"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "comedy",
+      "battle-action",
+      "naisei"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "異世界に転生し、一日一つだけスキルを選んで身につけられる不思議な力を授かった青年は、戦闘系スキルには目もくれず、迷いなく農業関連のスキルばかりをひたすら選び続ける。長い年月をかけて全ての農民スキルを極めた末、それらが合わさって伝説の勇者すら凌ぐ力を秘めた称号へと覚醒してしまい、ただ静かに畑を耕して暮らしたいだけなのに、各国の思惑や争いへ次々と巻き込まれていくのどかで規格外な異世界生活記。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/農民関連のスキルばっか上げてたら何故か強くなった。"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2016年8月に小説家になろうで連載開始、書籍は双葉社モンスター文庫より2017-2018年に全5巻刊行、2022年にTVアニメ化(全12話)。あらすじは要約(独自表現)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "otome-ge-sekai-wa-mob-ni-kibishii-sekai-desu",
+    "title": "乙女ゲー世界はモブに厳しい世界です",
+    "titleKana": "おとめげーせかいはもぶにきびしいせかいです",
+    "authorIds": [
+      "mishima-yomu"
+    ],
+    "illustratorIds": [
+      "moutatsu"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "gakuen",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "女尊男卑の価値観が支配する乙女ゲームの世界に、攻略対象でも悪役でもない名もないモブキャラクターとして転生した青年リオン。前世でプレイしたゲームの知識を頼りに、目立たず穏便に生きようと理不尽な運命の分岐を避け続けるが、彼が関わるたびにシナリオそのものが歪み、やがて世界の存亡そのものを揺るがす大きな事態へと発展していく。脇役のつもりが世界の命運を左右する転生譚。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲー世界はモブに厳しい世界です"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2017年10月〜2019年10月に小説家になろうで連載、書籍はマイクロマガジン社GCノベルズより2018年5月刊行開始、全13巻で2024年完結。TVアニメ第1期2022年、第2期2026年放送。あらすじは要約(独自表現)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "lv999-no-murabito",
+    "title": "LV999の村人",
+    "titleKana": "れべる999のむらびと",
+    "authorIds": [
+      "hoshizuki-koneko"
+    ],
+    "illustratorIds": [
+      "fuumi"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "モンスターと戦う力を持たず、街の発展のために尽くすだけとされる最弱の役割「村人」に生まれついた浩二。幼い頃に両親を失った経験から力を渇望し、誰にも見られない場所で二十年もの長きにわたり、地道な鍛錬とモンスター討伐を積み重ねていく。気づけばレベルは村人の常識をはるかに超える999に到達しており、その隠された強さが周囲の運命や街のあり方までも大きく変えていくことになる。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LV999の村人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2015年11月に小説家になろうで連載開始、書籍はKADOKAWAエンターブレインより2016年刊行開始、全8巻で完結。2026年7月よりTVアニメ放送開始。電子コミックグランプリ2019受賞、ピッコマAWARD2020 TERRA賞受賞。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill",
+    "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
+    "titleKana": "はずれわくのじょうたいいじょうすきるでさいきょうになったおれがすべてをじゅうりんするまで",
+    "authorIds": [
+      "shinozaki-kaoru"
+    ],
+    "illustratorIds": [
+      "kwkm"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "battle-action",
+      "fukushuu",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "女神の気まぐれによって異世界に召喚された高校生は、直接的な攻撃力を持たず戦闘に不向きとされる状態異常スキルしか授からなかったことから、召喚された勇者の中でも最低評価となる烙印を押されてしまう。理不尽な仕打ちに絶望しながらも、毒や麻痺、混乱といった一見地味な力を極限まで磨き上げることで強敵を次々と圧倒していき、自分を見捨てた女神への復讐を胸に、仲間たちと共に成り上がっていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2017年11月に小説家になろうで連載開始、書籍はオーバーラップ文庫より2018年7月刊行開始、2025年4月時点で既刊14巻(本編13巻+番外編1巻)。2024年7月〜9月TVアニメ放送。ブックウォーカー新作ラノベ総選挙2019文庫部門9位。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "teihen-ryoushu-no-kanchigai-eiyuutan",
+    "title": "底辺領主の勘違い英雄譚〜平民に優しくしてたら、いつの間にか国と戦争になっていた件〜",
+    "titleKana": "ていりょうしゅのかんちがいえいゆうたん",
+    "authorIds": [
+      "maji-manji"
+    ],
+    "illustratorIds": [
+      "falmaro"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "comedy",
+      "battle-action",
+      "senki"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "辺境の弱小領地を継いだ青年は、自分のことを取り立てて特別な力もない、平凡で目立たない領主だと思い込んでいる。身分を問わず平民にも分け隔てなく優しく接し、素朴な善意のままに振る舞っているだけのつもりだが、その一つひとつの行動が周囲にはことごとく規格外の英雄的所業と映ってしまい、本人にはまるで自覚のないまま、いつしか国家間の戦争を左右する中心人物へと祭り上げられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/馬路まんじ"
+    },
+    "sourceNote": "著者「馬路まんじ」のWikipedia記事(2026年8月時点)を参照。作品専用記事はなし。書籍第1巻の正確な発売月、latestPublishedYearは未確認(コミカライズは2020年10月〜2024年3月連載、小説は既刊3巻のためコミカライズ開始前の2019年頃と推定)。アニメ化情報は記事に記載なし(未確認)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "guild-tsuihou-sareta-zatsuyougakari-no-gekokujou",
+    "title": "ギルド追放された雑用係の下剋上〜超万能な生活スキルで世界最強〜",
+    "titleKana": "ぎるどついほうされたざつようがかりのげこくじょう",
+    "authorIds": [
+      "yozakura-yuno"
+    ],
+    "illustratorIds": [
+      "moyashi",
+      "yutsumoe"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "shigoto",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "冒険者パーティで炊事や道具の手入れなど雑用係として働いていた青年は、戦闘にまるで役立たないと見なされ、ある日突然ギルドから追放されてしまう。行き場を失い流れ着いた辺境の地で、これまで培ってきた料理や裁縫、薬草知識といった何気ない生活スキルの数々が、実は途方もなく万能な力を秘めていたことに気づき始め、誰にも知られないまま静かに世界最強の存在へと駆け上がっていく。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2020,
+        "result": "金賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(著者・関連記事)を参照(2026年8月時点)。第8回ネット小説大賞(2020年開催)金賞受賞作。小説家になろう発、TOブックスより2020年7月刊行開始、既刊4巻(2025年時点)。集英社ダッシュエックスコミックで漫画版連載中。latestPublishedYear・アニメ化情報は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru",
+    "title": "史上最強の大魔王、村人Aに転生する",
+    "titleKana": "しじょうさいきょうのだいまおう、むらびとえーにてんせいする",
+    "authorIds": [
+      "getou-myoujin"
+    ],
+    "illustratorIds": [
+      "mizuno-saou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-tensei",
+      "gakuen",
+      "ken-to-mahou",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "誰もが恐れる史上最強の魔王ヴァルヴァトスは、孤独な生に疲れ果て、ただ平穏な余生を送りたいと願い、遠い未来の世界に何の変哲もない村人アードとして転生する。しかし太古の時代における「平均的な力」は、はるかに退化した現代ではあまりに規格外の強さとなっており、目立たず地味に暮らそうと魔法学園に入学するたびに、その圧倒的な実力が周囲の生徒や教師たちを次々と驚かせてしまう学園ファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/史上最強の大魔王、村人Aに転生する"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2017年8月〜2022年5月に小説家になろうで連載、書籍はKADOKAWA富士見ファンタジア文庫より2018年刊行開始、全11巻(本編10巻+短編1巻)で完結。2022年4月〜6月TVアニメ放送、電子版含め100万部突破。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mukuwarenakatta-murabito-a",
+    "title": "報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した",
+    "titleKana": "むくわれなかったむらびとえー、きぞくにひろわれてできあいされるうえに、じつはもっていたでんせつきゅうのかみすきるもかくせいした",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "shibano-kaito"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "romance",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "貧しい村で真面目に働きながらも、これといって報われることのない日々を送っていた少年マテオ。行き倒れたところをたまたま通りかかった公爵に拾われ、血の繋がりがないにもかかわらず実の家族同然に溺愛されて育てられることになる。恵まれた新しい暮らしの中で、村人だった頃には気づかなかった伝説級の神スキルが少しずつ目覚めていき、精霊との契約や宮廷を巡る思惑にも巻き込まれながら、着実に大きく成長していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版(著者記事)を参照(2026年8月時点)。2020年6月〜2022年10月に小説家になろうで連載、書籍は集英社ダッシュエックス文庫より2021年2月刊行開始、既刊8巻(2025年6月時点)。2022年よりコミカライズ、アニメ化は2023年発表・製作中(放送時期は未確認)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kanchigai-no-koubou-nushi",
+    "title": "勘違いの工房主〜英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話〜",
+    "titleKana": "かんちがいのこうぼうぬし",
+    "authorIds": [
+      "tokino-yousuke"
+    ],
+    "illustratorIds": [
+      "zounose"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "shigoto",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "名だたる英雄パーティで炊事や道具整備などの雑用係を務めていた青年クルトは、戦闘能力の低さだけを理由に、あっさりとパーティから追放されてしまう。行く当てもなく流れ着いた小さな工房で困っている人々を淡々と手助けしているうちに、実は戦闘以外のありとあらゆる能力がSSSランクであることが次第に判明していき、本人にはまるで自覚がないまま、周囲から工房主として担ぎ上げられていくよくある話。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勘違いの工房主〜英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話〜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2018年6月頃よりWeb連載開始(アルファポリスファンタジー小説大賞読者賞受賞)、書籍はアルファポリスより2019年3月刊行開始、既刊11巻(2025年3月時点)。2025年4月〜6月TVアニメ第1期放送、第2期制作決定。webNovelSourceはnarou/kakuyomuに該当しないため省略。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
