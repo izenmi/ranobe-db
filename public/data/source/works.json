@@ -6290,5 +6290,312 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "shibou-yuugi-de-meshi-wo-kuu",
+    "title": "死亡遊戯で飯を食う。",
+    "titleKana": "しぼうゆうぎでめしをくう",
+    "authorIds": [
+      "ukai-yuushi"
+    ],
+    "illustratorIds": [
+      "nekometaru"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "開催のたびに参加者の大半が死亡する謎の「デスゲーム」に、幽鬼という名で28回も参加し続ける少女がいた。高額な賞金のため淡々と修羅場をくぐり抜ける彼女の目標は前人未到の99回クリア。命の値段と生存戦略を描く頭脳サバイバル。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2022,
+        "result": "第18回優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死亡遊戯で飯を食う。"
+    },
+    "sourceNote": "Wikipedia日本語版、KADOKAWA公式商品ページ、MF文庫J公式サイトのインタビュー記事で実在・詳細を確認。2026年1-3月にテレビアニメ放送、累計80万部突破（電子含む）。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "death-game-yamamoto-san",
+    "title": "デスゲームに巻き込まれた山本さん、気ままにゲームバランスを崩壊させる",
+    "titleKana": "ですげーむにまきこまれたやまもとさん、きままにげーむばらんすをほうかいさせる",
+    "authorIds": [
+      "pochi"
+    ],
+    "illustratorIds": [
+      "kuga-foona"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "death-game",
+      "vrmmo",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "フルダイブ型VRMMORPGが運営の暴走で10万人規模のデスゲームと化した世界に、婚活疲れのアラサー女性・山本凜花が巻き込まれる。悲壮感のかけらもなく「強制長期休暇」と割り切った彼女は、規格外のチートスキルで気づかぬうちにゲームバランスごと崩壊させていく。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2023,
+        "result": "第8回エンタメ総合部門大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式特設ページ、BOOK☆WALKER、カクヨム、ニコニコ漫画（カモトタツヤ作画のコミカライズ確認）で実在・詳細を確認。Wikipedia記事は未確認のため公式サイト情報を使用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "bokutachi-ni-death-game-ga-hitsuyou-na-riyuu",
+    "title": "僕たちにデスゲームが必要な理由",
+    "titleKana": "ぼくたちにですげーむがひつようなりゆう",
+    "authorIds": [
+      "mochida-meisuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "death-game",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "生きづらさを抱える水森陽向は夜の公園で、殺されても生き返る子供たちの壮絶な殺し合いを目撃する。現実に馴染めない者だけが集うその場所で殺し合いを繰り返すうち、陽向はそれぞれの心の傷と、自分自身の抱える闇に向き合っていくことになる。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2019,
+        "result": "第26回「隠し玉」"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ、メディアワークス文庫公式サイト、Amazon/BookWalker商品情報で実在・詳細を確認。Wikipedia記事は見つからず。イラストレーター表記は各書店ページに見当たらなかったため空欄とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "meitantei-wa-suiri-de-korosu",
+    "title": "名探偵は推理で殺す 依頼.1 大罪人バトルロイヤルに潜入せよ",
+    "titleKana": "めいたんていはすいりでころす いらい1 だいざいにんばとるろいやるにせんにゅうせよ",
+    "authorIds": [
+      "terui-eisumi"
+    ],
+    "illustratorIds": [
+      "mashima-saki"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "death-game",
+      "mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "あらゆる世界から送り込まれた大罪人たちが覇権を争う異界「監獄界」に、高校生名探偵・明髪シンがある依頼のため潜入する。武器を持たぬ彼が頼るのは推理のみ。悲劇の聖女を相棒に、殺し合いの中で真相を暴き犯人を「推理で殺す」頭脳戦バトルロイヤル。",
+    "externalLinks": {},
+    "sourceNote": "富士見ファンタジア文庫公式サイト、KADOKAWA商品ページ、BOOK☆WALKER、ブックライブで実在・詳細を確認。2022年12月刊行後、続刊情報は2026年8月時点で未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "yokomizo-aoi-no-rinri-naki-yuugi-no-kowashikata",
+    "title": "横溝碧の倫理なき遊戯の壊し方",
+    "titleKana": "よこみぞあおいのりんりなきゆうぎのこわしかた",
+    "authorIds": [
+      "kururugi-yukari"
+    ],
+    "illustratorIds": [
+      "koyubita-beru"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "death-game",
+      "mystery"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "妹に生活費を使い込まれ困窮したSNS探偵・横溝碧は、賞金目当てで大企業主催の脱出ゲームに参加するが、それは裏社会が催す命懸けのデスゲームだった。初回で主催者の思惑を秒で叩き潰し人質を取った碧だが、目覚めると上空5000mの機内で爆破首輪を付けられていた。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、honto、ブックライブ、KADOKAWA商品ページで実在・詳細・あらすじを確認。2024年9月25日刊行、296ページ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "ore-no-genjitsu-wa-renai-game",
+    "title": "俺の現実は恋愛ゲーム??～かと思ったら命がけのゲームだった～",
+    "titleKana": "おれのげんじつはれんあいげーむ かとおもったらいのちがけのげーむだった",
+    "authorIds": [
+      "warui-otoko"
+    ],
+    "illustratorIds": [
+      "yuu-nagi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "death-game",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "冴えないニート・長谷川涼は、目覚めると現実そっくりの世界が実は恋愛ゲームになっていることに気づく。セーブ＆ロードやアイテムを駆使しヒロインたちを攻略して脱出を試みるが、やがてこれが単なる恋愛ゲームではなく命懸けのゲームだったと思い知らされる。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム書籍化ページ、BOOK☆WALKER、ファミ通文庫公式サイトで実在・詳細を確認。全1冊完結、2019年9月30日刊行。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "magical-death-game",
+    "title": "マジカル†デスゲーム",
+    "titleKana": "まじかるですげーむ",
+    "authorIds": [
+      "urema-shouji"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "death-game",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "13人の魔法少女が集められ、その中に紛れ込んだ「嘘つき魔女」を見つけ出すまで解散できないという奇妙なルールが課される。疑心暗鬼が渦巻く中、少女たちは魔法を武器に互いを探り合い、時に命を賭けた騙し合いへと発展していく心理戦デスゲーム。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、ブックライブ、ファンタジア文庫公式サイトで実在・詳細を確認。第1巻2014年3月、第2巻2014年5月20日刊行の全2巻完結。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "star-mirai-project",
+    "title": "スタァ・ミライプロジェクト 歌姫編",
+    "titleKana": "すたぁみらいぷろじぇくと うたひめへん",
+    "authorIds": [
+      "ayasato-keishi"
+    ],
+    "illustratorIds": [
+      "natsuro"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "death-game",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "配信者として動画投稿する歌姫志望の少女たち。唯一絶対の歌姫だったArielの急死をきっかけに、次代の歌姫の座を巡るオーディションが開催されるが、それは勝ち残った者だけが生き残れる過酷なデスゲームだった。",
+    "externalLinks": {},
+    "sourceNote": "MF文庫J公式サイト、BOOK☆WALKER、カクヨムで実在・詳細を確認。2024年6月25日刊行、2026年6月時点で続刊未発表。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "fushisha-to-ansatsusha-no-death-game-seisaku-katsudou",
+    "title": "不死者と暗殺者のデスゲーム製作活動",
+    "titleKana": "ふししゃとあんさつしゃのですげーむせいさくかつどう",
+    "authorIds": [
+      "asamiya-kaede"
+    ],
+    "illustratorIds": [
+      "shigure-ui"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "death-game",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "三年前の契約で死んでも蘇る不死の体を得た高校生・臥宮生斗の前に、抑えがたい殺人衝動の呪いを抱える暗殺者一族の令嬢が現れ「私のために死んで」と告げる。殺し殺される関係から始まる二人が、互いの呪いを乗り越えるべく奇妙な共同生活を送る禁断のデスゲームラブコメ。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式商品ページ、BOOK☆WALKER、カクヨムのあらすじ紹介記事で実在・詳細を確認。2018年7月10日刊行の単巻作品。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "princess-gambit",
+    "title": "プリンセス・ギャンビット ～スパイと奴隷王女の王国転覆遊戯～",
+    "titleKana": "ぷりんせすぎゃんびっと すぱいとどれいおうじょのおうこくてんぷくゆうぎ",
+    "authorIds": [
+      "kuga-yuuma"
+    ],
+    "illustratorIds": [
+      "scotty"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "death-game",
+      "gambling"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "女王になれなければ死と嘲笑が待つ「王位戦争」に投げ込まれた奴隷腹の王女イヴ。彼女を導くのは、敵国から送り込まれた凄腕のスパイ・カイだった。欺き、謀り、裏切り合う王族たちの中で、二人は国家の命運を賭けた頭脳戦に挑んでいく。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、ブックライブ、漫画全巻ドットコム（全1冊確認）、HMV商品ページで実在・詳細を確認。2021年9月10日刊行の単巻作品。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   }
 ]
