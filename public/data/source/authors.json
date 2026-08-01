@@ -2886,5 +2886,111 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fukazawa-mishio",
+    "name": "深沢美潮",
+    "nameKana": "ふかざわみしお",
+    "description": "武蔵野美術大学卒業後、コピーライター等を経て小説家に。『フォーチュン・クエスト』『デュアン・サーク』など長寿シリーズで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深沢美潮"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年の記載は確認できず。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sasamoto-yuuichi",
+    "name": "笹本祐一",
+    "nameKana": "ささもとゆういち",
+    "description": "1963年生まれのSF作家。1984年『妖精作戦』でデビュー、『ARIEL』『星のパイロット』シリーズなどで知られる。星雲賞受賞歴多数。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/笹本祐一"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "asou-shunpei",
+    "name": "麻生俊平",
+    "nameKana": "あそうしゅんぺい",
+    "description": "早稲田大学卒。ファンタジア長編小説大賞準入選を経て富士見ファンタジア文庫からデビューした作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻生俊平"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年の記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kikuchi-hideyuki",
+    "name": "菊地秀行",
+    "nameKana": "きくちひでゆき",
+    "description": "1949年生まれ、千葉県出身の伝奇小説作家。『魔界都市〈新宿〉』でデビューし、『吸血鬼ハンターD』シリーズで知られる。",
+    "birthYear": 1949,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/菊地秀行"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kurimoto-kaoru",
+    "name": "栗本薫",
+    "nameKana": "くりもとかおる",
+    "description": "1953年生まれ、2009年没。江戸川乱歩賞受賞作家で、大河ヒロイック・ファンタジー『グイン・サーガ』の著者。中島梓名義で評論も執筆。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/栗本薫"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2009年に膵臓がんで死去、以降は五代ゆう・宵野ゆめらが続巻を執筆。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takachiho-haruka",
+    "name": "高千穂遙",
+    "nameKana": "たかちほはるか",
+    "description": "1951年生まれ、「スタジオぬえ」創設メンバーの一人。『クラッシャージョウ』『ダーティペア』など日本SFの草分け的作品で知られる。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高千穂遙"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "himuro-saeko",
+    "name": "氷室冴子",
+    "nameKana": "ひむろさえこ",
+    "description": "1957年生まれ、2008年没。北海道出身の小説家で、1980年代のコバルト文庫を代表する看板作家。『クララ白書』『なんて素敵にジャパネスク』などで知られる。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/氷室冴子"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuwahara-mizuna",
+    "name": "桑原水菜",
+    "nameKana": "くわばらみずな",
+    "description": "1969年生まれ。1990年にコバルト読者大賞受賞作でデビューし、『炎の蜃気楼』シリーズで人気を博した小説家。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桑原水菜"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fujikawa-keisuke",
+    "name": "藤川桂介",
+    "nameKana": "ふじかわけいすけ",
+    "description": "1934年生まれの脚本家・小説家。『マジンガーZ』『宇宙戦艦ヤマト』等の脚本で知られ、小説『宇宙皇子』はライトノベルの礎の一つとされる。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤川桂介"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

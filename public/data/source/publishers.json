@@ -572,5 +572,30 @@
     "externalLinks": {},
     "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "asahi-sonorama-bunko",
+    "name": "朝日ソノラマ ソノラマ文庫",
+    "nameKana": "あさひそのらま そのらまぶんこ",
+    "parentCompany": "朝日ソノラマ",
+    "description": "1975年創刊、SF・ファンタジー・伝奇小説を中心とした日本初期のヤングアダルト文庫レーベル。『クラッシャージョウ』『妖精作戦』『吸血鬼ハンターD』など、後のライトノベルに大きな影響を与えた作品を多数輩出した。2007年に休刊。",
+    "foundedYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソノラマ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「ソノラマ文庫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hayakawa-bunko-ja",
+    "name": "ハヤカワ文庫JA",
+    "nameKana": "はやかわぶんこじぇいえー",
+    "parentCompany": "早川書房",
+    "description": "早川書房が刊行する日本人作家によるSF・ファンタジー小説の文庫レーベル。『グイン・サーガ』などスケールの大きい大河ヒロイック・ファンタジーの拠点として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハヤカワ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「ハヤカワ文庫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

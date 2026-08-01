@@ -11447,5 +11447,410 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "fortune-quest",
+    "title": "フォーチュン・クエスト",
+    "titleKana": "ふぉーちゅん・くえすと",
+    "authorIds": [
+      "fukazawa-mishio"
+    ],
+    "illustratorIds": [
+      "mukai-natsumi"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "comedy",
+      "mahou"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 48,
+    "synopsis": "駆け出し冒険者パステル・G・キングを語り手に、ペコやルーミィら仲間との日常的な冒険を描くファンタジー。命がけの大冒険よりも依頼をこなす中でのドタバタや友情、成長を丁寧に積み重ねる作風で、1989年の刊行開始から日本ライトノベルの「パーティもの」の源流の一つとして長く愛された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フォーチュン・クエスト"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。刊行開始は角川スニーカー文庫、後に電撃文庫等に移籍。アニメ化(1997年『フォーチュン・クエストL』)、コミカライズ(著者本人が挿絵も担当)を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "yousei-sakusen",
+    "title": "妖精作戦",
+    "titleKana": "ようせいさくせん",
+    "authorIds": [
+      "sasamoto-yuuichi"
+    ],
+    "illustratorIds": [
+      "hirano-toshihiro"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "平凡な高校生・榊唯之が、テレパシー能力を持つ少女ノブと出会ったことで、宇宙軍の極秘計画をめぐる争いに巻き込まれていく学園SFアクション。日常の学校生活と、国家機関に追われる非日常の逃避行が交錯する構成で知られ、笹本祐一のデビュー作として後の伝奇学園ものにも影響を与えた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖精作戦"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全4巻完結、2011-2012年に創元SF文庫で新版刊行。テレビアニメ化はなく、ラジオドラマ化(1989年)・コミカライズ(2018年)を確認。出版社は朝日ソノラマ ソノラマ文庫のため、既存レーベルになく新規提案(ファイル末尾)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "mahou-senshi-rui",
+    "title": "魔法戦士リウイ",
+    "titleKana": "まほうせんしりうい",
+    "authorIds": [
+      "mizuno-ryo"
+    ],
+    "illustratorIds": [
+      "shiki-satoshi"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "ken-to-mahou",
+      "mahou",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "TRPG『ソード・ワールドRPG』の舞台フォーセリアを舞台に、魔法と剣技をあわせ持つ「魔法戦士」の青年リウイが、仲間の魔術師や戦士たちと各地を巡り、様々な事件や陰謀に立ち向かっていく王道の剣と魔法の冒険譚。『ロードス島戦記』と並ぶソード・ワールド関連小説の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法戦士リウイ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。ファースト～サードシーズン計21巻、累計200万部超。2001年WOWOWにてテレビアニメ化、漫画版複数を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "lost-universe",
+    "title": "ロスト・ユニバース",
+    "titleKana": "ろすと・ゆにばーす",
+    "authorIds": [
+      "kamisaka-hajime"
+    ],
+    "illustratorIds": [
+      "yoshinaka-shouko"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "宇宙船ソードブレイカーを駆り、厄介ごと請負業を営むトラブル・コントラクターのケインと、強大な力を秘めた美少女ミリィのコンビが、巨大企業を隠れ蓑にした犯罪組織ナイトメアとの因縁に巻き込まれていくスペースオペラ。『スレイヤーズ』の神坂一によるコミカルかつスケールの大きい冒険活劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロスト・ユニバース"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全5巻完結。1998年テレビ東京系でアニメ化、月刊ドラゴンジュニアで漫画化を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "zanyaruma-no-kenshi",
+    "title": "ザンヤルマの剣士",
+    "titleKana": "ざんやるまのけんし",
+    "authorIds": [
+      "asou-shunpei"
+    ],
+    "illustratorIds": [
+      "kouji-illustrator"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "20世紀末の日本を舞台に、謎の人物から波形の鞘に納められた短剣を託された主人公が、古代文明イェマドの「遺産」をめぐる組織間の陰謀に巻き込まれていく学園伝奇アクション。日常の学校生活の裏で進行する事件を描き、90年代の富士見ファンタジア文庫を支えた人気シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ザンヤルマの剣士"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全10巻(本編9巻+短編集1巻)完結。アニメ化なし、コミカライズは記事上未確認(おそらくなし)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "kyuuketsuki-hunter-d",
+    "title": "吸血鬼ハンター\"D\"",
+    "titleKana": "きゅうけつきはんたーでぃー",
+    "authorIds": [
+      "kikuchi-hideyuki"
+    ],
+    "illustratorIds": [
+      "amano-yoshitaka"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "horror",
+      "dark-fantasy",
+      "battle-action",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 57,
+    "synopsis": "遠い未来、人類を支配する吸血鬼「貴族」の世界を舞台に、人間と貴族の混血児ダンピールである青年Dが、報酬と引き換えに貴族退治を請け負う吸血鬼ハンターとして荒廃した大地を旅する伝奇ホラーアクション。1983年の刊行開始から40年以上続く菊地秀行の代表シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吸血鬼ハンターD"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2026年1月時点で既刊57巻、58巻が同年6月刊行予定のため現在も継続中(ongoing)と判断。刊行当初は朝日ソノラマ ソノラマ文庫、現在は朝日文庫に移行。1985年OVA化、2000年劇場アニメ化、漫画化を確認。出版社は既存レーベルになく新規提案(ファイル末尾、妖精作戦・クラッシャージョウと共通)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "guin-saga",
+    "title": "グイン・サーガ",
+    "titleKana": "ぐいん・さーが",
+    "authorIds": [
+      "kurimoto-kaoru"
+    ],
+    "illustratorIds": [
+      "katou-naoyuki",
+      "amano-yoshitaka"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "senki",
+      "ken-to-mahou",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 177,
+    "synopsis": "豹の頭を持ち、記憶を失った戦士グインが、滅亡した王国パロの王女リンダと王子レムスを守り抜くところから始まる大河ヒロイック・ファンタジー。中原の諸国が繰り広げる戦争と陰謀を壮大なスケールで描き、著者の死後も他の作家によって執筆が続けられている、日本の長編ファンタジー小説を代表する金字塔的シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 2010,
+        "result": "日本長編部門"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グイン・サーガ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。2025年5月時点で177巻(本編150巻+外伝27巻)、現在も続刊中のためongoingと判断。2009年テレビアニメ化、複数作者による漫画化を確認。2009年12月に日本SF大賞特別賞も受賞しているが該当する既存アワードIDがないため省略、星雲賞(2010年8月・日本長編部門)のみ記録。出版社ハヤカワ文庫JAは既存レーベルになく新規提案(ファイル末尾)。ライトノベルというより源流的な大河ファンタジー小説だが、後続の剣と魔法系ライトノベルへの影響の大きさから収録候補とした。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "crusher-joe",
+    "title": "クラッシャージョウ",
+    "titleKana": "くらっしゃーじょう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "illustratorIds": [
+      "yasuhiko-yoshikazu"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "ワープ航法の完成により銀河開発が進む22世紀の宇宙を舞台に、惑星改造や輸送など危険な仕事を請け負う「クラッシャー」のジョウと仲間たちが、様々な依頼や事件に巻き込まれながら活躍するスペースオペラ。日本SF小説の草分け的存在として知られる高千穂遙のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 1980,
+        "result": "日本短編部門賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラッシャージョウ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。本編13巻+別巻3巻の全16巻。1983年劇場アニメ化、1989年OVA化、複数の漫画化を確認。刊行当初は朝日ソノラマ ソノラマ文庫、後にハヤカワ文庫へ移行。出版社は既存レーベルになく新規提案(ファイル末尾、妖精作戦・吸血鬼ハンターDと共通)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "nante-suteki-ni-japanesque",
+    "title": "なんて素敵にジャパネスク",
+    "titleKana": "なんてすてきにじゃぱねすく",
+    "authorIds": [
+      "himuro-saeko"
+    ],
+    "illustratorIds": [
+      "minemura-ryouko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "romance",
+      "comedy",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "平安時代の貴族社会を舞台に、内大臣家の娘・瑠璃姫が、結婚をめぐる周囲のもくろみや宮廷内の陰謀に振り回されながらも、幼馴染みの高彬との関係に悩むラブコメディ。歴史知識をコミカルな語り口に織り交ぜた作風で人気を博し、コバルト文庫を代表する看板シリーズとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なんて素敵にジャパネスク"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全10巻、1986年に実写テレビドラマ化(アニメ化ではない)、『花とゆめ』にてコミカライズを確認。2018年復刻版刊行あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "honoo-no-mirage",
+    "title": "炎の蜃気楼",
+    "titleKana": "ほのおのみらーじゅ",
+    "authorIds": [
+      "kuwahara-mizuna"
+    ],
+    "illustratorIds": [
+      "toujou-kazumi"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "time-travel",
+      "jidai-fantasy",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 47,
+    "synopsis": "戦国時代に非業の死を遂げた武将たちの魂が現代に転生し、軍神・上杉謙信を長とする「冥界上杉軍」として、怨霊と化した敵将たちとの因縁の戦いを繰り広げる伝奇ロマン。歴史と現代を行き来する壮大な設定と美形キャラクター群で長期にわたり支持された、コバルト文庫の代表的人気シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/炎の蜃気楼"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。本編40巻+番外編7巻で全47巻、2002年アニメ化・2004年OVA化・複数のコミカライズ・舞台化(2014-2018年)を確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "souryuuden",
+    "title": "創竜伝",
+    "titleKana": "そうりゅうでん",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "amano-yoshitaka"
+    ],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "竜種の血を引く四兄弟が、日本の裏側を牛耳る謎の勢力や海外の敵対者たちと渡り合っていく現代伝奇バトル。社会風刺を効かせた軽妙な語り口とスピーディーな展開で知られ、『アルスラーン戦記』の田中芳樹による代表シリーズの一つとして長年支持された。",
+    "awardResults": [
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/創竜伝"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全15巻完結、1991-1993年OVA化、CLAMP版など複数のコミカライズを確認。記事中の「2003年度ライトノベルランキング6位」は既存アワードid「nikkei-bp-light-novel-ranking(ライトノベルランキング(日経BP社))」と同一のものと推測して記録したが、完全な一致は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "utsunomiko",
+    "title": "宇宙皇子",
+    "titleKana": "うつのみこ",
+    "authorIds": [
+      "fujikawa-keisuke"
+    ],
+    "illustratorIds": [
+      "inomata-mutsumi"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "adventure",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 52,
+    "synopsis": "飛鳥時代を舞台に、修験道の祖・役小角の弟子となった少年「宇宙皇子」が、数々の試練や戦いを経て成長していく和風伝奇ファンタジー。地上編・天上編・妖夢編など複数の編に分かれた壮大な構成で展開し、1980年代の角川小説を代表する長編シリーズとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙皇子"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。全52巻、累計1000万部超。1989-1990年に劇場版、1990-1992年にOVA化を確認。コミカライズは記事上言及がなく、なしと推定。刊行当初はカドカワノベルズだが後に角川文庫化されているため既存の角川文庫(kadokawa-bunko)を採用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
   }
 ]

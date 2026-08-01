@@ -2498,5 +2498,119 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版の記事より確認(2026年8月時点)。版元により担当イラストレーターが異なる(庄司二号/松うに)ため、主流のブレイブ文庫版を記録。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mukai-natsumi",
+    "name": "迎夏生",
+    "nameKana": "むかいなつみ",
+    "description": "千葉県出身の漫画家・イラストレーター。1989年デビュー。『フォーチュン・クエスト』の挿絵・コミカライズを担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/迎夏生"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hirano-toshihiro",
+    "name": "平野俊弘",
+    "nameKana": "ひらのとしひろ",
+    "description": "1956年生まれのアニメーター・キャラクターデザイナー・アニメ監督(本名名義)。『魔法騎士レイアース』『吸血姫美夕』等を手がけ、『妖精作戦』の挿絵も担当した。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平野俊貴"
+    },
+    "sourceNote": "Wikipedia日本語版(項目名「平野俊貴」)を参照(2026年8月時点)。初版第1巻の挿絵は若菜等が担当、第2巻以降を平野俊弘が担当と確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shiki-satoshi",
+    "name": "士貴智志",
+    "nameKana": "しきさとし",
+    "description": "1970年生まれの漫画家。『進撃の巨人 Before the fall』などで知られ、初期に『魔法戦士リウイ』の挿絵も担当した。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/士貴智志"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。後年は横田守も挿絵を担当。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yoshinaka-shouko",
+    "name": "義仲翔子",
+    "nameKana": "よしなかしょうこ",
+    "description": "イラストレーター・漫画家。『ロスト・ユニバース』『スレイヤーズ』の漫画版等を手がけた。後年は緋尾乃嵩巳(ひびのたかみ)名義でも活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/義仲翔子"
+    },
+    "sourceNote": "Wikipedia日本語版(現項目名「緋尾乃嵩巳」、旧名義義仲翔子)を参照(2026年8月時点)。出典の乏しいスタブ記事のため詳細経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kouji-illustrator",
+    "name": "弘司",
+    "nameKana": "こうじ",
+    "description": "水彩画を中心に活動するイラストレーター。『ザンヤルマの剣士』『クレギオン』などライトノベルの表紙・挿絵を多数手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弘司"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。生年月日等の記載なし。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "katou-naoyuki",
+    "name": "加藤直之",
+    "nameKana": "かとうなおゆき",
+    "description": "1952年生まれのSFイラストレーター。スタジオぬえ出身で『宇宙戦艦ヤマト』のメカデザインや『グイン・サーガ』の挿絵などを手がけ、星雲賞アート部門を通算8回受賞。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加藤直之"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。正伝1～19巻・外伝1～5巻の挿絵を担当。以降は天野喜孝(20-56巻)ら複数の画家が担当。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yasuhiko-yoshikazu",
+    "name": "安彦良和",
+    "nameKana": "やすひこよしかず",
+    "description": "1947年生まれ。『機動戦士ガンダム』のキャラクターデザイン・作画監督で知られるアニメーター・漫画家。『クラッシャージョウ』の挿絵も担当。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安彦良和"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "minemura-ryouko",
+    "name": "峯村良子",
+    "nameKana": "みねむらりょうこ",
+    "description": "『なんて素敵にジャパネスク』旧版の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版に単独項目なし。作品記事および書誌情報サイトの記載を参照(2026年8月時点)。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "toujou-kazumi",
+    "name": "東城和実",
+    "nameKana": "とうじょうかずみ",
+    "description": "1962年生まれ、広島県出身の漫画家。「黒いチューリップシリーズ」等で知られ、『炎の蜃気楼』の挿絵も担当した。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東城和実"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "inomata-mutsumi",
+    "name": "いのまたむつみ",
+    "nameKana": "いのまたむつみ",
+    "description": "1960年生まれ(2024年没)のイラストレーター・アニメーター。『Tales of』シリーズのキャラクターデザイン等で知られ、『宇宙皇子』の挿絵を長く担当した。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いのまたむつみ"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
