@@ -14,14 +14,18 @@ function authorLine(work: WorkGenerated): string {
   return `${authors}(${work.illustratorNames.join("・")})`;
 }
 
-/** Fuller card for the main work list page: cover thumbnail, author(illustrator), publisher,
- *  award badges, and clickable theme tags (kept outside the title Link to avoid nesting <a>). */
+/** Fuller card for the main work list page: cover thumbnail on the left, and a right-hand
+ *  column (title/author/publisher/awards + clickable theme tags) so the theme tags line up
+ *  under the text instead of starting under the cover. Theme tags stay outside the title Link
+ *  to avoid nesting <a>, but share its column via a wrapping flex column instead. */
 export function WorkCard({ work }: { work: WorkGenerated }) {
   return (
     <div className="work-card">
-      <Link className="work-card__link" to={`/works/${work.id}`}>
+      <Link className="work-card__cover-link" to={`/works/${work.id}`}>
         <WorkCover title={work.title} coverUrl={work.coverUrl} size="sm" />
-        <div className="work-card__body">
+      </Link>
+      <div className="work-card__content">
+        <Link className="work-card__link" to={`/works/${work.id}`}>
           <div className="work-card__title">{work.title}</div>
           <div className="work-card__meta">
             {authorLine(work)} / {work.publisherName} / {work.firstPublishedYear}年〜 / {STATUS_LABEL[work.status]}
@@ -35,17 +39,17 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
               ))}
             </div>
           )}
-        </div>
-      </Link>
-      {work.themeIds.length > 0 && (
-        <div className="chip-row">
-          {work.themeIds.map((themeId, i) => (
-            <Link className="chip" to={`/themes/${themeId}`} key={themeId}>
-              {work.themeNames[i]}
-            </Link>
-          ))}
-        </div>
-      )}
+        </Link>
+        {work.themeIds.length > 0 && (
+          <div className="chip-row">
+            {work.themeIds.map((themeId, i) => (
+              <Link className="chip" to={`/themes/${themeId}`} key={themeId}>
+                {work.themeNames[i]}
+              </Link>
+            ))}
+          </div>
+        )}
+      </div>
     </div>
   );
 }

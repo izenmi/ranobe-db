@@ -135,14 +135,17 @@ h1 {
 }
 
 .award-chip {
-  background: var(--color-yellow) !important;
+  background: transparent !important;
   border-color: var(--color-yellow-strong) !important;
-  color: var(--color-ink-on-accent);
-  font-weight: 800;
+  color: var(--color-yellow-strong);
+  font-weight: 500;
+  font-size: 0.68rem;
+  padding: 1px 8px;
 }
 
 .award-chip:hover {
-  background: var(--color-yellow-strong) !important;
+  background: var(--color-yellow) !important;
+  color: var(--color-ink-on-accent);
 }
 
 /* ---- Work list rows ---- */
@@ -151,12 +154,14 @@ h1 {
    column left a lot of unused horizontal space on desktop widths. */
 .work-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
   gap: 6px;
   align-items: start;
 }
 
 .work-card {
+  display: flex;
+  gap: 12px;
   padding: 8px 10px;
   border-radius: var(--radius-sm);
   background: var(--color-surface);
@@ -206,16 +211,19 @@ h1 {
   border-color: var(--color-blue-strong);
 }
 
-.work-card__link {
-  display: flex;
-  gap: 10px;
-  text-decoration: none;
-  color: inherit;
+.work-card__cover-link {
+  flex-shrink: 0;
 }
 
-.work-card__body {
+.work-card__content {
   flex: 1;
   min-width: 0;
+}
+
+.work-card__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
 
 .work-card__title {
@@ -255,15 +263,15 @@ h1 {
 }
 
 .work-cover--sm {
-  width: 44px;
-  height: 62px;
-  font-size: 0.5rem;
-  line-height: 1.1;
+  width: 76px;
+  height: 108px;
+  font-size: 0.62rem;
+  line-height: 1.15;
 }
 
 .work-cover--lg {
-  width: 130px;
-  height: 185px;
+  width: 160px;
+  height: 228px;
   font-size: 0.9rem;
   line-height: 1.3;
 }
