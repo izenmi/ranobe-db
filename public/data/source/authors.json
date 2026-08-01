@@ -1812,5 +1812,98 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hyuuga-natsu",
+    "name": "日向夏",
+    "nameKana": "ひゅうがなつ",
+    "description": "小説投稿サイト発の中華風ミステリー『薬屋のひとりごと』で人気を博した作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "torii-nagomu",
+    "name": "鳥居なごむ",
+    "nameKana": "とりいなごむ",
+    "description": "京都アニメーション大賞出身の小説家。『境界の彼方』原作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shirodaira-kyou",
+    "name": "城平京",
+    "nameKana": "しろだいらきょう",
+    "description": "ミステリー・伝奇作品を手掛ける小説家・漫画原作者。『スパイラル』『絶園のテンペスト』などの原作も担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/城平京"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "sugii-hikaru",
+    "name": "杉井光",
+    "nameKana": "すぎいひかる",
+    "description": "音楽ものを得意とする小説家。『さくら、さくら』『ばくおん!』などの作品もある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/杉井光"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ono-fuyumi",
+    "name": "小野不由美",
+    "nameKana": "おのふゆみ",
+    "description": "『屍鬼』『魔性の子』などで知られるファンタジー・ホラー作家。夫は綾辻行人。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小野不由美"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takeda-ayano",
+    "name": "武田綾乃",
+    "nameKana": "たけだあやの",
+    "description": "吹奏楽部を題材にした青春小説で知られる小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武田綾乃"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "makino-keisuke",
+    "name": "牧野圭祐",
+    "nameKana": "まきのけいすけ",
+    "description": "冷戦下の架空宇宙開発を題材にしたSF『月とライカと吸血姫』の作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikawa-goosuto",
+    "name": "三河ごーすと",
+    "nameKana": "みかわごーすと",
+    "description": "青春ラブコメ『友達の妹が俺にだけウザい』の作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ayatsuji-yukito",
+    "name": "綾辻行人",
+    "nameKana": "あやつじゆきと",
+    "description": "『十角館の殺人』などで知られる新本格ミステリー作家。『十二国記』作者・小野不由美の夫。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/綾辻行人"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

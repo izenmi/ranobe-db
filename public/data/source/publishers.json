@@ -417,5 +417,47 @@
     },
     "sourceNote": "Wikipedia日本語版「角川ビーンズ文庫」を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "ka-esuma-bunko",
+    "name": "KAエスマ文庫",
+    "nameKana": "けーえーえすまぶんこ",
+    "description": "京都アニメーションが展開する自社ライトノベルレーベル。自社企画・原作作品を中心に刊行する。",
+    "foundedYear": 2011,
+    "externalLinks": {},
+    "sourceNote": "出版社公式サイト・Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kodansha-taiga",
+    "name": "講談社タイガ",
+    "nameKana": "こうだんしゃたいが",
+    "description": "講談社が2015年に創刊したエンタメ小説レーベル。ミステリー・ファンタジー・SFなど幅広いジャンルの作品を刊行する。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社タイガ"
+    },
+    "sourceNote": "Wikipedia日本語版「講談社タイガ」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kodansha-x-white-heart",
+    "name": "講談社X文庫ホワイトハート",
+    "nameKana": "こうだんしゃえっくすぶんこほわいとはーと",
+    "description": "講談社が展開していた女性向けライトノベルレーベル。ファンタジー・伝奇作品を多数刊行し2001年に休刊した。",
+    "foundedYear": 1991,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "takarajima-bunko",
+    "name": "宝島社文庫",
+    "nameKana": "たからじましゃぶんこ",
+    "description": "宝島社が展開する文庫レーベル。イラスト表紙の青春小説・ライトノベル系作品も刊行する。",
+    "foundedYear": 1997,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

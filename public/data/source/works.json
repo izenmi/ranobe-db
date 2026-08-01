@@ -7240,5 +7240,341 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "kusuriya-no-hitorigoto",
+    "title": "薬屋のひとりごと",
+    "titleKana": "くすりやのひとりごと",
+    "authorIds": [
+      "hyuuga-natsu"
+    ],
+    "illustratorIds": [
+      "shino-touko"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "mystery",
+      "romance",
+      "chuuka-fantasy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "後宮の下級女官として働く薬師の少女・猫猫が、持ち前の薬学知識と観察眼で宮廷内の不可解な事件や毒物騒動を次々と解決していく中華風ミステリー。皇帝の側仕えに取り立てられてからも、彼女の鋭い推理は冴えわたる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/薬屋のひとりごと"
+    },
+    "sourceNote": "Wikipedia日本語版「薬屋のひとりごと」を参照(2026年8月時点)。元は主婦の友社ソフトカバー版(2012年)発、現在はイマジカインフォス刊ヒーロー文庫版で既刊16巻。アニメは第1・2期放送済、第3期2026年10月放送予定。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "log-horizon",
+    "title": "ログ・ホライズン",
+    "titleKana": "ろぐ・ほらいずん",
+    "authorIds": [
+      "daidou-mamare"
+    ],
+    "illustratorIds": [
+      "hara-kazuhiro"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "vrmmo",
+      "sf"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "人気VRMMO『エルダー・テイル』のプレイヤー数万人が、大型アップデートを機に突如ゲーム世界そのものに閉じ込められる。冷静な戦略家シロエは仲間と共にギルドを設立し、混乱する異世界での秩序回復とゲーム内住民との共存を目指して奔走する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ログ・ホライズン"
+    },
+    "sourceNote": "Wikipedia日本語版「ログ・ホライズン」を参照(2026年8月時点)。既刊11巻。著者橙乃ままれは既存作品『まおゆう魔王勇者』と同一人物のため既存author id再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kyoukai-no-kanata",
+    "title": "境界の彼方",
+    "titleKana": "きょうかいのかなた",
+    "authorIds": [
+      "torii-nagomu"
+    ],
+    "illustratorIds": [
+      "kamoi-tomoyo"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "不死身の半妖・神原秋人と、妖夢を狩る一族の少女・栗山未来。彼を討とうとした未来だったが討伐に失敗し、奇妙な同居生活が始まる。日常に紛れ込む怪異の影と、二人を巻き込む旧家の因縁が徐々に明らかになっていく学園異能譚。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2011,
+        "result": "第2回奨励賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/境界の彼方"
+    },
+    "sourceNote": "Wikipedia日本語版「境界の彼方」を参照(2026年8月時点)。京都アニメーション自社レーベル「KAエスマ文庫」刊行、全3巻。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kyokou-suiri",
+    "title": "虚構推理",
+    "titleKana": "きょこうすいり",
+    "authorIds": [
+      "shirodaira-kyou"
+    ],
+    "illustratorIds": [
+      "katase-chashiba"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "horror"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "交通事故で片目と片足を失う代わりに、怪異を統べる神となった少女・岩永琴子。人智を超えた知恵を持つ不死身の青年と組み、噂やネットの憶測から生まれる怪奇現象の謎を、真実ではなく人々が納得する「虚構」の推理で解決していく。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2012,
+        "result": "第12回小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚構推理"
+    },
+    "sourceNote": "Wikipedia日本語版「虚構推理」を参照(2026年8月時点)。初出は講談社ノベルス(2011年)、現行は講談社タイガ版で既刊7巻。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "rakuen-noise",
+    "title": "楽園ノイズ",
+    "titleKana": "らくえんのいず",
+    "authorIds": [
+      "sugii-hikaru"
+    ],
+    "illustratorIds": [
+      "haruna-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "music",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "バンドを解散し音楽から距離を置いていた高校生・杉山真琴は、ひょんな事情から女装して弾き語りをした動画がネットで拡散し話題に。元コンクール優勝者のピアニストや個性的な音楽仲間たちと出会い、再びバンド活動へと踏み出していく青春音楽劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/楽園ノイズ"
+    },
+    "sourceNote": "Wikipedia日本語版「楽園ノイズ」を参照(2026年8月時点)。電撃文庫刊、既刊8巻。2022〜2024年に月刊コミックアライブでコミカライズ。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "juuni-kokki",
+    "title": "十二国記",
+    "titleKana": "じゅうにこくき",
+    "authorIds": [
+      "ono-fuyumi"
+    ],
+    "illustratorIds": [
+      "yamada-akihiro"
+    ],
+    "publisherId": "kodansha-x-white-heart",
+    "themeIds": [
+      "chuuka-fantasy",
+      "isekai-fantasy",
+      "senki"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "平凡な女子高生・中嶋陽子は、金色の髪の男に導かれ見知らぬ異世界へと連れ去られる。そこは麒麟が天意によって王を選び治める十二の国からなる世界だった。過酷な運命に翻弄されながら、陽子は自らの弱さと向き合い王としての自覚を得ていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十二国記"
+    },
+    "sourceNote": "Wikipedia日本語版「十二国記」を参照(2026年8月時点)。ここでは初出の講談社X文庫ホワイトハート版(1992-2001年、全11巻)を対象として記載。2012年以降は新潮文庫版で刊行継続中。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hibike-euphonium",
+    "title": "響け!ユーフォニアム",
+    "titleKana": "ひびけ!ゆーふぉにあむ",
+    "authorIds": [
+      "takeda-ayano"
+    ],
+    "illustratorIds": [
+      "asada-nikki"
+    ],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "gakuen",
+      "sports",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "かつての強豪校も今は見る影のない北宇治高校吹奏楽部。ユーフォニアム奏者の黄前久美子は、新任顧問の指導のもと全国大会出場という高い目標を掲げる部員たちの葛藤や衝突を目の当たりにしながら、仲間と共に本気で音楽に向き合っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/響け!ユーフォニアム"
+    },
+    "sourceNote": "Wikipedia日本語版「響け!ユーフォニアム」を参照(2026年8月時点)。宝島社文庫刊、長編7巻+短編集3巻+ガイドブック1巻の計11巻構成。京都アニメーションによるアニメ化で全国的にヒット。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuki-to-raika-to-kyuuketsuki",
+    "title": "月とライカと吸血姫",
+    "titleKana": "つきとらいかときゅうけつき",
+    "authorIds": [
+      "makino-keisuke"
+    ],
+    "illustratorIds": [
+      "karei"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sf",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "冷戦下の架空国家で進む有人宇宙飛行計画。実験体として使い捨てられる運命にあった吸血鬼の少女イリナは、飛行士候補生レフの訓練相棒に抜擢される。差別と偏見の中、二人は史上初の有人宇宙飛行という夢に挑んでいく。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 2022,
+        "result": "第53回日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月とライカと吸血姫"
+    },
+    "sourceNote": "Wikipedia日本語版「月とライカと吸血姫」を参照(2026年8月時点)。ガガガ文庫刊、全7巻。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tomodachi-no-imouto-ga-ore-ni-dake-uzai",
+    "title": "友達の妹が俺にだけウザい",
+    "titleKana": "ともだちのいもうとがおれにだけうざい",
+    "authorIds": [
+      "mikawa-goosuto"
+    ],
+    "illustratorIds": [
+      "tomari"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "romance",
+      "seishun-lovecome",
+      "imouto",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "効率重視でゲーム制作サークルを率いる高校生・大星明照。友人の妹でありながら自分にだけ辛辣な態度を取る伊呂波を筆頭に、それぞれ夢を追う個性的な仲間たちに囲まれながら、素直になれない男女の距離が少しずつ縮まっていく青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "文庫部門3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/友達の妹が俺にだけウザい"
+    },
+    "sourceNote": "Wikipedia日本語版「友達の妹が俺にだけウザい」を参照(2026年8月時点)。SBクリエイティブGA文庫刊、既刊11巻。シリーズ累計60万部突破、2025年10月アニメ放送。イラストレーターのトマリは既存著者ID「tomari」を再利用(既存作品では別名義illustrator idとして登録済みのものと同一人物と判断)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "another",
+    "title": "Another",
+    "titleKana": "あなざー",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "illustratorIds": [
+      "itou-noiji"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "26年前に起きたある出来事をきっかけに、夜見山北中学三年三組には毎年何かが「増える」呪いがかけられていた。転校生の榊原恒一は、クラスに存在しないはずの少女・見崎鳴と出会い、次々と死者が出る恐怖の渦中に巻き込まれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Another"
+    },
+    "sourceNote": "Wikipedia日本語版「Another」を参照(2026年8月時点、原文の infobox でスニーカー文庫版イラストがいとうのいぢと明記されているのを直接確認済み)。角川書店ハードカバー版(挿絵:遠田志帆)のほか角川スニーカー文庫版(挿絵:いとうのいぢ)が刊行、ここではスニーカー文庫版(全2巻)を採用。イラストレーターは既存作品『涼宮ハルヒの憂鬱』と同一人物のため既存id再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

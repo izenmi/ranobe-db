@@ -1588,5 +1588,77 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shino-touko",
+    "name": "しのとうこ",
+    "nameKana": "しのとうこ",
+    "description": "『薬屋のひとりごと』文庫版(ヒーロー文庫)の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hara-kazuhiro",
+    "name": "ハラカズヒロ",
+    "nameKana": "はらかずひろ",
+    "description": "『ログ・ホライズン』書籍版の挿絵を手掛けるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kamoi-tomoyo",
+    "name": "鴨居知世",
+    "nameKana": "かもいともよ",
+    "description": "『境界の彼方』の挿絵・キャラクターデザインを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "katase-chashiba",
+    "name": "片瀬茶柴",
+    "nameKana": "かたせちゃしば",
+    "description": "『虚構推理』の小説挿絵およびコミカライズ作画を担当するイラストレーター・漫画家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "haruna-yuu",
+    "name": "春夏冬ゆう",
+    "nameKana": "はるなゆう",
+    "description": "『楽園ノイズ』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yamada-akihiro",
+    "name": "山田章博",
+    "nameKana": "やまだあきひろ",
+    "description": "『十二国記』の挿絵で知られるイラストレーター・漫画家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "asada-nikki",
+    "name": "アサダニッキ",
+    "nameKana": "あさだにっき",
+    "description": "『響け!ユーフォニアム』の表紙イラストを手掛けるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "karei",
+    "name": "かれい",
+    "nameKana": "かれい",
+    "description": "『月とライカと吸血姫』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

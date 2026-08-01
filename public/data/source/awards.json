@@ -287,5 +287,27 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「雪乃紗衣」の記述を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "honkaku-mystery-taisho",
+    "name": "本格ミステリ大賞",
+    "organizer": "本格ミステリ作家クラブ",
+    "description": "本格ミステリ作家クラブが主催する、優れた本格ミステリ小説・評論に贈られる賞。",
+    "firstYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本格ミステリ大賞"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kyoto-animation-taisho",
+    "name": "京都アニメーション大賞",
+    "organizer": "京都アニメーション",
+    "description": "京都アニメーションが自社アニメ化を前提に主催していた小説・シナリオ・漫画の公募新人賞。",
+    "firstYear": 2009,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
