@@ -201,6 +201,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2008,
         "result": "作品部門1位"
+      },
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "3位"
       }
     ]
   },
@@ -704,6 +709,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2006,
         "result": "作品部門2位"
+      },
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "4位"
       }
     ]
   },
@@ -3002,7 +3012,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔女の旅々"
     },
     "sourceNote": "Wikipedia日本語版「魔女の旅々」を参照し独自に要約(2026年7月時点)。Amazon Kindleでの自費出版を経て商業化された経歴を持ち、新人賞受賞歴はなし。既刊巻数は変動が大きいため未記載。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "単行本・ノベルズ部門6位"
+      }
+    ]
   },
   {
     "id": "kamisama-no-inai-nichiyoubi",
@@ -3135,7 +3152,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔術士オーフェン"
     },
     "sourceNote": "Wikipedia日本語版「魔術士オーフェン」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でファンタジア長編小説大賞・準入選を受賞しデビュー)。巻数は本編(1994〜2003年)のみを基準とし、2011年以降の新装版・新シリーズは含めていない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "7位"
+      }
+    ]
   },
   {
     "id": "goblin-slayer",
@@ -3195,7 +3219,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじ巻き精霊戦記_天鏡のアルデラミン"
     },
     "sourceNote": "Wikipedia日本語版「ねじ巻き精霊戦記_天鏡のアルデラミン」を参照し独自に要約(2026年7月時点)。新人賞受賞歴は確認できず未記載。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2013,
+        "result": "第2回3位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2014,
+        "result": "作品部門2位"
+      }
+    ]
   },
   {
     "id": "seirei-gensouki",
@@ -3443,7 +3479,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京レイヴンズ"
     },
     "sourceNote": "Wikipedia日本語版「東京レイヴンズ」を参照し独自に要約(2026年7月時点)。新人賞受賞歴はなし。既刊21巻(2025年時点)だが、完結・中断いずれの宣言も確認できないため完結状況は不明とした。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2014,
+        "result": "作品部門7位"
+      },
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2014,
+        "result": "ライトノベル部門10位"
+      }
+    ]
   },
   {
     "id": "jaku-chara-tomozaki-kun",
@@ -3577,7 +3625,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュラララ!!"
     },
     "sourceNote": "Wikipedia日本語版「デュラララ!!」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「バッカーノ!」でデビュー)。第一部(全13巻)を基準とし、続編「デュラララ!!SH」は含めていない。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "作品部門7位"
+      }
+    ]
   },
   {
     "id": "iriya-no-sora-ufo-no-natsu",
@@ -3604,7 +3659,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏"
     },
     "sourceNote": "Wikipedia日本語版「イリヤの空、UFOの夏」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「ブラックロッド」でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "2位"
+      }
+    ]
   },
   {
     "id": "hanbun-no-tsuki-ga-noboru-sora",
@@ -3630,7 +3692,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/半分の月がのぼる空"
     },
     "sourceNote": "Wikipedia日本語版「半分の月がのぼる空」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品「猫目狩り」で電撃ゲーム小説大賞・金賞を受賞しデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "作品部門10位"
+      }
+    ]
   },
   {
     "id": "toshokan-sensou",

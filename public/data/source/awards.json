@@ -202,6 +202,16 @@
     "updatedAt": "2026-07-31"
   },
   {
+    "id": "nikkei-bp-light-novel-ranking",
+    "name": "ライトノベルランキング(日経BP社)",
+    "organizer": "日経BP社",
+    "description": "日経BP社がネット投票をもとに実施した2003年度のライトノベル人気ランキング企画。",
+    "firstYear": 2003,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia各作品記事の引用を参照(2026年7月時点)。",
+    "updatedAt": "2026-07-31"
+  },
+  {
     "id": "seiun-sho",
     "name": "星雲賞",
     "organizer": "日本SFファングループ連合会議(日本SF大会参加者投票)",
