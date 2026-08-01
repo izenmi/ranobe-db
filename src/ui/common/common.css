@@ -117,11 +117,11 @@ h1 {
 
 .chip {
   display: inline-block;
-  padding: 2px 10px;
+  padding: 1px 8px;
   border-radius: var(--radius-pill);
   background: var(--color-surface-variant);
   color: var(--color-primary-strong);
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   font-weight: 600;
   text-decoration: none;
   border: 1px solid var(--color-outline);
@@ -193,13 +193,14 @@ h1 {
 }
 
 .pager__page {
-  min-width: 40px;
-  height: 40px;
-  padding: 0 10px;
+  min-width: 30px;
+  height: 30px;
+  padding: 0 8px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--color-outline);
   background: var(--color-surface-variant);
   color: var(--color-text);
+  font-size: 0.85rem;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
   cursor: pointer;
@@ -223,12 +224,13 @@ h1 {
 }
 
 .pager__next {
-  padding: 0 18px;
-  height: 40px;
+  padding: 0 14px;
+  height: 30px;
   border-radius: var(--radius-pill);
   border: 1px solid var(--color-outline);
   background: var(--color-surface);
   color: var(--color-text);
+  font-size: 0.85rem;
   font-weight: 700;
   cursor: pointer;
 }
