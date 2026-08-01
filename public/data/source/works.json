@@ -2482,7 +2482,19 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕は友達が少ない"
     },
     "sourceNote": "Wikipedia日本語版「僕は友達が少ない」を参照し独自に要約(2026年7月時点)。本作自体の新人賞受賞歴はなし(著者は別作品でデビュー)。",
-    "updatedAt": "2026-07-31"
+    "updatedAt": "2026-07-31",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2011,
+        "result": "作品部門2位"
+      },
+      {
+        "awardId": "denshi-shoseki-award",
+        "year": 2013,
+        "result": "ライトノベル部門9位"
+      }
+    ]
   },
   {
     "id": "imouto-sae-ireba-ii",
