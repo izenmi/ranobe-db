@@ -9201,5 +9201,329 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "maria-sama-ga-miteru",
+    "title": "マリア様がみてる",
+    "titleKana": "まりあさまがみてる",
+    "authorIds": [
+      "konno-oyuki"
+    ],
+    "illustratorIds": [
+      "hibiki-reine"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "yuri",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "全寮制の私立リリアン女学園に入学した福沢祐巳は、生徒会組織「山百合会」に属する先輩・小笠原祥子の「姉妹(スール)」に望まれ、戸惑いながらもその関係を受け入れていく。先輩後輩の擬似姉妹制度を軸に、少女たちの繊細な心の機微と伝統ある学園の日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "nikkei-bp-light-novel-ranking",
+        "year": 2003,
+        "result": "1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリア様がみてる"
+    },
+    "sourceNote": "Wikipedia日本語版「マリア様がみてる」を参照(2026年8月時点)。日経BPライトノベルランキング2003年1位。集英社コバルト文庫の代表的な学園シリーズ。TVアニメ4期+OVA、漫画化複数あり。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "trinity-blood",
+    "title": "トリニティ・ブラッド",
+    "titleKana": "とりにてぃぶらっど",
+    "authorIds": [
+      "yoshida-sunao"
+    ],
+    "illustratorIds": [
+      "thores-shibamoto"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "sf",
+      "post-apocalypse",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "核戦争により荒廃した未来の地球で、人類と吸血鬼とが脆い均衡を保ちながら共存する世界。バチカン特務局に属する神父アベル・ナイトロードが、両種族の対立の裏で蠢く陰謀に立ち向かうダークファンタジー。優雅さと凄惨さが同居する終末世界の群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリニティ・ブラッド"
+    },
+    "sourceNote": "Wikipedia日本語版「トリニティ・ブラッド」を参照(2026年8月時点)。角川スニーカー文庫刊、全12巻。著者急逝により物語は未完のまま終了。2005年にTVアニメ化(全24話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "maburaho",
+    "title": "まぶらほ",
+    "titleKana": "まぶらほ",
+    "authorIds": [
+      "tsukiji-toshihiko"
+    ],
+    "illustratorIds": [
+      "komato-eeji"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "mahou",
+      "harem",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "魔法使いの名家に生まれながら、生まれつき魔力をほぼ使い果たしてしまった劣等生・小鳥遊瞬。だが「彼の子孫は強大な魔法使いになる」という特異体質のため、学園の美少女3人から求婚され同居生活を送ることになる魔法学園ハーレムコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まぶらほ"
+    },
+    "sourceNote": "Wikipedia日本語版「まぶらほ」を参照(2026年8月時点)。富士見ファンタジア文庫刊、計33巻(2001-2015年)。2003-2004年にTVアニメ化(全24話)。イラストレーター駒都えーじは既存収録『ゴールデンタイム』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "bakusatsu-tenshi-dokuro-chan",
+    "title": "撲殺天使ドクロちゃん",
+    "titleKana": "ぼくさつてんしどくろちゃん",
+    "authorIds": [
+      "okayu-masaki"
+    ],
+    "illustratorIds": [
+      "torishimo"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "horror"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "ごく普通の中学生・草壁桜の机の引き出しから現れた自称天使のドクロちゃん。桜への愛が高じるあまり魔法の凶器「エスカリボルグ」で彼を撲殺してしまうが、そのたび謎の擬音とともに蘇生させる。流血とギャグが同居する愛と涙のグロテスク系コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "作品部門9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/撲殺天使ドクロちゃん"
+    },
+    "sourceNote": "Wikipedia日本語版「撲殺天使ドクロちゃん」を参照(2026年8月時点)。電撃文庫刊、全11巻。OVAで2度アニメ化(2005-2007年)。『このライトノベルがすごい!2005』作品部門9位。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "musekinin-kanchou-tyler",
+    "title": "無責任艦長タイラー",
+    "titleKana": "むせきにんかんちょうたいらー",
+    "authorIds": [
+      "yoshioka-hitoshi"
+    ],
+    "illustratorIds": [
+      "tsuzuki-kazuhiko"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "怠け者で無責任、しかし桁外れの強運を持つ青年タイラー。ひょんなことから宇宙軍に入隊した彼は、山勘と幸運だけで数々の危機を切り抜けて次々に昇進し、ついには銀河系全体の命運を左右する艦長にまで上り詰めてしまうスペースオペラ・コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無責任艦長タイラー"
+    },
+    "sourceNote": "Wikipedia日本語版「宇宙一の無責任男」を参照(2026年8月時点)。富士見ファンタジア文庫刊、本編9巻(1989-1996年、別途外伝6巻あり)。1993年にTVアニメ化、2017年には続編『無責任ギャラクシー☆タイラー』もアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "sora-no-naka",
+    "title": "空の中",
+    "titleKana": "そらのなか",
+    "authorIds": [
+      "arikawa-hiro"
+    ],
+    "illustratorIds": [
+      "kamabe-yoshihiko"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "訓練中の戦闘機が謎の未確認物体と衝突したことをきっかけに、高知県上空に棲む知性を持つ白い巨大生物「白鯨」の存在が明らかになる。自衛隊員と高校生たちが、異種知性体との接触と共存の可能性を模索するSF群像劇。有川ひろ「自衛隊三部作」の一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空の中"
+    },
+    "sourceNote": "Wikipedia日本語版「空の中」を参照(2026年8月時点)。単行本はメディアワークス(2004年)、文庫版は角川文庫(2008年)。著者は既存収録済み『塩の街』『図書館戦争』と同一の有川ひろ(arikawa-hiro)のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "neko-no-chikyuugi",
+    "title": "猫の地球儀",
+    "titleKana": "ねこのちきゅうぎ",
+    "authorIds": [
+      "akiyama-mizuhito"
+    ],
+    "illustratorIds": [
+      "shiina-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "人類が滅んだ遠未来、宇宙のスペースコロニーでロボットを駆使して暮らす、知性を得た猫たちの物語。黒猫のカシュガルと白猫のホムラ、二匹の交錯する旅路を通じて、夢を追うことに伴う犠牲を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/猫の地球儀"
+    },
+    "sourceNote": "Wikipedia日本語版「猫の地球儀」を参照(2026年8月時点)。電撃文庫刊、全2巻(2000年)。第32回星雲賞日本長編部門最終候補(受賞ではなく候補どまりのためawardResultsには含めず)。著者・イラストレーターは既存収録済み『イリヤの空、UFOの夏』等と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "vamp",
+    "title": "ヴぁんぷ!",
+    "titleKana": "う゛ぁんぷ",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "enami-katsumi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2008,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "孤島グロウズ島を治める、あまり吸血鬼らしくない吸血鬼ゲルハルト・フォン・バウアーシュタイン。半鬼、ヴァンパイアイーター、人間が入り乱れる島で次々と巻き起こる怪事件を、成田良悟らしい群像劇と乾いたユーモアで描くダークファンタジー。デュラララ!!等と世界観を共有する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴぁんぷ!"
+    },
+    "sourceNote": "Wikipedia日本語版「ヴぁんぷ!」を参照(2026年8月時点)。電撃文庫刊、2004年刊行開始、既刊5巻。近年新刊が出ておらず事実上長期休止中のためongoingとした。著者・イラストレーターは既存収録済み『バッカーノ!』『デュラララ!!』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "tatakau-shisho",
+    "title": "戦う司書 -The Book of Bantorra-",
+    "titleKana": "たたかうししょ",
+    "authorIds": [
+      "yamagata-ishio"
+    ],
+    "illustratorIds": [
+      "maeshima-shigeki"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "死者の魂が結晶化した「本」を集め守るバントーラ図書館。それを守護する戦闘集団「武装司書」最強の一人を暗殺するため送り込まれた、記憶を失った少年爆弾兵ハミュッツ。しかし守るべき対象である姫君の「本」に恋をしてしまったことで、彼の運命は大きく揺らぎ始める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦う司書"
+    },
+    "sourceNote": "Wikipedia日本語版「戦う司書シリーズ」を参照(2026年8月時点)。スーパーダッシュ文庫(集英社)刊、全10巻(2005-2010年)。2009-2010年にTVアニメ化。著者は既存収録済み『六花の勇者』と同一の山形石雄(yamagata-ishio)のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "alison",
+    "title": "アリソン",
+    "titleKana": "ありそん",
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "alternate-history",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "一つの大陸を東西に分かつ二つの国家が、長きにわたり戦争を続ける世界。「戦争を終わらせる力を持つ」とされる伝説の宝を探す任務を負った少女アリソンと、幼なじみの青年ヴィルが、複葉機を駆って大陸を渡っていく架空戦記アドベンチャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一つの大陸の物語シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「一つの大陸の物語シリーズ」を参照(2026年8月時点)。電撃文庫刊、全4巻(2002-2005年)。続編『リリアとトレイズ』等とあわせ大シリーズ「一つの大陸の物語」を構成。2008年にアニメ化(『アリソンとリリア』)。著者・イラストレーターは既存収録済み『キノの旅』『SAOオルタナティブ』と同一人物のため既存IDを再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

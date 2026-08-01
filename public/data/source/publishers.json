@@ -489,5 +489,18 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "shueisha-cobalt-bunko",
+    "name": "コバルト文庫",
+    "nameKana": "こばるとぶんこ",
+    "parentCompany": "集英社",
+    "description": "1976年創刊、集英社の少女小説・ライトノベルレーベル。ティーンズ向けの恋愛・学園ものを中心に刊行し、『マリア様がみてる』など長期人気シリーズを輩出した。",
+    "foundedYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コバルト文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「コバルト文庫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

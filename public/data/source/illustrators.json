@@ -2032,5 +2032,71 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hibiki-reine",
+    "name": "ひびき玲音",
+    "nameKana": "ひびきれいね",
+    "description": "茨城県出身。1997年第8回コバルト・イラスト大賞準大賞受賞。『マリア様がみてる』の挿絵で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひびき玲音"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "thores-shibamoto",
+    "name": "THORES柴本",
+    "nameKana": "とーれすしばもと",
+    "description": "『ザ・スニーカー』の読者投稿コーナーから見出され、『トリニティ・ブラッド』の挿絵でプロデビューした幻想的な作風のイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/THORES柴本"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "torishimo",
+    "name": "とりしも",
+    "nameKana": "とりしも",
+    "description": "新潟県出身。2002年『電撃hp』で商業誌デビューし、『撲殺天使ドクロちゃん』の挿絵で知られたイラストレーター(2017年逝去)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とりしも"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsuzuki-kazuhiko",
+    "name": "都築和彦",
+    "nameKana": "つづきかずひこ",
+    "description": "元日本ファルコム社員で、同社ゲーム『ザナドゥ』等の公式イラストを担当。『宇宙一の無責任男』シリーズの挿絵で知られる漫画家・イラストレーター。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/都築和彦"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kamabe-yoshihiko",
+    "name": "鎌部善彦",
+    "nameKana": "かまべよしひこ",
+    "description": "『空の中』単行本版の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "maeshima-shigeki",
+    "name": "前嶋重機",
+    "nameKana": "まえしましげき",
+    "description": "複数のゲーム会社勤務を経た漫画家・イラストレーター。カプコン在籍時代に作家・古橋秀之と同僚だった。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/前嶋重機"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026-08-01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

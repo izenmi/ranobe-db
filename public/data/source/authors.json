@@ -2311,5 +2311,64 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "konno-oyuki",
+    "name": "今野緒雪",
+    "nameKana": "こんのおゆき",
+    "description": "東京都出身。銀行員を7年勤めた後に転身し、1993年『夢の宮〜竜の見た夢〜』でコバルト・ノベル大賞を受賞してデビュー。コバルト文庫を代表する作家。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今野緒雪"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yoshida-sunao",
+    "name": "吉田直",
+    "nameKana": "よしだすなお",
+    "description": "福岡県出身。早稲田大学法学部卒、京都大学大学院修了。1997年第2回スニーカー大賞受賞でデビュー。『トリニティ・ブラッド』執筆中の2004年、34歳で急逝しシリーズは未完となった。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田直"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsukiji-toshihiko",
+    "name": "築地俊彦",
+    "nameKana": "つきじとしひこ",
+    "description": "ゲーム制作会社勤務を経て1999年『ライトセイバーズ』でデビュー。代表作『まぶらほ』『けんぷファー』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/築地俊彦"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "okayu-masaki",
+    "name": "おかゆまさき",
+    "nameKana": "おかゆまさき",
+    "description": "埼玉県出身。2001年『撲殺天使ドクロちゃん』が電撃hp短編小説賞の第2次審査を通過しデビュー。電撃文庫を中心に活動するライトノベル作家。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おかゆまさき"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yoshioka-hitoshi",
+    "name": "吉岡平",
+    "nameKana": "よしおかひとし",
+    "description": "岡山県出身。早稲田大学第二文学部中退。1984年劇場版『コータローまかりとおる!』ノベライズでデビュー。ライトノベルから架空戦記まで手がける多作家で「月刊吉岡」の異名を持つ(2023年逝去)。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉岡平"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]
