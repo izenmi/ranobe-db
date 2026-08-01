@@ -1986,5 +1986,80 @@
     },
     "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mikumo-gakuto",
+    "name": "三雲岳斗",
+    "nameKana": "みくもがくと",
+    "description": "1970年生まれ、大分県出身。1998年に電撃ゲーム小説大賞銀賞でデビュー。SF・ファンタジー・ミステリなど幅広いジャンルで活躍し、代表作の多くがメディアミックス化されている。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三雲岳斗"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hihihi",
+    "name": "日日日",
+    "nameKana": "あきら",
+    "description": "1986年生まれ。高校在学中に複数の文学賞を受賞し「コンテスト荒らし」として知られた多作家。近年はゲームシナリオ制作が中心。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日日日"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "mita-makoto",
+    "name": "三田誠",
+    "nameKana": "みたまこと",
+    "description": "1977年生まれ、神戸出身、同志社大学卒。グループSNE出身のゲームデザイナー・作家。TYPE-MOON関連作品を中心に、ミステリとファンタジーを融合させた作風で知られる。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三田誠"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hasegawa-toshiji",
+    "name": "長谷敏司",
+    "nameKana": "はせさとし",
+    "description": "1974年生まれ、大阪府出身、関西大学卒。2001年に第6回スニーカー大賞金賞でデビュー。ハードSFを得意とし、人工知能をテーマにした作品を多く手掛ける。2015年・2024年に日本SF大賞を受賞。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長谷敏司"
+    },
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "umihara-rei",
+    "name": "海原零",
+    "nameKana": "うみはられい",
+    "description": "スーパーダッシュ文庫出身の作家。フィギュアスケートを題材にした「銀盤カレイドスコープ」でデビューし、同賞大賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "yuuji-yuuji",
+    "name": "裕時悠示",
+    "nameKana": "ゆうじゆうじ",
+    "description": "GA文庫を代表するラブコメ作家の一人。「俺の彼女と幼なじみが修羅場すぎる」(通称:俺修羅)で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "nomura-mizuki",
+    "name": "野村美月",
+    "nameKana": "のむらみづき",
+    "description": "福島県出身、東洋大学文学部卒。2001年に野村美月名義でファミ通エンタテインメント大賞小説部門最優秀賞を受賞。少女小説的な作風を得意とする。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版を参照(2026年08月01時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

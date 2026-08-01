@@ -7897,5 +7897,326 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "strike-the-blood",
+    "title": "ストライク・ザ・ブラッド",
+    "titleKana": "すとらいく・ざ・ぶらっど",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "manyako"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "battle-action",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "世界最強の吸血鬼「第四真祖」と呼ばれる少年・暁古城と、彼を監視する剣巫の少女・雪菜。人工島「絃神島」を舞台に、魔族や怪異が引き起こす事件に二人が挑む学園伝奇アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ストライク・ザ・ブラッド"
+    },
+    "sourceNote": "Wikipedia日本語版「ストライク・ザ・ブラッド」を参照(2026年8月時点)。本編22巻+番外編5巻(計27巻)。本編は完結、番外編は継続中のためongoingとした。2013年よりアニメ化、以後OVA化で最終巻まで映像化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "oikura-kyouko-no-bibouroku",
+    "title": "掟上今日子の備忘録",
+    "titleKana": "おきてがみきょうこのびぼうろく",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "vofan"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "眠ると記憶が消える「最速の名探偵」掟上今日子は、依頼を受けたその日のうちに事件を解決しなければならない。忘却という制約を逆手に取り、鮮やかな推理を披露していく連作ミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/掟上今日子の備忘録"
+    },
+    "sourceNote": "Wikipedia日本語版「掟上今日子の備忘録」(忘却探偵シリーズ)を参照(2026年8月時点)。初刊は講談社BOX、後に講談社タイガに移行、既刊15巻。テレビアニメ化はされていないが、2015年に実写ドラマ化、漫画化(全5巻)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kyouran-kazoku-nikki",
+    "title": "狂乱家族日記",
+    "titleKana": "きょうらんかぞくにっき",
+    "authorIds": [
+      "hihihi"
+    ],
+    "illustratorIds": [
+      "x6suke"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "comedy",
+      "mahou",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "破壊神「厭火」の子供と噂される者たちが対策機関の監視下で集められ、疑似家族として共同生活を送ることに。互いへの疑念を抱えながらも絆を育んでいく、シュールな会話劇とバトルが同居するホームコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狂乱家族日記"
+    },
+    "sourceNote": "Wikipedia日本語版「狂乱家族日記」を参照(2026年8月時点)。エンターブレイン/ファミ通文庫刊、本編15巻+番外編9巻の全24巻。2008年にテレビアニメ化(全26話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "kamisama-no-memo-chou",
+    "title": "神様のメモ帳",
+    "titleKana": "かみさまのめもちょう",
+    "authorIds": [
+      "sugii-hikaru"
+    ],
+    "illustratorIds": [
+      "kishida-mel"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "渋谷のアパートに引きこもるニート探偵集団「NEET探偵団」。記憶力抜群の少女アリスを筆頭に、街で起きる小さな謎から薬物絡みの事件までを解き明かしていく青春ミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様のメモ帳"
+    },
+    "sourceNote": "Wikipedia日本語版「神様のメモ帳」を参照(2026年8月時点)。電撃文庫刊、全9巻完結。2011年夏にテレビアニメ化(全12話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "lord-el-melloi-ii-sei-no-jikenbo",
+    "title": "ロード・エルメロイII世の事件簿",
+    "titleKana": "ろーど・えるめろいにせいのじけんぼ",
+    "authorIds": [
+      "mita-makoto"
+    ],
+    "illustratorIds": [
+      "sakamoto-mineji"
+    ],
+    "publisherId": "typemoon-books",
+    "themeIds": [
+      "mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "第四次聖杯戦争から10年後のロンドン、時計塔。ロード・エルメロイII世として教鞭を執る青年が、内弟子グレイたちと共に魔術がらみの怪事件を解決していく、Fateシリーズ派生の学術ミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロード・エルメロイII世の事件簿"
+    },
+    "sourceNote": "Wikipedia日本語版「ロード・エルメロイII世の事件簿」を参照(2026年8月時点)。TYPE-MOON BOOKS刊(角川文庫版もあり)。「事件簿」本編は全10巻で完結、続編『冒険』が連載中のためongoingとした。2019年にテレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "beatless",
+    "title": "BEATLESS",
+    "titleKana": "びーとれす",
+    "authorIds": [
+      "hasegawa-toshiji"
+    ],
+    "illustratorIds": [
+      "redjuice"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "sf"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "22世紀、人間そっくりの人型端末hIEが日常に浸透した日本。高校生・遠藤アラトは、人類未到達の知性を持つ少女型hIEレイシアと出会い、人と機械の境界を問う事件に巻き込まれていくハードSF。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BEATLESS"
+    },
+    "sourceNote": "Wikipedia日本語版「BEATLESS」を参照(2026年8月時点)。2012年に角川書店より単行本刊行、2018年に角川文庫より全2巻で再刊。同年テレビアニメ化。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "ginban-kaleidoscope",
+    "title": "銀盤カレイドスコープ",
+    "titleKana": "ぎんばんかれいどすこーぷ",
+    "authorIds": [
+      "umihara-rei"
+    ],
+    "illustratorIds": [
+      "suzuhira-hiro"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "フィギュアスケート選手・桜野タズサの体に、事故死したカナダ人少年ピートの霊が乗り移る。トリノ五輪当日深夜に成仏するまで一心同体で過ごす二人が、戸惑いながらも五輪出場を目指す青春スポーツ物語。",
+    "awardResults": [
+      {
+        "awardId": "super-dash-shousetsu-shinjinshou",
+        "year": 2002,
+        "result": "第2回大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀盤カレイドスコープ"
+    },
+    "sourceNote": "Wikipedia日本語版「銀盤カレイドスコープ」を参照(2026年8月時点)。集英社スーパーダッシュ文庫刊、全9巻完結。2005年にテレビアニメ化(全12話)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "ore-no-kanojo-to-osananajimi-ga-shurabasugiru",
+    "title": "俺の彼女と幼なじみが修羅場すぎる",
+    "titleKana": "おれのかのじょとおさななじみがしゅらばすぎる",
+    "authorIds": [
+      "yuuji-yuuji"
+    ],
+    "illustratorIds": [
+      "ruroo"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "romance",
+      "harem",
+      "seishun-lovecome",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "恋愛はもう懲り懲りだと思っていた季堂鋭太は、学校一の美女・夏川真涼から偽装カップルを演じるよう強要される。元カノや幼馴染も次々参戦し、恋愛嫌い同士の演技がいつしか本物の修羅場ラブコメへと発展していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺の彼女と幼なじみが修羅場すぎる"
+    },
+    "sourceNote": "Wikipedia日本語版「俺の彼女と幼なじみが修羅場すぎる」を参照(2026年8月時点)。SBクリエイティブ/GA文庫刊、本編18巻+短編集1巻の全19巻。2013年にテレビアニメ化(全13話)。イラストレーターは既存収録『これはゾンビですか?』とは別人物の同名別作品用『るろお』既存IDを再利用(六花の勇者と同一人物)。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "golden-time",
+    "title": "ゴールデンタイム",
+    "titleKana": "ごーるでんたいむ",
+    "authorIds": [
+      "takemiya-yuyuko"
+    ],
+    "illustratorIds": [
+      "komato-eeji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "romance",
+      "memory-loss",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "高校卒業直前の事故で記憶を失った多田万里は、東京の私立大学に進学し新生活を始める。同級生・加賀香子との恋愛や友人たちとの日々を通じて、大学生ならではの痛みと成長を描く青春ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデンタイム_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「ゴールデンタイム(小説)」を参照(2026年8月時点)。電撃文庫刊、本編8巻+外伝・番外・列伝各1巻の全11巻。2013-2014年にテレビアニメ化(全24話)。著者は既存著者「竹宮ゆゆこ」(既存作品「とらドラ!」等)と同一人物のためID再利用。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "bungaku-shoujo-series",
+    "title": "\"文学少女\"シリーズ",
+    "titleKana": "ぶんがくしょうじょしりーず",
+    "authorIds": [
+      "nomura-mizuki"
+    ],
+    "illustratorIds": [
+      "takeoka-miho"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mystery",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "文芸部に強制入部させられた高校生・井上心葉は、紙を食べる奇妙な先輩・天野遠子と出会う。名作文学をモチーフにした事件の謎解きを通じ、心葉自身が抱えるトラウマと向き合っていく連作ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "作品部門1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/文学少女シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「\"文学少女\"シリーズ」を参照(2026年8月時点)。エンターブレイン/ファミ通文庫刊、長編8巻+短編集4巻+外伝4巻の全16巻完結。2010年に劇場版アニメ映画公開。「このライトノベルがすごい!2009」で作品部門含む複数部門受賞。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
   }
 ]
