@@ -3315,5 +3315,77 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「大正野球娘。」より原著版イラストレーターとして確認。個別記事なし。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kisui",
+    "name": "kisui",
+    "nameKana": "きすい",
+    "description": "ライトノベル・コミック双方でキャラクターデザインを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon等の書誌情報より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kanase-benchi",
+    "name": "叶世べんち",
+    "nameKana": "かなせべんち",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon等の書誌情報より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kyouka-hatori",
+    "name": "匈歌ハトリ",
+    "nameKana": "きょうかはとり",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページの表記より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "fuku-kitsune",
+    "name": "福きつね",
+    "nameKana": "ふくきつね",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ表記より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "deecha",
+    "name": "DeeCHA",
+    "nameKana": "でぃーちゃ",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon等の書誌情報より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "amagasa-yun",
+    "name": "雨傘ゆん",
+    "nameKana": "あまがさゆん",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ表記より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "pairan",
+    "name": "白狼",
+    "nameKana": "ぱいらん",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "ニコニコ大百科等の情報より読み方(パイラン)を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsumeki",
+    "name": "詰め木",
+    "nameKana": "つめき",
+    "description": "ライトノベルの挿絵を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ表記より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
   }
 ]

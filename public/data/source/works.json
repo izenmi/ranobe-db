@@ -15055,5 +15055,393 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "tsuihou-cheat-fuyo-majutsushi",
+    "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+    "titleKana": "ついほうされたちーとふよまじゅつしはきままなせかんどらいふをおうかする",
+    "authorIds": [
+      "rokushima-asa"
+    ],
+    "illustratorIds": [
+      "kisui"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "あらゆるものに『強化ポイント』を付与できる魔術師レインは、所属ギルド「獣王の牙」を解雇される。去り際に自分がかけていた強化を全て解除し、小さなギルド「蒼い結晶」へ移籍すると、その規格外の実力が次第に明らかになっていく。かつての仲間たちは彼の不在で立ち行かなくなっていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。"
+    },
+    "sourceNote": "日本語版Wikipediaを参照(2026年8月時点)。2021年1月に小説家になろうで連載開始、講談社Kラノベブックスより書籍化。2026年10月よりP.A.WORKS制作でテレビアニメ化決定、コミカライズ(月刊少年マガジンR)も既刊。ライトノベル版の正確な既刊巻数・刊行開始月は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-shounin-kane-no-chikara",
+    "title": "追放された商人は金の力で世界を救う",
+    "titleKana": "ついほうされたしょうにんはかねのちからでせかいをすくう",
+    "authorIds": [
+      "daken"
+    ],
+    "illustratorIds": [
+      "kanase-benchi"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "naisei",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2024,
+    "status": "ongoing",
+    "synopsis": "S級冒険者パーティーの一員だった商人トラオは、仲間の女性たちに大金をつぎ込んだことを理由にクビを言い渡される。しかし彼が援助していた女性たちが恩を返そうと集まり、金の力を武器に新パーティーを結成。かつての仲間を尻目に、魔王討伐という大仕事に挑んでいく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約したAmazon・出版社(主婦と生活社PASH!文庫)の書誌情報を参照(2026年8月時点)。2023年3月になろうで連載開始、2024年3月書籍化。2026年7月31日にテレビアニメ化決定と公表。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-akuyaku-party-leader-tensei",
+    "title": "追放系の悪役パーティのリーダーに転生したので、ざまぁされる前に自分を追放しました",
+    "titleKana": "ついほうけいのあくやくぱーてぃーのりーだーにてんせいしたので、ざまぁされるまえにじぶんをついほうしました",
+    "authorIds": [
+      "arai-ryouma"
+    ],
+    "illustratorIds": [
+      "kyouka-hatori"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "tsuihou",
+      "isekai-tensei",
+      "comedy",
+      "fukushuu",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "追放系アニメに登場する悪役パーティのリーダー、ロイドに転生してしまった主人公。原作どおり「ざまぁ」されて死亡する運命を避けるため、自分から仲間を追放される前に自分自身をパーティから追放するという逆転の発想で立ち回る。奪ったスキル『スティール』を武器に新天地で頭角を現す。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Amazon・出版社(KADOKAWAファミ通文庫)情報を参照(2026年8月時点)。刊行開始年は電子書籍版の情報から推定した概算。アニメ化情報は確認できず。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-zakoskill-kamitsukai",
+    "title": "「雑魚スキル」と追放された紙使い、真の力が覚醒し世界最強に",
+    "titleKana": "ざこすきるとついほうされたかみつかい、しんのちからがかくせいしせかいさいきょうに",
+    "authorIds": [
+      "kuwano-kazuaki"
+    ],
+    "illustratorIds": [
+      "fuku-kitsune"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "dungeon",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "Fランク冒険者ヤクモは、紙を具現化するスキル「紙使い」を雑魚スキルと判定され、所属パーティ「聖剣の団」から追放されてしまう。しかし幼少期に授かっていたもう一つのスキルが覚醒し、紙使いの能力が桁違いの力に変貌。新たな仲間と共に、かつての仲間を置き去りにして成り上がっていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Amazon等の書誌情報を参照(2026年8月時点)。双葉社Mノベルスより2023年8月30日に第1巻発売。なろう・カクヨム両掲載作品。日本語版Wikipedia記事の有無・アニメ化情報は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-yuusha-party-haku-madoushi",
+    "title": "勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～",
+    "titleKana": "ゆうしゃぱーてぃーをついほうされたはくまどうし、えすらんくぼうけんしゃにひろわれる",
+    "authorIds": [
+      "minazuki-sora"
+    ],
+    "illustratorIds": [
+      "deecha"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "battle-action",
+      "harem"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "「能力不足」を理由に勇者パーティーを追放された白魔導師が、その真の実力を見抜いたSランク冒険者パーティーに拾われる。規格外の回復・支援能力を発揮し始めた彼の存在は、やがて追放した側を大いに後悔させることになる。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(Amazon・双葉社Mノベルス公式情報等)を参照(2026年8月時点)。2020年11月書籍化、既刊8巻、2025年テレビアニメ化決定。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-yuusha-party-seireijutsushi",
+    "title": "勇者パーティーを追放された精霊術士 最強級に覚醒した不遇職、真の仲間と五大ダンジョンを制覇する",
+    "titleKana": "ゆうしゃぱーてぃーをついほうされたせいれいじゅつし",
+    "authorIds": [
+      "masakichi"
+    ],
+    "illustratorIds": [
+      "amagasa-yun"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "dungeon",
+      "ken-to-mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "不遇職とされる精霊術士として勇者パーティーから追放された青年が、魔法学院時代の旧友に誘われ、かつてダンジョン踏破記録を打ち立てた伝説のパーティーに合流する。真の仲間たちと共に、五大ダンジョンの完全制覇を目指していく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(Amazon・HJ文庫公式情報等)を参照(2026年8月時点)。2021年HJ小説大賞受賞作。書籍2巻・コミカライズ(角川コミックス・エース)確認。アニメ化情報・日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-yuusha-party-sudatte",
+    "title": "勇者パーティーを追放された俺だが、俺から巣立ってくれたようで嬉しい。",
+    "titleKana": "ゆうしゃぱーてぃーをついほうされたおれだが、おれからすだってくれたようでうれしい",
+    "authorIds": [
+      "hatsueda-renge"
+    ],
+    "illustratorIds": [
+      "shibano-kaito"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "comedy",
+      "harem"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "荷物持ちとして蔑まれ勇者パーティーを追放されたアリアケは、実はあらゆるスキルを操る「真の賢者」だった。追放をむしろ歓迎し田舎での気ままな暮らしを望むが、彼を慕う大聖女をはじめ旧知の実力者たちが次々と後を追ってきてしまう。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(Amazon等)を参照(2026年8月時点)。2020年8月になろうで連載開始(2023年10月完結)、スクウェア・エニックスSQEXノベルより書籍化、全7巻完結、コミカライズ(ガンガンONLINE)あり。出版社がranobe-db既存レーベル一覧に無いため末尾にnewPublisherProposalを追加。アニメ化情報・日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-meika-no-chounan",
+    "title": "追放された名家の長男 ～馬鹿にされたハズレスキルで最強へと昇り詰める～",
+    "titleKana": "ついほうされためいかのちょうなん",
+    "authorIds": [
+      "okamoto-takeya"
+    ],
+    "illustratorIds": [
+      "sumihei"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "fukushuu",
+      "ken-to-mahou",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "ongoing",
+    "synopsis": "代々剣士を輩出してきた名家に生まれながら【農民】の職業を授かったクリスは、家から追放されてしまう。しかし一見無価値な毒無効スキルが、毒を取り込むほど力を増す規格外の能力だと判明する。生き延びるため、そして自分を追いやった弟への復讐のために力をつけていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Amazon・KADOKAWA公式サイト情報を参照(2026年8月時点)。MFブックスより2023年6月22日に第1巻発売を確認。コミカライズ・アニメ化の有無は情報が確認できなかったためmediaMixフィールドは省略。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsuihou-mikata-yowasugite-kyuutei-madoushi",
+    "title": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+    "titleKana": "みかたがよわすぎてほじょまほうにてっしていたきゅうていまほうし、ついほうされてさいきょうをめざす",
+    "authorIds": [
+      "aruto"
+    ],
+    "illustratorIds": [
+      "yuu-nagi"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "王太子付きの宮廷魔法師アレクは、攻撃魔法が使えず補助魔法専門であることを理由に追放されてしまう。失意の中、魔法学院時代の旧友ヨルハの誘いでかつての仲間たちと再会し、支援魔法の真価が桁外れだったことが明らかになっていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(Amazon・講談社Kラノベブックス公式情報等)を参照(2026年8月時点)。2020年10月になろう連載開始、2021年11月書籍化、2025年10月テレビアニメ化・少年マガジンアプリでコミカライズ確認。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-s-kyuu-guild-dragon-kotoba",
+    "title": "S級ギルドを追放されたけど、実は俺だけドラゴンの言葉がわかるので、気付いたときには竜騎士の頂点を極めてました。",
+    "titleKana": "えすきゅうぎるどをついほうされたけど、じつはおれだけどらごんのことばがわかるので",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "pairan"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "dungeon",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "ドラゴンを心通わせる相手として大切にしたいシリルは、ドラゴンを単なる道具として扱うS級ギルドの方針と対立し追放されてしまう。信念を曲げず野に下った彼は、ドラゴンの言葉を理解する唯一の存在として頭角を現し、やがて竜騎士の頂点にまで登り詰めていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(Amazon・KADOKAWAファンタジア文庫等)を参照(2026年8月時点)。2021年8月頃書籍化、既刊6巻以上、コミカライズ(電撃コミックスNEXT)あり。アニメ化情報・日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsuihou-hangyaku-no-soul-eater",
+    "title": "反逆のソウルイーター～弱者は不要といわれて剣聖（父）に追放されました～",
+    "titleKana": "はんぎゃくのそうるいーたー",
+    "authorIds": [
+      "gyokuto"
+    ],
+    "illustratorIds": [
+      "tsumeki"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "fukushuu",
+      "dark-fantasy",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "剣聖である実の父から弱者は不要だと見限られ、故郷とパーティーの両方から追放された青年。全てを失った絶望の底で手にしたのは、敵の魂を喰らい力に変える禁断の能力『ソウルイーター』だった。かつて自分を切り捨てた者たちを見返すべく、静かに力を蓄えていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Amazon・アース・スターノベル公式情報等を参照(2026年8月時点)。原作は2018年12月なろう連載開始、2019年9月書籍化、既刊9巻以上を確認。コミカライズ・アニメ化の有無は確認できなかったためmediaMixフィールドは省略。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tsuihou-shokudou-e-youkoso",
+    "title": "追放者食堂へようこそ!",
+    "titleKana": "ついほうしゃしょくどうへようこそ",
+    "authorIds": [
+      "kimikawa-yuuki"
+    ],
+    "illustratorIds": [
+      "gaou"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "tsuihou",
+      "gourmet",
+      "isekai-fantasy",
+      "slow-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "一流の冒険者パーティーを追放された料理人デニスは、田舎町で念願だった冒険者食堂を開く。訳あって売られていた奴隷の少女と出会い、共に店を切り盛りしながら、かつての仲間たちが彼の料理の腕と存在の大きさに気づいていく、追放系にしては珍しく穏やかな人情物語。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で集約した書誌情報(出版社オーバーラップ公式情報等)を参照(2026年8月時点)。2018年10月なろう連載開始、2019年6月書籍化、コミカライズ・アニメ化を確認。日本語版Wikipedia記事の有無は未確認。",
+    "updatedAt": "2026-08-01",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

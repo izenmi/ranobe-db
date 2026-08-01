@@ -3777,5 +3777,104 @@
     },
     "sourceNote": "Wikipedia日本語版「神楽坂淳」を参照(2026年8月時点)。生年・読み仮名・代表作を確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "rokushima-asa",
+    "name": "六志麻あさ",
+    "nameKana": "ろくしまあさ",
+    "description": "Web小説発のファンタジー作品を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館典拠(カナ表記:ロクシマ,アサ)およびAmazon等の書誌情報を参照(2026年8月時点)。生年は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "arai-ryouma",
+    "name": "荒井竜馬",
+    "nameKana": "あらいりょうま",
+    "description": "なろう発のコメディファンタジーを手がける作家。自身でコミカライズ作画も担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon等の書誌情報より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kuwano-kazuaki",
+    "name": "桑野和明",
+    "nameKana": "くわのかずあき",
+    "description": "「久乃川あずき」名義でも活動する、なろう発ファンタジー作家。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ表記(桑野和明・著)より確認(2026年8月時点)。別名義「久乃川あずき」の使い分けは未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "minazuki-sora",
+    "name": "水月穹",
+    "nameKana": "みなづきそら",
+    "description": "なろう発の追放・パーティ系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より読み方(みなづきそら)を確認したが、別表記(スイゲツソラ)も見られ、確定的ではない(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "masakichi",
+    "name": "まさキチ",
+    "nameKana": "まさきち",
+    "description": "HJ小説大賞出身のなろう系ファンタジー作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より確認(2026年8月時点)。HJ小説大賞2021前期受賞との情報あり(ranobe-db既存アワード一覧に該当賞なしのため受賞歴は記載せず)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "hatsueda-renge",
+    "name": "初枝れんげ",
+    "nameKana": "はつえだれんげ",
+    "description": "なろう発の追放系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より確認(2026年8月時点)。読み方は一般的な訓読みからの推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "okamoto-takeya",
+    "name": "岡本剛也",
+    "nameKana": "おかもとたけや",
+    "description": "なろう発の追放系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "Amazon・出版社情報より確認(2026年8月時点)。読み方は一般的な訓読みからの推定。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "aruto",
+    "name": "アルト",
+    "nameKana": "あると",
+    "description": "なろう発の追放系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "miki-nazuna",
+    "name": "三木なずな",
+    "nameKana": "みきなずな",
+    "description": "台湾出身、日本語で執筆するなろう系作家。複数作品がアニメ化されている多作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より確認(2026年8月時点)。生年は未確認。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "gyokuto",
+    "name": "玉兎",
+    "nameKana": "ぎょくと",
+    "description": "アース・スターノベル発の追放・復讐系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "X(旧Twitter)の作家プロフィール・ラノベリスト.com等より読み方を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kimikawa-yuuki",
+    "name": "君川優樹",
+    "nameKana": "きみかわゆうき",
+    "description": "なろう発のグルメ・追放系ファンタジーを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果より確認(2026年8月時点)。読み方は一般的な訓読みからの推定。",
+    "updatedAt": "2026-08-01"
   }
 ]
