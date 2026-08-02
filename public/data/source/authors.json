@@ -5064,5 +5064,68 @@
     },
     "sourceNote": "Wikipedia「餅月望」で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "origuchi-yoshino",
+    "name": "折口良乃",
+    "nameKana": "おりぐちよしの",
+    "description": "神奈川県出身のライトノベル作家。2009年に『九罰の悪魔召喚術』(電撃文庫)でデビューし、亜人種・モンスター娘ヒロインを描いた作品を多く手掛ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/折口良乃"
+    },
+    "sourceNote": "日本語版Wikipedia「折口良乃」記事に基づく。生年など一部経歴は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murasaki-yukiya",
+    "name": "むらさきゆきや",
+    "nameKana": "むらさきゆきや",
+    "description": "東京都出身のライトノベル作家。2009年に『幽霊なんか見えない！』で第1回GA文庫大賞奨励賞を受賞しデビュー。代表作は『異世界魔王と召喚少女の奴隷魔術』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/むらさきゆきや"
+    },
+    "sourceNote": "日本語版Wikipedia「むらさきゆきや」記事に基づく。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uesu-tetsuto",
+    "name": "上栖綴人",
+    "nameKana": "うえすてつと",
+    "description": "北海道出身のライトノベル作家・編集者。2008年に第2回ノベルジャパン大賞優秀賞を受賞し、改題作『彼女は眼鏡HOLIC』でHJ文庫からデビュー。『はぐれ勇者の鬼畜美学』『新妹魔王の契約者』などを手掛ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/上栖綴人"
+    },
+    "sourceNote": "日本語版Wikipedia「上栖綴人」記事に基づく。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oniage-supana",
+    "name": "鬼影スパナ",
+    "nameKana": "おにかげすぱな",
+    "description": "「小説家になろう」出身のライトノベル作家。『絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで』でオーバーラップ文庫よりデビュー。",
+    "sourceNote": "日本語版Wikipedia「絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで」記事に基づく。個人の詳細経歴・生年は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miura-isao",
+    "name": "三浦勇雄",
+    "nameKana": "みうらいさお",
+    "description": "1983年生まれ、北海道出身のライトノベル作家。2005年に『クリスマス上等。』でMF文庫Jよりデビューし、第1回MF文庫Jライトノベル新人賞審査員特別賞を受賞。代表作は『聖剣の刀鍛冶』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三浦勇雄"
+    },
+    "sourceNote": "日本語版Wikipedia「三浦勇雄」記事に基づく。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akahori-satoru",
+    "name": "あかほりさとる",
+    "nameKana": "あかほりさとる",
+    "description": "1965年生まれ、愛知県出身の脚本家・小説家。1989年に『天空戦記シュラト』のノベライズで小説家デビューし、1990年代を代表するメディアミックス作品を多数手掛けた。代表作は『セイバーマリオネット』『NG騎士ラムネ&40』など。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あかほりさとる"
+    },
+    "sourceNote": "日本語版Wikipedia「あかほりさとる」記事に基づく。",
+    "updatedAt": "2026-08-02"
   }
 ]

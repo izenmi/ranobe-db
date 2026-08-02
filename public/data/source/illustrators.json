@@ -4320,5 +4320,32 @@
     },
     "sourceNote": "Wikipedia「高遠るい」で確認。自著自画のため著者(authors.json)と同一idを使用(既存データの榎宮祐の例に準拠)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "z-ton",
+    "name": "Ｚトン",
+    "nameKana": "ぜっとん",
+    "description": "『モンスター娘のお医者さん』のキャラクターデザイン・イラストを担当するイラストレーター。",
+    "sourceNote": "日本語版Wikipedia「モンスター娘のお医者さん」記事に記載のイラストレーター名に基づく。個人プロフィールの詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tamago-no-kimi",
+    "name": "卵の黄身",
+    "nameKana": "たまごのきみ",
+    "description": "『はぐれ勇者の鬼畜美学』のイラストを担当するイラストレーター。",
+    "sourceNote": "日本語版Wikipedia「はぐれ勇者の鬼畜美学」記事に記載のイラストレーター名に基づく。個人プロフィールの詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kotobuki-tsukasa",
+    "name": "ことぶきつかさ",
+    "nameKana": "ことぶきつかさ",
+    "description": "1970年生まれの漫画家・キャラクターデザイナー・アニメーター。『セイバーマリオネットJ』『アキハバラ電脳組』などのキャラクターデザインを手掛ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ことぶきつかさ"
+    },
+    "sourceNote": "日本語版Wikipedia「ことぶきつかさ」記事に基づく。",
+    "updatedAt": "2026-08-02"
   }
 ]

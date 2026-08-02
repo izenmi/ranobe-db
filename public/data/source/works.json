@@ -20163,5 +20163,236 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "monster-musume-no-oisha-san",
+    "title": "モンスター娘のお医者さん",
+    "titleKana": "もんすたーむすめのおいしゃさん",
+    "authorIds": [
+      "origuchi-yoshino"
+    ],
+    "illustratorIds": [
+      "z-ton"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "かつての戦争を経て人間と魔族(亜人)が共存する街リンド・ヴルムを舞台に、魔族専門の医師グレンが診療所を営む医療ファンタジー。助手を務めるラミア族の娘サーフェをはじめ、ケンタウロスやアラクネなど様々な魔族の患者たちが抱える体の悩みに向き合いながら、日々の暮らしと絆を描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスター娘のお医者さん"
+    },
+    "sourceNote": "日本語版Wikipedia「モンスター娘のお医者さん」「折口良乃」記事に基づき作成。あらすじは独自要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
+    "title": "異世界魔王と召喚少女の奴隷魔術",
+    "titleKana": "いせかいまおうとしょうかんしょうじょのどれいまじゅつ",
+    "authorIds": [
+      "murasaki-yukiya"
+    ],
+    "illustratorIds": [
+      "tsuruzaki-takahiro"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi",
+      "isekai-fantasy",
+      "harem"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "ネトゲの最強プレイヤーだった青年が、ゲーム世界そっくりの異世界に魔王の姿で召喚される。彼を隷属させようとした召喚士の少女シェラの魔術が誤って逆流し、シェラと豹人族の少女レムを従えることに。人外の少女たちと主従の絆を育みながら異世界を渡り歩く冒険が始まる。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界魔王と召喚少女の奴隷魔術"
+    },
+    "sourceNote": "日本語版Wikipedia「異世界魔王と召喚少女の奴隷魔術」「むらさきゆきや」記事に基づき作成。あらすじは独自要約。巻数は2021年6月時点の14巻。アニメ第3期(ULT)が2026年制作決定と報じられており継続中の作品と判断。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hagure-yuusha-no-kichiku-bigaku",
+    "title": "はぐれ勇者の鬼畜美学",
+    "titleKana": "はぐれゆうしゃのえすてぃか",
+    "authorIds": [
+      "uesu-tetsuto"
+    ],
+    "illustratorIds": [
+      "tamago-no-kimi"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "異世界アレイズアードで魔王を討伐した史上初の勇者アカツキは、元の世界に帰還する際、ハーフエルフで魔王の娘である美兎を連れて戻ってくる。二人は国際的な学園都市バベルに迎えられるが、規格外の力と過去を持つアカツキの周囲では、美兎をはじめとする少女たちを巻き込む騒動が絶えない。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はぐれ勇者の鬼畜美学"
+    },
+    "sourceNote": "日本語版Wikipedia「はぐれ勇者の鬼畜美学」「上栖綴人」記事に基づき作成。あらすじは独自要約。巻数は2013年3月時点で確認できた11巻(それ以降の巻数増減は未確認)。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shinmai-maou-no-keiyakusha",
+    "title": "新妹魔王の契約者",
+    "titleKana": "しんまいまおうのけいやくしゃ",
+    "authorIds": [
+      "uesu-tetsuto"
+    ],
+    "illustratorIds": [
+      "ookuma-panzasuke"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi",
+      "imouto",
+      "harem",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "父の再婚をきっかけに、高校生の刃更は魔族の姉妹、鳴瀬美緒と鳴瀬マリアと同居することになる。実は美緒は先代魔王の娘、マリアはサキュバスという人外の存在だった。刃更は美緒と主従の契約を結び、二人を狙う勇者一族や魔族の思惑に巻き込まれながら、絆を深めていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新妹魔王の契約者"
+    },
+    "sourceNote": "日本語版Wikipedia「新妹魔王の契約者」記事に基づき作成。あらすじは独自要約。巻数は本編13巻+短編2巻の計15巻。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "zettai-ni-hatarakitakunai-dungeon-master-ga-damin-wo-musaboru-made",
+    "title": "絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで",
+    "titleKana": "ぜったいにはたらきたくないだんじょんますたーがだみんをむさぼるまで",
+    "authorIds": [
+      "oniage-supana"
+    ],
+    "illustratorIds": [
+      "youta"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "dungeon",
+      "comedy",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "怠け者の青年ケイマは異世界のダンジョンに召喚され、少女の姿をした「ダンジョンコア」ロクコからなりゆきでダンジョンマスターの権利を譲り受けてしまう。楽をして生きたい一心のケイマは、人ならざる存在であるロクコたちと共に、なるべく働かずに済む方法を模索しながらダンジョン運営に奔走する。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで"
+    },
+    "sourceNote": "日本語版Wikipedia「絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで」記事に基づき作成。あらすじは独自要約。ラノベニュースオンライン等でのノミネート歴はあるが、明確な順位が確認できる受賞歴は未確認のためawardResultsは空とした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "seiken-no-katanakaji",
+    "title": "聖剣の刀鍛冶",
+    "titleKana": "せいけんのかたなかじ",
+    "authorIds": [
+      "miura-isao"
+    ],
+    "illustratorIds": [
+      "rona-illustrator"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi",
+      "ken-to-mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "貴族の家柄を捨てて騎士団に所属する少女セシリーは、亡き父から受け継いだ剣を打ち直してくれる鍛冶屋を探す中、青年鍛冶師ルークと、彼が鍛えた意志を持つ魔剣アリアに出会う。人の姿を取り言葉を話すアリアを相棒に、セシリーとルークは聖剣を巡る陰謀へと巻き込まれていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖剣の刀鍛冶"
+    },
+    "sourceNote": "日本語版Wikipedia「聖剣の刀鍛冶」「三浦勇雄」記事に基づき作成。あらすじは独自要約。2013年のデジタル書籍アワード関連の言及があるが、既存アワードとの対応が確認できないためawardResultsは空とした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "saber-marionette-j",
+    "title": "セイバーマリオネットJ",
+    "titleKana": "せいばーまりおねっとじぇい",
+    "authorIds": [
+      "akahori-satoru"
+    ],
+    "illustratorIds": [
+      "kotobuki-tsukasa"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "ijuzoku-koi",
+      "harem",
+      "comedy",
+      "sf"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "女性が存在しない惑星テラツーで暮らす少年・間宮小樽は、感情を宿す人型アンドロイド「マリオネット」のライム、チェリー、ブラッドベリーと出会う。彼女たちは失われた伝説の女性ローレライの人格を分け持つ存在で、小樽は三人と共に、女性が再び生まれる世界を目指して騒動に満ちた日々を送る。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/セイバーマリオネットJ"
+    },
+    "sourceNote": "日本語版Wikipedia「セイバーマリオネットJ」「あかほりさとる」「ことぶきつかさ」記事に基づき作成。あらすじは独自要約。原典はラジオドラマだが、ライトノベル版(富士見ファンタジア文庫)の著者・イラストレーター情報を採用。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]
