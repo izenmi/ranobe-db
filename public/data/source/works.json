@@ -23316,5 +23316,241 @@
     "externalLinks": {},
     "sourceNote": "マイナビブックス公式・BOOKLIVE・Amazon Kindleで著者・イラストレーター・レーベル(楽ノベ文庫)・発売日(2016年9月)・上下巻構成(全2巻)、および作品ページの「小説家になろう」タグ表示を確認。コミカライズ・アニメ化情報は見当たらず両方falseとした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umareta-chokugo-ni-suterareta-daikenja",
+    "title": "生まれた直後に捨てられたけど、前世が大賢者だったので余裕で生きてます",
+    "titleKana": "うまれたちょくごにすてられたけど、ぜんせがだいけんじゃだったのでよゆうでいきてます",
+    "authorIds": [
+      "kuzu-nanao"
+    ],
+    "illustratorIds": [
+      "nabeshima-tetsuhiro"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "mahou",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "由緒ある貴族の家に生まれたレウスは、生まれつきの魔力測定の失敗が原因で、実の両親にあっさりと見捨てられてしまう。だが彼の中身は、前世で名を馳せた伝説の大賢者そのものだった。赤ん坊の体でありながら会話も歩行も飛行も自在にこなし、聖竜の杖を相棒に迎えて広い森を渡り歩いていく、規格外すぎるベビー賢者ののびのび異世界サバイバル譚。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "アース・スターノベル公式サイト(earthstar-novel.com/vol/detail/esn368/)で著者・イラストレーター・1巻発売日(2022年3月)・あらすじ・既刊巻数(6巻)を確認。原作はカクヨム連載作品(kakuyomu.jp/works/16816452221197704609)。コミカライズ版(アース・スターコミックス)の刊行をHMV商品ページ等で確認。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hametsu-shitakunai-akuyaku-reijou-gendai-heiki",
+    "title": "どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです",
+    "titleKana": "どうしてもはめつしたくないあくやくれいじょうがげんだいへいきをてにしたけっかがこれです",
+    "authorIds": [
+      "daitai-616"
+    ],
+    "illustratorIds": [
+      "qs11"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "akuyaku-reijou",
+      "isekai-tensei",
+      "steampunk-invention",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "軍事オタクだった女性は、いずれ破滅する運命を背負う悪役令嬢アストリッドとして、前世でプレイした乙女ゲームの世界に転生してしまう。詰んだ未来をどうしても回避したい彼女は、前世の知識と魔術を組み合わせて現代兵器の再現に着手。幼い令嬢の姿でありながら圧倒的な火力を武器に、定められた破滅フラグを力づくで叩き潰していく痛快ファンタジー。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n5547eo/)で主人公名(アストリッド)・あらすじ・本編完結(2021年3月完結)を確認。BOOK☆WALKER Kラノベブックス版シリーズページ(bookwalker.jp/series/179331/)で1巻発売日(2018年11月2日)・全3巻・イラストレーター名を確認。月刊少年シリウス(講談社)でのコミカライズを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-youjo-wa-kyouiku-shitai",
+    "title": "転生幼女は教育したい！〜前世の知識で、異世界の社会常識を変えることにしました〜",
+    "titleKana": "てんせいようじょはきょういくしたい ぜんせのちしきでいせかいのしゃかいじょうしきをかえることにしました",
+    "authorIds": [
+      "ryoko"
+    ],
+    "illustratorIds": [
+      "fernemo"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "現代日本での記憶と価値観を保ったまま、貴族の家に幼い少女として転生した主人公。理不尽な仕打ちや無関心がまかり通る異世界の常識にどうしても納得できず、持ち前の教育熱心さと前世の知恵を武器に、周囲の人々や社会のあり方を一つずつ変えていこうと奮闘する。幼女の見た目に似合わない啓蒙精神で周りを巻き込んでいくハートフルファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "result": "第11回ネット小説大賞 小説賞 受賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページ(kakuyomu.jp/works/1177354054934283694)で第11回ネット小説大賞小説賞受賞を確認(具体的な受賞年は未確認)。ツギクルブックス公式サイト(books.tugikuru.jp/tc-kyouikusitai/)および国立国会図書館サーチ(2巻・2024年10月刊)で著者・イラストレーター・レーベル・巻数を確認。コミックシーモアでコミカライズ版の配信も確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tanakake-tensei-suru",
+    "title": "田中家、転生する。",
+    "titleKana": "たなかけ、てんせいする",
+    "authorIds": [
+      "choko"
+    ],
+    "illustratorIds": [
+      "kaworu"
+    ],
+    "publisherId": "dragon-novels",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "平凡だが穏やかな暮らしを愛していた田中家は、ある日の地震で家族全員が命を落としてしまう。次に目覚めた時、そこは異世界で、一家は辺境貴族スチュワート家として丸ごと生まれ変わっていた。長女に転生した少女エマは前世の記憶と知識を頼りに、家族や巨大化した飼い猫たちと力を合わせ、不慣れな貴族生活や異文化との出会いを一つずつ乗り越えていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321912000220/、1巻発売日2020年6月5日)で著者・イラストレーター・レーベルを確認。ドラゴンノベルス特設サイト(dragon-novels.jp/special/tanakake/tanakake.html)であらすじを確認。7巻発売(2024年12月)をKADOKAWA商品ページで確認。コミック版(コミックウォーカー、漫画:加藤ミチル)の連載も確認。原作の投稿サイト(なろう/カクヨム)発かどうかは確認できず、書き下ろしの可能性もあるためwebNovelSourceは付与せず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tenseisha-wa-cheat-wo-nozomanai",
+    "title": "転生者はチートを望まない",
+    "titleKana": "てんせいしゃはちーとをのぞまない",
+    "authorIds": [
+      "natsuki-aoi"
+    ],
+    "illustratorIds": [
+      "natsu-natsuna"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "mahou-gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "辺境の村に生まれた五歳の少女ミラは、ある日頭を打った拍子に、日本人として生きていた前世の記憶を鮮明に取り戻す。面倒事は避けてこのまま平穏に暮らしたいと願う彼女だったが、魔術学園の入学適性試験で並外れた力が露見してしまい、幼馴染の少年とともに、望んでもいないのに王家がらみの大事件へと少しずつ巻き込まれていくことになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生者はチートを望まない』レジーナブックス版シリーズページ(bookwalker.jp/series/95648/)で著者・イラストレーター・1巻発売日(2016年12月16日)・全4巻完結・あらすじ(主人公ミラ、5歳)を確認。レジーナCOMICSでのコミカライズも同ページで確認。原作の投稿サイトは確認できずwebNovelSourceは付与せず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-youjo-wa-owabi-cheat-de-isekai-going-my-way",
+    "title": "転生幼女はお詫びチートで異世界ごーいんぐまいうぇい",
+    "titleKana": "てんせいようじょはおわびちーとでいせかいごーいんぐまいうぇい",
+    "authorIds": [
+      "takagi-kon"
+    ],
+    "illustratorIds": [
+      "canarine"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "mahou",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "特にこれといった目標もなく、のんびり生きるはずだったオタク気質の女性は、神様の不手際によって命を落とし、見知らぬ森の中で幼い少女の姿になって目を覚ます。お詫びとして授かった強力な魔法の力と、次々に懐いてくる従魔たちに支えられながら、冒険者として気ままな異世界暮らしを満喫していく、神様のミスから始まるほのぼの系転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生幼女はお詫びチートで異世界ごーいんぐまいうぇい』アルファポリス版シリーズページ(bookwalker.jp/series/237819/)で著者・イラストレーター・1巻発売日(2020年3月13日)・既刊6巻・あらすじを確認。アルファポリス投稿サイト(alphapolis.co.jp/novel/656469147/338216211)およびコミックシーモア等でコミカライズ(水谷クロ/高木コン名義)の配信を確認。投稿元はアルファポリスでなろう/カクヨムではないためwebNovelSourceは付与せず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yotogi-no-kuni-no-gekkouhime",
+    "title": "夜伽の国の月光姫",
+    "titleKana": "よとぎのくにのげっこうひめ",
+    "authorIds": [
+      "aono-umidori"
+    ],
+    "illustratorIds": [
+      "miyo-n"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "cheat-kid-protagonist",
+      "isekai-tensei",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "小国の八歳の姫セレネは、ある日突然、現代日本で暮らしていた中年男性としての前世の記憶をすべて思い出してしまう。あどけない姫という立場と、中身は分別のある大人という大きなギャップに戸惑いながらも、豊富な人生経験に裏打ちされた発想で立ち回るうち、周囲は幼い彼女を底知れぬ才媛だと勘違いしていく。年齢不相応な言動が次々と騒動を呼ぶ異世界ラブコメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n4138ck/)を原作掲載元として確認。BOOK☆WALKER『夜伽の国の月光姫』TOブックス版シリーズページ(bookwalker.jp/series/56259/)で著者・イラストレーター・全5冊・完結・1巻刊行(2015年10月25日)を確認。紀伊國屋書店電子版ページでも著者・イラストレーター表記を確認。コミカライズ・アニメ化情報は確認できず、いずれもfalseとした。",
+    "updatedAt": "2026-08-02"
   }
 ]

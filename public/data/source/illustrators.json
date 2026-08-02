@@ -4879,5 +4879,59 @@
     "externalLinks": {},
     "sourceNote": "Amazon Kindle版書誌情報を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "qs11",
+    "name": "Qs11",
+    "nameKana": "きゅーずいれぶん",
+    "description": "イラストレーター。『どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです』(Kラノベブックス)のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon.co.jp商品ページ(コミック版クレジット)およびBOOK☆WALKER Kラノベブックス版シリーズページでイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fernemo",
+    "name": "フェルネモ",
+    "nameKana": "ふぇるねも",
+    "description": "イラストレーター。『転生幼女は教育したい！〜前世の知識で、異世界の社会常識を変えることにしました〜』(ツギクルブックス)のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "ツギクルブックス公式サイト(books.tugikuru.jp/tc-kyouikusitai/)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaworu",
+    "name": "kaworu",
+    "nameKana": "かをる",
+    "description": "キャラクターデザイン・イラストレーター。『田中家、転生する。』(ドラゴンノベルス/KADOKAWA)のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321912000220/)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "natsu-natsuna",
+    "name": "奈津ナツナ",
+    "nameKana": "なつなつな",
+    "description": "イラストレーター。『転生者はチートを望まない』(レジーナブックス)のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生者はチートを望まない』シリーズページ(bookwalker.jp/series/95648/)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "canarine",
+    "name": "キャナリーヌ",
+    "nameKana": "きゃなりーぬ",
+    "description": "イラストレーター。『転生幼女はお詫びチートで異世界ごーいんぐまいうぇい』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生幼女はお詫びチートで異世界ごーいんぐまいうぇい』シリーズページ(bookwalker.jp/series/237819/)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyo-n",
+    "name": "miyo.N",
+    "nameKana": "みよえぬ",
+    "description": "イラストレーター。『夜伽の国の月光姫』(TOブックス)のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店電子版ページおよびBOOK☆WALKER『夜伽の国の月光姫』シリーズページ(bookwalker.jp/series/56259/)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

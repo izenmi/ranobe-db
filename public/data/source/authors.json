@@ -5727,5 +5727,59 @@
     "externalLinks": {},
     "sourceNote": "マイナビブックス・BOOKLIVE書誌情報、および作品ページの「小説家になろう」タグ表示を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "daitai-616",
+    "name": "第616特別情報大隊",
+    "nameKana": "だいろっぴゃくじゅうろくとくべつじょうほうだいたい",
+    "description": "ライトノベル作家。小説家になろう発の『どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです』(Kラノベブックス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n5547eo/)およびBOOK☆WALKER『どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです』(Kラノベブックス)シリーズページで著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryoko",
+    "name": "Ryoko",
+    "nameKana": "りょうこ",
+    "description": "ライトノベル作家。小説家になろう発のデビュー作『転生幼女は教育したい！〜前世の知識で、異世界の社会常識を変えることにしました〜』(ツギクルブックス)で第11回ネット小説大賞小説賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページ(kakuyomu.jp/works/1177354054934283694)およびツギクルブックス公式サイト(books.tugikuru.jp/tc-kyouikusitai/)、国立国会図書館サーチで著者名・イラストレーター名・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "choko",
+    "name": "猪口",
+    "nameKana": "ちょこ",
+    "description": "ライトノベル作家。『田中家、転生する。』(ドラゴンノベルス/KADOKAWA)の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321912000220/)で著者名・イラストレーター名・レーベル・発売日(2020年6月5日)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "natsuki-aoi",
+    "name": "奈月葵",
+    "nameKana": "なつきあおい",
+    "description": "ライトノベル作家。『転生者はチートを望まない』(レジーナブックス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生者はチートを望まない』シリーズページ(bookwalker.jp/series/95648/)で著者名・イラストレーター名・レーベル・巻数・発売日を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takagi-kon",
+    "name": "高木コン",
+    "nameKana": "たかぎこん",
+    "description": "ライトノベル作家。アルファポリス発『転生幼女はお詫びチートで異世界ごーいんぐまいうぇい』の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『転生幼女はお詫びチートで異世界ごーいんぐまいうぇい』シリーズページ(bookwalker.jp/series/237819/)およびアルファポリス小説投稿ページで著者名・イラストレーター名・発売日を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aono-umidori",
+    "name": "青野海鳥",
+    "nameKana": "あおのうみどり",
+    "description": "ライトノベル作家。『夜伽の国の月光姫』(TOブックス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店電子版ページおよびBOOK☆WALKER『夜伽の国の月光姫』シリーズページ(bookwalker.jp/series/56259/、完結・全5冊)で著者名・イラストレーター名・レーベル・刊行年(2015年)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
