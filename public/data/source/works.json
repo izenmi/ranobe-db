@@ -21574,5 +21574,201 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "black-blood-brothers",
+    "title": "BLACK BLOOD BROTHERS",
+    "titleKana": "ぶらっくぶらっどぶらざーず",
+    "authorIds": [
+      "azano-kouhei"
+    ],
+    "illustratorIds": [
+      "kusakawa-yuuya"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "battle-action",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "東京湾岸に築かれた経済特区で人間と吸血鬼が共存する近未来。名門吸血鬼の血統に連なる青年ジローは、幼い弟コタロウと共に十年ぶりに特区へ帰還する。調停員の少女ミミコと出会い、対立する血統勢力の陰謀に巻き込まれながら、人間と吸血鬼が共に生きる道を模索していく伝奇バトルアクション。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLACK_BLOOD_BROTHERS"
+    },
+    "sourceNote": "Wikipedia日本語版「BLACK BLOOD BROTHERS」を参照(2026年8月時点)。富士見ファンタジア文庫、2004年刊行開始、本編11巻+短編集6巻の全17巻で完結。2006年テレビアニメ化(全12話)、2007年に公式アンソロジーコミック刊行を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "kizumonogatari",
+    "title": "傷物語",
+    "titleKana": "きずものがたり",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "vofan"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "horror",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "高校生・阿良々木暦は春休みのある日、瀕死の美しい金髪の吸血鬼と出会う。彼女を助けたことをきっかけに自らも眷属となり人ならざる者へと変貌してしまう。〈物語〉シリーズの前日譚として、暦が怪異の世界に足を踏み入れることになった発端の顛末を描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/傷物語"
+    },
+    "sourceNote": "Wikipedia日本語版「傷物語」「西尾維新」を参照(2026年8月時点)。〈物語〉シリーズ第2弾として2008年5月刊行、時系列上は既存収録の「化物語」の前日譚にあたる別巻。2016年に劇場アニメ三部作として映像化。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    }
+  },
+  {
+    "id": "owari-no-seraph-ichinose-guren",
+    "title": "終わりのセラフ 一瀬グレン、16歳の破滅",
+    "titleKana": "おわりのせらふ いちのせぐれん、じゅうろくさいのはめつ",
+    "authorIds": [
+      "kagami-takaya"
+    ],
+    "illustratorIds": [
+      "yamamoto-yamato"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "post-apocalypse",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "原作漫画の8年前を描くスピンオフ小説。呪術師養成学校「第一渋谷高校」に入学した15歳の少年一瀬グレンは、名家・柊家が牛耳る呪術組織と、これに敵対する百夜教との抗争に巻き込まれていく。後に世界を滅ぼし吸血鬼が支配する時代を招くことになる、崩壊前夜の人間社会を描く前日譚。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/終わりのセラフ"
+    },
+    "sourceNote": "Wikipedia日本語版「終わりのセラフ」を参照(2026年8月時点)。講談社ラノベ文庫より2013年1月-2016年12月刊行、全7巻で完結。既存収録の「終わりのセラフ 吸血鬼ミカエラの物語」と同一世界観・同一著者イラストレーターコンビによる別シリーズ(スピンオフ小説)。2017年12月より続編『一瀬グレン、19歳の世界再誕』刊行開始(本データには未収録)。月刊少年マガジンにて同名コミカライズあり(2017-2022)。専用のアニメ化は確認できずfalseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "inaka-gurashi-no-kyuuketsuki",
+    "title": "田舎暮らしの吸血鬼(ヴァンパイア) ～ラストダンジョン前の村に生まれた転生吸血鬼さんの気ままな異世界スローライフ～",
+    "titleKana": "いなかぐらしのきゅうけつき らすとだんじょんまえのむらにうまれたてんせいきゅうけつきさんのきままないせかいすろーらいふ",
+    "authorIds": [
+      "morimoto-mitsuki"
+    ],
+    "illustratorIds": [
+      "kuroi-susumu"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "isekai-tensei",
+      "slow-life",
+      "monster-reincarnation"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "田舎でのスローライフに憧れていた男が事故に遭い、異世界の吸血鬼として転生する。転生先は辺境の村で、日光を浴びられない吸血鬼特有の体質やオークやワイバーンが跋扈する物騒な環境に悩まされながらも、眷属を得たり冒険者と関わったりしつつ、理想の田舎暮らしを地道に追い求めていく異世界スローライフ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "「小説家になろう」掲載作(森本みつき作)の書籍化。オーバーラップノベルスより2025年6月刊行開始、2026年時点で既刊2巻。BookWalker・オーバーラップ公式サイトで実在・著者・イラストレーターを確認したが、刊行から日が浅くWikipedia記事は未作成のため、アニメ化・コミカライズ情報は確認できず両方falseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "shinitagari-reijou-wa-kyuuketsuki-ni-dekiaisareru",
+    "title": "死にたがり令嬢は吸血鬼に溺愛される",
+    "titleKana": "しにたがりれいじょうはきゅうけつきにできあいされる",
+    "authorIds": [
+      "hayase-kuroe"
+    ],
+    "illustratorIds": [
+      "kumoya-yukio"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "婚約破棄され全てを失った伯爵令嬢アデルは、命を絶とうとしたところを一人の吸血鬼フィーに引き留められる。「どうせ死ぬなら、その人生を僕にくれないか」と請われた彼女は、素性も知らぬ相手との奇妙な関わりの中で、忘れていた生きる意味を少しずつ取り戻していくロマンス。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "「小説家になろう」掲載の完結作(早瀬黒絵作、全25章)の書籍化。GAノベル(SBクリエイティブ)より2024年3月刊行の単巻作品。コミカライズ版(くたび作画)あり。Wikipedia記事は未作成のため、なろう公式ページおよびBookWalker商品ページで実在・著者・イラストレーター・発売日を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kyuuketsuki-no-oshigoto",
+    "title": "吸血鬼のおしごと",
+    "titleKana": "きゅうけつきのおしごと",
+    "authorIds": [
+      "suzuki-suzu"
+    ],
+    "illustratorIds": [
+      "katase-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "千年の時を生きる吸血鬼・月島亮史は、人間に紛れて現代日本の片隅でひっそり暮らしていた。ある日彼のもとに幽霊の少女と訳ありの尼僧が転がり込み、奇妙な同居生活が始まる。平穏な日常の裏で蠢く同族や組織の思惑に巻き込まれていく、コメディ色の強い伝奇ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2001,
+        "result": "第8回電撃ゲーム小説大賞 選考委員奨励賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "第8回電撃ゲーム小説大賞 選考委員奨励賞受賞作。電撃文庫より2002年4月-2005年1月刊行、本編7巻+番外編1巻の全8巻。Wikipedia記事は確認できなかったため、booklog等の書誌情報サイトで実在・著者・イラストレーター・巻数・あらすじを確認。ラジオドラマ化(2003年)を確認、アニメ化・コミカライズは未確認のためfalseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   }
 ]

@@ -5354,5 +5354,32 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER作品ページ(https://bookwalker.jp/dec2cd3754-2dfb-43d9-9381-f11e366f479c/)で著者名・出版情報を確認。日本語版Wikipediaに単独記事なし。詳細プロフィールは未確認のため記載せず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morimoto-mitsuki",
+    "name": "森本みつき",
+    "nameKana": "もりもとみつき",
+    "description": "「小説家になろう」出身のライトノベル作家。異世界転生ものの「田舎暮らしの吸血鬼(ヴァンパイア)」で書籍デビュー。",
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式商品ページ・BookWalker・小説家になろう作者ページで実在を確認(2026年8月時点)。詳細な経歴の記載は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hayase-kuroe",
+    "name": "早瀬黒絵",
+    "nameKana": "はやせくろえ",
+    "description": "「小説家になろう」出身のライトノベル作家。Web小説「吸血鬼は死にたがり令嬢を生かしたい」がGAノベルより書籍化された。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作者ページ、GAノベル商品ページで実在を確認(2026年8月時点)。詳細な経歴の記載は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuki-suzu",
+    "name": "鈴木鈴",
+    "nameKana": "すずきすず",
+    "description": "電撃文庫を中心に活動するライトノベル作家。代表作に「吸血鬼のおしごと」「白山さんと黒い鞄」など。",
+    "externalLinks": {},
+    "sourceNote": "booklog等の書誌情報サイトで著作リストを確認(2026年8月時点)。Wikipedia記事は確認できず、生年等の経歴詳細は不明。",
+    "updatedAt": "2026-08-02"
   }
 ]
