@@ -21504,5 +21504,75 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "alabarna-no-kaizoku-tachi",
+    "title": "アラバーナの海賊たち",
+    "titleKana": "あらばーなのかいぞくたち",
+    "authorIds": [
+      "itou-tatsuki"
+    ],
+    "illustratorIds": [
+      "nanami-shingo"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "kaiyou-bouken",
+      "adventure",
+      "ken-to-mahou",
+      "memory-loss",
+      "romance"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "アラビアン風の架空大陸アラバーナを舞台にした冒険活劇。記憶を失い倒れていたおてんば娘ジャリスは、若き商人コダートに助けられたことをきっかけに、一人前の海賊を目指して航海に乗り出す。海賊たちや魔王軍との戦いに巻き込まれながら、仲間との絆を育み大海原を駆け抜けていく。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-beans-taisho",
+        "year": 2005,
+        "result": "奨励賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページ(https://bookwalker.jp/series/17194/)およびピクシブ百科事典で著者・イラストレーター・レーベル(角川ビーンズ文庫)・刊行期間(2007年2月〜2010年2月)・巻数(全10巻)・あらすじ概要を確認。受賞歴は文学賞データベース「文学賞の世界」(https://prizesworld.com/prizes/lightnovel/kben.htm)で、第4回角川ビーンズ小説大賞(2005年度)にて『アラバーナの冒険者達』のタイトルで奨励賞を受賞し、2007年に改題・刊行されたことを確認。既存アワードid「kadokawa-beans-taisho」(登録名: 角川ビーンズ小説賞)を同一賞として再利用。メディアミックスはドラマCD化(2009年)のみでアニメ化・コミカライズの情報は確認できず、両方falseとした。日本語版Wikipediaに単独記事はないため上記情報源で代替。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "akuyaku-reijou-wa-daikoukai-jidai-wo-gomouzoku-desu",
+    "title": "悪役令嬢は大航海時代をご所望です",
+    "titleKana": "あくやくれいじょうはだいこうかいじだいをごもうぞくです",
+    "authorIds": [
+      "urawa-atsuki"
+    ],
+    "illustratorIds": [
+      "nyanya"
+    ],
+    "publisherId": "dragon-novels",
+    "themeIds": [
+      "kaiyou-bouken",
+      "akuyaku-reijou",
+      "isekai-tensei",
+      "naisei",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "乙女ゲームの悪役令嬢マリーとして生まれ変わった主人公は、二歳にして前世の記憶を取り戻す。一族が処刑される未来を回避するため、貧しく蔑まれた辺境領地の立て直しに乗り出し、海の向こうにあるという新大陸への進出計画を主導する。限られた時間の中、航海と開拓によって領地の運命を変えようと奮闘する物語。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページ(https://bookwalker.jp/series/477873/list/)および第1巻商品ページ(https://bookwalker.jp/dec2cd3754-2dfb-43d9-9381-f11e366f479c/)で著者・イラストレーター・レーベル(ドラゴンノベルス)・あらすじ・1巻発売日(2024年7月5日)を確認。全2巻構成であることは確認できたが2巻の正確な発売日は情報源に記載がなく未確認(latestPublishedYearは2025年と推定、要検証)。コミカライズ版(ドラゴンコミックスエイジ)の存在をBOOK☆WALKER関連シリーズ表示で確認、comic: trueとした。アニメ化情報は確認できずanime: falseとした。カクヨム発のウェブ小説の書籍化と見られるが原作ウェブ版の連載開始日・完結状況は未確認。日本語版Wikipediaに記事はないため上記情報源で代替。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

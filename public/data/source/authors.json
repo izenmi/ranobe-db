@@ -5336,5 +5336,23 @@
     "externalLinks": {},
     "sourceNote": "KADOKAWA公式商品ページ(https://www.kadokawa.co.jp/product/322308000958/)で著者名・レーベル・刊行日を確認。読み仮名は公式資料に記載がなく推定。詳細な経歴は未確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "itou-tatsuki",
+    "name": "伊藤たつき",
+    "nameKana": "いとうたつき",
+    "description": "第4回角川ビーンズ小説大賞で奨励賞を受賞し、『アラバーナの海賊たち』でデビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページ(https://bookwalker.jp/series/17194/)、および文学賞データベース「文学賞の世界」の角川ビーンズ小説大賞受賞作一覧(https://prizesworld.com/prizes/lightnovel/kben.htm)で著者名・受賞歴を確認。日本語版Wikipediaに単独記事なし。生年等の詳細プロフィールは未確認のため記載せず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "urawa-atsuki",
+    "name": "浦和篤樹",
+    "nameKana": "うらわあつき",
+    "description": "「小説家になろう」/カクヨム発の作品を中心に活動するライトノベル作家。『悪役令嬢は大航海時代をご所望です』(ドラゴンノベルス)などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページ(https://bookwalker.jp/dec2cd3754-2dfb-43d9-9381-f11e366f479c/)で著者名・出版情報を確認。日本語版Wikipediaに単独記事なし。詳細プロフィールは未確認のため記載せず。",
+    "updatedAt": "2026-08-02"
   }
 ]
