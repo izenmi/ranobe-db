@@ -22417,5 +22417,337 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "ayakashigatari",
+    "title": "あやかしがたり",
+    "titleKana": "あやかしがたり",
+    "authorIds": [
+      "watari-wataru"
+    ],
+    "illustratorIds": [
+      "natsume-yoshinori"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "jidai-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "妖怪や魑魅魍魎が跋扈する江戸時代を舞台にした歴史冒険譚。帰郷中の若者が、拝み屋を営む男とその連れの少女と出会ったことをきっかけに、故郷の藩内で渦巻く陰謀とあやかし絡みの事件に巻き込まれていく。渡航のデビュー作にあたる作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2009,
+        "rank": "大賞(ガガガ文庫部門)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あやかしがたり_(小説)"
+    },
+    "sourceNote": "日本語版Wikipedia「あやかしがたり(小説)」で著者・イラスト・レーベル・刊行期間・巻数・受賞歴・あらすじを確認。渡航は既存著者ID(watari-wataru、『やはり俺の青春ラブコメはまちがっている。』の著者)を再利用。アニメ化・コミカライズ情報は記事中に記載なしのためfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nikai-no-youkai-oujo",
+    "title": "二階の妖怪王女",
+    "titleKana": "にかいのようかいおうじょ",
+    "authorIds": [
+      "arai-ryuuji"
+    ],
+    "illustratorIds": [
+      "kantaka"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "comedy",
+      "harem",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "天涯孤独の高校生が先祖から相続した武家屋敷を訪ねると、そこには妖姫を長とする百鬼の一族が住み着いていた。彼らは主人公の先祖である陰陽師を今も恩人と慕っており、当主として迎え入れる。個性的な妖怪たちとの同居生活の裏で、かつて先祖が封印した邪悪な妖怪たちが解き放たれ、新たな脅威が主人公に迫る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://dengekibunko.jp/product/2f-youkai/"
+    },
+    "sourceNote": "電撃文庫公式サイト作品ページ、KADOKAWA商品ページ(https://www.kadokawa.co.jp/product/200504000121/)で著者・レーベル・刊行年(2005年4月〜2006年4月、全4巻)・あらすじを確認。Amazon.co.jp商品ページでイラスト担当(かんたか)を確認。アニメ化・コミカライズ情報は見当たらずfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukumogami-wa-seishun-wo-motenasan-to-hossu",
+    "title": "つくも神は青春をもてなさんと欲す",
+    "titleKana": "つくもがみはせいしゅんをもてなさんとほっす",
+    "authorIds": [
+      "keino-yuuji"
+    ],
+    "illustratorIds": [
+      "suburi"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "骨董屋の家に生まれた高校生が、祖父の形見として譲り受けた古い鉄瓶。それは長い年月を経て精霊化した付喪神(つくもがみ)であり、少女の姿をして特殊な力を持っていた。人ならぬ器物の精と過ごすことになった主人公の青春を描く学園コメディ。第12回スーパーダッシュ小説新人賞優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "super-dash-shousetsu-shinjinshou",
+        "year": 2013,
+        "rank": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Amazon.co.jp商品ページ(1〜3巻)、HMV&BOOKS onlineで著者・イラスト・レーベル・受賞歴・巻数(全3巻)を確認。アニメ化・コミカライズ情報は見当たらずfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "youkai-apart-no-yuuga-na-nichijou",
+    "title": "妖怪アパートの幽雅な日常",
+    "titleKana": "ようかいあぱーとのゆうがなにちじょう",
+    "authorIds": [
+      "kouzuki-hinowa"
+    ],
+    "illustratorIds": [
+      "satou-michihiko"
+    ],
+    "publisherId": "kodansha-ya-entertainment",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "両親を亡くし寮も火事で失った高校生が、格安の家賃に惹かれて入居したアパート。そこは妖怪や幽霊たちが暮らす「妖怪アパート」だった。人ならぬ隣人たちとの騒動や交流を通じて、主人公が少しずつ成長していく姿を描いた青春ファンタジー。テレビアニメ化・コミカライズもされた人気シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖怪アパートの幽雅な日常"
+    },
+    "sourceNote": "日本語版Wikipedia「妖怪アパートの幽雅な日常」で著者・レーベル・刊行年(2003〜2013年、小説全11巻)・アニメ化(2017年)・コミカライズ・あらすじを確認。国立国会図書館サーチの書誌情報で装画担当(佐藤三千彦)を確認(後半巻はミヤマケイに交代の情報もあり)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamisama-no-goyounin",
+    "title": "神様の御用人",
+    "titleKana": "かみさまのごようにん",
+    "authorIds": [
+      "asaba-natsu"
+    ],
+    "illustratorIds": [
+      "kurono-kuro"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "夢だった野球選手の道を断念し腐っていたフリーターの青年が、ある日狐神から「御用人」に任命される。以来、古事記や日本各地の民話に登場する八百万の神々から寄せられる悩みや頼み事を聞き、人ならぬ者たちの間を奔走しながら解決していく現代神話ファンタジー。累計発行部数230万部を超える人気シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様の御用人"
+    },
+    "sourceNote": "日本語版Wikipedia「神様の御用人」で著者・イラスト・レーベル・刊行年(2013年12月〜2025年7月現在12巻・継続中)・コミカライズ(B's-LOG COMICS全4巻)・あらすじ・発行部数を確認。テレビアニメ化はなし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "zettaijou-senpai-no-youkaigaku-kouza",
+    "title": "絶対城先輩の妖怪学講座",
+    "titleKana": "ぜったいじょうせんぱいのようかいがくこうざ",
+    "authorIds": [
+      "minemori-hirokazu"
+    ],
+    "illustratorIds": [
+      "mizuguchi-tou"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "mystery",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "東勢大学に入学した青年は、幼い頃からの不思議な悩みを抱えていた。文学部棟の一室に妖怪関連の資料を集める謎めいた先輩・絶対城阿頼耶と出会い、彼のもとに持ち込まれる怪異相談の解決を手伝うようになる。日常に潜む妖怪学の謎を追ううちに、自身の体質の秘密にも近づいていく学園ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/絶対城先輩の妖怪学講座"
+    },
+    "sourceNote": "日本語版Wikipedia「絶対城先輩の妖怪学講座」で著者・イラスト・レーベル・刊行年(2013〜2019年、全12巻・完結)・コミカライズ(炬太郎、全2巻)・あらすじを確認。著者の峰守ひろかずは既存著者ID(minemori-hirokazu)を再利用。テレビアニメ化はなし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yorozu-uranaidokoro-onmyouya-e-youkoso",
+    "title": "よろず占い処 陰陽屋へようこそ",
+    "titleKana": "よろずうらないどころおんみょうやへようこそ",
+    "authorIds": [
+      "amano-shouko"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "popura-bunko-purefull",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "youkai-ayakashi",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "東京の王子稲荷商店街の雑居ビルで営まれる占いの店「陰陽屋」。霊感はないが観察眼と話術に長けた占い師と、店を手伝う妖狐の少年が、持ち込まれる様々な相談事や怪異を、時に人間くさい知恵で解き明かしていく現代版陰陽師コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/よろず占い処_陰陽屋シリーズ"
+    },
+    "sourceNote": "日本語版Wikipedia「よろず占い処 陰陽屋シリーズ」で著者・イラスト(文庫版toi8)・レーベル・刊行年(2007年単行本、2011年文庫化〜2023年、文庫版全15巻・完結)・コミカライズ(岩崎美奈子、全2巻)・あらすじを確認。イラストレーターtoi8は既存ID(toi8)を再利用。テレビドラマ化はあるがテレビアニメ化はなし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okitsunesama-no-irui-koninitan",
+    "title": "お狐様の異類婚姻譚",
+    "titleKana": "おきつねさまのいるいこんいんたん",
+    "authorIds": [
+      "itomori-tamaki"
+    ],
+    "illustratorIds": [
+      "nagi-kasumi"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "iinazuke-marriage",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "人ならざる者と契りを結ぶ家系に生まれた娘が、狐の化身である夫との結婚生活を送ることになる和風ファンタジー恋愛譚。人と妖の間に生まれる価値観の違いや誤解に悩みながらも、少しずつ心を通わせていく夫婦の姿を描く。コミカライズもされている人気シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品一覧ページ、Amazon.co.jp各巻商品ページ、HMV&BOOKS onlineで著者・イラスト・レーベル(一迅社文庫アイリス)・刊行年(2020年6月〜2024年12月、全8巻)・コミカライズ(ZERO-SUMコミックス、いなる作画)を確認。イラストレーター凪かすみは既存illustrators.txtに同名IDが存在したため、新規追加せず既存ID(nagi-kasumi)を再利用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inukamit",
+    "title": "いぬかみっ！",
+    "titleKana": "いぬかみっ",
+    "authorIds": [
+      "arisawa-mamizu"
+    ],
+    "illustratorIds": [
+      "wakatsuki-kanna"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "comedy",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "犬神使いの一族に生まれながら落ちこぼれの高校生が、封印を解いてしまったことで、破天荒な犬神の少女と主従契約を結ぶことになる。息の合わない二人が犬神使い同士の争いや事件に巻き込まれながら、次第に絆を深めていくドタバタ学園ラブコメ。テレビアニメ化・コミカライズもされた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いぬかみっ!"
+    },
+    "sourceNote": "日本語版Wikipedia「いぬかみっ!」で著者・イラスト・レーベル・刊行年(2003〜2008年、本編14巻)・テレビアニメ化(2006年4月〜9月、全26話)・コミカライズ・あらすじを確認。著者は第8回電撃ゲーム小説大賞銀賞受賞者だが、その受賞は別作品でのものである可能性がありこの作品自体の受賞と断定できないため、awardResultsには含めなかった。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusuriya-tantei-youkitan",
+    "title": "薬屋探偵妖綺談",
+    "titleKana": "くすりやたんていようきだん",
+    "authorIds": [
+      "takasato-shiina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "youkai-ayakashi",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "とある町にある「深山木薬店」は表向きは薬局だが、実態は妖怪や人間からの厄介事を引き受ける「妖怪雑事相談所」。飄々とした店主とその従業員たちが、妖怪と人間の間で起きる不可思議な事件の謎を解いていく、薬屋を舞台にした妖怪ミステリーシリーズ。第11回メフィスト賞受賞作を第一作とする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/薬屋探偵妖綺談"
+    },
+    "sourceNote": "日本語版Wikipedia「薬屋探偵妖綺談」で著者・レーベル(講談社ノベルス)・刊行年(1999年頃〜2023年以降、15巻・継続中)・あらすじを確認。第1作『銀の檻を溶かして』は第11回メフィスト賞受賞作だが、メフィスト賞は一般ミステリ向けの新人賞でawards.txtの既存リストにも該当がなく、ライトノベル向け賞と言い切れないためawardResultsには含めずawardResults:[]とした。イラストレーター情報は複数のソースで確認できず、illustratorIdsは空欄とした。",
+    "updatedAt": "2026-08-02"
   }
 ]

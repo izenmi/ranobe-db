@@ -5509,5 +5509,77 @@
     "description": "ライトノベル作家。『追放領主の孤島開拓記〜秘密のギフト【クラフトスキル】で世界一幸せな領地を目指します！〜』(サーガフォレスト)の著者。",
     "sourceNote": "日本語版Wikipedia「サーガフォレスト」作品一覧ページ、BOOK☆WALKER書籍ページで確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arai-ryuuji",
+    "name": "あらいりゅうじ",
+    "nameKana": "あらいりゅうじ",
+    "description": "ライトノベル作家。『二階の妖怪王女』(電撃文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式作品ページ(https://www.kadokawa.co.jp/product/200504000121/)、電撃文庫公式サイト(https://dengekibunko.jp/product/2f-youkai/)にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "keino-yuuji",
+    "name": "慶野由志",
+    "nameKana": "けいのゆうじ",
+    "description": "ライトノベル作家。第12回スーパーダッシュ小説新人賞優秀賞受賞。『つくも神は青春をもてなさんと欲す』(スーパーダッシュ文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で著者名・受賞歴を確認(複数の書誌情報サイトおよびAmazon.co.jp商品ページ)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kouzuki-hinowa",
+    "name": "香月日輪",
+    "nameKana": "こうづきひのわ",
+    "description": "児童文学・ライトノベル作家(1963-2014)。『妖怪アパートの幽雅な日常』(講談社YA!ENTERTAINMENT)の著者。第51回産経児童出版文化賞フジテレビ賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「妖怪アパートの幽雅な日常」および「香月日輪」記事、Oricon news訃報記事で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "asaba-natsu",
+    "name": "浅葉なつ",
+    "nameKana": "あさばなつ",
+    "description": "ライトノベル作家。『神様の御用人』(メディアワークス文庫)の著者。シリーズ累計230万部超。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「神様の御用人」記事で著者名・シリーズ実績を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amano-shouko",
+    "name": "天野頌子",
+    "nameKana": "あまのしょうこ",
+    "description": "小説家。長崎県佐世保市出身。『よろず占い処 陰陽屋へようこそ』(ポプラ文庫ピュアフル)の著者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「天野頌子」「よろず占い処 陰陽屋シリーズ」記事で著者名・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "itomori-tamaki",
+    "name": "糸森環",
+    "nameKana": "いともりたまき",
+    "description": "ライトノベル作家。2012年『花術師』でデビュー。『お狐様の異類婚姻譚』(一迅社文庫アイリス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(複数書誌情報サイト)で著者名・読み方・デビュー作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arisawa-mamizu",
+    "name": "有沢まみず",
+    "nameKana": "ありさわまみず",
+    "description": "ライトノベル作家。第8回電撃ゲーム小説大賞銀賞受賞。『いぬかみっ！』(電撃文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「いぬかみっ!」記事および複数のKADOKAWA商品ページで著者名・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takasato-shiina",
+    "name": "高里椎奈",
+    "nameKana": "たかさとしいな",
+    "description": "小説家。第11回メフィスト賞受賞(『銀の檻を溶かして』)。『薬屋探偵妖綺談』(講談社ノベルス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「薬屋探偵妖綺談」記事で著者名・受賞歴・シリーズ概要を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

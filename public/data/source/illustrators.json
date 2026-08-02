@@ -4715,5 +4715,68 @@
     "description": "ライトノベルのイラストを手掛けるイラストレーター。『スキル【庭いじり】持ち令嬢、島流しにあう〜未開の島でスキルが大進化！簡単開拓始めます〜』(MFブックス)の挿絵を担当。",
     "sourceNote": "BOOK☆WALKER・honto.jp書籍ページで確認。サイトにより著者/イラストレーターの表記が入れ替わって要約されるケースがあったため、複数ソースを突き合わせてイラストレーター側と判断。読み仮名は推定。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "natsume-yoshinori",
+    "name": "夏目義徳",
+    "nameKana": "なつめよしのり",
+    "description": "イラストレーター。『あやかしがたり』(ガガガ文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon.co.jp商品ページ(あやかしがたり Kindle版)、日本語版Wikipedia「あやかしがたり(小説)」でイラスト担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kantaka",
+    "name": "かんたか",
+    "nameKana": "かんたか",
+    "description": "イラストレーター。『二階の妖怪王女』(電撃文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon.co.jp商品ページ(二階の妖怪王女 電撃文庫版)でイラスト担当のクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suburi",
+    "name": "すぶり",
+    "nameKana": "すぶり",
+    "description": "イラストレーター。『つくも神は青春をもてなさんと欲す』(スーパーダッシュ文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon.co.jp商品ページ(つくも神は青春をもてなさんと欲す 1巻)でイラスト担当のクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "satou-michihiko",
+    "name": "佐藤三千彦",
+    "nameKana": "さとうみちひこ",
+    "description": "イラストレーター・デザイナー(1947年三重県生まれ)。『妖怪アパートの幽雅な日常』(講談社YA!ENTERTAINMENT)の装画を担当。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(NDLサーチ)の書誌情報「香月日輪・著 佐藤三千彦・装画『妖怪アパートの幽雅な日常7』」で装画担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurono-kuro",
+    "name": "くろのくろ",
+    "nameKana": "くろのくろ",
+    "description": "イラストレーター。『神様の御用人』(メディアワークス文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「神様の御用人」記事でイラスト担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizuguchi-tou",
+    "name": "水口十",
+    "nameKana": "みずぐちとお",
+    "description": "イラストレーター。『絶対城先輩の妖怪学講座』(メディアワークス文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「絶対城先輩の妖怪学講座」記事、メディアワークス文庫公式サイトでイラスト担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "wakatsuki-kanna",
+    "name": "若月神無",
+    "nameKana": "わかつきかんな",
+    "description": "イラストレーター。『いぬかみっ！』(電撃文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「いぬかみっ!」記事、コミックシーモア作品ページでイラスト担当を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

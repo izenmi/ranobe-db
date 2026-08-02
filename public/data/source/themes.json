@@ -363,5 +363,15 @@
     "id": "mujintou",
     "name": "無人島",
     "description": "無人島・絶海の孤島を主な舞台とする物語。"
+  },
+  {
+    "id": "youkai-ayakashi",
+    "name": "妖怪・あやかし",
+    "description": "妖怪・あやかし・物の怪など日本の伝承上の存在が物語の中心となる作品群。"
+  },
+  {
+    "id": "onmyoushi-taimashi",
+    "name": "陰陽師・退魔師",
+    "description": "陰陽師や式神使い、退魔師など、怪異を祓う・扱う職能者が主人公または重要人物として登場する作品群。"
   }
 ]

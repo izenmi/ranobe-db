@@ -840,5 +840,25 @@
     "externalLinks": {},
     "sourceNote": "複数の二次情報にて2017年5月18日創刊、ガガガ文庫（2007年創刊）とは別レーベルであることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodansha-ya-entertainment",
+    "name": "講談社YA!ENTERTAINMENT",
+    "nameKana": "こうだんしゃわいえーえんたーていんめんと",
+    "parentCompany": "講談社",
+    "description": "講談社が刊行するヤングアダルト向け小説レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「妖怪アパートの幽雅な日常」記事、講談社「香月日輪オンライン」公式サイトでレーベル名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "popura-bunko-purefull",
+    "name": "ポプラ文庫ピュアフル",
+    "nameKana": "ぽぷらぶんこぴゅあふる",
+    "parentCompany": "ポプラ社",
+    "description": "ポプラ社が刊行する若年層向け文庫レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「よろず占い処 陰陽屋シリーズ」記事でレーベル名・刊行時期を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
