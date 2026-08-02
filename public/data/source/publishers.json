@@ -819,5 +819,15 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版『虫かぶり姫』記事のレーベル表記より確認。既存publisher ID『ichijinsha-iris』とは別レーベルのため新規発行。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "beginning-novels",
+    "name": "ビギニングノベルズ",
+    "nameKana": "びぎにんぐのべるず",
+    "parentCompany": "キルタイムコミュニケーション",
+    "description": "キルタイムコミュニケーションが展開するライトノベルレーベル。ダークファンタジー・ハーレム系作品を中心に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『魔王の始め方』の刊行レーベルとして確認。創刊年等の詳細は確認できず未記載。",
+    "updatedAt": "2026-08-02"
   }
 ]

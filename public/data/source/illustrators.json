@@ -4347,5 +4347,77 @@
     },
     "sourceNote": "日本語版Wikipedia「ことぶきつかさ」記事に基づく。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sando",
+    "name": "さんど",
+    "nameKana": "さんど",
+    "description": "「最強タンクの迷宮攻略」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・Wikipedia作品ページのイラストレーター表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shindou-arata",
+    "name": "新堂アラタ",
+    "nameKana": "しんどうあらた",
+    "description": "「魔王の始め方」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOKLIVE等の書誌情報でイラストレーター表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichiyan",
+    "name": "いちやん",
+    "nameKana": "いちやん",
+    "description": "「従魔とつくる異世界ダンジョン」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・Amazon書誌情報のイラストレーター表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uonome-uroko",
+    "name": "うおのめうろこ",
+    "nameKana": "うおのめうろこ",
+    "description": "「迷宮帝国の作り方」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・Amazon書誌情報のイラストレーター表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takebana-note",
+    "name": "竹花ノート",
+    "nameKana": "たけばなのーと",
+    "description": "「俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『俺だけ入れる隠しダンジョン』のイラストレーター情報として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akari-illustrator",
+    "name": "朱里",
+    "nameKana": "あかり",
+    "description": "「ゲーム世界転生〈ダン活〉」のキャラクター原案・イラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式書籍ページで読み仮名「あかり」を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jun-onsen",
+    "name": "じゅん",
+    "nameKana": "じゅん",
+    "description": "「異世界転生ダンジョンマスター 温泉ダンジョンを作る」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式特設ページのイラストレーター表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ttl-illustrator",
+    "name": "ttl",
+    "nameKana": "てぃーてぃーえる",
+    "description": "「Dジェネシス ダンジョンが出来て3年」のイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『Dジェネシス ダンジョンが出来て3年』のイラストレーター情報として確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

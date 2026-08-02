@@ -5127,5 +5127,68 @@
     },
     "sourceNote": "日本語版Wikipedia「あかほりさとる」記事に基づく。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "warau-yakan",
+    "name": "笑うヤカン",
+    "nameKana": "わらうやかん",
+    "description": "キルタイムコミュニケーション「ビギニングノベルズ」より、老魔術師が魔王を目指す「魔王の始め方」を刊行するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『魔王の始め方』の著者情報として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amei-zen",
+    "name": "唖鳴蝉",
+    "nameKana": "あめいぜん",
+    "description": "小説投稿サイト発の「従魔とつくる異世界ダンジョン」で知られるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Web NDL Authorities等で読み仮名「アメイゼン」を確認。作品は双葉社Mノベルスより刊行。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shuukichi",
+    "name": "しゅうきち",
+    "nameKana": "しゅうきち",
+    "description": "MFブックス(KADOKAWA)より「迷宮帝国の作り方」を刊行するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページの著者表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "seto-meguru",
+    "name": "瀬戸メグル",
+    "nameKana": "せとめぐる",
+    "description": "「小説家になろう」発、講談社Kラノベブックスより「俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～」を刊行したライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『俺だけ入れる隠しダンジョン』の著者情報として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nishikigi-kaede",
+    "name": "ニシキギ・カエデ",
+    "nameKana": "にしきぎかえで",
+    "description": "TOブックスより「ゲーム世界転生〈ダン活〉」を刊行するライトノベル作家。同作はテレビアニメ化もされた。",
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式書籍ページの著者表記として確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tengen",
+    "name": "天原",
+    "nameKana": "てんげん",
+    "description": "富士見ファンタジア文庫より「異世界転生ダンジョンマスター 温泉ダンジョンを作る」を刊行したライトノベル作家。同作が初のライトノベル作品。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式特設ページ・BOOK☆WALKER等で著者表記を確認。読み仮名の公式表記は確認できず、一般的な読みを暫定表記した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kono-tsuranori",
+    "name": "之貫紀",
+    "nameKana": "このつらのり",
+    "description": "エンターブレイン(KADOKAWA)より、現代日本にダンジョンが出現した世界を描く「Dジェネシス ダンジョンが出来て3年」を刊行するライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイトにて読み仮名「このつらのり」を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

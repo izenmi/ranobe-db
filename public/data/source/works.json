@@ -20394,5 +20394,252 @@
       "anime": true,
       "comic": true
     }
+  },
+  {
+    "id": "saikyou-tank-no-meikyuu-kouryaku",
+    "title": "最強タンクの迷宮攻略 ～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
+    "titleKana": "さいきょうたんくのめいきゅうこうりゃく",
+    "authorIds": [
+      "kijima-ryuuta"
+    ],
+    "illustratorIds": [
+      "sando"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "dungeon",
+      "tsuihou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "体力9999という規格外のレアスキルを持つタンク職の青年ルードは、地味な役割ゆえにその真価を知られぬまま勇者パーティーから追放されてしまう。行き場を失った彼だったが、ひょんなことから新たな仲間と出会いクランを結成し、これまで日陰者だった鉄壁の防御力を武器に、誰も踏破できなかった迷宮の深部を目指す攻略活劇を繰り広げていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最強タンクの迷宮攻略"
+    },
+    "sourceNote": "Wikipedia・BOOK☆WALKERを確認。2019年4月よりヒーロー文庫で刊行開始、2026年2月時点既刊9巻(継続中)。2024年1～3月にテレビアニメ放送、コミカライズも連載中。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "maou-no-hajimekata",
+    "title": "魔王の始め方",
+    "titleKana": "まおうのはじめかた",
+    "authorIds": [
+      "warau-yakan"
+    ],
+    "illustratorIds": [
+      "shindou-arata"
+    ],
+    "publisherId": "beginning-novels",
+    "themeIds": [
+      "dungeon-unei",
+      "harem",
+      "naisei"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "長年の研究の末に人間不信となった老魔術師オウルは、若返りの術で美女の姿を得たサキュバスのリルを右腕とし、自らの国土となる広大なダンジョンの建設に乗り出す。かつての英雄や個性豊かな仲間たちを配下に加えて迷宮を拡張しながら勢力を広げていく彼は、やがて大陸に覇を唱える魔王への道を歩み始めるダークファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王の始め方"
+    },
+    "sourceNote": "Wikipediaを確認。Web連載は2011年開始、2015年よりキルタイムコミュニケーション「ビギニングノベルズ」で書籍化、2023年12月時点既刊8巻(連載中)。コミカライズあり(小宮利公作画)。アニメ化は確認できず、受賞歴の記載もなし。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "juuma-to-tsukuru-isekai-dungeon",
+    "title": "従魔とつくる異世界ダンジョン",
+    "titleKana": "じゅうまとつくるいせかいだんじょん",
+    "authorIds": [
+      "amei-zen"
+    ],
+    "illustratorIds": [
+      "ichiyan"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "dungeon-unei",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "自室のクローゼットの奥が異世界の洞窟へと繋がっていることに気づいた青年は、好奇心からその中を探索する。瀕死の小動物たちを助けたことをきっかけにダンジョンマスターとなった彼は、救った動物たちを従魔として迎え入れ、共にダンジョンを育てながら異世界を冒険していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・Amazon書誌情報を確認。双葉社Mノベルスより刊行、第1巻は2018年6月20日発売、全3巻で完結。コミカライズあり(スクウェア・エニックス、全2巻)。第2・3巻の正確な発売年月及びアニメ化の有無は確認できなかった。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "meikyuu-teikoku-no-tsukurikata",
+    "title": "迷宮帝国の作り方 ～錬成術士はまず理想の村を開拓します～",
+    "titleKana": "めいきゅうていこくのつくりかた",
+    "authorIds": [
+      "shuukichi"
+    ],
+    "illustratorIds": [
+      "uonome-uroko"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "dungeon-unei",
+      "isekai-tensei",
+      "naisei"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "前世の記憶を取り戻した青年ニーノは、万能の錬成術を駆使して、自分がプレイしたゲームのバッドエンドを回避しようと動き出す。ダンジョンを少しずつ攻略しては資材を集め、仲間を増やしながら安全な村を築いていくうち、村はやがて一つの国のような規模へと成長していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・KADOKAWA公式ページを確認。MFブックスより刊行、第1巻は2021年7月21日発売。2026年8月時点で既刊2巻までしか確認できず、第2巻の正確な発売年月及びその後の刊行状況(完結か中断か)は未確認。コミカライズあり。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ore-dake-haireru-kakushi-dungeon",
+    "title": "俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～",
+    "titleKana": "おれだけはいれるかくしだんじょん",
+    "authorIds": [
+      "seto-meguru"
+    ],
+    "illustratorIds": [
+      "takebana-note"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "dungeon",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "貧乏貴族の三男に生まれ、家督も継げず周囲から見放されていたノルは、ある日誰にも知られていない隠しダンジョンを偶然発見する。そこに囚われていた伝説の冒険者から創作・付与といった強力な固有スキルを授かった彼は、その力を人知れず磨きながら英雄学校への進学を目指しつつ、単独で隠しダンジョンの攻略を進めていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺だけ入れる隠しダンジョン"
+    },
+    "sourceNote": "Wikipediaを確認。講談社Kラノベブックスより2017年8月～2020年11月に全6巻刊行(完結)。2021年1～3月にテレビアニメ放送、コミカライズは2023年6月に全12巻で完結。累計200万部突破。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "game-sekai-tensei-dankatsu",
+    "title": "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～",
+    "titleKana": "げーむせかいてんせいだんかつ",
+    "authorIds": [
+      "nishikigi-kaede"
+    ],
+    "illustratorIds": [
+      "akari-illustrator"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "dungeon",
+      "isekai-tensei",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "熱心なゲーマーだった主人公は、プレイ職業1000種以上を誇る伝説の名作ゲーム「ダン活」の世界に転生する。迷宮攻略を目的とした学園に入学した彼は、まだ誰も知らない攻略知識を武器に、気弱な幼馴染や仲間たちを鍛え上げながら、迷宮探索と就職(就活)を兼ねた学園生活を謳歌していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式ページ・カクヨム・BOOK☆WALKERを確認。「小説家になろう」発、TOブックスノベルより刊行。2025年7月時点既刊13巻、シリーズ累計30万部突破。テレビアニメ化決定・放送済み。初刊行年は複数資料から2021年と推定(明確な記載は確認できず)。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "isekai-tensei-dungeon-master-onsen-dungeon-wo-tsukuru",
+    "title": "異世界転生ダンジョンマスター 温泉ダンジョンを作る",
+    "titleKana": "いせかいてんせいだんじょんますたーおんせんだんじょんをつくる",
+    "authorIds": [
+      "tengen"
+    ],
+    "illustratorIds": [
+      "jun-onsen"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "dungeon-unei",
+      "isekai-tensei",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "異世界に転生した主人公は、思いがけずダンジョンマスターの力を手に入れ、日本の温泉文化を再現した「温泉ダンジョン」作りを決意する。美肌や若返りの効能をうたう湯を次々と生み出していくうち、温泉ダンジョンは観光地として評判を呼び、国家の経済や外交にまで影響を与える存在へと発展していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式特設ページ・BOOK☆WALKERを確認。富士見ファンタジア文庫より刊行、著者の初のライトノベル作品。2025年8月に第1巻発売、2026年5月時点既刊3巻(継続中)。コミカライズあり。著者名・イラストレーター名の正式な読み仮名表記は確認できず暫定表記。アニメ化・受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "d-genesis-dungeon-ga-dekite-3nen",
+    "title": "Dジェネシス ダンジョンが出来て3年",
+    "titleKana": "でぃーじぇねしすだんじょんができてさんねん",
+    "authorIds": [
+      "kono-tsuranori"
+    ],
+    "illustratorIds": [
+      "ttl-illustrator"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "dungeon",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "マイクロブラックホール実験をきっかけに地球にダンジョンが出現してから3年。研究職だった芳村圭吾は、探索者として世界トップクラスの実力者となったのを機に会社を辞め、パートナーと共に「Dパワーズ」を設立する。ダンジョン産の貴重な資源を巡る研究や取引を通して、迷宮の謎に挑んでいく現代ダンジョンビジネス譚。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dジェネシス_ダンジョンが出来て3年"
+    },
+    "sourceNote": "Wikipediaを確認。KADOKAWA/エンターブレインより2020年2月刊行開始、2026年6月時点既刊12巻(継続中)。コミカライズは『月刊コンプエース』で2020年10月連載開始、既刊8巻。アニメ化・受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]
