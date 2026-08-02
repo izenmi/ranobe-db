@@ -19836,5 +19836,332 @@
     },
     "sourceNote": "小説家になろう発、2016年12月に本編完結。書籍版は2016年にアース・スターノベルで書籍化開始、第1〜13巻がアース・スターノベル、第14〜16巻はSQEXノベルに移籍して刊行、最終16巻は2024年1月6日発売で完結。publisherIdは刊行開始レーベルのearth-star-novelを採用。コミカライズ(全11巻完結)あり。",
     "externalLinks": {}
+  },
+  {
+    "id": "gakuen-kageki",
+    "title": "学園カゲキ!",
+    "titleKana": "がくえんかげき",
+    "authorIds": [
+      "yamakawa-susumu"
+    ],
+    "illustratorIds": [
+      "yoshiwo"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "engeki-butai",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "芸能特区にある演劇の名門校に入学した相沢巧は、陸上特待生の橘九月と出会う。撮影現場での騒動をきっかけに二人の関係は複雑に変化していくが、九月が交通事故に遭い、深刻な事態へと発展していく学園演劇青春ドラマ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2007,
+        "result": "ガガガ賞(第1回小学館ライトノベル大賞)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%82%AB%E3%82%B2%E3%82%AD!"
+    },
+    "sourceNote": "Wikipedia「学園カゲキ!」および「小学館ライトノベル大賞」で著者・出版社・刊行期間・巻数・受賞歴・メディアミックスを確認。あらすじは自分の言葉で要約。演劇特区の学校を舞台にした業界要素の強い作品。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kanojo-wa-tsukkomareru-no-ga-suki",
+    "title": "彼女はつっこまれるのが好き!",
+    "titleKana": "かのじょはつっこまれるのがすき",
+    "authorIds": [
+      "saitou-masato"
+    ],
+    "illustratorIds": [
+      "uo-illustrator"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "平凡な高校生の常村良人は、ある日拉致同然に連れて行かれたスタジオで、人気アイドル声優・音無まどかのWebラジオ番組の相方役を務めることになる。まどかが隣人かつ同級生になったことで、彼女の公の顔と素顔とのギャップに振り回される声優業界コメディ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%81%A4%E3%81%A3%E3%81%93%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8C%E5%A5%BD%E3%81%8D!"
+    },
+    "sourceNote": "Wikipedia「彼女はつっこまれるのが好き!」で著者・出版社・刊行期間(2010年7月〜2013年7月)・巻数(全10巻)を確認。メディアミックス情報なしと明記。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "idol-rising",
+    "title": "アイドライジング!",
+    "titleKana": "あいどらいじんぐ",
+    "authorIds": [
+      "hirosawa-sakaki"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "近未来の日本で流行する、企業開発のバトルドレスを纏った少女アイドルたちが舞台上で戦う新エンターテインメント「アイドライジング」。主人公アイザワ・モモがプロデューサーとともに、このステージで戦いながら成長していく物語。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2011,
+        "result": "金賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0!"
+    },
+    "sourceNote": "Wikipedia「アイドライジング!」で著者・出版社・刊行期間・巻数・受賞歴(第17回電撃小説大賞金賞、2011年刊行)・コミカライズ有無を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "watashi-to-anata-no-seishun-kakumei",
+    "title": "私とあなたの青春革命。",
+    "titleKana": "わたしとあなたのせいしゅんかくめい",
+    "authorIds": [
+      "hirosawa-sakaki"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "多くの現役人気アイドルを輩出してきた「アイドル学科」を持つ白桜台学園に入学した天堂優馬。厳格な校則と風紀の取り締まりが敷かれる中、謎の合言葉「青春革命」を掲げて体制に立ち向かう少女に振り回されていく学園ラブコメディ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA商品ページ・BookLive!書誌情報で著者・出版社・刊行年・巻数(全2巻)・あらすじを確認。Wikipedia個人記事は未確認。2巻の正確な初版発売年は情報源により差異があるため未確定(電子版再配信日は2015年と表示されるサイトあり)。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "voice-zaka",
+    "title": "ボイス坂",
+    "titleKana": "ぼいすざか",
+    "authorIds": [
+      "takatoo-rui"
+    ],
+    "illustratorIds": [
+      "takatoo-rui"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "「アイドル化する声優」に憧れる女子高生・藤林沙絵は、才能も経験もないまま声優を目指し専門学校で挫折を経験する。それでも大手プロダクションのオーディションに合格し、同期の少女たちと最短デビューを目指す、著者自身の実体験を基にした声優業界青春物語。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%B9%E5%9D%82"
+    },
+    "sourceNote": "Wikipedia「ボイス坂」で著者(自著自画)・出版社・刊行期間(2012年8月〜2013年3月)・巻数(全2巻)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "oa-radio-idol",
+    "title": "O/A【オー・エー】",
+    "titleKana": "おーえー",
+    "authorIds": [
+      "negishi-kazuya"
+    ],
+    "illustratorIds": [
+      "watakai-keiji"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "idol-geinokai",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "人気アイドルと新人お笑い芸人が、正体を隠したまま一人二役でラジオ番組のパーソナリティを務めているという秘密の共同作業を描く、渡会けいじの漫画を原作としたノベライズ作品。ラジオ業界を舞台にしたアイドルコメディ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/O/A"
+    },
+    "sourceNote": "Wikipedia「O/A」で原作漫画とノベライズ版(2011年、富士見ファンタジア文庫、根岸和哉著/渡会けいじ絵)の情報を確認。原作漫画のノベライズであることを明記。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "idol-boku-wa-bishoujo-idol",
+    "title": "IDOL 僕は美少女アイドル!?",
+    "titleKana": "あいどる ぼくはびしょうじょあいどる",
+    "authorIds": [
+      "nanami-kiri"
+    ],
+    "illustratorIds": [
+      "fujiwara-yuka"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "tsf",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "訳あって女装することになった少年が、芸能事務所社長にスカウトされてオーディションでグランプリを獲得し、性別を隠したまま美少女アイドルとしてデビューする。グラビア撮影やCM、ドラマ出演などをこなしていく性別入れ替わり系の芸能界コメディ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書店サイト(HMV、Amazon、books.or.jp)の書誌情報で著者・出版社・刊行年・巻構成(デビュー編/恋愛編、全2巻)・あらすじを確認。Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "ore-no-tenshi-wa-renai-kinshi",
+    "title": "俺の天使は恋愛禁止!",
+    "titleKana": "おれのてんしはれんあいきんし",
+    "authorIds": [
+      "mizuki-rin"
+    ],
+    "illustratorIds": [
+      "agata-itsuki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "国民全員がランク付けされる格差社会を舞台に、最底辺ランクの高校生・佐藤永遠が、憧れの存在だった人気アイドルグループの少女たちと関わることになる青春ラブコメディ。転校生とアイドルたちとの交流を通じて描かれる恋愛模様。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKERの書誌情報で著者・イラストレーター・出版社・刊行年(2013年)・巻数(全2巻)・あらすじを確認。Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "royal-little-star",
+    "title": "ロイヤル☆リトルスター",
+    "titleKana": "ろいやるりとるすたー",
+    "authorIds": [
+      "mochizuki-nozomu"
+    ],
+    "illustratorIds": [
+      "chiba-saddle"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "sf",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ずぶ濡れで歌う不思議な少女セノンと出会った高校生・瀬名信一。他の星から来た「魔法王女」であるセノンは、信一をプロデューサーとして新人アイドルとしてデビューし、銀河最大のアイドルイベントでの活躍を目指していくSFアイドルコメディ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書店サイト(HMV、TSUTAYA等)の書誌情報で著者・イラストレーター・出版社・巻数(全2巻)・あらすじを確認。Wikipedia「餅月望」で著者の代表作として言及されていることも確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "seiyuu-ni-kubi-wo-shimerareteiru",
+    "title": "男子高校生で売れっ子ライトノベル作家をしているけれど、年下のクラスメイトで声優の女の子に首を絞められている。",
+    "titleKana": "だんしこうこうせいでうれっこらいとのべるさっかをしているけれど、としたのくらすめいとでせいゆうのおんなのこにくびをしめられている",
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "shigoto",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "高校生にして電撃文庫でデビューした人気ライトノベル作家の「僕」は、年下の同級生で新人声優の似鳥と、アフレコに向かう特急列車の中だけで言葉を交わす秘密の関係にある。ライトノベル制作の舞台裏や声優業界を背景に、二人の関係を脅かす存在が現れるサスペンス青春劇。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・KADOKAWA商品ページ・ピクシブ百科事典で著者(時雨沢恵一)・イラストレーター(黒星紅白、共に既存id流用)・出版社・刊行期間(2013年〜2014年6月)・巻数(全3巻)・あらすじを確認。Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
   }
 ]

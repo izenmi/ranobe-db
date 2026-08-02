@@ -4986,5 +4986,83 @@
     "externalLinks": {},
     "sourceNote": "作品情報サイトでの読み仮名表記および出版社サイトの著者表記より確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamakawa-susumu",
+    "name": "山川進",
+    "nameKana": "やまかわすすむ",
+    "description": "北海道出身のライトノベル作家・脚本家。2007年に『学園カゲキ!』でデビューし、後にアニメ脚本家としても活躍している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B7%9D%E9%80%B2"
+    },
+    "sourceNote": "Wikipedia「山川進」で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saitou-masato",
+    "name": "サイトーマサト",
+    "nameKana": "さいとーまさと",
+    "description": "『彼女はつっこまれるのが好き!』(電撃文庫)を執筆したライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・Amazon著者表記で氏名を確認。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hirosawa-sakaki",
+    "name": "広沢サカキ",
+    "nameKana": "ひろさわさかき",
+    "description": "『アイドライジング!』で第17回電撃小説大賞金賞を受賞したライトノベル作家。アイドルをテーマにした作品を複数手がける。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・KADOKAWA商品ページで確認。Wikipedia個人記事は未確認(2026年8月2日時点で存在せず)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takatoo-rui",
+    "name": "高遠るい",
+    "nameKana": "たかとおるい",
+    "description": "1980年生まれの漫画家・イラストレーター・ライトノベル作家。自ら執筆・作画を手がける「一人メディアミックス」で知られ、『ボイス坂』『はぐれアイドル地獄変』などを発表している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%81%A0%E3%82%8B%E3%81%84"
+    },
+    "sourceNote": "Wikipedia「高遠るい」で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "negishi-kazuya",
+    "name": "根岸和哉",
+    "nameKana": "ねぎしかずや",
+    "description": "『O/A【オー・エー】』(富士見ファンタジア文庫)を執筆したライトノベル作家。渡会けいじの漫画のノベライズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報・書店サイトで著者名を確認。Wikipedia個人記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizuki-rin",
+    "name": "美月りん",
+    "nameKana": "みづきりん",
+    "description": "『俺の天使は恋愛禁止!』(電撃文庫)を執筆したライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイトで著者名を確認。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanami-kiri",
+    "name": "七海樹里",
+    "nameKana": "ななみきり",
+    "description": "『IDOL 僕は美少女アイドル!?』(コバルト文庫)でデビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "書店サイト(HMV、Amazon等)の書誌情報で著者名を確認。Wikipedia個人記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mochizuki-nozomu",
+    "name": "餅月望",
+    "nameKana": "もちづきのぞむ",
+    "description": "1982年生まれのライトノベル作家。アミューズメントメディア総合学院出身。『ロイヤル☆リトルスター』『ティアムーン帝国物語』などを執筆。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%A4%85%E6%9C%88%E6%9C%9B"
+    },
+    "sourceNote": "Wikipedia「餅月望」で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -4269,5 +4269,56 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia『アース・スターノベル』作品一覧のイラスト担当表記より確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uo-illustrator",
+    "name": "魚",
+    "nameKana": "うお",
+    "description": "『彼女はつっこまれるのが好き!』(電撃文庫)の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイトの挿絵クレジットで確認。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watakai-keiji",
+    "name": "渡会けいじ",
+    "nameKana": "わたかいけいじ",
+    "description": "1983年生まれの漫画家。『O/A【オー・エー】』の原作漫画を執筆し、ノベライズ版の挿絵も担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E4%BC%9A%E3%81%91%E3%81%84%E3%81%98"
+    },
+    "sourceNote": "Wikipedia「渡会けいじ」で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujiwara-yuka",
+    "name": "藤原ゆか",
+    "nameKana": "ふじわらゆか",
+    "description": "『IDOL 僕は美少女アイドル!?』(コバルト文庫)の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書店サイトの書誌情報で挿絵担当者名を確認。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chiba-saddle",
+    "name": "千葉サドル",
+    "nameKana": "ちばさどる",
+    "description": "福岡県出身の漫画家・イラストレーター。『がっこうぐらし!』などの漫画作品のほか、『ロイヤル☆リトルスター』の挿絵も手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E3%82%B5%E3%83%89%E3%83%AB"
+    },
+    "sourceNote": "Wikipedia「千葉サドル」で経歴・代表作を確認。既存イラストレーター「千葉」(chiba-illustrator)とは別人。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takatoo-rui",
+    "name": "高遠るい",
+    "nameKana": "たかとおるい",
+    "description": "『ボイス坂』を自ら執筆・作画した漫画家・ライトノベル作家(著者エントリと同一人物)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%81%A0%E3%82%8B%E3%81%84"
+    },
+    "sourceNote": "Wikipedia「高遠るい」で確認。自著自画のため著者(authors.json)と同一idを使用(既存データの榎宮祐の例に準拠)。",
+    "updatedAt": "2026-08-02"
   }
 ]
