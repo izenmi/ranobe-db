@@ -20943,5 +20943,372 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "ouritsu-mahou-gakuen-no-saikasei",
+    "title": "王立魔法学園の最下生〜貧困街上がりの最強魔法師、貴族だらけの学園で無双する〜",
+    "titleKana": "おうりつまほうがくえんのさいかせい",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [
+      "aono-shita"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "スラム街で暗殺者として育てられた孤児の少年が、素性を隠して名門の王立魔法学園に入学する。貴族の子弟ばかりが集うこの学び舎で平民出身と見下されながらも、幼少期に叩き込まれた圧倒的な魔法の実力を発揮し、教師や生徒たちを次々と驚かせていく。他人と関わることを避けてきた主人公が、学園生活を通じて少しずつ仲間との絆を築いていく成長ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王立魔法学園の最下生〜貧困街上がりの最強魔法師、貴族だらけの学園で無双する〜"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社・巻数・あらすじ・メディアミックス状況を確認。2026年8月現在アニメ化の情報は確認できず(コミカライズのみ確認)。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "rakudai-kenja-no-gakuin-musou",
+    "title": "落第賢者の学院無双 〜二度転生した最強賢者、400年後の世界を魔剣で無双〜",
+    "titleKana": "らくだいけんじゃのがくいんむそう",
+    "authorIds": [
+      "shiraishi-arata"
+    ],
+    "illustratorIds": [
+      "uo-denimu"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "isekai-tensei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "かつて大賢者として魔導の探求に生涯を捧げながらも頂点に届かぬまま世を去った男が、400年後の世界に二度目の転生を果たす。しかし魔法文明はすでに衰退しており、前世の知識と実力を持つ主人公の魔法は誰の目にも「奇跡の業」と映る。時代遅れとされる魔法学院に入学した主人公が、二度目の人生で真の頂点を目指す転生学園ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/落第賢者の学院無双_〜二度転生した最強賢者、400年後の世界を魔剣で無双〜"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社・刊行期間(2019年10月〜2022年3月、全8巻・完結)・あらすじを確認。2026年7月よりテレビアニメ放送中、コミカライズも連載中。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "majutsushi-kunon-wa-mieteiru",
+    "title": "魔術師クノンは見えている",
+    "titleKana": "まじゅつしくのんはみえている",
+    "authorIds": [
+      "minamino-umikaze"
+    ],
+    "illustratorIds": [
+      "laruha"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "生まれつき目が見えない少年クノンは、水属性の魔法で人工の目を作り出すという独自の発想と技術を編み出し、誰にも頼らず自分の力だけで生きていくことを志す。魔法学院に入学した彼は、その規格外の発想力と魔法の腕前を武器に、上級生や教師陣すら驚かせながら着実に頭角を現していく。生まれ持った障害を逆手に取り、独自の道を切り開いていく天才魔術師の学園立志物語。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔術師クノンは見えている"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト(Laruha、なろう発ウェブ小説2021年8月連載開始、書籍化2022年3月)・巻数・あらすじ・舞台(ディラシック魔法学校)を確認。2026年1〜3月にテレビアニメ放送、コミカライズもあり。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "shinimodori-no-mahou-gakkou-seikatsu",
+    "title": "死に戻りの魔法学校生活を、元恋人とプロローグから(※ただし好感度はゼロ)",
+    "titleKana": "しにもどりのまほうがっこうせいかつを、もとこいびととぷろろーぐから",
+    "authorIds": [
+      "mitsuhana-eiko"
+    ],
+    "illustratorIds": [
+      "akishika-yugiri"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "time-leap",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "婚約者ヴィンセントと共に命を落とした少女オリアナは、10年前の7歳の自分に意識が戻る「死に戻り」を経験する。再び出会えた二人だが、ヴィンセントは前世の記憶を持たず、彼女への好感度はゼロからの再スタートとなってしまう。魔法学校での学生生活を送りながら、かつての悲劇的な運命を回避すべく奔走するやり直し系ラブファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Return_from_Death"
+    },
+    "sourceNote": "日本語版Wikipediaには単独記事が見当たらず、英語版Wikipedia「Return from Death」記事および電子書籍販売サイト(コミックシーモア等)の著者・原作表記で著者・イラスト・出版社・舞台設定を確認。刊行年・巻数は複数の断片情報からの推定を含み確定情報ではない(「次にくるライトノベル大賞2021」ノミネート作品である点は確認済みだが具体的な順位は未確認のため受賞歴には含めていない)。アニメ化は未確認、コミカライズは2022年1月開始を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ichiban-ushiro-no-daimaou",
+    "title": "いちばんうしろの大魔王",
+    "titleKana": "いちばんうしろのだいまおう",
+    "authorIds": [
+      "mizuki-shoutarou"
+    ],
+    "illustratorIds": [
+      "itou-souichi"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "30世紀の未来、魔術師養成機関コンスタン魔術学院に通うごく平凡な生徒が、進路適性検査の結果、将来の職業として「大魔王」を宣告されてしまう。ただ普通の学園生活を送りたいだけだったにもかかわらず、この予言をきっかけに周囲の思惑や数々の騒動、争いに次々と巻き込まれていくことになる。魔法学院を舞台に繰り広げられるドタバタ学園コメディファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いちばんうしろの大魔王"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(HJ文庫)・刊行期間(2008〜2014年、全13巻)・あらすじ・舞台(コンスタン魔術学院)・メディアミックス(2010年テレビアニメ化、漫画化)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "karakuri-musume-wa-kizutsukanai",
+    "title": "機巧少女は傷つかない",
+    "titleKana": "からくりむすめはきずつかない",
+    "authorIds": [
+      "kaitou-reiji"
+    ],
+    "illustratorIds": [
+      "ruroo"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "battle-action",
+      "steampunk-invention"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "日本人の青年・赤羽雷真は、魔導人形(オートマトン)を操る騎士を育成する英国の名門ウォルプルギス王立魔法学院に留学する。学院で開催される決闘トーナメント「夜会」で頂点を目指しながら、彼はある目的のため、疎遠になった実兄への復讐を心に秘めていた。魔法とスチームパンクの技術が融合した世界を舞台にした学園バトルファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/機巧少女は傷つかない"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(MF文庫J)・刊行期間(2009〜2017年、全17巻)・あらすじ・舞台(ウォルプルギス王立魔法学院)・メディアミックス(2013年テレビアニメ化、漫画化)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "majishanzu-akademii",
+    "title": "まじしゃんず・あかでみい",
+    "titleKana": "まじしゃんずあかでみい",
+    "authorIds": [
+      "sakaki-ichirou"
+    ],
+    "illustratorIds": [
+      "blade"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "ごく普通の学生生活を送っていたはずの少年は、実は世間から隠された魔法研究機関マジシャンズ・アカデミイに通う半人前の魔法使いだった。ある日行われた召喚術の実技試験で、彼は手違いから強大な神格を呼び出してしまい、学院全体を巻き込む大騒動へと発展していく。魔法学院を舞台にした賑やかなドタバタ学園コメディ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まじしゃんず・あかでみい"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(エンターブレイン ファミ通文庫)・刊行期間(本編2003〜2007年、全9巻)・あらすじ・舞台(マジシャンズ・アカデミイ)・メディアミックス(2008年テレビアニメ「まかでみ・WAっしょい!」化、漫画化、PS2ゲーム化)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "lapis-relights-majotachi-no-album",
+    "title": "ラピスリライツ 魔女たちのアルバム",
+    "titleKana": "らぴすりらいつ まじょたちのあるばむ",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [
+      "u35"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "music"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "世界初となる、魔女のための総合魔法学校フローラ女学院を舞台に、歌と魔法の力で人々を魅了することを目指す少女たちの姿を描くメディアミックス企画のノベル版。アイドルユニット「LiGHTs」らの面々が抱える悩みや友情、ライバルとの関係、それぞれの成長を、魔法学校での学生生活とともに丁寧に描いた青春群像劇。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラピスリライツ_魔女たちのアルバム"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(MF文庫J)・刊行期間(2020年7月・2022年2月の全2巻で完結)・あらすじ・舞台(フローラ女学院)・メディアミックス(コミカライズ、アニメ等を含む複合企画)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "ousama-no-propose",
+    "title": "王様のプロポーズ",
+    "titleKana": "おうさまのぷろぽーず",
+    "authorIds": [
+      "tachibana-koushi"
+    ],
+    "illustratorIds": [
+      "tsunako"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "世界は平均300時間に一度、滅亡の危機に見舞われている。裏でその危機を防ぎ続ける魔術師養成機関「空隙の庭園」を率いる最強の魔女が何者かに襲撃された夜、たまたま居合わせた少年は彼女の力と姿を引き継ぐことになってしまう。彼女として魔術学園に通うことになった主人公が、正体を隠しながら送る秘密の学園生活を描くバトルファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様のプロポーズ"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(富士見ファンタジア文庫)・刊行期間(2021年9月〜、既刊9巻・2025年11月時点)・あらすじ・舞台(空隙の庭園)を確認。漫画化(2023年2月〜)はあるが、アニメ化は2026年8月現在企画進行中の段階で放送実績は未確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "kouen-no-wizard",
+    "title": "光炎のウィザード",
+    "titleKana": "こうえんのうぃざーど",
+    "authorIds": [
+      "kita-midori"
+    ],
+    "illustratorIds": [
+      "miyagi-tooko"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "魔法使い養成機関「アカデミー」で学ぶ16歳の見習い魔術師リーシアは、幼い頃に生き別れた家族と、自分を助けてくれた恩人の行方を探している。彼女は失われたはずの「昼の魔法」の使い手であることが判明し、伝説の魔導書グリーンワードの断章をめぐる争いに巻き込まれていく。魔法学院を舞台にした王道ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/光炎のウィザード"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(角川ビーンズ文庫)・刊行期間(2006〜2009年、全10巻)・あらすじ・舞台(アカデミー)を確認。メディアミックス(アニメ化・コミカライズ)の記載は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "kenshi-wo-mezashite-mahou-tekisei-9999",
+    "title": "剣士を目指して入学したのに魔法適性9999なんですけど!?",
+    "titleKana": "けんしをめざしてにゅうがくしたのにまほうてきせいきゅうせんきゅうひゃくきゅうじゅうきゅうなんですけど",
+    "authorIds": [
+      "nenjuu-mugichatarou"
+    ],
+    "illustratorIds": [
+      "riichu"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "mahou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "冒険者の両親に憧れ、剣士を目指して育った田舎娘ローラは、王立の冒険者養成学校の入学試験に臨む。剣術科目には無事合格したものの、あわせて受けた適性検査でまさかの全属性魔法適性9999という規格外の数値を叩き出してしまう。剣士の夢とは裏腹に魔法科への編入を余儀なくされたローラの奮闘を描く、学園ドタバタコメディファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/剣士を目指して入学したのに魔法適性9999なんですけど!?"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラスト・出版社(SBクリエイティブ GAノベル)・刊行期間(2016年10月〜2019年6月、全8巻)・あらすじ・メディアミックス(2018年1月〜漫画連載)を確認。アニメ化の記載は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

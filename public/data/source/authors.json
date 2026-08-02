@@ -5234,5 +5234,87 @@
     },
     "sourceNote": "日本語版Wikipedia「林トモアキ」を2026年8月時点で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kankitsu-yusura",
+    "name": "柑橘ゆすら",
+    "nameKana": "かんきつゆすら",
+    "description": "第6回HJ文庫大賞大賞を受賞してデビューしたライトノベル作家。「異世界支配のスキルテイカー」など、なろう発のファンタジー・異世界作品を多く手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柑橘ゆすら"
+    },
+    "sourceNote": "日本語版Wikipedia「柑橘ゆすら」記事で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiraishi-arata",
+    "name": "白石新",
+    "nameKana": "しらいしあらた",
+    "description": "2016年頃からインターネット作家として活動を開始したライトノベル作家。「小説家になろう」発の作品を中心に多数のシリーズを手がけ、累計発行部数200万部を超える。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白石新"
+    },
+    "sourceNote": "日本語版Wikipedia「白石新」記事で経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minamino-umikaze",
+    "name": "南野海風",
+    "nameKana": "みなみのうみかぜ",
+    "description": "「小説家になろう」出身のライトノベル作家。盲目の少年魔術師を主人公とする「魔術師クノンは見えている」で人気を得た。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「魔術師クノンは見えている」記事より著者情報を確認(著者個人のWikipedia単独記事は未確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mitsuhana-eiko",
+    "name": "六つ花えいこ",
+    "nameKana": "むつはなえいこ",
+    "description": "カクヨム・小説家になろう発のライトノベル作家。死に戻りをテーマにした魔法学校ラブファンタジー「死に戻りの魔法学校生活を、元恋人とプロローグから」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「Return from Death」記事および出版社・電子書籍サイトの著者表記より確認。読み仮名は資料により表記揺れがあり確定情報ではない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizuki-shoutarou",
+    "name": "水城正太郎",
+    "nameKana": "みずきしょうたろう",
+    "description": "2001年からライトノベル業界で活動する作家。ゲーム制作会社を経てクリエイター集団を主宰し、代表作に「いちばんうしろの大魔王」がある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水城正太郎"
+    },
+    "sourceNote": "日本語版Wikipedia「水城正太郎」記事で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaitou-reiji",
+    "name": "海冬レイジ",
+    "nameKana": "かいとうれいじ",
+    "description": "北海道札幌市在住のライトノベル作家。2003年に「バクト!」でデビューし富士見ヤングミステリー大賞を受賞。代表作に「機巧少女は傷つかない」。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/海冬レイジ"
+    },
+    "sourceNote": "日本語版Wikipedia「海冬レイジ」記事で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kita-midori",
+    "name": "喜多みどり",
+    "nameKana": "きたみどり",
+    "description": "角川ビーンズ文庫を中心に活動するライトノベル作家。魔法学院を舞台にした「光炎のウィザード」シリーズで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/光炎のウィザード"
+    },
+    "sourceNote": "日本語版Wikipedia「光炎のウィザード」記事より著者情報を確認(著者個人のWikipedia単独記事は未確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nenjuu-mugichatarou",
+    "name": "年中麦茶太郎",
+    "nameKana": "ねんじゅうむぎちゃたろう",
+    "description": "SBクリエイティブGAノベルを中心に活動するライトノベル作家。「剣士を目指して入学したのに魔法適性9999なんですけど!?」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「剣士を目指して入学したのに魔法適性9999なんですけど!?」記事より著者情報を確認(著者個人のWikipedia単独記事は未確認)。",
+    "updatedAt": "2026-08-02"
   }
 ]

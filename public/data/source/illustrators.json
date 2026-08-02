@@ -4477,5 +4477,59 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「ミスマルカ興国物語」記事内のクレジット表記を2026年8月時点で確認。最終章は浅川圭司が担当。個人のWikipedia記事は見つからず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uo-denimu",
+    "name": "魚デニム",
+    "nameKana": "うおでにむ",
+    "description": "ライトノベルのイラストレーター。「落第賢者の学院無双 〜二度転生した最強賢者、400年後の世界を魔剣で無双〜」の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「落第賢者の学院無双」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aono-shita",
+    "name": "青乃下",
+    "nameKana": "あおのした",
+    "description": "ライトノベルのイラストレーター。「王立魔法学園の最下生」シリーズの挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報(BOOK☆WALKER等)および日本語版Wikipedia「王立魔法学園の最下生」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akishika-yugiri",
+    "name": "秋鹿ユギリ",
+    "nameKana": "あきしかゆぎり",
+    "description": "ライトノベルのイラストレーター。「死に戻りの魔法学校生活を、元恋人とプロローグから」の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "電子書籍販売サイトの著者・イラスト表記および英語版Wikipedia「Return from Death」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "itou-souichi",
+    "name": "伊藤宗一",
+    "nameKana": "いとうそういち",
+    "description": "ライトノベルのイラストレーター。「いちばんうしろの大魔王」の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「いちばんうしろの大魔王」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "blade",
+    "name": "BLADE",
+    "nameKana": "ぶれいど",
+    "description": "ライトノベルのイラストレーター。「まじしゃんず・あかでみい」の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「まじしゃんず・あかでみい」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyagi-tooko",
+    "name": "宮城とおこ",
+    "nameKana": "みやぎとおこ",
+    "description": "角川ビーンズ文庫を中心に活動するイラストレーター。「光炎のウィザード」シリーズの挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「光炎のウィザード」記事より確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

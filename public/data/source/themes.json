@@ -323,5 +323,10 @@
     "id": "mercenary",
     "name": "傭兵・PMC",
     "description": "傭兵や民間軍事会社(PMC)の活動を主軸に据えた作品につけるテーマ。"
+  },
+  {
+    "id": "mahou-gakuen",
+    "name": "魔法学園",
+    "description": "魔法・魔術を教える学校やアカデミーそのものが物語の主舞台になっている作品。"
   }
 ]
