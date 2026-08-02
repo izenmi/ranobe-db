@@ -787,5 +787,37 @@
     "externalLinks": {},
     "sourceNote": "レーベル創設年は「ブレイド&バスタード」刊行開始年(2022年)からの推定。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ponycan-books",
+    "name": "ぽにきゃんBOOKS",
+    "nameKana": "ぽにきゃんぶっくす",
+    "parentCompany": "株式会社ポニーキャニオン",
+    "description": "ポニーキャニオンが2013年4月に出版事業進出とともに立ち上げた書籍レーベル。同年12月からライトノベルの刊行も開始した。",
+    "foundedYear": 2013,
+    "externalLinks": {},
+    "sourceNote": "Web検索で創刊年・運営会社を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "m-novels-f",
+    "name": "Mノベルスf",
+    "nameKana": "えむのべるすえふ",
+    "parentCompany": "双葉社",
+    "description": "双葉社が2019年11月に創刊した女性向けライトノベルレーベル。既存の「Mノベルス」とは独立した姉妹レーベル。",
+    "foundedYear": 2019,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「Mノベルス」記事内の説明より確認。既存publisher ID『m-novels』とは別レーベルのため新規発行。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichijinsha-iris-neo",
+    "name": "一迅社アイリスNEO",
+    "nameKana": "いちじんしゃあいりすねお",
+    "parentCompany": "一迅社",
+    "description": "一迅社が展開する女性向けライトノベルレーベル「アイリス」系列の一つ。既存の「一迅社文庫アイリス」とは別レーベル。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版『虫かぶり姫』記事のレーベル表記より確認。既存publisher ID『ichijinsha-iris』とは別レーベルのため新規発行。",
+    "updatedAt": "2026-08-02"
   }
 ]

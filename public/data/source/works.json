@@ -18901,5 +18901,940 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋に至る病"
     }
+  },
+  {
+    "id": "magicraft-meister",
+    "title": "マギクラフト・マイスター",
+    "titleKana": "まぎくらふとまいすたー",
+    "authorIds": [
+      "aki-gitsune"
+    ],
+    "illustratorIds": [
+      "miyuki-ruria"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "steampunk-invention",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "日本で技術者として働いていた青年が、気づくと剣と魔法が存在する異世界に転移していた。彼は千年前に活躍した伝説的な魔法工学師アドリアナが遺した工房や膨大な研究資料、そして自動人形を受け継ぐことになる。魔石を動力源とする様々な魔導具や自動人形を、現代仕込みの技術知識と独自の発想で次々と発明していきながら、荒廃していた辺境の領地を豊かで近代的な街へと発展させていく、ものづくり系の異世界転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「マギクラフト・マイスター」記事で著者・イラスト・レーベル・巻数・あらすじを確認。イラストレーターのミユキルリア、出版社MFブックスは既存IDを再利用。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マギクラフト・マイスター"
+    }
+  },
+  {
+    "id": "orcsen-oukokushi",
+    "title": "オルクセン王国史 ～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～",
+    "titleKana": "おるくせんおうこくし",
+    "authorIds": [
+      "tarumi-kyouichirou"
+    ],
+    "illustratorIds": [
+      "thores-shibamoto"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "senki",
+      "steampunk-invention",
+      "alternate-history",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "魔法と銃器がともに存在する世界を舞台に、周辺国エルフィンドで民族浄化の対象とされたダークエルフの少女ディネルースが、魔種族の統一国家オルクセン王国に亡命してくるところから物語は始まる。国王グスタフは彼女の提案を受け入れてダークエルフ騎兵部隊を編成し、急速な軍備近代化と産業化を進める自国の力を背景に、祖国を追われた民族の未来を賭けてエルフィンドとの戦争へと突き進んでいく。現実の近代軍事史を思わせる重厚な架空戦記。",
+    "awardResults": [
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2024,
+        "result": "単行本部門3位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "単行本・ノベルス部門10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "オルクセン王国史の作品情報・書誌情報を確認。Web連載開始は2021年7月だが単行本刊行は2023年12月から。既刊巻数は2025年11月時点で6巻。イラストレーターTHORES柴本、出版社サーガフォレストは既存IDを再利用。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オルクセン王国史"
+    }
+  },
+  {
+    "id": "mahoushi-ni-noranai-ijin",
+    "title": "魔法史に載らない偉人 ～無益な研究だと魔法省を解雇されたため、新魔法の権利は独占だった～",
+    "titleKana": "まほうしにのらないいじん",
+    "authorIds": [
+      "shuu"
+    ],
+    "illustratorIds": [
+      "nimoshi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou",
+      "gakuen",
+      "steampunk-invention",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "魔法研究者のシャノンは、新魔法の研究を「無益な研究」と切り捨てられ、勤めていた魔法省を解雇されてしまう。ところが彼が生み出した新魔法には計り知れない価値があり、やがてその権利を独占する形で世に広まっていくことになる。理不尽な評価を覆すように、魔法学院を舞台にして自らの発明と実力で周囲を驚かせながら成り上がっていく、痛快な魔法学ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "国立国会図書館サーチ及び電撃文庫公式サイト・BOOK☆WALKER検索結果で著者・イラスト・レーベル・巻数を確認。著者「秋」は既存DBの著者ID shuu(魔王学院の不適合者の著者)と同一人物であることを、電撃文庫の紹介文『「魔王学院の不適合者」の秋が贈る』という記述から確認し、既存IDを再利用。コミカライズは講談社マガジンポケット/週刊少年マガジンで全6巻完結。",
+    "externalLinks": {}
+  },
+  {
+    "id": "hazure-skill-sekai-toshokan-sangyou-kakumei",
+    "title": "外れスキル『世界図書館』による異世界の知識と始める『産業革命』",
+    "titleKana": "はずれすきるせかいとしょかんによるいせかいのちしきとはじめるさんぎょうかくめい",
+    "authorIds": [
+      "takano-kei"
+    ],
+    "illustratorIds": [
+      "riritto"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "steampunk-invention",
+      "battle-action",
+      "naisei"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "火矢や剣がまだ主流の異世界で、「外れスキル」と見なされていた〈世界図書館〉というスキルを持つ青年が主人公。このスキルは実は異世界のあらゆる知識を自在に引き出せる規格外の能力であり、彼はその知識を駆使してライフルなどの現代兵器や工業技術をこの世界にもたらしていく。魔法文明しかなかった世界に科学技術を根付かせ、産業革命を巻き起こしていく知識チート系の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "国立国会図書館サーチ(NDLサーチ)の書誌情報で確認。ノベル版(EARTH STAR NOVEL)は2022年10月・2023年3月の全2巻のみ確認でき、それ以降の続刊情報は見つからなかった(絶版・中断の可能性もあり要再確認)。一方コミカライズ版(講談社シリウスKC)は既刊4巻と継続中。イラストレーター名はコミック版クレジットの「キャラクター原案:riritto」から採用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "isekai-shounin-ikai-tokou-slowlife",
+    "title": "異世界商人 スキル〈異世界渡航〉を駆使して、悠々自適なお金持ちスローライフを送ります",
+    "titleKana": "いせかいしょうにん すきるいせかいとこうをくしして ゆうゆうじてきなおかねもちすろーらいふをおくります",
+    "authorIds": [
+      "aoba"
+    ],
+    "illustratorIds": [
+      "kikkaiki"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "slow-life",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "平凡な会社員だった青年アレンは、ある日、日本と異世界を自在に行き来できる特殊な力〈異世界渡航〉が自分に宿っていることに気づく。二つの世界の間には知られていない価格差や品不足があり、それを見抜いた彼は日用品や食材を運んでは売りさばく商売を始める。持ち前の商才と目利きの力で少しずつ財を築き、誰にも縛られない悠々自適なお金持ち生活を目指していく異世界お金儲けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "元はカクヨム掲載「異世界商人～転生者アレンのお金持ち計画～」。2023年12月28日に双葉社Mノベルスより書籍化(第1巻)、2024年に第2巻刊行。コミカライズ版(作画:はも)がモンスターコミックスより全5巻刊行済み。",
+    "externalLinks": {}
+  },
+  {
+    "id": "hoshi-to-mahou-no-koueki-ro",
+    "title": "星と魔法の交易路～ボロアパートから始まる異世界間貿易～",
+    "titleKana": "ほしとまほうのこうえきろ ぼろあぱーとからはじまるいせかいかんぼうえき",
+    "authorIds": [
+      "guttari-kishi"
+    ],
+    "illustratorIds": [
+      "namako"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "ボロアパートで一人暮らしをしていた青年・遥斗は、部屋の押し入れの奥に不思議な扉を見つける。片方は剣と魔法が息づくファンタジー世界、もう片方は宇宙規模の文明が発達したSF世界へとつながっていた。遥斗はそれぞれの世界で手に入る物資の違いに目をつけ、両方を行き来しながら仕入れと販売を繰り返すことで、異世界間の交易で莫大な富を築こうと商売に乗り出していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "小説家になろう/カクヨム発。2026年4月15日にサーガフォレストより第1巻書籍化。出版社告知記事で著者・イラストを確認。続刊状況・コミカライズの有無は未確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "jimi-dakedo-saikyou-seisankei-skill-ryouchi-unei",
+    "title": "地味だけど最強の生産系スキルでゆるり領地運営はじめよう～転生して健康な身体を手に入れた僕、のんびり暮らしていたのにいつの間にか仲間とともに大貴族に成り上がっていた～",
+    "titleKana": "じみだけどさいきょうのせいさんけいすきるでゆるりりょうちうんえいはじめよう",
+    "authorIds": [
+      "meion-ryuusui"
+    ],
+    "illustratorIds": [
+      "daburyuu"
+    ],
+    "publisherId": "grast-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "merchant",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "交通事故で命を落とした青年は、神から健康な体と規格外の生産系スキルを授かって異世界に転生する。争いを避けてのんびり暮らすつもりだったが、竜人やエルフの仲間たちと出会い、彼らと一緒に特産品作りや商売、冒険者活動に励むうちに周囲から頼られる存在に。気づけば仲間と共に領地を切り盛りする立場となり、いつの間にか大貴族へと成り上がっていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "2025年1月24日にスターツ出版グラストNOVELSより書籍化。イラスト「だぶ竜」は既存イラストレーターIDと同一人物のため既存IDを再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "itsudemo-jitaku-ni-kaereru-ore-wa-isekai-gyoushounin",
+    "title": "いつでも自宅に帰れる俺は、異世界で行商人をはじめました",
+    "titleKana": "いつでもじたくにかえれるおれは いせかいでぎょうしょうにんをはじめました",
+    "authorIds": [
+      "shimotsuki-hiiro"
+    ],
+    "illustratorIds": [
+      "iwasaki-takashi"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "slow-life",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "ブラック企業を辞めて実家に戻った青年・尼田士郎は、祖母の家の押し入れが異世界へつながっていることに気づく。日本の品と異世界の品を等価で交換できる万能スキル〈等価交換〉に目覚めた彼は、日用品を売り歩く行商人として異世界での商売を開始する。貧しい少女アイナを助けたことをきっかけに冒険者ギルドからも頼られるようになり、二つの世界を股にかけた商いを広げていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ホビージャパンHJノベルスより刊行、全13巻構成(第13巻は2026年3月配信)。コミカライズ版(作画:明地雫)がHJコミックスで7巻以上刊行中。",
+    "externalLinks": {}
+  },
+  {
+    "id": "dorei-shounin-ni-natta-yo-in-isekai",
+    "title": "奴隷商人になったよin異世界",
+    "titleKana": "どれいしょうににんなったよいんいせかい",
+    "authorIds": [
+      "rumpa-rumpa"
+    ],
+    "illustratorIds": [
+      "oka"
+    ],
+    "publisherId": "ponycan-books",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "naisei"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "日本から異世界に転移してしまった青年タケオは、右も左も分からないまま奴隷として売られる身に落ちるが、そこから持ち前の商才を発揮して奴隷商人として成り上がっていく。やがて商業都市カシスで最大勢力を誇る「タケオ商会」の会長となった彼が、弱肉強食の異世界経済を生き抜き、のし上がっていった軌跡を描く商人立身伝。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "受賞(応募総数7612作品)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ぽにきゃんBOOKSより第1巻2016年10月17日、第2巻2017年5月17日発売を確認。第3巻以降の存在は未確認のため全2巻・完結扱いとした。マンガブックス版でコミカライズもされている。",
+    "externalLinks": {}
+  },
+  {
+    "id": "muteki-shounin-no-isekai-nariagari-monogatari",
+    "title": "無敵商人の異世界成り上がり物語～現代の製品を自在に取り寄せるスキルがあるので異世界では楽勝です～",
+    "titleKana": "むてきしょうにんのいせかいなりあがりものがたり げんだいのせいひんをじざいにとりよせるすきるがあるのでいせかいではらくしょうです",
+    "authorIds": [
+      "aoyama-yuu"
+    ],
+    "illustratorIds": [
+      "pukyunosuke"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "天涯孤独の大学生・朝倉大地は、愛猫のニケと共に見知らぬ異世界に迷い込んでしまう。絶望しかけた彼だったが、現代日本の製品を自由に取り寄せられる「トレード」スキルに目覚め、さらにニケも魔法を操れるようになっていることが判明する。二人はチートスキルを武器に、異世界で商人として着実に成功への道を歩んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "角川スニーカー文庫より2021年12月刊行。ライトノベル本編は1巻のみで完結扱いだが、コミカライズ版が第8巻まで刊行されていることを確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "imouto-no-haishin-ni-hairikondara-vtuber-atsukai-sareta-ken",
+    "title": "妹の配信に入り込んだらVTuber扱いされた件",
+    "titleKana": "いもうとのはいしんにはいりこんだらぶいちゅーばーあつかいされたけん",
+    "authorIds": [
+      "enami-kaiji"
+    ],
+    "illustratorIds": [
+      "artumph"
+    ],
+    "publisherId": "brave-bunko",
+    "themeIds": [
+      "vtuber-streamer",
+      "comedy",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "普段は人気VTuberとして楚々とした「令嬢キャラ」を演じている妹が、配信の切り忘れで寝落ちしてしまい、素の口調や家族との会話がリスナーへ丸聞こえになる放送事故が起きる。たまたま居合わせて巻き込まれた兄は、ギャップに沸くリスナーから思いがけず注目を集めることになり、癖の強い同僚VTuberたちとも交流しながら、姉妹ぐるみで配信業界へと足を踏み入れていく家族ドタバタコメディ。",
+    "awardResults": [
+      {
+        "awardId": "hifumi-web-novel-taisho",
+        "year": 2023,
+        "result": "第3回 銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "honto.jp・BOOK☆WALKER・一二三書房公式サイトで書誌情報を確認。ライトノベル版は2024/9/25(1巻)〜2026/2/25(4巻)刊行。イラストレーターの「みず」は別名義artumphとしてBOOK☆WALKERに記載されており、既存DBのartumphと同一人物と判断し既存IDを使用。受賞歴は単一情報源のみで要ダブルチェック。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tonari-ni-sundeiru-seijo-sama-wa-ore-ga-character-design-wo-tantou-shita-vtuber",
+    "title": "隣に住んでる聖女様は俺がキャラデザを担当した大人気VTuberでした",
+    "titleKana": "となりにすんでるせいじょさまはおれがきゃらでざをたんとうしただいにんきぶいちゅーばーでした",
+    "authorIds": [
+      "nonaka-kanon"
+    ],
+    "illustratorIds": [
+      "neibi"
+    ],
+    "publisherId": "brave-bunko",
+    "themeIds": [
+      "vtuber-streamer",
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "地味な高校生として過ごす俺には、大人気VTuber「京花」のキャラクターデザインを密かに担当しているというもう一つの顔がある。ある日、学校で「聖女」と呼ばれ誰もが憧れる隣の席の美少女こそ、実はその京花本人だったと判明する。互いに秘密を知ってしまった二人は戸惑いながらも、配信活動の裏側と平凡な学校生活の狭間で少しずつ心の距離を縮めていく甘やかな青春ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BOOK☆WALKER・一二三書房公式サイトで書誌情報を確認。2024/9/25刊行の1巻完結作品。",
+    "externalLinks": {}
+  },
+  {
+    "id": "yasagure-shitsuji-vtuber-to-negative-ponkotsu-reijou-vtuber",
+    "title": "やさぐれ執事Vtuberとネガティブポンコツ令嬢Vtuberの虚実混在な配信生活",
+    "titleKana": "やさぐれしつじびーちゅーばーとねがてぃぶぽんこつれいじょうびーちゅーばーのきょじつこんざいなはいしんせいかつ",
+    "authorIds": [
+      "indou-kaisha"
+    ],
+    "illustratorIds": [
+      "komaki-hibi"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "vtuber-streamer",
+      "romance",
+      "gendai-drama",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "口の悪さと皮肉屋な素顔を隠し、優雅な執事キャラを演じる新人VTuber・カイシャは、新設VTuberグループのオーディションで、人見知りで自信のない元引きこもりの少女ユリアと出会う。「生まれ変わりたい」と願う彼女を導く指導役を買って出た彼は、配信者としてデビューを目指す彼女を支えながら、素の自分をさらけ出し本音でぶつかり合う関係を築いていく、新感覚の成長ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER(TOブックスノベル レーベル)で書誌情報を確認。1巻2024/1/20、2巻2024/4/15刊行。3巻以降の情報は確認できず、続刊状況は不明。",
+    "externalLinks": {}
+  },
+  {
+    "id": "oshi-ni-sasageru-dungeon-gourmet",
+    "title": "推しにささげるダンジョングルメ",
+    "titleKana": "おしにささげるだんじょんぐるめ",
+    "authorIds": [
+      "monokuro-usagi"
+    ],
+    "illustratorIds": [
+      "kuroganeya"
+    ],
+    "publisherId": "kadokawa-shinbungei",
+    "themeIds": [
+      "vtuber-streamer",
+      "gourmet",
+      "dungeon",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "現代日本で日々ダンジョンに潜り自給自足の生活を送る男が、推しの配信者から「ダンジョン飯」への興味を向けられたことをきっかけに一念発起し、自らVTuberとしてデビューする。ベヒモスステーキやクラーケン刺身など規格外の食材をふんだんに使った豪快な料理配信が瞬く間に話題となり、称賛と炎上を同時に巻き起こしながら人気者になっていく美食コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。2022年12月にカクヨムで連載開始、2023/12/28に1巻、2026/4/30に5巻刊行(KADOKAWA、新文芸レーベル)。コミカライズ版は累計5.5万部突破。",
+    "externalLinks": {}
+  },
+  {
+    "id": "hikikomori-vtuber-wa-tsutaetai",
+    "title": "引きこもりVTuberは伝えたい",
+    "titleKana": "ひきこもりぶいちゅーばーはつたえたい",
+    "authorIds": [
+      "megusuri"
+    ],
+    "illustratorIds": [
+      "popman3580"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "vtuber-streamer",
+      "gendai-drama",
+      "comedy",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "長らく引きこもり生活を送っていた少女アリスは、とあるきっかけでVTuber事務所に所属し配信活動を始める。過去のトラウマと向き合いながら、時にシリアスに、時にコメディタッチで繰り広げられる「笑ってはいけない配信」と評される彼女の生放送が思わぬ形で拡散し、伝説的な人気を獲得していく。内向的な少女が配信者として再生し成長していく姿を描く物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より(KADOKAWA、電撃の新文芸レーベル)。1巻2023/12/15、2巻2024/7/17刊行。3巻以降の情報は確認できず、続刊状況は不明。",
+    "externalLinks": {}
+  },
+  {
+    "id": "jusho-futei-camper-wa-dungeon-de-nonbiri-to-kurashitai",
+    "title": "住所不定キャンパーはダンジョンでのんびりと暮らしたい",
+    "titleKana": "じゅうしょふていきゃんぱーはだんじょんでのんびりとくらしたい",
+    "authorIds": [
+      "tajiri-yuu"
+    ],
+    "illustratorIds": [
+      "ichimaru-kisuke"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "vtuber-streamer",
+      "dungeon",
+      "gourmet",
+      "slow-life",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "現代日本のダンジョン深層で自給自足のキャンプ生活を送る髭面の男ヒゲダルマは、ある日モンスターに襲われていた配信者の双子姉妹カナとルナを救出する。お礼にと振る舞われたベヒモスやクラーケンなど規格外の食材を使った豪快な手料理が二人の配信を通じてリスナーの間で話題となり、その存在が徐々に世間へと知られていくことになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より(KADOKAWA、カドカワBOOKSレーベル)。ライトノベル1巻は2025/2/10刊行。主人公自身は配信者ではなく、双子姉妹が配信者(VTuber)という設定で配信活動が話の展開に直結するためジャンル該当と判断。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tenkousaki-no-seiso-karen-na-bishoujo-osananajimi",
+    "title": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+    "titleKana": "てんこうさきのせいそかれんなびしょうじょがむかしだんしとおもっていっしょにあそんだおさななじみだったけん",
+    "authorIds": [
+      "hiyodori-yu"
+    ],
+    "illustratorIds": [
+      "shiso"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "田舎から転校してきた少年が、都会の学校で再会したのは、かつて男の子だと思い込んで一緒に遊んでいた幼馴染の少女だった。学校では清楚可憐な美少女として振る舞う彼女だが、彼の前だけは昔のままのお転婆な素顔を見せる。ギャップに戸惑いながら距離を縮めていく、じれったい幼馴染ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2021,
+        "result": "Web小説部門9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2020年6月web連載開始、2021年2月書籍化(角川スニーカー文庫)。既刊11巻(2026年7月時点)。漫画版(大山樹奈作画、7巻)、TVアニメ2026年7月放送開始。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+    }
+  },
+  {
+    "id": "konna-kawaii-iinazuke-ga-iru-noni",
+    "title": "こんな可愛い許嫁がいるのに、他の子が好きなの？",
+    "titleKana": "こんなかわいいいいなずけがいるのにほかのこがすきなの",
+    "authorIds": [
+      "misaki-nagi"
+    ],
+    "illustratorIds": [
+      "kurousagi-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "seishun-lovecome",
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "貧乏な高校生のもとに、10年前に父親同士が勝手に決めた許嫁だという超セレブな美少女が現れる。彼が別の女子に片思いしていると知った許嫁は、正体を隠して恋のライバルのふりをしながら、いつしか本気で振り向かせようと画策する。すれ違いと策略が絡み合う許嫁ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版に項目なし。BOOK☆WALKER/Amazon等の書誌情報を確認。1巻2021年11月10日発売、電撃文庫、全3巻。著者ミサキナギは第25回電撃小説大賞銀賞受賞者だが受賞作は別シリーズ『リベリオ・マキナ』のため本作には受賞歴を付与せず。コミカライズあり。",
+    "externalLinks": {}
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "title": "恋は双子で割り切れない",
+    "titleKana": "こいはふたごでわりきれない",
+    "authorIds": [
+      "takamura-shihon"
+    ],
+    "illustratorIds": [
+      "arumikku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "futago",
+      "osananajimi",
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "文学好きの高校生・純には、双子の幼馴染姉妹がいる。中学時代に交際していた姉の琉実は高校進学前に突然別れを切り出すが、実は妹の那織も純への想いを密かに抱えていた。姉妹それぞれの恋心と揺れ動く三人の関係を丁寧に描く群像ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。イラスト担当あるみっくは既存イラストレーターIDと同一人物のため再利用。2021年5月刊行開始、電撃文庫。漫画版(OKARI作画)、TVアニメ2024年7-9月放送。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋は双子で割り切れない"
+    }
+  },
+  {
+    "id": "futago-matomete-kanojo-ni-shinai",
+    "title": "双子まとめて『カノジョ』にしない？",
+    "titleKana": "ふたごまとめてかのじょにしない",
+    "authorIds": [
+      "shirai-muku"
+    ],
+    "illustratorIds": [
+      "chigusa-minori"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "futago",
+      "seishun-lovecome",
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "双子姉妹だと気づかないまま、それぞれ別人だと思い込んで交流を深めていた主人公。やがて両方から告白を受け、実は同一人物の姉妹だったことが発覚する。三角関係ならぬ四角関係のような、双子相手の同時進行の奇妙な恋愛模様を描くラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2023年11月刊行開始、富士見ファンタジア文庫。既刊7巻(2026年7月17日発売分まで)。コミカライズ(耳色みそ作画、「アライブ+」2024年4月配信開始)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/双子まとめて『カノジョ』にしない？"
+    }
+  },
+  {
+    "id": "watashi-no-shiawase-na-kekkon",
+    "title": "わたしの幸せな結婚",
+    "titleKana": "わたしのしあわせなけっこん",
+    "authorIds": [
+      "agitogi-akumi"
+    ],
+    "illustratorIds": [
+      "tsukioka-tsukiho"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "jidai-fantasy",
+      "mibunsa-romance",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "異能の名家に生まれながら力を持たず、実家で使用人同然に虐げられてきた少女・美世は、冷酷と噂される軍人・清霞の婚約者候補として嫁ぐことになる。当初は形だけのつもりだった二人が、共に過ごす日々の中で少しずつ心を通わせていく、和風ファンタジー版シンデレラストーリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。原作は「小説家になろう」投稿作。2019年1月刊行開始、既刊10巻(2026年3月時点)。『次にくるマンガ大賞2020』8位等はコミカライズ版に対する受賞のため、原作小説の受賞歴としては計上せず。TVアニメ2期(2023・2025年)、実写映画(2023年)、舞台化あり。シリーズ累計900万部超。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/わたしの幸せな結婚"
+    }
+  },
+  {
+    "id": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-deiaisareru",
+    "title": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
+    "titleKana": "ずたぼろれいじょうはあねのもとこんやくしゃにできあいされる",
+    "authorIds": [
+      "tobirano"
+    ],
+    "illustratorIds": [
+      "yukari-mai"
+    ],
+    "publisherId": "m-novels-f",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "男爵家で虐げられていた次女マリーは、死んだはずの姉アナスタジアの身代わりとして、姉の元婚約者である公爵キュロスのもとへ嫁がされる。人違いから始まった結婚生活の中で、キュロスは次第にマリー自身に惹かれていく。身代わり花嫁と誤解が織りなす溺愛ラブストーリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。イラスト紫真依は既存イラストレーターIDと同一人物のため再利用。出版レーベル「Mノベルスf」は既存ID『m-novels』(Mノベルス)とは別の女性向け姉妹レーベルのため新規ID発行。2020年4月刊行開始、全10巻で完結(最終巻2026年5月)。漫画化・TVアニメ化(2025年7-9月)あり。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ずたぼろ令嬢は姉の元婚約者に溺愛される"
+    }
+  },
+  {
+    "id": "kari-hanayome-no-yangotonaki-jijou",
+    "title": "(仮)花嫁のやんごとなき事情",
+    "titleKana": "かりはなよめのやんごとなきじじょう",
+    "authorIds": [
+      "yuutori-kanou"
+    ],
+    "illustratorIds": [
+      "yamashita-nanao"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "isekai-fantasy",
+      "mibunsa-romance",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "孤児院育ちの平民フェルディアは、政略結婚のため病弱な王女シレイネの影武者として嫁がされる。初夜に夫から命を狙われかけながらも、意外な優しさを見せる夫との生活の中で、「毒姫」と恐れられる本物の王女に隠された秘密に迫っていく身代わり花嫁ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "piccoma-award",
+        "year": 2019,
+        "result": "ピッコマBEST OF 2019 ノベル部門1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。イラスト山下ナナオは既存イラストレーターIDと同一人物のため再利用。出版レーベルはエンターブレイン→KADOKAWA(B's-LOG文庫→ビーズログ文庫、既存ID『kadokawa-bizlog-bunko』を再利用)。2012年6月刊行開始、2017年2月全13巻完結。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/(仮)花嫁のやんごとなき事情"
+    }
+  },
+  {
+    "id": "mushikaburi-hime",
+    "title": "虫かぶり姫",
+    "titleKana": "むしかぶりひめ",
+    "authorIds": [
+      "yui"
+    ],
+    "illustratorIds": [
+      "shiina-satsuki"
+    ],
+    "publisherId": "ichijinsha-iris-neo",
+    "themeIds": [
+      "iinazuke-marriage",
+      "isekai-fantasy",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "読書好きの侯爵令嬢エリアーナは、王宮の図書室を自由に使わせるという約束と引き換えに、王太子クリストファーからの求婚を受け入れ婚約する。形だけのはずの婚約関係のまま数年を過ごすうち、後宮に現れた女性との距離に心を乱され、彼への恋心に気づいていく宮廷ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。イラスト椎名咲月は既存イラストレーターIDと同一人物のため再利用。出版レーベル「一迅社アイリスNEO」は既存ID『ichijinsha-iris』(一迅社文庫アイリス)とは別レーベルのため新規ID発行。2015年9月～2022年1月連載、書籍化2016年7月～既刊7巻。漫画化(喜久田ゆい作画)、TVアニメ2022年10-12月放送(マッドハウス制作)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虫かぶり姫"
+    }
+  },
+  {
+    "id": "maou-ni-nattanode-dungeon-tsukutte-jingai-musume-to-honobono-suru",
+    "title": "魔王になったので、ダンジョン造って人外娘とほのぼのする",
+    "titleKana": "まおうになったので、だんじょんつくってじんがいむすめとほのぼのする",
+    "authorIds": [
+      "ryuu-yuu"
+    ],
+    "illustratorIds": [
+      "daburyuu"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "dungeon",
+      "harem",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "平凡な会社員だったユキは、気づくとダンジョンを守る『魔王』へと転生していた。人間に立ち向かう力を持たない彼は、カタログ通販でアイテムを揃えながらダンジョンを拡張して身を守ろうとするが、居着いた覇龍の少女や吸血鬼の幼女など人外の娘たちに囲まれ、いつしか賑やかで穏やかな暮らしを送るようになっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう版は2016年10月連載開始。書籍版は角川『カドカワBOOKS』第1巻2017年11月10日発売、第17巻2024年3月8日発売を各公式商品ページで確認。完結の明言は確認できず、以降の新刊情報も未確認のためstatusは'ongoing'扱いとした。漫画版(遠野ノオト作画)あり。",
+    "externalLinks": {}
+  },
+  {
+    "id": "mamono-mandragora-tte-baretara-toubatsu-desuka",
+    "title": "魔物(マンドラゴラ)ってバレたら討伐ですか？～花の魔女はひっそり平穏に暮らしたい～",
+    "titleKana": "まものってばれたらとうばつですか～はなのまじょはひっそりへいおんにくらしたい～",
+    "authorIds": [
+      "mikura"
+    ],
+    "illustratorIds": [
+      "nakanishi-tatsuya"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "mahou",
+      "comedy",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "死の間際に花になりたいと願った花園美咲は、目覚めると魔物のマンドラゴラに転生していた。人型を取れる力を得て人里に降りるものの、うまく言葉を話せないせいで数々の誤解を生み、いつしか『花の魔女』として崇められてしまう。正体を隠しながら、ひっそりと平穏な暮らしを目指す姿を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう掲載。アース・スターノベルより書籍化、第1巻2026年2月13日発売。第2巻まで既刊。コミカライズ(大林ポチ子作画)あり。刊行開始間もないため巻数・情報は今後変動の可能性あり。",
+    "externalLinks": {}
+  },
+  {
+    "id": "bikyaku-mimic-harumi-san",
+    "title": "美脚ミミック、ハルミさん〜転生モンスター異世界成り上がり伝説〜",
+    "titleKana": "びきゃくみみっく、はるみさん～てんせいもんすたーいせかいなりあがりでんせつ～",
+    "authorIds": [
+      "fujitaka-tsuyoshi"
+    ],
+    "illustratorIds": [
+      "yuu-nagi"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "dungeon",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "目覚めると、主人公はダンジョンに置かれた宝箱型のモンスター『ミミック』になっていた。擬態のスキルで人型の手足を得たものの、その脚があまりに美しく育ってしまったことから、挑んできた冒険者たちを翻弄することに。人外の姿になった主人公が、持ち前の脚と機転で異世界を成り上がっていく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう/カクヨム発。アース・スターノベルより第1巻2018年4月16日発売を確認。以降続刊情報が見当たらず、実質1巻完結とみなしstatus='completed'とした。コミカライズあり。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tensei-kyuuketsuki-san-wa-ohirune-ga-shitai",
+    "title": "転生吸血鬼さんはお昼寝がしたい",
+    "titleKana": "てんせいきゅうけつきさんはおひるねがしたい",
+    "authorIds": [
+      "chokingyo"
+    ],
+    "illustratorIds": [
+      "47agdragon"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "comedy",
+      "slow-life",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "無気力な少年が目を覚ますと、異世界で吸血鬼の美少女に転生していた。強大なチート能力を手にしながらも、望むのは三食昼寝おやつ付きの怠惰な暮らしだけ。理想郷を求めてのんびり過ごそうとするが、行く先々で困っている人々と出会い、つい助けてしまうコメディ色の強い異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう発。アース・スターノベルより第1巻2016年4月15日、最終第8巻2019年4月15日発売、全8巻で完結を確認。コミカライズ版は全13巻で2024年完結(別途配信)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "jinrou-eno-tensei-maou-no-fukukan",
+    "title": "人狼への転生、魔王の副官",
+    "titleKana": "じんろうへのてんせい、まおうのふくかん",
+    "authorIds": [
+      "hyougetsu"
+    ],
+    "illustratorIds": [
+      "nishi-e-ta"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "senki",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "前世は日本人だった青年ヴァイトは、異世界で人狼という魔物に転生し、魔王軍第三師団の副官という重責を任されることになる。人間の気持ちも魔物の気持ちも理解できる立場を活かし、交易都市リューンハイトの統治と防衛を担うが、知勇兼備の名将と称される裏では苦労の連続の日々を送っている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう発、2016年12月に本編完結。書籍版は2016年にアース・スターノベルで書籍化開始、第1〜13巻がアース・スターノベル、第14〜16巻はSQEXノベルに移籍して刊行、最終16巻は2024年1月6日発売で完結。publisherIdは刊行開始レーベルのearth-star-novelを採用。コミカライズ(全11巻完結)あり。",
+    "externalLinks": {}
   }
 ]

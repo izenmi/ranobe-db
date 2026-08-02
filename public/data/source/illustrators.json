@@ -4098,5 +4098,176 @@
     "externalLinks": {},
     "sourceNote": "GA文庫公式商品情報で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nimoshi",
+    "name": "にもし",
+    "nameKana": "にもし",
+    "description": "「魔法史に載らない偉人」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイトの検索結果より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "riritto",
+    "name": "riritto",
+    "nameKana": "リリット",
+    "description": "「外れスキル『世界図書館』による異世界の知識と始める『産業革命』」のキャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "NDLサーチの書誌情報(コミック版クレジット表記)より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kikkaiki",
+    "name": "キッカイキ",
+    "nameKana": "きっかいき",
+    "description": "「異世界商人 スキル〈異世界渡航〉を駆使して、悠々自適なお金持ちスローライフを送ります」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "namako",
+    "name": "海鼠",
+    "nameKana": "なまこ",
+    "description": "「星と魔法の交易路～ボロアパートから始まる異世界間貿易～」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "出版社告知で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "iwasaki-takashi",
+    "name": "いわさきたかし",
+    "nameKana": "いわさきたかし",
+    "description": "「いつでも自宅に帰れる俺は、異世界で行商人をはじめました」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oka",
+    "name": "丘",
+    "nameKana": "おか",
+    "description": "「奴隷商人になったよin異世界」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pukyunosuke",
+    "name": "ぷきゅのすけ",
+    "nameKana": "ぷきゅのすけ",
+    "description": "「無敵商人の異世界成り上がり物語」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "neibi",
+    "name": "ねいび",
+    "nameKana": "ねいび",
+    "description": "『隣に住んでる聖女様は俺がキャラデザを担当した大人気VTuberでした』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "komaki-hibi",
+    "name": "駒木日々",
+    "nameKana": "こまきひび",
+    "description": "『やさぐれ執事Vtuberとネガティブポンコツ令嬢Vtuberの虚実混在な配信生活』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuroganeya",
+    "name": "クロがねや",
+    "nameKana": "くろがねや",
+    "description": "『推しにささげるダンジョングルメ』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "popman3580",
+    "name": "popman3580",
+    "nameKana": "ぽっぷまんさんごーはちまる",
+    "description": "『引きこもりVTuberは伝えたい』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichimaru-kisuke",
+    "name": "市丸きすけ",
+    "nameKana": "いちまるきすけ",
+    "description": "『住所不定キャンパーはダンジョンでのんびりと暮らしたい』のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiso",
+    "name": "シソ",
+    "nameKana": "",
+    "description": "イラストレーター。『転校先の清楚可憐な美少女が…』の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurousagi-yuu",
+    "name": "黒兎ゆう",
+    "nameKana": "",
+    "description": "イラストレーター。『こんな可愛い許嫁がいるのに、他の子が好きなの?』の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER等の書誌情報より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chigusa-minori",
+    "name": "千種みのり",
+    "nameKana": "",
+    "description": "イラストレーター。『双子まとめて『カノジョ』にしない?』の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukioka-tsukiho",
+    "name": "月岡月穂",
+    "nameKana": "",
+    "description": "イラストレーター。『わたしの幸せな結婚』の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakanishi-tatsuya",
+    "name": "中西達哉",
+    "nameKana": "なかにしたつや",
+    "description": "「魔物(マンドラゴラ)ってバレたら討伐ですか？」のキャラクター原案・イラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "作者・出版社の告知でのイラスト担当表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "47agdragon",
+    "name": "47AgDragon",
+    "nameKana": "よんじゅうななえーじーどらごん",
+    "description": "「転生吸血鬼さんはお昼寝がしたい」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『アース・スターノベル』作品一覧のイラスト担当表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nishi-e-ta",
+    "name": "西E田",
+    "nameKana": "にしいーだ",
+    "description": "「人狼への転生、魔王の副官」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『アース・スターノベル』作品一覧のイラスト担当表記より確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -4730,5 +4730,261 @@
     "externalLinks": {},
     "sourceNote": "GA文庫公式商品情報で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aki-gitsune",
+    "name": "秋ぎつね",
+    "nameKana": "あきぎつね",
+    "description": "「マギクラフト・マイスター」の作者。異世界での魔法工学・発明をテーマにした作品を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マギクラフト・マイスター"
+    },
+    "sourceNote": "Wikipedia日本語版「マギクラフト・マイスター」記事より著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tarumi-kyouichirou",
+    "name": "樽見京一郎",
+    "nameKana": "たるみきょういちろう",
+    "description": "「オルクセン王国史」の作者。銃と魔法が併存する世界を舞台にした架空戦記を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オルクセン王国史"
+    },
+    "sourceNote": "作品情報を確認し著者名を特定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takano-kei",
+    "name": "高野ケイ",
+    "nameKana": "たかのけい",
+    "description": "「外れスキル『世界図書館』による異世界の知識と始める『産業革命』」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報より著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aoba",
+    "name": "青葉",
+    "nameKana": "あおば",
+    "description": "カクヨム発の異世界商人ものウェブ小説作家。「異世界商人～転生者アレンのお金持ち計画～」でデビューし、双葉社Mノベルスで書籍化。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページで著者名確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "guttari-kishi",
+    "name": "ぐったり騎士",
+    "nameKana": "ぐったりきし",
+    "description": "カクヨム・小説家になろう発の作家。「星と魔法の交易路～ボロアパートから始まる異世界間貿易～」でサーガフォレストより書籍化。",
+    "externalLinks": {},
+    "sourceNote": "サーガフォレスト公式告知記事で著者名・イラストレーター名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "meion-ryuusui",
+    "name": "明穏流水",
+    "nameKana": "めいおんりゅうすい",
+    "description": "小説家になろう発の作家。「地味だけど最強の生産系スキルでゆるり領地運営はじめよう」でグラストNOVELSより書籍化。",
+    "externalLinks": {},
+    "sourceNote": "読み仮名は未確認(推定表記)。出版社告知・Web検索で著者名確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shimotsuki-hiiro",
+    "name": "霜月緋色",
+    "nameKana": "しもつきひいろ",
+    "description": "HJノベルスで「いつでも自宅に帰れる俺は、異世界で行商人をはじめました」を刊行する作家。全13巻の人気シリーズでコミカライズもされている。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページで著者名・巻数(全13巻)を確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rumpa-rumpa",
+    "name": "ルンパルンパ",
+    "nameKana": "るんぱるんぱ",
+    "description": "ネット小説大賞受賞作「奴隷商人になったよin異世界」の作者。ぽにきゃんBOOKSより刊行。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で著者名・受賞歴(ネット小説大賞、応募総数7612作品)を確認。受賞年は未確定(2016年頃と推定)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aoyama-yuu",
+    "name": "青山有",
+    "nameKana": "あおやまゆう",
+    "description": "角川スニーカー文庫「無敵商人の異世界成り上がり物語」の著者。同作はコミカライズされ8巻以上刊行されている。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER商品ページで著者名・イラストレーター名・レーベルを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "enami-kaiji",
+    "name": "江波界司",
+    "nameKana": "えなみかいじ",
+    "description": "Web小説投稿サイト出身の作家。『妹の配信に入り込んだらVTuber扱いされた件』が一二三書房WEB小説大賞で銀賞を受賞し書籍化。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・honto.jp掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nonaka-kanon",
+    "name": "乃中カノン",
+    "nameKana": "のなかカノン",
+    "description": "ブレイブ文庫より『隣に住んでる聖女様は俺がキャラデザを担当した大人気VTuberでした』を刊行した作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "indou-kaisha",
+    "name": "犬童灰舎",
+    "nameKana": "いんどうかいしゃ",
+    "description": "TOブックスノベルより『やさぐれ執事Vtuberとネガティブポンコツ令嬢Vtuberの虚実混在な配信生活』を刊行した作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monokuro-usagi",
+    "name": "モノクロウサギ",
+    "nameKana": "モノクロウサギ",
+    "description": "2022年12月よりカクヨムで連載を開始したWeb小説『推しにささげるダンジョングルメ』の作者。KADOKAWAより書籍化・コミカライズされている。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・pixiv百科事典掲載情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "megusuri",
+    "name": "めぐすり",
+    "nameKana": "めぐすり",
+    "description": "カクヨム出身の作家。『引きこもりVTuberは伝えたい』(電撃の新文芸)の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tajiri-yuu",
+    "name": "タジリユウ",
+    "nameKana": "タジリユウ",
+    "description": "カドカワBOOKSより『住所不定キャンパーはダンジョンでのんびりと暮らしたい』を刊行した作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER掲載の書誌情報より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hiyodori-yu",
+    "name": "雲雀湯",
+    "nameKana": "ひばりゆ",
+    "description": "ライトノベル作家。『転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "misaki-nagi",
+    "name": "ミサキナギ",
+    "nameKana": "みさきなぎ",
+    "description": "ライトノベル作家。第25回電撃小説大賞銀賞受賞(受賞作は『リベリオ・マキナ』)。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER等の書誌情報・作家経歴記事を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takamura-shihon",
+    "name": "高村資本",
+    "nameKana": "たかむらしほん",
+    "description": "ライトノベル作家。『恋は双子で割り切れない』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shirai-muku",
+    "name": "白井ムク",
+    "nameKana": "しらいむく",
+    "description": "ライトノベル作家。『双子まとめて『カノジョ』にしない?』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "agitogi-akumi",
+    "name": "顎木あくみ",
+    "nameKana": "あぎとぎあくみ",
+    "description": "ライトノベル作家。『わたしの幸せな結婚』の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tobirano",
+    "name": "とびらの",
+    "nameKana": "とびらの",
+    "description": "ライトノベル作家。『ずたぼろ令嬢は姉の元婚約者に溺愛される』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuutori-kanou",
+    "name": "夕鳥かのう",
+    "nameKana": "ゆうとりかのう",
+    "description": "ライトノベル作家。『(仮)花嫁のやんごとなき事情』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yui",
+    "name": "由唯",
+    "nameKana": "ゆい",
+    "description": "ライトノベル作家。『虫かぶり姫』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版該当作品ページの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryuu-yuu",
+    "name": "流優",
+    "nameKana": "りゅうゆう",
+    "description": "「魔王になったので、ダンジョン造って人外娘とほのぼのする」の作者。小説家になろう発、カドカワBOOKSより刊行。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『カドカワBOOKS』記事の作品一覧内の著者名表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mikura",
+    "name": "Mikura",
+    "nameKana": "みくら",
+    "description": "「魔物(マンドラゴラ)ってバレたら討伐ですか？」の作者。小説家になろう発、アース・スターノベルより刊行。",
+    "externalLinks": {},
+    "sourceNote": "作品公式情報・出版社サイトの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujitaka-tsuyoshi",
+    "name": "藤孝剛志",
+    "nameKana": "ふじたかつよし",
+    "description": "「美脚ミミック、ハルミさん〜転生モンスター異世界成り上がり伝説〜」の作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『アース・スターノベル』作品一覧および関連記事の著者名表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chokingyo",
+    "name": "ちょきんぎょ。",
+    "nameKana": "ちょきんぎょ",
+    "description": "「転生吸血鬼さんはお昼寝がしたい」の作者。小説家になろう発、アース・スターノベルより全8巻刊行、完結。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『アース・スターノベル』作品一覧、および作品情報サイトの著者表記より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hyougetsu",
+    "name": "漂月",
+    "nameKana": "ひょうげつ",
+    "description": "「人狼への転生、魔王の副官」の作者。小説家になろう発、アース・スターノベル/SQEXノベルより全16巻刊行、完結。",
+    "externalLinks": {},
+    "sourceNote": "作品情報サイトでの読み仮名表記および出版社サイトの著者表記より確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
