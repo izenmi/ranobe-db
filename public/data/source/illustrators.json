@@ -4823,5 +4823,61 @@
     "externalLinks": {},
     "sourceNote": "集英社公式書籍ページ、コミックシーモア作品ページで確認。読み仮名は一般的な読みからの推定で確度は低い。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hu-ko",
+    "name": "hu-ko",
+    "nameKana": "ふーこ",
+    "description": "イラストレーター。『獣医さんのお仕事in異世界』のコミカライズ作画・原作イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式・BOOK☆WALKER書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "lain",
+    "name": "lain",
+    "nameKana": "れいん",
+    "description": "イラストレーター。『異世界弁護士』(MFブックス)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER/KADOKAWA公式書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuran",
+    "name": "ゆらん",
+    "nameKana": "ゆらん",
+    "description": "イラストレーター。『天才外科医が異世界で闇医者を始めました。』(モンスター文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "katou-itsuwa",
+    "name": "加藤いつわ",
+    "nameKana": "かとういつわ",
+    "description": "イラストレーター。『セーブ＆ロードのできる宿屋さん』(ダッシュエックス文庫)の挿絵・キャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "集英社ダッシュエックス文庫公式サイト・コミカライズ版クレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oohashi-kikka",
+    "name": "大橋キッカ",
+    "nameKana": "おおはしきっか",
+    "description": "イラストレーター。『異世界の沙汰は社畜次第』のキャラクター原案を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界の沙汰は社畜次第"
+    },
+    "sourceNote": "Wikipedia日本語版・KADOKAWA公式ページを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akiyama-manami",
+    "name": "秋山真名美",
+    "nameKana": "あきやままなみ",
+    "description": "イラストレーター。『異世界でやきたてパン屋を始めました』(楽ノベ文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Amazon Kindle版書誌情報を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

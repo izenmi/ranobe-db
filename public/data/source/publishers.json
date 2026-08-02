@@ -860,5 +860,15 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「よろず占い処 陰陽屋シリーズ」記事でレーベル名・刊行時期を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "raku-novel-bunko",
+    "name": "楽ノベ文庫",
+    "nameKana": "らくのべぶんこ",
+    "parentCompany": "株式会社マイナビ出版",
+    "description": "マイナビ出版が展開するライトノベル中心のオリジナル電子書籍レーベル。",
+    "externalLinks": {},
+    "sourceNote": "book.mynavi.jp/lnb/ (マイナビブックス公式ページ)を確認。創刊年の明記は見当たらず。",
+    "updatedAt": "2026-08-02"
   }
 ]

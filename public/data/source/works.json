@@ -23033,5 +23033,288 @@
     "externalLinks": {},
     "sourceNote": "集英社公式書籍ページ(shueisha.co.jp/books-cbs/c2082/c166-14327/)、コミックシーモア作品ページ(cmoa.jp/title/1101334098/)で著者・イラストレーター・出版社(ダッシュエックス文庫DIGITAL)・刊行年(2021年12月)・コミカライズの存在を確認。続刊・アニメ化情報は確認できず。web小説発かどうか確証得られず未設定。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "juui-san-no-oshigoto-in-isekai",
+    "title": "獣医さんのお仕事in異世界",
+    "titleKana": "じゅういさんのおしごといんいせかい",
+    "authorIds": [
+      "aozora-choko"
+    ],
+    "illustratorIds": [
+      "hu-ko"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 12,
+    "status": "unknown",
+    "synopsis": "家畜保健衛生所に勤める公務員獣医師の風見心悟は、ある日突然、魔法や魔物が存在するのに医療は未発達な異世界に召喚される。王子から人々を救ってほしいと頼まれた彼は、動物の治療しか知らなかったはずの獣医の知識と経験を武器に、人間と動物の両方を診る「お医者さん」として異世界での日々に奮闘していくハートフルな異世界お仕事もの。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "cmoa/BOOKLIVE/Amazon/アルファポリス公式サイトで著者・イラストレーター・巻数(全12巻)・コミカライズ有無を確認。2013年「小説家になろう」投稿開始、2018年書籍化。完結明記は見当たらず状態は不明として扱う。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isekai-bengoshi",
+    "title": "異世界弁護士",
+    "titleKana": "いせかいべんごし",
+    "authorIds": [
+      "kina-komochi"
+    ],
+    "illustratorIds": [
+      "lain"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "mystery"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "被告の家族に刺されて死を覚悟した検察官の大樹は、気づくと日本の六法全書がなぜか聖典として扱われる異世界に召喚されていた。前世では人を裁く側だった大樹は、今度は「弁護士」として弱き者の味方になると決意し、常識の通じない異世界の法廷で理不尽な事件の弁護に挑んでいく異色の法廷ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式・BOOK☆WALKER・Amazon(合本版全3巻)で著者・イラストレーター・巻数・完結(全3巻)を確認。コミカライズ・アニメ化情報は見当たらず両方falseとした。原作がなろう発かは確認できず未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "moto-sekai-saikyou-na-koumuin",
+    "title": "元世界最強な公務員 1.帰還勇者、身分を隠してたのに新人冒険者の世話をすることになりました",
+    "titleKana": "もとせかいさいきょうなこうむいん",
+    "authorIds": [
+      "suebashi-ken"
+    ],
+    "illustratorIds": [
+      "kikkaiki"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "かつて異世界を救った「元勇者」の空満晴は、平穏な生活を求めて地球に戻り、異世界との交流を担当する部署の公務員になる。配属初日に命じられたのは、帰還したばかりの新人女性冒険者三人の世話係。かつて世界最強と呼ばれた過去を隠したまま、地味な公務員生活と元勇者としての秘密との間で奮闘する異世界お仕事コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER/Amazon/BOOKLIVEで著者・イラストレーター・巻数(3冊)を確認。完結情報は明記されておらずongoingとした。コミカライズ・アニメ化情報は見当たらず両方falseとした。原作がなろう/カクヨム発かは確認できず未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensai-gekai-ga-isekai-de-yamiisha-wo-hajimemashita",
+    "title": "天才外科医が異世界で闇医者を始めました。",
+    "titleKana": "てんさいげかいがいせかいでやみいしゃをはじめました",
+    "authorIds": [
+      "hiiragi-muu"
+    ],
+    "illustratorIds": [
+      "yuran"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "天才外科医だった芦屋薫は、同僚のミスの罪をかぶり全てを失ってしまう。自暴自棄になっていたある夜、怪しいサイトに登録すると、翌朝には医学の発達していない異世界で目覚めていた。サイトに入力したステータス通りの体と現代外科医療・回復魔法の知識を武器に、彼は裏路地で「闇医者」として新たな人生を歩み始める。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n7944cf/)・BOOK☆WALKER(モンスター文庫全5冊)・コミックシーモア(Meke作画のコミカライズ)を確認。完結明記なくongoingとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "save-and-load-no-dekiru-yadoya-san",
+    "title": "セーブ＆ロードのできる宿屋さん ～カンスト転生者が宿屋で新人育成を始めたようです～",
+    "titleKana": "せーぶあんどろーどのできるやどやさん",
+    "authorIds": [
+      "inari-ryuu"
+    ],
+    "illustratorIds": [
+      "katou-itsuwa"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "ゲームのようにセーブとロードを行える特殊な力を持つカンスト転生者アレクは、その力を活かして「泊まれば死んでも生き返る」と噂される宿屋を営んでいる。家を追われた没落貴族の令嬢や、群れを追放された魔族の少女らが集うこの宿を舞台に、彼は新人冒険者たちへ型破りな育成指導を行っていく異世界お仕事ファンタジー。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n9497dd/)・集英社ダッシュエックス文庫公式サイト・コミカライズ版(ヤングジャンプコミックスDIGITAL、竹内じゅんや作画、既刊7巻で完結)を確認。小説版は全4巻、コミカライズ完結済みのため小説版もcompletedと判断。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isekai-no-sata-wa-shachiku-shidai",
+    "title": "異世界の沙汰は社畜次第",
+    "titleKana": "いせかいのさたはしゃちくしだい",
+    "authorIds": [
+      "hachigatsu-hachi"
+    ],
+    "illustratorIds": [
+      "oohashi-kikka"
+    ],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "経理課の課長補佐として働く29歳の近藤誠一郎は、聖女召喚に巻き込まれて異世界ロマーニ王国へ転移してしまう。根っからの効率主義者である誠一郎は、どんぶり勘定だった王宮の経理業務を一から立て直そうと奮闘し、その過程で騎士団長アレシュとの距離も縮めていく、経理という専門職と異世界BL要素を組み合わせたお仕事もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界の沙汰は社畜次第"
+    },
+    "sourceNote": "Wikipedia日本語版で著者・イラストレーター・出版社(KADOKAWA/エンターブレイン)・巻数(小説3巻)・アニメ化(2026年1-3月放送)・コミカライズを確認。原作は「ムーンライトノベルズ」(小説家になろう姉妹サイト)発だが、本スキーマのwebNovelSource選択肢(narou/kakuyomu)に該当しないため当該フィールドは省略した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "boukensha-no-fuku-tsukurimasu",
+    "title": "冒険者の服、作ります！ ～異世界ではじめるデザイナー生活～",
+    "titleKana": "ぼうけんしゃのふくつくります",
+    "authorIds": [
+      "amasawa-ringo"
+    ],
+    "illustratorIds": [
+      "yukiya"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "craft-artisan",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "unknown",
+    "synopsis": "アパレル店員として働きながらデザイナーを目指していた糸井美奈は、念願の内定を勝ち取った直後の事故で異世界に飛ばされてしまう。助けてくれた新人冒険者マリウスとの縁をきっかけに、彼女は裁縫の腕と魔法による強化技術を組み合わせ、冒険者のための機能美あふれる服を仕立てる店を開いていく異世界お仕事ラブコメ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n3280ep/)・TSUTAYA書誌情報(2018年12月刊、フロンティアワークス/アリアンローズレーベル)・コミックシーモア(すけお作画、ゆき哉キャラクター原案のコミカライズ全6巻完結)を確認。小説版の完結有無・総巻数は確認できずunknownとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isekai-de-yuubin-haitatsu-hajimemashita",
+    "title": "異世界で郵便配達はじめました",
+    "titleKana": "いせかいでゆうびんはいたつはじめました",
+    "authorIds": [
+      "shiki-web-author"
+    ],
+    "illustratorIds": [
+      "murakami-yuichi"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "突然「ヒューマ国」という異世界に召喚された芽衣は、国王から国の危機を救ってほしいと頼まれる。しかしその方法は魔物討伐でも魔法でもなく、なぜか「手紙を届けること」。渋々郵便配達員として働き始めた芽衣が、一筋縄ではいかない配達先の人々や事情に振り回されながら異世界の仕事事情を学んでいく、一巻完結のお仕事コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式(レジーナブックス)・BOOK☆WALKER・版元ドットコムで著者・イラストレーター・発売日(2020年12月)・巻数(全1巻)を確認。コミカライズ・アニメ化情報は見当たらず両方falseとした。原作がなろう/カクヨム発かは確認できず未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isekai-de-yakitate-panya-wo-hajimemashita",
+    "title": "異世界でやきたてパン屋を始めました",
+    "titleKana": "いせかいでやきたてぱんやをはじめました",
+    "authorIds": [
+      "hiromatsu-ryou"
+    ],
+    "illustratorIds": [
+      "akiyama-manami"
+    ],
+    "publisherId": "raku-novel-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "異世界でパン屋を開いた仁人の周りには、なぜか少し変わった面々ばかりが集まってくる。パン好きが高じて高利貸しに追われる羽目になったツインテールの少女など、一癖も二癖もある常連たちに振り回されながらも、仁人は焼きたてのパンを武器に異世界での小さな商いをどうにか軌道に乗せていくシュールな異世界お仕事コメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "マイナビブックス公式・BOOKLIVE・Amazon Kindleで著者・イラストレーター・レーベル(楽ノベ文庫)・発売日(2016年9月)・上下巻構成(全2巻)、および作品ページの「小説家になろう」タグ表示を確認。コミカライズ・アニメ化情報は見当たらず両方falseとした。",
+    "updatedAt": "2026-08-02"
   }
 ]

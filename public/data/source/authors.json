@@ -5653,5 +5653,79 @@
     "externalLinks": {},
     "sourceNote": "集英社公式書籍ページ(shueisha.co.jp)、コミックシーモア作品ページで著者名・出版社・刊行年(2021年12月)を確認。読み仮名は検索結果に基づく推定で確度は中程度。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aozora-choko",
+    "name": "蒼空チョコ",
+    "nameKana": "あおぞらちょこ",
+    "description": "ライトノベル作家。獣医としての知識を活かした『獣医さんのお仕事in異世界』(アルファポリス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "cmoa/BOOKLIVE/Amazon書誌情報を確認。2013年に「小説家になろう」へ投稿開始し、2018年にアルファポリス文庫より書籍化されたことを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kina-komochi",
+    "name": "季菜こもち",
+    "nameKana": "きなこもち",
+    "description": "ライトノベル作家。『異世界弁護士』(MFブックス)の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式サイト・BOOK☆WALKER書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suebashi-ken",
+    "name": "すえばしけん",
+    "nameKana": "すえばしけん",
+    "description": "ライトノベル作家。『元世界最強な公務員』(HJ文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER/Amazon書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hiiragi-muu",
+    "name": "柊むぅ",
+    "nameKana": "ひいらぎむぅ",
+    "description": "「小説家になろう」発の医療系異世界小説『天才外科医が異世界で闇医者を始めました。』(モンスター文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n7944cf/)・BOOK☆WALKER書誌情報を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inari-ryuu",
+    "name": "稲荷竜",
+    "nameKana": "いなりりゅう",
+    "description": "「小説家になろう」発の『セーブ＆ロードのできる宿屋さん』(ダッシュエックス文庫)原作者。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n9497dd/)・集英社ダッシュエックス文庫公式サイトを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hachigatsu-hachi",
+    "name": "八月八",
+    "nameKana": "はちがつはち",
+    "description": "ボーイズラブ作家。『異世界の沙汰は社畜次第』(KADOKAWA/エンターブレイン)原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界の沙汰は社畜次第"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界の沙汰は社畜次第」記事を確認。読み仮名の確定情報源は見つからず、漢字の一般的な読みを暫定表記。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amasawa-ringo",
+    "name": "甘沢林檎",
+    "nameKana": "あまさわりんご",
+    "description": "「小説家になろう」発の『冒険者の服、作ります！ ～異世界ではじめるデザイナー生活～』(アリアンローズ/フロンティアワークス)原作者。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n3280ep/)・TSUTAYA書誌情報(ISBN 9784866572000)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hiromatsu-ryou",
+    "name": "弘松涼",
+    "nameKana": "ひろまつりょう",
+    "description": "「小説家になろう」発の『異世界でやきたてパン屋を始めました』(楽ノベ文庫)著者。",
+    "externalLinks": {},
+    "sourceNote": "マイナビブックス・BOOKLIVE書誌情報、および作品ページの「小説家になろう」タグ表示を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
