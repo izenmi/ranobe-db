@@ -40,7 +40,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
           </div>
           {work.awardSummaries.length > 0 && (
             <div className="work-card__awards">
-              {work.awardSummaries.map((a) => (
+              {work.awardSummaries.slice(0, 2).map((a) => (
                 <span className="chip award-chip" key={`${a.awardId}-${a.year}`}>
                   {a.awardName} {a.result}
                 </span>
