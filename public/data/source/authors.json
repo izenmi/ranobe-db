@@ -5316,5 +5316,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「剣士を目指して入学したのに魔法適性9999なんですけど!?」記事より著者情報を確認(著者個人のWikipedia単独記事は未確認)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hayasaka-yabusaka",
+    "name": "早坂吝",
+    "nameKana": "はやさかやぶさか",
+    "description": "2014年に『○○○○○○○○殺人事件』で第50回メフィスト賞を受賞してデビューした推理作家。奇抜な発想と緻密なロジックを融合させたミステリ作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/早坂吝"
+    },
+    "sourceNote": "Wikipedia日本語版「早坂吝」の項目で経歴・デビュー作・受賞歴を確認。デビュー作の受賞は本作『探偵AI』シリーズとは別作品のため、works側のawardResultsには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yogata-yoi",
+    "name": "夜方宵",
+    "nameKana": "よがたよい",
+    "description": "MF文庫Jより『探偵に推理をさせないでください。最悪の場合、世界が滅びる可能性がございますので。』でデビューしたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(https://www.kadokawa.co.jp/product/322308000958/)で著者名・レーベル・刊行日を確認。読み仮名は公式資料に記載がなく推定。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

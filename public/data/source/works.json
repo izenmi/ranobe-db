@@ -21310,5 +21310,199 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "tantei-ai-no-real-deep-learning",
+    "title": "探偵AIのリアル・ディープラーニング",
+    "titleKana": "たんていえーあいのりあるでぃーぷらーにんぐ",
+    "authorIds": [
+      "hayasaka-yabusaka"
+    ],
+    "illustratorIds": [
+      "vofan"
+    ],
+    "publisherId": "shinchosha-bunko-nex",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "sf"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "AI研究者の父を密室殺人で失った高校生・輔は、父が遺した探偵AI「相以」とともに真犯人を追う。捜査を進めるうち、もう一体の「犯人」役AIを悪用しようとするテロ組織の陰謀が浮かび上がる。奇抜な発想と緻密な論理が交差する異色の推理サスペンス。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": ""
+    },
+    "sourceNote": "新潮社特設サイト(https://www.shinchosha.co.jp/special/180124/)であらすじ・著者名・イラスト担当(VOFAN)を確認。シリーズ全5冊(2014〜2026年)であることをbookmeter等の書誌情報から確認。著者の別作品(メフィスト賞受賞作)との受賞混同を避けるため、本作にawardResultsは付与せず。コミカライズあり(一迅プラス/めちゃコミック等で確認)、アニメ化は未確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "dokushin-tantei-ooba-kanatsuko-wa-atama-ga-warui",
+    "title": "読心探偵・大葉香夏子は頭がわるい～心が読めるから真犯人特定までは余裕ですけど証明方法が全然わかりません～",
+    "titleKana": "どくしんたんていおおばかなつこはあたまがわるい",
+    "authorIds": [
+      "satou-to-shio"
+    ],
+    "illustratorIds": [
+      "kusaka-shi"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "人の心を読む能力を持つ女子高生・大葉香夏子は、その力で無敵の探偵になれると意気込むが、実は推理力も証明力も皆無なポンコツだった。犯人の正体はお見通しでも周囲を納得させる証拠を組み立てられず、助手に振り回されながら事件解決を目指すどたばた謎解きコメディ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": ""
+    },
+    "sourceNote": "GA文庫公式商品ページ(https://ga.sbcr.jp/product/9784815628147/ 、9784815628154)であらすじ・著者・イラスト担当・刊行日(2025年5月15日、既刊2巻)を確認。アニメ化情報は未確認、コミカライズはコミックウォーカーでの連載を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tantei-ni-suiri-wo-sasenaide-kudasai",
+    "title": "探偵に推理をさせないでください。最悪の場合、世界が滅びる可能性がございますので。",
+    "titleKana": "たんていにすいりをさせないでください",
+    "authorIds": [
+      "yogata-yoi"
+    ],
+    "illustratorIds": [
+      "miwano-ragu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "ミステリ好きの高校生・福寄幸太は、自称名探偵の美少女・推川理耶に一方的に助手として指名される。理耶の推理は空想上の怪物が犯人だという荒唐無稽なものばかりだが、なぜかその通りの怪異が現実に現れてしまう。名探偵の正体に隠された秘密に幸太が迫る非日常系ミステリラブコメ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": ""
+    },
+    "sourceNote": "KADOKAWA公式商品ページ(https://www.kadokawa.co.jp/product/322308000958/ 、322312001087)であらすじ・著者・イラスト担当・刊行日(2023年12月、既刊2巻)を確認。アニメ・コミカライズ情報は確認できず、mediaMixは両方false。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "kurenai",
+    "title": "紅",
+    "titleKana": "くれない",
+    "authorIds": [
+      "katayama-kentarou"
+    ],
+    "illustratorIds": [
+      "yamamoto-yamato"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "urashakai",
+      "battle-action",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "問題解決屋を営む高校生・真九郎は、大財閥の令嬢・紫を守るボディガードの依頼を受ける。表社会を牛耳る名家「表御三家」と、裏の秩序を支配する「裏十三家」との確執に巻き込まれ、紫の出生に関わる陰謀と暴力が渦巻く裏社会の抗争に否応なく身を投じていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紅_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「紅(小説)」で著者・イラスト・刊行期間(スーパーダッシュ文庫、2005〜2008年、全4巻完結、2014年にダッシュエックス文庫で新装版)、あらすじ、アニメ化(2008年)・漫画化を確認。「このライトノベルがすごい!2007」掲載との記述はあるが具体的順位の記載がないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "bowwow-two-dogs-night",
+    "title": "バウワウ! Two Dogs Night",
+    "titleKana": "ばうわうつーどっぐすないと",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "urashakai",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "新潟と佐渡を結ぶ計画が頓挫して廃墟と化した巨大橋の上に築かれた無法地帯には、犯罪者や賭博師、賞金稼ぎたちが集う。腕利きの賞金稼ぎコンビが、借金取り立てや裏稼業の依頼をこなしながら、法の届かない島に渦巻く陰謀と抗争に巻き込まれていく無頼派クライムノベル。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バウワウ!"
+    },
+    "sourceNote": "Wikipedia日本語版「バウワウ!(越佐大橋シリーズ)」で著者・イラスト・刊行期間(電撃文庫、2003〜2008年、本編4巻+短編集1巻の全5巻完結)、あらすじを確認。アニメ・漫画化の情報は確認できず、mediaMixは両方false。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "makai-toshi-shinjuku",
+    "title": "魔界都市〈新宿〉",
+    "titleKana": "まかいとしシンジュク",
+    "authorIds": [
+      "kikuchi-hideyuki"
+    ],
+    "illustratorIds": [
+      "satou-michiaki"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "urashakai",
+      "dark-fantasy",
+      "horror"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "謎の大地震「魔震」により地割れで隔絶され、伏魔殿と化した新宿。念法者・十六夜京也は、地球連邦首相の暗殺を企む妖術師レビ・ラーの陰謀を阻止すべく、サイボーグや超能力者、怪物が跋扈する無法の魔界都市に足を踏み入れる。菊地秀行が切り拓いたダークファンタジー・アクションの原点。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界都市〈新宿〉"
+    },
+    "sourceNote": "Wikipedia日本語版「魔界都市〈新宿〉」で著者・刊行期間(朝日ソノラマ/朝日新聞出版、1982〜2017年、全7巻完結)、イラスト担当の変遷、OVA化(1988年)・漫画化を確認。第5回日本アニメ大賞はOVA版に対する受賞でありworks本体の受賞ではないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
   }
 ]

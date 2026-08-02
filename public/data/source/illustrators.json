@@ -4531,5 +4531,32 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「光炎のウィザード」記事より確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusaka-shi",
+    "name": "日下氏",
+    "nameKana": "くさかし",
+    "description": "GA文庫『読心探偵・大葉香夏子は頭がわるい』のキャラクターイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式商品ページ(https://ga.sbcr.jp/product/9784815628147/)でイラスト担当者名を確認。読み仮名は公式資料に記載がなく推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miwano-ragu",
+    "name": "美和野らぐ",
+    "nameKana": "みわのらぐ",
+    "description": "MF文庫J『探偵に推理をさせないでください。』のキャラクターイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(https://www.kadokawa.co.jp/product/322308000958/)でイラスト担当者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "satou-michiaki",
+    "name": "佐藤道明",
+    "nameKana": "さとうみちあき",
+    "description": "菊地秀行『魔界都市〈新宿〉』シリーズ初期の朝日ソノラマ文庫版で表紙・挿絵を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「魔界都市〈新宿〉」の項目でイラスト担当者の変遷(初期:佐藤道明、以降:恩田尚之、完全版:末弥純)を確認し、初刊時のイラストレーターを採用。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
   }
 ]
