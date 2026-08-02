@@ -18869,5 +18869,37 @@
     },
     "sourceNote": "GA文庫公式で1巻(2023年2月)・2巻の刊行を確認。3巻以降・メディアミックス情報は見つからず。",
     "externalLinks": {}
+  },
+  {
+    "id": "koi-ni-itaru-yamai",
+    "title": "恋に至る病",
+    "titleKana": "こいにいたるやまい",
+    "authorIds": [
+      "shasendou-yuki"
+    ],
+    "illustratorIds": [
+      "kukka"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "romance",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "小学生時代に出会った宮嶺望と寄河景は、互いを大切に想いながら年月を重ねていく。だが生徒会長となった景の裏の顔は、150人以上を自殺へ導いたとされる謎の自殺教唆ゲーム『青い蝶(ブルーモルフォ)』の首謀者だった。彼女がなぜそのような凶行に手を染めたのか、過去の出来事から徐々に明らかになっていく中、景を守るため宮嶺が下す決断が問いかける、愛と罪をめぐる心理サスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "日本語版Wikipedia「恋に至る病」「斜線堂有紀」を確認したが、あらすじ節は未執筆(テンプレートのみ)だったため、KADOKAWA公式サイト(スピンオフ『病に至る恋』商品ページでメディアワークス文庫扱いを確認)および複数のあらすじ解説サイトをクロスチェックしてあらすじを独自要約。イラストレーター「くっか」はWikipedia脚注に著者本人および出版社公式Xアカウントの投稿が出典として明記。受賞歴は本作自体では確認できず(著者は電撃小説大賞メディアワークス文庫賞でデビューだが別作品)。2025年6月より漫画版連載(少年エースplus、作画:おーうち、キャラクター原案:くっか)。2025年10月に実写映画公開(長尾謙杜・山田杏奈主演、監督:廣木隆一)だが、TVアニメ化は未確認。2025年9月刊行のスピンオフ短編集『病に至る恋』は別タイトルのため本エントリの巻数・刊行年には含めていない。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋に至る病"
+    }
   }
 ]
