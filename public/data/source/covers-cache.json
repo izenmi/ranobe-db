@@ -43,6 +43,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:13:15.878Z"
   },
+  "akuma-koujo-yurui-akuma-no-monogatari": {
+    "title": "悪魔公女〜ゆるいアクマの物語〜",
+    "isbn": null,
+    "matchedTitle": "悪魔公女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2004/2000011192004.jpg?_ex=400x400",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:28:11.000Z"
+  },
   "akuma-no-mikata": {
     "title": "悪魔のミカタ",
     "isbn": null,
@@ -50,6 +58,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7838/2000004057838.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T08:40:15.667Z"
+  },
+  "akutou-ikka-no-manamusume-tensei-saki-mo-otome-game-no-gokudou-reijou": {
+    "title": "悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。〜最上級ランクの悪役さま、その溺愛は不要です！〜",
+    "isbn": "9784866998411",
+    "matchedTitle": "悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。〜最上級ランクの悪役さま、その溺愛は不要です！〜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8411/9784866998411_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:35.694Z"
   },
   "akuyaku-kizoku-toshite-hitsuyou-na-sore": {
     "title": "悪役貴族として必要なそれ",
@@ -248,12 +264,28 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T21:18:00.580Z"
   },
+  "ayakashigatari": {
+    "title": "あやかしがたり",
+    "isbn": null,
+    "matchedTitle": "あやかしがたり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2958/2000000172958.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:23:36.201Z"
+  },
   "baccano": {
     "title": "バッカーノ!",
     "isbn": "9784048669283",
     "matchedTitle": "バッカーノ！　The　Rolling　Bootlegs",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9283/9784048669283_1_4.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:56:11.421Z"
+  },
+  "badend-mokuzen-no-heroine-ni-tensei-shita-watashi": {
+    "title": "バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？",
+    "isbn": "9784866994086",
+    "matchedTitle": "バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません!?",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4086/9784866994086_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:36.893Z"
   },
   "baka-to-test-to-shoukanjuu": {
     "title": "バカとテストと召喚獣",
@@ -449,6 +481,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1623/9784803011623.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:02:04.596Z"
+  },
+  "boukensha-no-fuku-tsukurimasu": {
+    "title": "冒険者の服、作ります！ ～異世界ではじめるデザイナー生活～",
+    "isbn": "9784866572000",
+    "matchedTitle": "冒険者の服、作ります！ 〜異世界ではじめるデザイナー生活〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2000/9784866572000.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:28:11.000Z"
   },
   "bowwow-two-dogs-night": {
     "title": "バウワウ! Two Dogs Night",
@@ -1135,6 +1175,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T04:05:28.619Z"
   },
+  "hametsu-shitakunai-akuyaku-reijou-gendai-heiki": {
+    "title": "どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです",
+    "isbn": null,
+    "matchedTitle": "どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0739/2000006880739.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:26.364Z"
+  },
   "hanbun-no-tsuki-ga-noboru-sora": {
     "title": "半分の月がのぼる空",
     "isbn": null,
@@ -1229,6 +1277,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:02:33.602Z"
   },
+  "higeki-no-genkyou-to-naru-saikyou-gedou-rasubosu-joou-wa-tami-no-tame-ni-tsukushimasu": {
+    "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
+    "isbn": "9784758091770",
+    "matchedTitle": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1770/9784758091770.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:43.886Z"
+  },
   "high-speed": {
     "title": "ハイ☆スピード!",
     "isbn": null,
@@ -1293,6 +1349,14 @@
     "matchedTitle": "本好きの下剋上〜司書になるためには手段を選んでいられません〜第一部「兵士の娘　I」",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3428/9784864723428.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:54:56.930Z"
+  },
+  "horobi-no-kuni-no-seifukusha": {
+    "title": "亡びの国の征服者〜魔王は世界を征服するようです〜",
+    "isbn": "9784865546477",
+    "matchedTitle": "亡びの国の征服者 1　〜魔王は世界を征服するようです〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6477/9784865546477.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:28:11.000Z"
   },
   "hoshi-to-mahou-no-koueki-ro": {
     "title": "星と魔法の交易路～ボロアパートから始まる異世界間貿易～",
@@ -1466,6 +1530,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T21:17:27.879Z"
   },
+  "inukamit": {
+    "title": "いぬかみっ！",
+    "isbn": null,
+    "matchedTitle": "いぬかみっ！(3)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9961/2000000109961.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:23:50.572Z"
+  },
   "iriya-no-sora-ufo-no-natsu": {
     "title": "イリヤの空、UFOの夏",
     "isbn": null,
@@ -1473,6 +1545,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4374/2000001894374.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T08:45:18.506Z"
+  },
+  "isekai-bengoshi": {
+    "title": "異世界弁護士",
+    "isbn": null,
+    "matchedTitle": "異世界弁護士 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5151/2000002375151.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:08.418Z"
   },
   "isekai-cheat-kaitakuki": {
     "title": "異世界チート開拓記",
@@ -1489,6 +1569,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3315/9784865543315.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:24.108Z"
+  },
+  "isekai-de-yakitate-panya-wo-hajimemashita": {
+    "title": "異世界でやきたてパン屋を始めました",
+    "isbn": null,
+    "matchedTitle": "異世界でやきたてパン屋を始めました　上巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5689/2000004625689.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:22.884Z"
+  },
+  "isekai-de-yuubin-haitatsu-hajimemashita": {
+    "title": "異世界で郵便配達はじめました",
+    "isbn": "9784434281426",
+    "matchedTitle": "異世界で郵便配達はじめました",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1426/9784434281426.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:20.554Z"
   },
   "isekai-ekisha-no-kissaten": {
     "title": "異世界駅舎の喫茶店",
@@ -1553,6 +1649,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8486/9784047348486_1_8.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:22.880Z"
+  },
+  "isekai-no-sata-wa-shachiku-shidai": {
+    "title": "異世界の沙汰は社畜次第",
+    "isbn": "9784047355385",
+    "matchedTitle": "異世界の沙汰は社畜次第 聖女召喚改善計画",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5385/9784047355385_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:16.544Z"
   },
   "isekai-ryouridou": {
     "title": "異世界料理道",
@@ -1726,6 +1830,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T01:34:39.825Z"
   },
+  "juui-san-no-oshigoto-in-isekai": {
+    "title": "獣医さんのお仕事in異世界",
+    "isbn": "9784434184710",
+    "matchedTitle": "獣医さんのお仕事in異世界",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4710/9784434184710.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:06.134Z"
+  },
   "juuma-to-tsukuru-isekai-dungeon": {
     "title": "従魔とつくる異世界ダンジョン",
     "isbn": null,
@@ -1819,6 +1931,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1654/9784046801654_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:13:02.841Z"
+  },
+  "kamisama-no-goyounin": {
+    "title": "神様の御用人",
+    "isbn": "9784048662703",
+    "matchedTitle": "神様の御用人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2703/9784048662703_1_29.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:43.641Z"
   },
   "kamisama-no-inai-nichiyoubi": {
     "title": "神さまのいない日曜日",
@@ -2244,6 +2364,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:13:25.284Z"
   },
+  "kusuriya-tantei-youkitan": {
+    "title": "薬屋探偵妖綺談",
+    "isbn": null,
+    "matchedTitle": "薬屋探偵妖綺談　全１４巻合本版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1960/2000010531960.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:23:52.857Z"
+  },
   "kusushi-reijou-no-yarinaoshi": {
     "title": "薬師令嬢のやり直し",
     "isbn": "9784040727202",
@@ -2422,6 +2550,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T00:00:00.000Z"
   },
+  "magical-explorer": {
+    "title": "マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
+    "isbn": "9784041083710",
+    "matchedTitle": "マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3710/9784041083710_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:34.530Z"
+  },
   "magicraft-meister": {
     "title": "マギクラフト・マイスター",
     "isbn": "9784040663944",
@@ -2576,6 +2712,30 @@
     "source": "kobo",
     "resolvedAt": "2026-08-02T00:49:11.408Z"
   },
+  "maou-sama-retry": {
+    "title": "魔王様、リトライ!",
+    "isbn": "9784575241150",
+    "matchedTitle": "魔王様、リトライ！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1150/9784575241150.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:54.019Z"
+  },
+  "maougun-no-kanbu-ni-nattakedo-jimushigoto-shika-dekimasen": {
+    "title": "魔王軍の幹部になったけど事務仕事しかできません",
+    "isbn": "9784864727488",
+    "matchedTitle": "魔王軍の幹部になったけど事務仕事しかできません",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7488/9784864727488.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:59.023Z"
+  },
+  "maougun-saikyou-no-majutsushi-wa-ningen-datta": {
+    "title": "魔王軍最強の魔術師は人間だった",
+    "isbn": "9784575751048",
+    "matchedTitle": "魔王軍最強の魔術師は人間だった（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1048/9784575751048.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:55.183Z"
+  },
   "maoujou-no-chef": {
     "title": "魔王城のシェフ 黒竜のローストからはじまる異世界グルメ伝",
     "isbn": null,
@@ -2693,6 +2853,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0812/9784049130812_1_8.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:56:23.186Z"
   },
+  "mobu-douzen-no-akuyaku-reijou-wa-dansou-shite-kouryaku-taishou-no-za-wo-nerau": {
+    "title": "モブ同然の悪役令嬢は男装して攻略対象の座を狙う",
+    "isbn": "9784866996615",
+    "matchedTitle": "モブ同然の悪役令嬢は男装して攻略対象の座を狙う（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6615/9784866996615_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:38.070Z"
+  },
   "mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo": {
     "title": "問題児たちが異世界から来るそうですよ？",
     "isbn": null,
@@ -2732,6 +2900,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0127/9784040730127_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:18:48.780Z"
+  },
+  "moto-sekai-saikyou-na-koumuin": {
+    "title": "元世界最強な公務員 1.帰還勇者、身分を隠してたのに新人冒険者の世話をすることになりました",
+    "isbn": null,
+    "matchedTitle": "元世界最強な公務員 1.帰還勇者、身分を隠してたのに新人冒険者の世話をすることになりました",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5094/2000009175094.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:10.694Z"
   },
   "moto-spy-kaseifu-ni-tenshoku-suru": {
     "title": "元スパイ、家政夫に転職する",
@@ -2894,6 +3070,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:18:46.286Z"
   },
+  "nikai-no-youkai-oujo": {
+    "title": "二階の妖怪王女",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T06:23:38.502Z"
+  },
   "no-game-no-life": {
     "title": "ノーゲーム・ノーライフ",
     "isbn": "9784040664323",
@@ -3013,6 +3195,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-01T21:18:23.904Z"
+  },
+  "okitsunesama-no-irui-koninitan": {
+    "title": "お狐様の異類婚姻譚",
+    "isbn": "9784758090780",
+    "matchedTitle": "お狐様の異類婚姻譚　元旦那様に求婚されているところです",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0780/9784758090780.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:48.282Z"
   },
   "okusuri-dashimasu-tsuihou-sareta-kusushi-no-shoujo": {
     "title": "お薬、出します！ 追放された薬師の少女は、極めたポーションで辺境の薬屋から成り上がる",
@@ -3167,6 +3357,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7531/9784758047531.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:55:31.104Z"
   },
+  "otome-game-no-sekai-de-watashi-ga-akuyaku-reijou-sonna-no-okotowari-desu": {
+    "title": "乙女ゲームの世界で私が悪役令嬢!? そんなのお断りです!",
+    "isbn": "9784047358621",
+    "matchedTitle": "乙女ゲームの世界で私が悪役令嬢!?　そんなのお断りです！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8621/9784047358621_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:41.532Z"
+  },
   "otome-game-rokushuume-automode-ga-kiremashita": {
     "title": "乙女ゲーム六周目、オートモードが切れました。",
     "isbn": "9784861349980",
@@ -3175,6 +3373,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:18:25.068Z"
   },
+  "otome-ge-no-kouryaku-taishou-ni-narimashita": {
+    "title": "乙女ゲーの攻略対象になりました…。",
+    "isbn": null,
+    "matchedTitle": "乙女ゲーの攻略対象になりました…。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6327/2000004966327.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:46.175Z"
+  },
   "otome-ge-sekai-wa-mob-ni-kibishii-sekai-desu": {
     "title": "乙女ゲー世界はモブに厳しい世界です",
     "isbn": "9784896377538",
@@ -3182,6 +3388,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7538/9784896377538.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:19:29.951Z"
+  },
+  "otome-ge-senki": {
+    "title": "乙女ゲー戦記 乙女ゲームを1ミリも知らない男がTS転生した結果",
+    "isbn": "9784040761091",
+    "matchedTitle": "乙女ゲー戦記 乙女ゲームを1ミリも知らない男がTS転生した結果",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1091/9784040761091_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:42.710Z"
   },
   "otonari-no-tenshi-sama": {
     "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
@@ -3623,6 +3837,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1159/9784047341159.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:12:59.315Z"
+  },
+  "save-and-load-no-dekiru-yadoya-san": {
+    "title": "セーブ＆ロードのできる宿屋さん ～カンスト転生者が宿屋で新人育成を始めたようです～",
+    "isbn": "9784086311458",
+    "matchedTitle": "セーブ&ロードのできる宿屋さん 〜カンスト転生者が宿屋で新人育成を始めたようです〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1458/9784086311458_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:28:11.000Z"
   },
   "sayonara-piano-sonata": {
     "title": "さよならピアノソナタ",
@@ -4079,6 +4301,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T21:19:08.750Z"
   },
+  "tanakake-tensei-suru": {
+    "title": "田中家、転生する。",
+    "isbn": "9784040735962",
+    "matchedTitle": "田中家、転生する。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5962/9784040735962_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:29.867Z"
+  },
   "tantei-ai-no-real-deep-learning": {
     "title": "探偵AIのリアル・ディープラーニング",
     "isbn": "9784101801247",
@@ -4177,6 +4407,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3637/2000005273637.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T04:06:43.142Z"
+  },
+  "tensai-gekai-ga-isekai-de-yamiisha-wo-hajimemashita": {
+    "title": "天才外科医が異世界で闇医者を始めました。",
+    "isbn": null,
+    "matchedTitle": "天才外科医が異世界で闇医者を始めました。 ： 3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4791/2000005714791.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:13.039Z"
   },
   "tensai-ouji-no-akaji-kokka-saisei-jutsu": {
     "title": "天才王子の赤字国家再生術〜そうだ、売国しよう〜",
@@ -4278,6 +4516,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5749/9784896375749.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:55:07.339Z"
   },
+  "tensei-shitara-maou-no-musume-ukkari-saikyou-mazoku": {
+    "title": "転生したら魔王の娘 うっかり最凶魔族をスキルで魅了しちゃって甘すぎる溺愛から逃げられません！",
+    "isbn": "9784041140581",
+    "matchedTitle": "転生したら魔王の娘 うっかり最凶魔族をスキルで魅了しちゃって甘すぎる溺愛から逃げられません！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0581/9784041140581_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:03.784Z"
+  },
+  "tensei-shitara-otome-ge-no-sekai-mahou-wo-kiwameru-no-ni-isogashii": {
+    "title": "転生したら乙女ゲーの世界？ いえ、魔術を極めるのに忙しいのでそういうのは結構です。",
+    "isbn": null,
+    "matchedTitle": "転生したら乙女ゲーの世界？　いえ、魔術を極めるのに忙しいのでそういうのは結構です。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7644/2000006797644.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:40.368Z"
+  },
   "tensei-shitara-slime-datta-ken": {
     "title": "転生したらスライムだった件",
     "isbn": "9784896374599",
@@ -4292,6 +4546,30 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9546/9784299029546_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:33.728Z"
+  },
+  "tensei-youjo-wa-kyouiku-shitai": {
+    "title": "転生幼女は教育したい！〜前世の知識で、異世界の社会常識を変えることにしました〜",
+    "isbn": null,
+    "matchedTitle": "転生幼女は教育したい！　〜前世の知識で、異世界の社会常識を変えることにしました〜（コミック）【単行本】　第１巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0869/2000020790869.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:24:28.700Z"
+  },
+  "tensei-youjo-wa-owabi-cheat-de-isekai-going-my-way": {
+    "title": "転生幼女はお詫びチートで異世界ごーいんぐまいうぇい",
+    "isbn": "9784434267741",
+    "matchedTitle": "転生幼女はお詫びチートで異世界ごーいんぐまいうぇい",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7741/9784434267741.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:32.192Z"
+  },
+  "tenseisha-wa-cheat-wo-nozomanai": {
+    "title": "転生者はチートを望まない",
+    "isbn": "9784434192968",
+    "matchedTitle": "転生者はチートを望まない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2968/9784434192968.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:31.030Z"
   },
   "tenshi-no-3p": {
     "title": "天使の3P!",
@@ -4362,6 +4640,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0459/2000002850459.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T12:35:49.321Z"
+  },
+  "tokyo-maou": {
+    "title": "〜東京魔王〜 モンスターが溢れる世界になり目醒めた能力【モンスターマスター】を使い最強のモンスター軍団を育成したら魔王と呼ばれ人類の敵にされたんだが",
+    "isbn": "9784086314541",
+    "matchedTitle": "〜東京魔王〜 モンスターが溢れる世界になり目醒めた能力【モンスターマスター】を使い最強のモンスター軍団を育成したら魔王と呼ばれ人類の敵にされたんだが",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4541/9784086314541_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:04.970Z"
   },
   "tokyo-ravens": {
     "title": "東京レイヴンズ",
@@ -4618,6 +4904,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:13:35.871Z"
   },
+  "tsukumogami-wa-seishun-wo-motenasan-to-hossu": {
+    "title": "つくも神は青春をもてなさんと欲す",
+    "isbn": null,
+    "matchedTitle": "つくも神は青春をもてなさんと欲す",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9334/2000001889334.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:23:40.758Z"
+  },
   "tsundere-akuyaku-reijou-lieselotte": {
     "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
     "isbn": "9784040730516",
@@ -4655,6 +4949,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9679/9784040749679_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T04:06:44.333Z"
+  },
+  "umareta-chokugo-ni-suterareta-daikenja": {
+    "title": "生まれた直後に捨てられたけど、前世が大賢者だったので余裕で生きてます",
+    "isbn": "9784803016291",
+    "matchedTitle": "生まれた直後に捨てられたけど、前世が大賢者だったので余裕で生きてます（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6291/9784803016291_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:24.048Z"
   },
   "undead-girl-murder-farce": {
     "title": "アンデッドガール・マーダーファルス",
@@ -4861,6 +5163,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T00:48:44.378Z"
   },
+  "yorozu-uranaidokoro-onmyouya-e-youkoso": {
+    "title": "よろず占い処 陰陽屋へようこそ",
+    "isbn": "9784591122372",
+    "matchedTitle": "よろず占い処　陰陽屋へようこそ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2372/9784591122372.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:47.130Z"
+  },
+  "yotogi-no-kuni-no-gekkouhime": {
+    "title": "夜伽の国の月光姫",
+    "isbn": "9784864724302",
+    "matchedTitle": "夜伽の国の月光姫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4302/9784864724302.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:33.362Z"
+  },
   "youheidan-no-ryourigakari": {
     "title": "傭兵団の料理番",
     "isbn": "9784074169245",
@@ -4875,6 +5193,14 @@
     "matchedTitle": "幼女戦記　1　Deus　lo　vult",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1737/9784047291737_1_11.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:54:58.081Z"
+  },
+  "youkai-apart-no-yuuga-na-nichijou": {
+    "title": "妖怪アパートの幽雅な日常",
+    "isbn": "9784062123129",
+    "matchedTitle": "妖怪アパートの幽雅な日常（2）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0621/06212312.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:23:41.913Z"
   },
   "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e": {
     "title": "ようこそ実力至上主義の教室へ",
@@ -4940,6 +5266,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:33:21.058Z"
   },
+  "yuusha-yamemasu-tsugi-no-shokuba-wa-maoujou": {
+    "title": "勇者、辞めます〜次の職場は魔王城〜",
+    "isbn": "9784040725406",
+    "matchedTitle": "勇者、辞めます　〜次の職場は魔王城〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5406/9784040725406_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T06:24:00.318Z"
+  },
   "zako-kaji-level-9999-no-ore": {
     "title": "「雑魚には鍛冶がお似合いだwww」と言われた鍛冶レベル9999の俺、追放されたので冒険者に転職する～最強武器で無双しながらギルドで楽しく暮らします～",
     "isbn": "9784821146116",
@@ -4992,6 +5326,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1182/9784865541182.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T04:05:02.650Z"
+  },
+  "zettaijou-senpai-no-youkaigaku-kouza": {
+    "title": "絶対城先輩の妖怪学講座",
+    "isbn": null,
+    "matchedTitle": "絶対城先輩の妖怪学講座 二",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0510/2000001820510.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T06:23:45.964Z"
   },
   "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-deiaisareru": {
     "title": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
