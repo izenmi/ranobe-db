@@ -72,6 +72,12 @@ body,
   min-height: 100%;
 }
 
+/* Matches the look of the browser's native 90% zoom (confirmed by the user as the right
+   density for this layout) without relying on every consumer manually zooming out. */
+html {
+  zoom: 0.9;
+}
+
 body {
   margin: 0;
   font-family: "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", system-ui, sans-serif;
