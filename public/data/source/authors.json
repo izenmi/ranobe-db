@@ -5190,5 +5190,49 @@
     "externalLinks": {},
     "sourceNote": "書誌情報サイトにて読み仮名「このつらのり」を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "satou-daisuke",
+    "name": "佐藤大輔",
+    "nameKana": "さとうだいすけ",
+    "description": "石川県出身の小説家。ゲームデザイナーから架空戦記作家へ転身し、緻密な設定でリアリティのある戦争を描くことで知られた。代表作に『皇国の守護者』『征途』など。2017年逝去。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐藤大輔"
+    },
+    "sourceNote": "日本語版Wikipedia「佐藤大輔」を2026年8月時点で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maisaka-kou",
+    "name": "舞阪洸",
+    "nameKana": "まいさかこう",
+    "description": "静岡県浜松市出身の小説家。1992年『プリンセス・ミネルバ』でデビュー。ファンタジー戦記を中心に活動し、代表作に『火魅子伝』『落ちてきた龍王と滅びゆく魔女の国』など。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/舞阪洸"
+    },
+    "sourceNote": "日本語版Wikipedia「舞阪洸」を2026年8月時点で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takami-kazuyuki",
+    "name": "鷹見一幸",
+    "nameKana": "たかみかずゆき",
+    "description": "静岡県出身の小説家。元警察官という異色の経歴を持ち、群像劇的な構成と圧縮された文体を特徴とする。代表作に『でたまか』『宇宙軍士官学校』シリーズなど。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鷹見一幸"
+    },
+    "sourceNote": "日本語版Wikipedia「鷹見一幸」を2026年8月時点で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hayashi-tomoaki",
+    "name": "林トモアキ",
+    "nameKana": "はやしともあき",
+    "description": "新潟県出身のライトノベル作家。「ラノベ屋」を自称し勢いのある文体が持ち味。同一世界観を複数シリーズで共有する作風で知られ、代表作に『ミスマルカ興国物語』『レイセン』など。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/林トモアキ"
+    },
+    "sourceNote": "日本語版Wikipedia「林トモアキ」を2026年8月時点で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -4419,5 +4419,63 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia『Dジェネシス ダンジョンが出来て3年』のイラストレーター情報として確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "naitou-takashi",
+    "name": "内藤隆",
+    "nameKana": "ないとうたかし",
+    "description": "『スターシップ・オペレーターズ』（電撃文庫）の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・KADOKAWA公式商品ページの表記(水野良/内藤隆/山根公利)を2026年8月時点で確認。個人のWikipedia記事は見つからず、読み仮名は一般的な読みとして推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyou",
+    "name": "深遊",
+    "nameKana": "みゆう",
+    "description": "日本の女性イラストレーター。『円環少女』で挿絵デビューし、『鋼殻のレギオス』『グランクレスト戦記』などライトノベルの挿絵を多数手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深遊"
+    },
+    "sourceNote": "日本語版Wikipedia「深遊」を2026年8月時点で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shioyama-norio",
+    "name": "塩山紀生",
+    "nameKana": "しおやまのりお",
+    "description": "日本のアニメーター・キャラクターデザイナー(1940-2017)。『装甲騎兵ボトムズ』『鎧伝サムライトルーパー』などで知られ、『皇国の守護者』の挿絵も担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/塩山紀生"
+    },
+    "sourceNote": "日本語版Wikipedia「塩山紀生」を2026年8月時点で確認。『皇国の守護者』1〜7巻の挿絵を担当(8巻以降は平野耕太、獅子猿が担当)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "himesuz",
+    "name": "himesuz",
+    "nameKana": "ひめすず",
+    "description": "『覇剣の皇姫アルティーナ』（ファミ通文庫）の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式ファミ通文庫サイトの表記(むらさきゆきや/himesuz)を2026年8月時点で確認。個人のWikipedia記事は見つからず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chiyoko",
+    "name": "ちよこ",
+    "nameKana": "ちよこ",
+    "description": "『でたまか』（角川スニーカー文庫）の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「でたまか」記事内のクレジット表記を2026年8月時点で確認。個人のWikipedia記事は見つからず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tomozo",
+    "name": "ともぞ",
+    "nameKana": "ともぞ",
+    "description": "『ミスマルカ興国物語』（角川スニーカー文庫）の挿絵を1〜12巻で担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ミスマルカ興国物語」記事内のクレジット表記を2026年8月時点で確認。最終章は浅川圭司が担当。個人のWikipedia記事は見つからず。",
+    "updatedAt": "2026-08-02"
   }
 ]

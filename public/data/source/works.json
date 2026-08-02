@@ -20641,5 +20641,307 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "marginal-operation",
+    "title": "マージナル・オペレーション",
+    "titleKana": "まーじなるおぺれーしょん",
+    "authorIds": [
+      "shibamura-yuuri"
+    ],
+    "illustratorIds": [
+      "shizuma-yoshinori"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "senki",
+      "mercenary",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "定職を持たないゲーマー青年アラタは、ネットの求人で見つけた外資系の民間軍事会社に応募し、傭兵として中央アジアの紛争地帯へ送られる。ゲームで培った戦術眼を武器に部隊を率いて頭角を現し、やがて仲間の傭兵たちと共に戦災孤児を保護する拠点作りを目指すが、その動きは大国の思惑が絡む戦場をさらに複雑化させていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マージナル・オペレーション"
+    },
+    "sourceNote": "日本語版Wikipedia「マージナル・オペレーション」を2026年8月時点で確認。本編16巻に加え短編集3巻・外伝2巻が刊行されている(合計21冊)。コミカライズあり(月刊アフタヌーン)、アニメ化は無し。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "starship-operators",
+    "title": "スターシップ・オペレーターズ",
+    "titleKana": "すたーしっぷおぺれーたーず",
+    "authorIds": [
+      "mizuno-ryo"
+    ],
+    "illustratorIds": [
+      "naitou-takashi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "senki",
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2005,
+    "status": "unknown",
+    "volumeCount": 6,
+    "synopsis": "宇宙暦2300年、惑星キビが軍事同盟ヘンリエッタに降伏を強いられた日、練習艦アマテラスに乗艦していた士官候補生たちは、艦を奪って独自の道を選ぶ。彼らは戦闘の様子を銀河規模で配信しスポンサー収入を得るという奇策で戦費を捻出し、圧倒的な戦力差を知略で覆しながら、祖国の独立を守るため戦い続ける若き乗組員たちの青春群像劇である。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターシップ・オペレーターズ"
+    },
+    "sourceNote": "日本語版Wikipedia「スターシップ・オペレーターズ」を2026年8月時点で確認。2001年3月〜2005年5月に全6巻刊行、著者は2012年に続巻断念を表明しており未完のため状況は「unknown」とした。テレビアニメ化(2005年)、コミカライズ(月刊コミック電撃大王)あり。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "grancrest-senki",
+    "title": "グランクレスト戦記",
+    "titleKana": "ぐらんくれすとせんき",
+    "authorIds": [
+      "mizuno-ryo"
+    ],
+    "illustratorIds": [
+      "miyou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "senki",
+      "ken-to-mahou",
+      "nation-building",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "混沌の力が国土を蝕み続ける世界で、聖印を持つ諸侯たちが領地の奪い合いを繰り広げていた。大国の和平のための婚礼が惨劇に終わり大陸が乱れる中、流浪の若き君主テオは、追放された天才魔法師シルーカと契約を結ぶ。魔法師と契約して力を得る独自の制度や内政の駆け引きを軸に、大陸統一を目指す壮大な群雄割拠の戦記が描かれる。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2014,
+        "result": "3位(第3回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランクレスト戦記"
+    },
+    "sourceNote": "日本語版Wikipedia「グランクレスト戦記」を2026年8月時点で確認。2013年8月〜2018年3月に全10巻で完結。アニメ化(2018年)、コミカライズ(白泉社ヤングアニマル)、ゲーム化あり。第3回ラノベ好き書店員大賞3位入賞を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "koukoku-no-shugosha",
+    "title": "皇国の守護者",
+    "titleKana": "こうこくのしゅごしゃ",
+    "authorIds": [
+      "satou-daisuke"
+    ],
+    "illustratorIds": [
+      "shioyama-norio"
+    ],
+    "publisherId": "chuokoron-cnovels-fantasia",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "naisei"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2005,
+    "status": "unknown",
+    "volumeCount": 9,
+    "synopsis": "人と竜が共存する世界を舞台に、貿易で栄える島国「皇国」へ、海の彼方から侵攻してきた大国「帝国」が襲いかかる。武勲より部下の保身を重んじる型破りな青年将校が、劣勢の戦線でやむなく指揮を執ることになり、圧倒的な兵力差の中で繰り広げられる戦争と、皇国内部の政治的な権力闘争の両方に巻き込まれていく重厚な軍記物語。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/皇国の守護者"
+    },
+    "sourceNote": "日本語版Wikipedia「皇国の守護者」を2026年8月時点で確認。1998年〜2005年に全9巻刊行後、著者佐藤大輔が2017年に死去し未完のまま(status=unknown)。コミカライズ(伊藤悠、ウルトラジャンプ)あり、アニメ化なし。挿絵は1〜7巻塩山紀生、8巻平野耕太、9巻獅子猿。確認できた受賞は漫画版に対するメディア芸術祭推薦・マンガ大賞ノミネートのみで、原作小説自体の受賞は確認できずawardResultsは空とした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "haken-no-koki-artina",
+    "title": "覇剣の皇姫アルティーナ",
+    "titleKana": "はけんのこうきあるてぃーな",
+    "authorIds": [
+      "murasaki-yukiya"
+    ],
+    "illustratorIds": [
+      "himesuz"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "senki",
+      "nation-building",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "unknown",
+    "volumeCount": 14,
+    "synopsis": "武芸より書物を好み臆病者と蔑まれていた兵士レギスは、戦場での失態の責を負わされ辺境の地へ左遷される。そこで出会ったのが、辺境軍を率いる皇女アルティナだった。皇位継承をめぐる帝国内の内乱と、隣国への侵攻が進む激動の情勢の中、知略に長けたレギスは皇女の軍師として戦を導き、覇道を歩む皇女を支え続けていく。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2013,
+        "result": "5位(第2回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/覇剣の皇姫アルティーナ"
+    },
+    "sourceNote": "日本語版Wikipedia「覇剣の皇姫アルティーナ」を2026年8月時点で確認。2012年11月刊行開始、2018年9月時点で本編14巻+外伝1巻の既刊15冊(2018年9月時点の情報が最新の確認可能情報のためlatestPublishedYear=2018、その後の続刊有無は未確認でstatus=unknown)。コミカライズ(ファミ通コミッククリア)あり、アニメ化は確認できず。第2回ラノベ好き書店員大賞5位入賞を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "himiko-den",
+    "title": "火魅子伝",
+    "titleKana": "ひみこでん",
+    "authorIds": [
+      "maisaka-kou"
+    ],
+    "illustratorIds": [
+      "oogure-ito"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "senki",
+      "jidai-fantasy",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "現代の高校生団琥太郎は、遺跡の発掘調査中に古代日本を思わせる異世界の国「大和」へと迷い込んでしまう。聖なる火「火魅子」を崇めるこの世界で、人々に滅ぼされかけた王国を再興するため、伝説の女王の生まれ変わりを探し出す使命を託される。倭と久根、二つの勢力が覇権を争う戦乱の中を彼は仲間と共に駆け抜けていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火魅子伝"
+    },
+    "sourceNote": "日本語版Wikipedia「火魅子伝」を2026年8月時点で確認。1999年〜2003年に全10巻刊行、完結。テレビアニメ化(1999年)、コミカライズ、ゲーム化あり。続編『火魅子炎戦記』(挿絵ゆきやなぎ、全11巻)は別作品として本エントリには含めていない。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "detamaka",
+    "title": "でたまか",
+    "titleKana": "でたまか",
+    "authorIds": [
+      "takami-kazuyuki"
+    ],
+    "illustratorIds": [
+      "chiyoko"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "senki",
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "惑星間のささいな小競り合いに巻き込まれた青年マイド・B・ガーナッシュは、持ち前の交渉術と機転で状況を切り抜け、いつしか多くの仲間を率いる立場になっていく。局地的だった争いはやがて帝国の内紛を経て、人類の存亡を賭けた異星種族との全面戦争へと拡大し、彼らは祖国と仲間を守るため知略の限りを尽くして戦い抜く宇宙戦記。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/でたまか"
+    },
+    "sourceNote": "日本語版Wikipedia「でたまか」を2026年8月時点で確認。2001年3月〜2006年5月に全16巻で完結。アニメ化・コミカライズは確認できず。主人公が『このライトノベルがすごい!2005』男性キャラクター部門8位に選出されたのみでこれは作品自体の受賞ではないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "mismarca-koukoku-monogatari",
+    "title": "ミスマルカ興国物語",
+    "titleKana": "みすまるかこうこくものがたり",
+    "authorIds": [
+      "hayashi-tomoaki"
+    ],
+    "illustratorIds": [
+      "tomozo"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "senki",
+      "nation-building",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "二つの大国に挟まれた小国ミスマルカの王子マヒロは、絶大な魔力を持ちながらも戦いを嫌う筋金入りの平和主義者。聖杯の在り処をめぐる争いに巻き込まれながら、隣国との緊張が高まる情勢の中、力ではなく知恵と交渉によって祖国を守り抜こうとする。仲間たちと共に幾多の国難を乗り越えていく姿を描いた建国ファンタジー作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミスマルカ興国物語"
+    },
+    "sourceNote": "日本語版Wikipedia「ミスマルカ興国物語」を2026年8月時点で確認。2008年1月〜2024年11月、本編13巻+外伝2巻の全15巻で完結。コミカライズ(月刊少年エース)あり、アニメ化は確認できず。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "ochitekita-ryuuou-to-horobiyuku-majo-no-kuni",
+    "title": "落ちてきた龍王と滅びゆく魔女の国",
+    "titleKana": "おちてきたりゅうおうとほろびゆくまじょのくに",
+    "authorIds": [
+      "maisaka-kou"
+    ],
+    "illustratorIds": [
+      "youta"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "senki",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "記憶を失った青年が湯気の立つ湯屋に転がり込んだ先は、人間に迫害され滅びかけている魔女たちが身を潜める国だった。助けられた恩を返すため、彼は持ち前の戦略眼を活かし、寄せ集めの魔女部隊を鍛え上げて、圧倒的な戦力を誇る人間軍との戦いに挑んでいく。魔女と人間が共に生きられる未来を模索する戦記ファンタジー作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/落ちてきた龍王と滅びゆく魔女の国"
+    },
+    "sourceNote": "日本語版Wikipedia「落ちてきた龍王と滅びゆく魔女の国」を2026年8月時点で確認。2012年7月〜2017年10月に全12巻で完結。コミカライズ(月刊コミックフラッパー)、ドラマCDあり、アニメ化は確認できず。「このライトノベルがすごい!2013」で紹介されたのみで、これは作品ランキング受賞ではないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]
