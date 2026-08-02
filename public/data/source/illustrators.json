@@ -3504,5 +3504,599 @@
     "externalLinks": {},
     "sourceNote": "Web検索より確認(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "kinta-illustrator",
+    "name": "キンタ",
+    "nameKana": "",
+    "description": "「鍛冶屋ではじめる異世界スローライフ」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipediaおよびカドカワ公式で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakamura-kaji",
+    "name": "なかむら",
+    "nameKana": "",
+    "description": "「不遇職『鍛冶師』だけど最強です」イラストレーター。既存の中村光(nakamura-hikaru)とは別人。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "lack",
+    "name": "lack",
+    "nameKana": "",
+    "description": "「鍛冶師ですが何か！」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawaku",
+    "name": "かわく",
+    "nameKana": "",
+    "description": "「没落予定なので、鍛冶職人を目指す」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipediaで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hinooka-shuuji",
+    "name": "緋ノ丘シュウジ",
+    "nameKana": "ひのおかしゅうじ",
+    "description": "「追放されたおっさん鍛冶師、なぜか伝説の大名工になる」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERで確認。読みは慣用的推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "karukarume",
+    "name": "かるかるめ",
+    "nameKana": "",
+    "description": "「魔導細工師ノーミィの異世界クラフト生活」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hidzuki-miya",
+    "name": "ひづきみや",
+    "nameKana": "",
+    "description": "「錬金術師のなかなかスローライフにならない日々」イラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BKブックス公式(bknet.jp)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "haruinu",
+    "name": "ハル犬",
+    "nameKana": "はるいぬ",
+    "description": "「『雑魚には鍛冶がお似合いだwww』と言われた鍛冶レベル9999の俺、追放されたので冒険者に転職する」イラストレーター(キャラクター原案)。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuttou",
+    "name": "YUTTOU",
+    "nameKana": "",
+    "description": "「解雇された宮廷錬金術師は辺境で大農園を作り上げる」コミカライズ作画担当(原作小説の挿絵担当と兼任表記あり)。",
+    "externalLinks": {},
+    "sourceNote": "コミックシーモア・BOOK☆WALKERで確認。ライトノベル版の挿絵担当者名として表記される場合がある点は要追加確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kinutani-yuu",
+    "name": "衣谷遊",
+    "nameKana": "きぬたにゆう",
+    "description": "『タイム・リープ あしたはきのう』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia記事に漢字表記のみ記載、読み仮名は未確認のため推定表記。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "eretto",
+    "name": "えれっと",
+    "nameKana": "えれっと",
+    "description": "『ぼくたちのリメイク』のイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくたちのリメイク"
+    },
+    "sourceNote": "Wikipedia記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ban",
+    "name": "ばん!",
+    "nameKana": "ばん",
+    "description": "『四度目は嫌な死属性魔術師』のイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四度目は嫌な死属性魔術師"
+    },
+    "sourceNote": "Wikipedia記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yasuyuki",
+    "name": "やすゆき",
+    "nameKana": "やすゆき",
+    "description": "『高2にタイムリープした俺が、当時好きだった先生に告った結果』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式サイト・Amazon書誌情報より確認。既存イラストレーターID「torikai-yasuyuki(鳥飼やすゆき)」とは別人。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hitokome",
+    "name": "人米",
+    "nameKana": "ひとこめ",
+    "description": "『いずれ最強の錬金術師?』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kabocha",
+    "name": "かぼちゃ",
+    "nameKana": "かぼちゃ",
+    "description": "『創造錬金術師は自由を謳歌する』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mo-illustrator",
+    "name": "藻",
+    "nameKana": "も",
+    "description": "『転移先は薬師が少ない世界でした』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mikisai",
+    "name": "みきさい",
+    "nameKana": "みきさい",
+    "description": "『左遷錬金術師の辺境暮らし』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiina-satsuki",
+    "name": "椎名咲月",
+    "nameKana": "しいなさつき",
+    "description": "『捨てられ令嬢は錬金術師になりました。』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店、Amazon商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "asahikawa-hiyori",
+    "name": "朝日川日和",
+    "nameKana": "あさひかわひより",
+    "description": "『お薬、出します！』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hoshizaki-reita",
+    "name": "星咲怜汰",
+    "nameKana": "ほしざきれいた",
+    "description": "『転生薬師は異世界を巡る』のイラストレーター(1〜3巻)。4巻は「れいた」名義に変更されている。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERシリーズページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nitaka",
+    "name": "煮たか",
+    "nameKana": "にたか",
+    "description": "『薬師令嬢のやり直し』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ox-illustrator",
+    "name": "ox",
+    "nameKana": "おっくす",
+    "description": "『生き残り錬金術師は街で静かに暮らしたい』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rona-illustrator",
+    "name": "屡那",
+    "nameKana": "ろな",
+    "description": "「異世界建国記」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「異世界建国記」記事より。読み仮名は未確認のため推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fuyuzora-minoru",
+    "name": "冬空実",
+    "nameKana": "ふゆぞらみのる",
+    "description": "「異世界チート開拓記」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「異世界チート開拓記」記事より。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsuruzaki-takahiro",
+    "name": "鶴崎貴大",
+    "nameKana": "つるさきたかひろ",
+    "description": "「魔王様の街づくり！〜最強のダンジョンは近代都市〜」の初期(1〜3巻)イラストレーター。4巻以降はふーみ(既存ID:fuumi)が担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「魔王様の街づくり!〜最強のダンジョンは近代都市〜」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "anbe-yoshirou",
+    "name": "あんべよしろう",
+    "nameKana": "あんべよしろう",
+    "description": "「追放された転生公爵は、辺境でのんびりと畑を耕したかった」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式シリーズページより。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kochimo",
+    "name": "こちも",
+    "nameKana": "こちも",
+    "description": "「異世界料理道」のイラスト・キャラクター原案・漫画担当。",
+    "externalLinks": {},
+    "sourceNote": "ホビージャパン公式サイト・BOOK☆WALKERにて確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "artumph",
+    "name": "Artumph",
+    "nameKana": "Artumph",
+    "description": "「魔王城のシェフ」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "horosuke",
+    "name": "ホロすけ",
+    "nameKana": "ほろすけ",
+    "description": "「勇者一行ぶらり旅」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shichiwa-rei",
+    "name": "七和禮",
+    "nameKana": "しちわれい",
+    "description": "「康太の異世界ごはん」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pon-marsh",
+    "name": "pon-marsh",
+    "nameKana": "pon-marsh",
+    "description": "「異世界駅舎の喫茶店」のイラスト担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「異世界駅舎の喫茶店」記事にて確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "azumi-yukinobu",
+    "name": "安曇雪伸",
+    "nameKana": "あずみゆきのぶ",
+    "description": "『スクラップド・プリンセス』のイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクラップド・プリンセス"
+    },
+    "sourceNote": "Wikipedia「スクラップド・プリンセス」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oki-mamiya",
+    "name": "沖麻実也",
+    "nameKana": "おきまみや",
+    "description": "『デルフィニア戦記』のイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デルフィニア戦記"
+    },
+    "sourceNote": "Wikipedia「デルフィニア戦記」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "terada-katsuya",
+    "name": "寺田克也",
+    "nameKana": "てらだかつや",
+    "description": "『マルドゥック・スクランブル』の装画・挿絵を担当したイラストレーター。映画・ゲーム分野でも活躍。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルドゥック・スクランブル"
+    },
+    "sourceNote": "Wikipedia「マルドゥック・スクランブル」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gotou-nao",
+    "name": "後藤なお",
+    "nameKana": "ごとうなお",
+    "description": "『ザ・サード』の第8巻までのイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ザ・サード"
+    },
+    "sourceNote": "Wikipedia「ザ・サード」記事より。第9巻以降はきみしま青に交代(DB未収録)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanakusa",
+    "name": "七草",
+    "nameKana": "ななくさ",
+    "description": "『しにがみのバラッド。』のイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/しにがみのバラッド。"
+    },
+    "sourceNote": "Wikipedia「しにがみのバラッド。」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otokita-takao",
+    "name": "おときたたかお",
+    "nameKana": "おときたたかお",
+    "description": "『デュアン・サーク』第1部のイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュアン・サーク"
+    },
+    "sourceNote": "Wikipedia「デュアン・サーク」記事より。第2部以降は戸部淑に交代。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tobe-atsushi",
+    "name": "戸部淑",
+    "nameKana": "とべあつし",
+    "description": "『デュアン・サーク』第2部以降のイラストを担当したイラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュアン・サーク"
+    },
+    "sourceNote": "Wikipedia「デュアン・サーク」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hayase-jun",
+    "name": "早瀬ジュン",
+    "nameKana": "はやせじゅん",
+    "description": "『歴史に残る悪女になるぞ』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyama-kiri",
+    "name": "深山キリ",
+    "nameKana": "みやまきり",
+    "description": "『今日から悪女になります!』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BookWalker/Amazonより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minado",
+    "name": "三廼",
+    "nameKana": "みなど",
+    "description": "『後宮一番の悪女』のイラストレーター(小説・コミカライズキャラクター原案)。",
+    "externalLinks": {},
+    "sourceNote": "ebookjapan/HMV/Amazonより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukito",
+    "name": "月戸",
+    "nameKana": "つきと",
+    "description": "『清廉な令嬢は悪女になりたい』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイトより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "peperon",
+    "name": "ペペロン",
+    "nameKana": "ぺぺろん",
+    "description": "『没落令嬢の悪党賛歌』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "書誌検索結果(ISBN付き)より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minsuke",
+    "name": "眠介",
+    "nameKana": "みんすけ",
+    "description": "『社交界の毒婦とよばれる私』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "検索結果より確認したが一次情報での裏付けは弱く、読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mo-hellmode",
+    "name": "藻",
+    "nameKana": "も",
+    "description": "「ヘルモード〜やり込み好きのゲーマーは廃設定の異世界で無双する〜」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "ja.wikipedia.org作品記事より。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nabeshima-tetsuhiro",
+    "name": "鍋島テツヒロ",
+    "nameKana": "なべしまてつひろ",
+    "description": "「片田舎のおっさん、剣聖になる」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "ja.wikipedia.org作品記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawaguchi-illust",
+    "name": "カワグチ",
+    "nameKana": "かわぐち",
+    "description": "「俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜」のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "ja.wikipedia.org作品記事より。既存著者ID「kawaguchi-tsukasa」とは別人。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "carol",
+    "name": "キャロル",
+    "nameKana": "きゃろる",
+    "description": "『砂上メイド戦艦喫茶あぽかりぷちゅへようこそ』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "azu-tarou",
+    "name": "azuタロウ",
+    "nameKana": "あずたろう",
+    "description": "『最強の剣聖、美少女メイドに転生し箒で無双する』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nima",
+    "name": "nima",
+    "nameKana": "にま",
+    "description": "『異世界メイドの三ツ星グルメ』のイラストレーター(キャラクター原案)。",
+    "externalLinks": {},
+    "sourceNote": "講談社ラノベ公式ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "touchi",
+    "name": "とうち",
+    "nameKana": "とうち",
+    "description": "『最近雇った独占欲の強い美少女メイドが、実は王女様だった。』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式サイト・書店サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "unasaka",
+    "name": "うなさか",
+    "nameKana": "うなさか",
+    "description": "『クラスのプライド高めなお嬢様。家では俺のメイド』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "富士見ファンタジア文庫公式・国立国会図書館サーチで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsurika-youko",
+    "name": "祀花よう子",
+    "nameKana": "まつりかようこ",
+    "description": "『没落令嬢、貧乏騎士のメイドになります』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER BKブックスシリーズページで確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "surada-mami",
+    "name": "すらだまみ",
+    "nameKana": "すらだまみ",
+    "description": "『大脱走モブメイドがゆく無敵キャラ溺愛最短ルート』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "一迅社公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiina-kuro",
+    "name": "椎名くろ",
+    "nameKana": "しいなくろ",
+    "description": "『現実でラブコメできないとだれが決めた？』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER等で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "momoko-illustrator",
+    "name": "ももこ",
+    "nameKana": "ももこ",
+    "description": "『時々ボソッとロシア語でデレる隣のアーリャさん』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "parum",
+    "name": "Parum",
+    "nameKana": "",
+    "description": "『男女の友情は成立する？(いや、しないっ！！)』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sune-illustrator",
+    "name": "sune",
+    "nameKana": "",
+    "description": "『可愛ければ変態でも好きになってくれますか？』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gintarou",
+    "name": "ぎん太郎",
+    "nameKana": "ぎんたろう",
+    "description": "『俺が好きなのは妹だけど妹じゃない』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oryou",
+    "name": "おりょう",
+    "nameKana": "おりょう",
+    "description": "『僕のカノジョ先生』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "reia",
+    "name": "れい亜",
+    "nameKana": "れいあ",
+    "description": "『世界最高の暗殺者、異世界貴族に転生する』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mirea",
+    "name": "みれあ",
+    "nameKana": "みれあ",
+    "description": "『元暗殺者、転生して貴族の令嬢になりました。』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "PASH!ブックス商品情報で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hario-ai",
+    "name": "ハリオアイ",
+    "nameKana": "はりおあい",
+    "description": "『元スパイ、家政夫に転職する』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "角川スニーカー文庫公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "muninshiki",
+    "name": "むにんしき",
+    "nameKana": "むにんしき",
+    "description": "『孤高の暗殺者だけど、標的の姉妹と暮らしています』のイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式商品情報で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

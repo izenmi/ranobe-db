@@ -4018,5 +4018,717 @@
     "externalLinks": {},
     "sourceNote": "カクヨム作品ページを参照(2026年8月時点)。読み仮名は推定であり公式未確認。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "tamamaru",
+    "name": "たままる",
+    "nameKana": "たままる",
+    "description": "カクヨム・小説家になろうで活動するライトノベル作家。「鍛冶屋ではじめる異世界スローライフ」で第4回カクヨムWeb小説コンテスト異世界ファンタジー部門大賞受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鍛冶屋ではじめる異世界スローライフ"
+    },
+    "sourceNote": "Wikipedia「鍛冶屋ではじめる異世界スローライフ」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kijima-ryuuta",
+    "name": "木嶋隆太",
+    "nameKana": "きじまりゅうた",
+    "description": "小説家になろう発の「不遇職『鍛冶師』だけど最強です」著者。",
+    "externalLinks": {},
+    "sourceNote": "読み仮名は一次資料で未確認のため暫定表記。カドカワBOOKS公式サイト・なろう本文ページで著者名(漢字表記)のみ確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakikimushi-kurooni",
+    "name": "泣き虫黒鬼",
+    "nameKana": "なきむしくろおに",
+    "description": "アルファポリス出身のライトノベル作家。「鍛冶師ですが何か！」で第6回アルファポリスファンタジー小説大賞特別賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・アルファポリス公式ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ck-author",
+    "name": "CK",
+    "nameKana": "",
+    "description": "「没落予定なので、鍛冶職人を目指す」著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/没落予定なので、鍛冶職人を目指す"
+    },
+    "sourceNote": "Wikipediaで確認。ペンネームがアルファベット表記のためかな表記なし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kotoriya-emu",
+    "name": "小鳥屋エム",
+    "nameKana": "ことりやえむ",
+    "description": "「家つくりスキルで異世界を生き延びろ」著者。",
+    "externalLinks": {},
+    "sourceNote": "ファミ通文庫公式サイト・BOOK☆WALKERで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aozora-akana",
+    "name": "青空あかな",
+    "nameKana": "あおぞらあかな",
+    "description": "「追放されたおっさん鍛冶師、なぜか伝説の大名工になる」著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER Mノベルスシリーズページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusudama-koto",
+    "name": "くすだま琴",
+    "nameKana": "くすだまこと",
+    "description": "「魔導細工師ノーミィの異世界クラフト生活」著者。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kou-author",
+    "name": "コウ",
+    "nameKana": "",
+    "description": "「錬金術師のなかなかスローライフにならない日々」著者。",
+    "externalLinks": {},
+    "sourceNote": "BKブックス公式(bknet.jp)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hariya-keita",
+    "name": "針谷慶太",
+    "nameKana": "はりやけいた",
+    "description": "「『雑魚には鍛冶がお似合いだwww』と言われた鍛冶レベル9999の俺、追放されたので冒険者に転職する」著者。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう本文ページで読み仮名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takahata-kyouichirou",
+    "name": "高畑京一郎",
+    "nameKana": "たかはたきょういちろう",
+    "description": "『タイム・リープ あしたはきのう』(1995年)の作者。タイムリープという語を一般化させた先駆的作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイム・リープ_あしたはきのう"
+    },
+    "sourceNote": "Wikipedia「タイム・リープ あしたはきのう」記事より確認。著者個人のWikipedia記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kio-nachi",
+    "name": "木緒なち",
+    "nameKana": "きおなち",
+    "description": "『ぼくたちのリメイク』(MF文庫J)の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくたちのリメイク"
+    },
+    "sourceNote": "Wikipedia「ぼくたちのリメイク」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "densuke",
+    "name": "デンスケ",
+    "nameKana": "でんすけ",
+    "description": "『四度目は嫌な死属性魔術師』の作者。「小説家になろう」出身で第4回ネット小説大賞受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四度目は嫌な死属性魔術師"
+    },
+    "sourceNote": "Wikipedia記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kogitsunemaru",
+    "name": "小狐丸",
+    "nameKana": "こぎつねまる",
+    "description": "『いずれ最強の錬金術師?』の作者。アルファポリスで2018年より連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いずれ最強の錬金術師%3F"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sengetsu-sakaki",
+    "name": "千月さかき",
+    "nameKana": "せんげつさかき",
+    "description": "『創造錬金術師は自由を謳歌する』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/創造錬金術師は自由を謳歌する_故郷を追放されたら、魔王のお膝元で超絶効果のマジックアイテム作り放題になりました"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "toutetsu",
+    "name": "饕餮",
+    "nameKana": "とうてつ",
+    "description": "『転移先は薬師が少ない世界でした』の作者。アルファポリス/レジーナブックスで連載。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式サイト、レジーナブックス公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kazu-kobe-toa",
+    "name": "かず＠神戸トア",
+    "nameKana": "かずあっとこうべとあ",
+    "description": "『転生薬師は迷宮都市育ち』の作者。カクヨム発、ツギクルブックスより書籍化。",
+    "externalLinks": {},
+    "sourceNote": "ツギクルブックス公式サイト、カクヨムで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "izumo-daikichi",
+    "name": "出雲大吉",
+    "nameKana": "いずもだいきち",
+    "description": "『左遷錬金術師の辺境暮らし』の作者。カドカワBOOKSより刊行。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hinokage-sora",
+    "name": "日之影ソラ",
+    "nameKana": "ひのかげそら",
+    "description": "『元宮廷錬金術師の私、辺境でのんびり領地開拓はじめます！』の作者。オーバーラップノベルスfより刊行。",
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式サイト、Amazon商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukahara-miyako",
+    "name": "束原ミヤコ",
+    "nameKana": "つかはらみやこ",
+    "description": "『捨てられ令嬢は錬金術師になりました。』の作者。PASH!ブックスより刊行。",
+    "externalLinks": {},
+    "sourceNote": "PASH!ブックス(主婦と生活社)公式サイト、紀伊國屋書店で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rachimu",
+    "name": "ラチム",
+    "nameKana": "らちむ",
+    "description": "『お薬、出します！』の作者。富士見ファンタジア文庫より刊行。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ、カクヨムで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamakawa-ibuki",
+    "name": "山川イブキ",
+    "nameKana": "やまかわいぶき",
+    "description": "『転生薬師は異世界を巡る』の作者。アルファポリスより刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、アルファポリス公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyagino-usagi",
+    "name": "宮城野うさぎ",
+    "nameKana": "みやぎのうさぎ",
+    "description": "『薬師令嬢のやり直し』の作者。カドカワBOOKSより刊行。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nonohara-touta",
+    "name": "のの原兎太",
+    "nameKana": "ののはらとうた",
+    "description": "『生き残り錬金術師は街で静かに暮らしたい』の作者。電撃の新文芸より刊行。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ、小説家になろうで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakuragi-sakura",
+    "name": "桜木桜",
+    "nameKana": "さくらぎさくら",
+    "description": "「異世界建国記」の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「異世界建国記」記事のインフォボックスより。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "first-novelist",
+    "name": "ファースト",
+    "nameKana": "ふぁーすと",
+    "description": "「異世界チート開拓記」の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「異世界チート開拓記」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akaiike-sou",
+    "name": "赤池宗",
+    "nameKana": "あかいけそう",
+    "description": "「お気楽領主の楽しい領地防衛」の著者。2020年より「小説家になろう」で連載開始。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「お気楽領主の楽しい領地防衛」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koryuu-nozomu",
+    "name": "古流望",
+    "nameKana": "こりゅうのぞむ",
+    "description": "「おかしな転生」の著者。TOブックスの人気シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「おかしな転生」記事より。読みは英語圏情報源(Nozomu Koryu)を参考にした推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umi-author",
+    "name": "うみ",
+    "nameKana": "うみ",
+    "description": "「追放された転生公爵は、辺境でのんびりと畑を耕したかった」の著者。",
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式シリーズページより。Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "eda",
+    "name": "EDA",
+    "nameKana": "EDA",
+    "description": "「異世界料理道」の作者。2015年よりホビージャパンHJノベルスで書籍刊行。",
+    "externalLinks": {},
+    "sourceNote": "ホビージャパン公式サイト・BOOK☆WALKERにて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawai-kou",
+    "name": "川井昂",
+    "nameKana": "かわいこう",
+    "description": "「傭兵団の料理番」の作者。2018年よりヒーロー文庫で書籍刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizushiro-mizushiro",
+    "name": "水城水城",
+    "nameKana": "みずしろみずしろ",
+    "description": "「魔王城のシェフ」の作者。ファミ通文庫より刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kigatsukeba-kedama",
+    "name": "気がつけば毛玉",
+    "nameKana": "きがつけばけだま",
+    "description": "「勇者一行ぶらり旅」の作者。角川スニーカー文庫より刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakano-aruta",
+    "name": "中野在太",
+    "nameKana": "なかのあるた",
+    "description": "「康太の異世界ごはん」の作者。ヒーロー文庫より刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページにて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "swind",
+    "name": "Swind",
+    "nameKana": "Swind",
+    "description": "「異世界駅舎の喫茶店」の作者。「小説家になろう」出身、第4回ネット小説大賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「異世界駅舎の喫茶店」記事にて著者名確認",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kayata-sunako",
+    "name": "茅田砂胡",
+    "nameKana": "かやたすなこ",
+    "description": "『デルフィニア戦記』などで知られる小説家。中央公論新社のC★NOVELSファンタジアを代表する作家の一人。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デルフィニア戦記"
+    },
+    "sourceNote": "Wikipedia「デルフィニア戦記」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ubukata-tou",
+    "name": "冲方丁",
+    "nameKana": "うぶかたとう",
+    "description": "『マルドゥック・スクランブル』などのSF小説で知られる小説家・脚本家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルドゥック・スクランブル"
+    },
+    "sourceNote": "Wikipedia「マルドゥック・スクランブル」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hoshino-ryou",
+    "name": "星野亮",
+    "nameKana": "ほしのりょう",
+    "description": "『ザ・サード』シリーズの著者。富士見ファンタジア文庫を中心に活動する小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ザ・サード"
+    },
+    "sourceNote": "Wikipedia「ザ・サード」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hasegawa-keisuke",
+    "name": "ハセガワケイスケ",
+    "nameKana": "はせがわけいすけ",
+    "description": "『しにがみのバラッド。』の著者。電撃文庫を中心に活動する小説家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/しにがみのバラッド。"
+    },
+    "sourceNote": "Wikipedia「しにがみのバラッド。」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ookido-izumi",
+    "name": "大木戸いずみ",
+    "nameKana": "おおきどいずみ",
+    "description": "『歴史に残る悪女になるぞ』の作者。小説家になろう発、B's-LOG文庫刊行。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/歴史に残る悪女になるぞ"
+    },
+    "sourceNote": "Wikipedia記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "onogami-akeyo",
+    "name": "小野上明夜",
+    "nameKana": "おのがみあけよ",
+    "description": "『今日から悪女になります!』の作者。一迅社文庫アイリス刊行。",
+    "externalLinks": {},
+    "sourceNote": "BookWalker/Amazon/一迅社刊行情報より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arashi-hanako",
+    "name": "嵐華子",
+    "nameKana": "あらしはなこ",
+    "description": "『稀代の悪女、三度目の人生で【無才無能】を楽しむ』の作者。カドカワBOOKS刊行、カクヨム発。",
+    "externalLinks": {},
+    "sourceNote": "BookWalker/KADOKAWA/カクヨムより確認。読み仮名は一般的な読みを採用(公式表記未確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuzuhara-tail",
+    "name": "柚原テイル",
+    "nameKana": "ゆずはらている",
+    "description": "『後宮一番の悪女』の作者。富士見L文庫刊行。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店/HMV/KADOKAWA商品ページより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ei",
+    "name": "エイ",
+    "nameKana": "えい",
+    "description": "『清廉な令嬢は悪女になりたい』の作者。小説家になろう発、アリアンローズ刊行。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイトより確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mochimochi-busshitsu",
+    "name": "もちもち物質",
+    "nameKana": "もちもちぶっしつ",
+    "description": "『没落令嬢の悪党賛歌』の作者。小説家になろう発、アリアンローズ(フロンティアワークス)刊行。",
+    "externalLinks": {},
+    "sourceNote": "syosetu.com該当ページ、書誌情報検索より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yui-regina",
+    "name": "ゆいレギナ",
+    "nameKana": "ゆいれぎな",
+    "description": "『ど底辺令嬢に憑依した800年前の悪女はひっそり青春を楽しんでいる。』の作者。サーガフォレスト刊行。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品情報、コミカライズ告知情報より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurusu-mikan",
+    "name": "来須みかん",
+    "nameKana": "くるすみかん",
+    "description": "『社交界の毒婦とよばれる私』の作者。ツギクルブックス(SBクリエイティブ)刊行。",
+    "externalLinks": {},
+    "sourceNote": "検索結果より確認。刊行データの一部(巻数)は未確定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kishima-kiraku",
+    "name": "岸馬きらく",
+    "nameKana": "きしまきらく",
+    "description": "「新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。」の著者。小説投稿サイト出身のライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "ja.wikipedia.orgの作品ページ情報を取得(著者個人のWikipedia記事は未確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryuusen-hirotsugu",
+    "name": "りゅうせんひろつぐ",
+    "nameKana": "りゅうせんひろつぐ",
+    "description": "「賢者の弟子を名乗る賢者」の著者。2012年より「小説家になろう」で連載を開始し、2014年より書籍化。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の弟子を名乗る賢者"
+    },
+    "sourceNote": "ja.wikipedia.org「賢者の弟子を名乗る賢者」記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hamuo",
+    "name": "ハム男",
+    "nameKana": "はむお",
+    "description": "「ヘルモード〜やり込み好きのゲーマーは廃設定の異世界で無双する〜」の著者。2019年より「小説家になろう」で連載開始。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヘルモード_～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sagasaki-shigeru",
+    "name": "佐賀崎しげる",
+    "nameKana": "さがさきしげる",
+    "description": "「片田舎のおっさん、剣聖になる」の著者。2020年より「小説家になろう」で連載開始。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片田舎のおっさん、剣聖になる"
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ezo-gingitsune",
+    "name": "えぞぎんぎつね",
+    "nameKana": "えぞぎんぎつね",
+    "description": "「ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。」の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。"
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nabeshiki",
+    "name": "鍋敷",
+    "nameKana": "なべしき",
+    "description": "「俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜」の著者。2019年より「小説家になろう」で連載開始。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺は全てを【パリイ】する"
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakaishi-yuusaku",
+    "name": "坂石遊作",
+    "nameKana": "さかいしゆうさく",
+    "description": "『才女のお世話』の著者。小説家になろう出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/才女のお世話"
+    },
+    "sourceNote": "日本語版Wikipedia「才女のお世話」記事で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurata-wasan",
+    "name": "倉田和算",
+    "nameKana": "くらたわさん",
+    "description": "『砂上メイド戦艦喫茶あぽかりぷちゅへようこそ』で第32回電撃小説大賞《銀賞》を受賞した作家(応募時筆名:鰤田奥州)。",
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・電撃大賞発表ページで確認。読み仮名「わさん」は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mikazuki-neko",
+    "name": "三日月猫",
+    "nameKana": "みかづきねこ",
+    "description": "『最強の剣聖、美少女メイドに転生し箒で無双する』の著者。カクヨム発。",
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式サイト・カクヨム作者ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morita-author",
+    "name": "モリタ",
+    "nameKana": "もりた",
+    "description": "『異世界メイドの三ツ星グルメ』の著者。小説家になろう出身。",
+    "externalLinks": {},
+    "sourceNote": "講談社ラノベ公式ページ・国立国会図書館サーチで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kouzuki-maid-author",
+    "name": "神月",
+    "nameKana": "こうづき",
+    "description": "『最近雇った独占欲の強い美少女メイドが、実は王女様だった。』の著者。カクヨム発。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式サイトで確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "haran-tsumugu",
+    "name": "波瀾紡",
+    "nameKana": "はらんつむぐ",
+    "description": "『クラスのプライド高めなお嬢様。家では俺のメイド』の著者。",
+    "externalLinks": {},
+    "sourceNote": "富士見ファンタジア文庫公式・国立国会図書館サーチで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "emoto-mashimesa",
+    "name": "江本マシメサ",
+    "nameKana": "えもとましめさ",
+    "description": "『没落令嬢、貧乏騎士のメイドになります』の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER BKブックスシリーズページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "machidori-sonoko",
+    "name": "待鳥園子",
+    "nameKana": "まちどりそのこ",
+    "description": "『大脱走モブメイドがゆく無敵キャラ溺愛最短ルート』の著者。",
+    "externalLinks": {},
+    "sourceNote": "一迅社公式サイト・国立国会図書館サーチで確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "moriu-author",
+    "name": "守雨",
+    "nameKana": "もりう",
+    "description": "『シャーロット～とある侍女の城仕え物語～』の著者。HJノベルス刊。",
+    "externalLinks": {},
+    "sourceNote": "コミックシーモア・ブックライブのコミック版クレジット表記から確認。読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hajikano-sou",
+    "name": "初鹿野創",
+    "nameKana": "はじかのそう",
+    "description": "『現実でラブコメできないとだれが決めた？』(ガガガ文庫)の著者。第14回小学館ライトノベル大賞優秀賞受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/現実でラブコメできないとだれが決めた？"
+    },
+    "sourceNote": "読み仮名はWikipedia本文中で確認できず未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakaida-yoshitaka",
+    "name": "境田吉孝",
+    "nameKana": "さかいだよしたか",
+    "description": "『夏の終わりとリセット彼女』(ガガガ文庫)の著者。第8回小学館ライトノベル大賞優秀賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・小学館ライトノベル大賞Wikipedia記事で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sansan-sun",
+    "name": "燦々SUN",
+    "nameKana": "さんさんサン",
+    "description": "『時々ボソッとロシア語でデレる隣のアーリャさん』(角川スニーカー文庫)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時々ボソッとロシア語でデレる隣のアーリャさん"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanana-nana",
+    "name": "七菜なな",
+    "nameKana": "なななな",
+    "description": "『男女の友情は成立する？(いや、しないっ！！)』(電撃文庫)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/男女の友情は成立する？（いや、しないっ！！）"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanama-tomoshibi",
+    "name": "花間燈",
+    "nameKana": "はなまとぼし",
+    "description": "『可愛ければ変態でも好きになってくれますか？』(MF文庫J)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/可愛ければ変態でも好きになってくれますか？"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。読み仮名は一般的な読みを採用したが確定情報源は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ebisu-seiji",
+    "name": "恵比須清司",
+    "nameKana": "えびすせいじ",
+    "description": "『俺が好きなのは妹だけど妹じゃない』(富士見ファンタジア文庫)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺が好きなのは妹だけど妹じゃない"
+    },
+    "sourceNote": "Wikipedia日本語版で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murasaki-amari",
+    "name": "ムラサキアマリ",
+    "nameKana": "むらさきあまり",
+    "description": "第18回MF文庫Jライトノベル新人賞最優秀賞受賞作『のくたーんたたんたんたんたたん』の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ等で著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akai-matsuri",
+    "name": "赤井まつり",
+    "nameKana": "あかいまつり",
+    "description": "『暗殺者である俺のステータスが勇者よりも明らかに強いのだが』の著者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版・オーバーラップ公式サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otonashi-satsuki",
+    "name": "音無砂月",
+    "nameKana": "おとなしさつき",
+    "description": "『元暗殺者、転生して貴族の令嬢になりました。』の著者。",
+    "externalLinks": {},
+    "sourceNote": "PASH!ブックス商品情報で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "moriu",
+    "name": "守雨",
+    "nameKana": "",
+    "description": "『手札が多めのビクトリア』の著者。",
+    "externalLinks": {},
+    "sourceNote": "MFブックス商品情報で確認。読み仮名の出典は見つからず未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akihara-taku",
+    "name": "秋原タク",
+    "nameKana": "あきはらたく",
+    "description": "第5回カクヨムWeb小説コンテスト ラブコメ部門大賞受賞作『元スパイ、家政夫に転職する』の著者。",
+    "externalLinks": {},
+    "sourceNote": "角川スニーカー文庫公式・カクヨム受賞発表で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kemuri-u",
+    "name": "煙雨",
+    "nameKana": "",
+    "description": "『追放されたので、暗殺一家直伝の影魔法で王女の護衛はじめました!』の著者。",
+    "externalLinks": {},
+    "sourceNote": "ツギクルブックス商品情報・コミカライズ情報で確認。読み仮名未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arisawa-yuu",
+    "name": "有澤有",
+    "nameKana": "ありさわゆう",
+    "description": "『孤高の暗殺者だけど、標的の姉妹と暮らしています』の著者。",
+    "externalLinks": {},
+    "sourceNote": "GA文庫公式商品情報で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

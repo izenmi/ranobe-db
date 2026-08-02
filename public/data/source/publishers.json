@@ -697,5 +697,95 @@
     "externalLinks": {},
     "sourceNote": "書誌情報サイトを参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "grast-novels",
+    "name": "グラストNOVELS",
+    "nameKana": "グラストノベルズ",
+    "parentCompany": "スターツ出版",
+    "description": "スターツ出版が展開するWeb小説書籍化レーベル。",
+    "foundedYear": 2021,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・楽天ブックス等の書誌情報で確認。創刊年は近似値。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bk-books",
+    "name": "BKブックス",
+    "nameKana": "ビーケーブックス",
+    "parentCompany": "ぶんか社",
+    "description": "ぶんか社が展開するWeb小説書籍化レーベル(BKレーベル)。",
+    "foundedYear": 2024,
+    "externalLinks": {},
+    "sourceNote": "ラノベの杜(ranobe-mori.net)記事「BKブックス創刊」(2024年5月)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saga-forest",
+    "name": "サーガフォレスト",
+    "nameKana": "さーがふぉれすと",
+    "parentCompany": "一二三書房",
+    "description": "一二三書房が展開する「小説家になろう」発ライトノベルの書籍化レーベル。",
+    "foundedYear": 2015,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「四度目は嫌な死属性魔術師」記事より確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "regina-books",
+    "name": "レジーナブックス",
+    "nameKana": "れじーなぶっくす",
+    "parentCompany": "アルファポリス",
+    "description": "アルファポリスが展開する女性向け異世界ファンタジー小説レーベル。",
+    "foundedYear": 2018,
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス公式サイト(regina.alphapolis.co.jp)で確認。設立年は推定を含み要検証。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsugikuru-books",
+    "name": "ツギクルブックス",
+    "nameKana": "つぎくるぶっくす",
+    "parentCompany": "SBクリエイティブ",
+    "description": "SBクリエイティブが展開するWeb小説書籍化レーベル。",
+    "foundedYear": 2018,
+    "externalLinks": {},
+    "sourceNote": "ツギクルブックス公式サイト(books.tugikuru.jp)、SBクリエイティブ商品ページで確認。設立年は推定を含み要検証。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "overlap-novels-f",
+    "name": "オーバーラップノベルスf",
+    "nameKana": "おーばーらっぷのべるすえふ",
+    "parentCompany": "オーバーラップ",
+    "description": "オーバーラップが展開する女性読者向けファンタジー小説レーベル。",
+    "foundedYear": 2018,
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ、オーバーラップ公式サイトで確認。設立年は推定を含み要検証。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chuokoron-cnovels-fantasia",
+    "name": "C★NOVELSファンタジア",
+    "nameKana": "シーノベルズファンタジア",
+    "parentCompany": "中央公論新社",
+    "description": "中央公論新社のノベルス・レーベル「C★NOVELS」内に設けられた、女性向けファンタジー作品を中心とするサブレーベル。『デルフィニア戦記』などを刊行。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/C★NOVELS"
+    },
+    "sourceNote": "Wikipedia「デルフィニア戦記」記事等より。レーベル創刊年は同作の刊行開始年(1993年)を基にした推定値であり、正式なレーベル創刊年そのものは未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dre-novels",
+    "name": "DREノベルス",
+    "nameKana": "どれのべるす",
+    "parentCompany": "株式会社ドリコム",
+    "description": "株式会社ドリコムが展開する小説レーベル。「ブレイド&バスタード」などを刊行。",
+    "foundedYear": 2022,
+    "externalLinks": {},
+    "sourceNote": "レーベル創設年は「ブレイド&バスタード」刊行開始年(2022年)からの推定。",
+    "updatedAt": "2026-08-02"
   }
 ]

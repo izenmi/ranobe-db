@@ -16000,5 +16000,2874 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "kaji-ya-de-hajimeru-isekai-slow-life",
+    "title": "鍛冶屋ではじめる異世界スローライフ",
+    "titleKana": "かじやではじめるいせかいスローライフ",
+    "authorIds": [
+      "tamamaru"
+    ],
+    "illustratorIds": [
+      "kinta-illustrator"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "craft-artisan",
+      "slow-life",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "ブラック企業で命を落としたアラフォー男性エイゾウは、死後の存在から異世界転生を持ちかけられ「鍛冶職人になること」と「猫を飼うこと」を望む。黒の森に工房を構え、腕利きの鍛冶師として気ままな生活を送るはずが、卓越した技術ゆえに貴族や国家を巻き込む騒動に次々と巻き込まれていく異世界スローライフ譚。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2019,
+        "result": "第4回カクヨムWeb小説コンテスト異世界ファンタジー部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「鍛冶屋ではじめる異世界スローライフ」で全項目確認。コミカライズは日森よしの作画。ボイスドラマ化もあり。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鍛冶屋ではじめる異世界スローライフ"
+    }
+  },
+  {
+    "id": "fuguushoku-kajishi-dakedo-saikyou-desu",
+    "title": "不遇職『鍛冶師』だけど最強です ～気づけば何でも作れるようになっていた男ののんびりスローライフ～",
+    "titleKana": "ふぐうしょくかじしだけどさいきょうです",
+    "authorIds": [
+      "kijima-ryuuta"
+    ],
+    "illustratorIds": [
+      "nakamura-kaji"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "成人時に神から職業と神器を授かるこの世界で、主人公は武器を作るだけの最弱職「鍛冶師」に選ばれてしまう。冒険者の道を諦め宿屋で働き始めるが、授かった神器が壊れた物を再現・複製できる規格外の力を秘めていたことに気づき、高品質な武器や道具を次々生み出して周囲の評価を覆していく成り上がり物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "カドカワBOOKS公式サイト・小説家になろう本文・BOOK☆WALKERシリーズページで確認。累計32万PVのなろう発作品。コミカライズは講談社マガジンポケットで連載。latestPublishedYearは3巻という巻数からの近似値で正確な発売日は未確認。著者名の読み仮名も一次資料で未確認のため暫定表記。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kajishi-desu-ga-nanika",
+    "title": "鍛冶師ですが何か！",
+    "titleKana": "かじしですがなにか",
+    "authorIds": [
+      "nakikimushi-kurooni"
+    ],
+    "illustratorIds": [
+      "lack"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "craft-artisan",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "刀鍛冶を志しながら道半ばで事故死した青年は、あの世の存在から異世界で鍛冶師として生きる機会を持ちかけられる。だが転生先は人が武器をほとんど必要としない世界。それでも竜人族らに仕えながら特殊な能力を製作に応用し、唯一無二の逸品を作り出す職人としての道を切り拓いていく異世界職人譚。",
+    "awardResults": [
+      {
+        "awardId": "alphapolis-fantasy-shousetsu-taisho",
+        "year": 2013,
+        "result": "第6回アルファポリスファンタジー小説大賞 特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BOOK☆WALKER・アルファポリス公式ページで確認。全11巻完結。最終巻の正確な発売年月日は情報源に記載がなく、巻数ペースからの近似値(2016年頃)。コミカライズ情報は確認できず。",
+    "externalLinks": {}
+  },
+  {
+    "id": "botsuraku-yotei-nanode-kajishokunin-wo-mezasu",
+    "title": "没落予定なので、鍛冶職人を目指す",
+    "titleKana": "ぼつらくよていなので、かじしょくにんをめざす",
+    "authorIds": [
+      "ck-author"
+    ],
+    "illustratorIds": [
+      "kawaku"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "craft-artisan",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "現代日本からゲーム世界のモブ貴族に転生したと気づいた少年クルリは、このままでは領地もろとも没落する悲惨な未来が待っていることを知る。破滅を回避するため、周囲から軽んじられていた鍛冶の腕を磨き、さらに温泉開発にも乗り出す。前世の知識と職人としての努力で没落フラグを覆そうと奮闘する物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「没落予定なので、鍛冶職人を目指す」で確認。小説版9巻・漫画版18巻(2026年2月時点)、累計170万部突破。漫画は石田彩作画で月刊ドラゴンエイジ連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/没落予定なので、鍛冶職人を目指す"
+    }
+  },
+  {
+    "id": "ie-tsukuri-skill-de-isekai-wo-ikinobiro",
+    "title": "家つくりスキルで異世界を生き延びろ",
+    "titleKana": "いえつくりスキルでいせかいをいきのびろ",
+    "authorIds": [
+      "kotoriya-emu"
+    ],
+    "illustratorIds": [
+      "ayakura-juu"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "craft-artisan",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "辺境で暮らす少女クリスは、ある日【家つくりスキル】に目覚めると同時に、前世が日本人だった記憶を取り戻す。永住を拒まれた迷宮都市を離れることを決めた彼女は、旅をしながら暮らせる家馬車を自作しようと奮闘を始める。持てる技術だけを頼りに道を切り拓いていく、努力家少女のDIYファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ファミ通文庫公式サイト・BOOK☆WALKERで確認。小説版はファミ通文庫全5巻、コミカライズ版(電撃コミックスNEXT、日向ののか作画)は全3巻で完結。小説版最終巻の正確な発売年は未確認のため近似値。イラストレーター文倉十は既存ID(ayakura-juu、狼と香辛料)を再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tsuihou-sareta-ossan-kajishi-daimeikou",
+    "title": "追放されたおっさん鍛冶師、なぜか伝説の大名工になる～昔おもちゃの武器を造ってあげた子供たちが全員英雄になっていた～",
+    "titleKana": "ついほうされたおっさんかじし、なぜかでんせつのだいめいこうになる",
+    "authorIds": [
+      "aozora-akana"
+    ],
+    "illustratorIds": [
+      "hinooka-shuuji"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "tsuihou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "地方都市のギルドを追い出された中年鍛冶師デレートは、かつて子供たちにおもちゃとして作ってやった剣が、いつしか国を救う伝説の武器へと進化し、その持ち主たちが英雄になっていたことを知る。飾らない人柄と確かな技術で、気づけば「伝説の大名工」と呼ばれるようになっていく人情味あふれる鍛冶師物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER Mノベルスシリーズページ・双葉社公式コミックサイト(がうがうモンスター＋)で確認。既存出版社ID(m-novels)を再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "madou-saikushi-nomi-no-isekai-craft-seikatsu",
+    "title": "魔導細工師ノーミィの異世界クラフト生活～前世知識とチートなアイテムで、魔王城をどんどん快適にします！～",
+    "titleKana": "まどうさいくしノーミィのいせかいクラフトせいかつ",
+    "authorIds": [
+      "kusudama-koto"
+    ],
+    "illustratorIds": [
+      "karukarume"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "tsuihou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "細工の腕を見込まれながらも故郷の村を追われたドワーフの少女ノーミィは、魔王に拾われ専属の職人として魔王城で暮らすことになる。前世の知識とチートじみたアイテムを組み合わせ、不便だらけだった魔王城の設備を次々と快適に作り替えていく、ものづくり系の異世界クラフトファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "カドカワBOOKS公式サイト・コミックウォーカーで確認。コミカライズ作画は石月メロコア。タイトルに「クラフト」を冠する当ジャンルの代表的作品。",
+    "externalLinks": {}
+  },
+  {
+    "id": "renkinjutsushi-no-nakanaka-slow-life-ni-naranai-hibi",
+    "title": "錬金術師のなかなかスローライフにならない日々",
+    "titleKana": "れんきんじゅつしのなかなかスローライフにならないひび",
+    "authorIds": [
+      "kou-author"
+    ],
+    "illustratorIds": [
+      "hidzuki-miya"
+    ],
+    "publisherId": "bk-books",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "休職中の会社員が没入したVRMMO「蒼の迷宮」は、実はゲームによく似た本物の異世界だった。エルフのアバター「レン」として目覚めた主人公は、錬金術師の技能を頼りに森に拠点を築き、穏やかな日々を目指す。だがエルフの長い寿命という思わぬ壁に直面し、真のスローライフへの道は長く険しいものとなる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BKブックス公式サイト(bknet.jp)・BOOK☆WALKER・小説家になろう(原作は完結済)で確認。書籍版は2024年10月刊行の1巻のみ確認、続巻情報は未確認のためstatusは暫定的にongoingとした。",
+    "externalLinks": {}
+  },
+  {
+    "id": "zako-kaji-level-9999-no-ore",
+    "title": "「雑魚には鍛冶がお似合いだwww」と言われた鍛冶レベル9999の俺、追放されたので冒険者に転職する～最強武器で無双しながらギルドで楽しく暮らします～",
+    "titleKana": "ざこにはかじがおにあいだとわれたかじレベルきゅうせんきゅうひゃくきゅうじゅうきゅうのおれ、ついほうされたのでぼうけんしゃにてんしょくする",
+    "authorIds": [
+      "hariya-keita"
+    ],
+    "illustratorIds": [
+      "haruinu"
+    ],
+    "publisherId": "bk-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "tsuihou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "鍛冶レベル9999を誇る天才鍛冶師マキナは、所属する武闘派ギルドから役立たず扱いされ「雑魚には鍛冶がお似合いだ」と追放されてしまう。幼馴染との再会をきっかけに別のギルドへ移った彼は、自ら鍛えた最高性能の武器を携えて冒険者に転職する。旧ギルドが彼を失って苦境に陥る一方、マキナは新天地で楽しく無双していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう本文ページで「原作小説は全2巻発売済」と確認、著者読み仮名(はりやけいた)もここで確認。コミカライズも2巻まで刊行中(三越はるは作画)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kaiko-sareta-kyuutei-renkinjutsushi",
+    "title": "解雇された宮廷錬金術師は辺境で大農園を作り上げる～祖国を追い出されたけど、最強領地でスローライフを謳歌する～",
+    "titleKana": "かいこされたきゅうていれんきんじゅつしはへんきょうでだいのうえんをつくりあげる",
+    "authorIds": [
+      "renkinou"
+    ],
+    "illustratorIds": [
+      "yuttou"
+    ],
+    "publisherId": "grast-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "tsuihou",
+      "slow-life",
+      "naisei"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "軍事用の魔道具ばかり作らされることに嫌気が差していた宮廷錬金術師イサギは、ある日突然解雇されてしまう。猫獣人のメイドに誘われて辺境の獣人の村へ向かった彼は、錬金術で品種改良した作物や便利な魔道具を駆使して村の食糧問題を解決し、みるみるうちに大農園へと発展させていくスローライフ物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "楽天ブックス・BOOK☆WALKER・コミックシーモア等で確認。著者「錬金王」は既存ID(renkinou、既存作品「転生して田舎でスローライフをおくりたい」と同一著者・別シリーズ)を再利用。コミカライズ作画YUTTOU、キャラクター原案ゆーにっと。イラストレーターがYUTTOU本人か別担当かは情報源により表記が揺れており要追加確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "time-leap-ashita-wa-kinou",
+    "title": "タイム・リープ あしたはきのう",
+    "titleKana": "タイム・リープ あしたはきのう",
+    "authorIds": [
+      "takahata-kyouichirou"
+    ],
+    "illustratorIds": [
+      "kinutani-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "time-leap",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "高校生の鹿島翔香はある朝、前日の記憶がすっぽり抜け落ちていることに気づく。日記には見覚えのない自分の筆跡で奇妙な記述が残されており、優等生の若松和彦の協力で真相を探ることに。彼女の意識が一週間の中を不規則に飛び移る「タイムリープ」現象に見舞われていると判明し、過去を変えぬよう気を配りながら日常を再構築していく姿を描く、時間ものの先駆的作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "1995年6月にメディアワークスより刊行、1996年12月に電撃文庫版(上下巻)が刊行。1996年ラジオドラマ化、1997年実写映画化。Wikipedia記事で確認。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイム・リープ_あしたはきのう"
+    }
+  },
+  {
+    "id": "bokutachi-no-remake",
+    "title": "ぼくたちのリメイク",
+    "titleKana": "ボクタチノリメイク",
+    "authorIds": [
+      "kio-nachi"
+    ],
+    "illustratorIds": [
+      "eretto"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "time-leap",
+      "shigoto",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "28歳のゲームディレクター橋場恭也は、仕事に行き詰まり将来を悲観していたある日、突然意識だけが10年前の大学入学時へと巻き戻ってしまう。今度こそはと当時諦めていた芸術大学に進学し、シェアハウスで同世代のクリエイター志望の仲間たちと出会う。過去の記憶と経験を武器に創作活動へ打ち込みながら、後悔のない新たな青春を築いていくクリエイター群像青春劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "文庫部門6位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "文庫部門7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia記事より確認。本編12巻+スピンオフ3巻の全15巻で完結。2021年7-9月にTVアニメ放送、漫画版は2018年11月開始・全7巻完結。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくたちのリメイク"
+    }
+  },
+  {
+    "id": "yondome-wa-iya-na-shizokusei-majutsushi",
+    "title": "四度目は嫌な死属性魔術師",
+    "titleKana": "ヨンドメハイヤナシゾクセイマジュツシ",
+    "authorIds": [
+      "densuke"
+    ],
+    "illustratorIds": [
+      "ban"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "dark-fantasy",
+      "time-leap",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "地球での不遇な生を終えた青年は、女神の手違いでチート能力を得られないまま異世界へ転生させられる。前の生の記憶を保持したまま迎えた三度目の生でようやく強大な死属性魔術に目覚めるが、もう死んで新たな生を繰り返したくないと願う。アンデッドや魔物の仲間たちと支え合い、今度こそ穏やかな幸せを掴もうと奮闘する異世界転生ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "第4回受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろうで2015年6月連載開始、2016年サーガフォレストより書籍化開始、2021年9月web版完結。既刊14巻(2025年11月)、書籍版は継続中のためstatusはongoingとした。巻数は情報源により10〜16巻とばらつきがあり、最新の正確な巻数は要再確認。漫画版は児嶋建洋作画で連載中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四度目は嫌な死属性魔術師"
+    }
+  },
+  {
+    "id": "yari-no-yuusha-no-yarinaoshi",
+    "title": "槍の勇者のやり直し",
+    "titleKana": "ヤリノユウシャノヤリナオシ",
+    "authorIds": [
+      "aneko-yusagi"
+    ],
+    "illustratorIds": [
+      "yanami-seira"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "time-leap",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "「盾の勇者の成り上がり」に登場するもう一人の勇者・北村元康は、身勝手な行動の果てに仲間を失い命を落とすが、聖武器の力で異世界に召喚された初日まで時間を巻き戻される。得ていた経験と実力を保持したまま、傲慢だった自分と決別し、仲間との関係を一から築き直すことで、盾の勇者たちと共に世界を救う道を模索する再挑戦ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "『盾の勇者の成り上がり』のスピンオフ。小説家になろうで2014年4月連載開始、MFブックスで2017年9月刊行開始、2024年12月に全5巻で完結。漫画版(にぃと作画)は全11巻で完結。著者・イラストレーターは既存ID(aneko-yusagi/yanami-seira)を再利用。専用のWikipedia記事は確認できず、KADOKAWA公式・BOOK☆WALKER・ピクシブ百科事典で確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kou2-ni-timeleap-shita-ore-ga-sensei-ni-kokutta-kekka",
+    "title": "高2にタイムリープした俺が、当時好きだった先生に告った結果",
+    "titleKana": "コウコウニネンニタイムリープシタオレガトウジスキダッタセンセイニコクッタケッカ",
+    "authorIds": [
+      "kennoji"
+    ],
+    "illustratorIds": [
+      "yasuyuki"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "time-leap",
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "30歳を目前にした冴えない会社員・真田誠治は、ある朝目覚めると高校2年生だった頃の自分の体にタイムリープしていた。人生をやり直せる好機と捉えた彼は、当時ひそかに片思いしていた世界史教師にまさかの告白を決行し、思いがけず交際が始まってしまう。年齢差と秘密を抱えながら迎える、やり直しの青春を描くラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろうで2017年6月連載開始。GA文庫版は全5巻で完結(第5巻は2019年10月13日発売、確認済)。第1巻の正確な発売日は未確認のため2018年と推定。漫画版(松元こみかん作画)はガンガンONLINEで全5巻完結。著者ケンノジ・出版社GA文庫は既存IDを再利用。専用Wikipedia記事なし、ガンガンONLINE公式・GA文庫公式・Amazon書誌情報で確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "izure-saikyou-no-renkinjutsushi",
+    "title": "いずれ最強の錬金術師?",
+    "titleKana": "いずれさいきょうのれんきんじゅつし",
+    "authorIds": [
+      "kogitsunemaru"
+    ],
+    "illustratorIds": [
+      "hitokome"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "alchemist-apothecary",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "精霊に愛される特異体質を持つ少年ユーリは、優秀な兄と比較され家族から冷遇されて育つ。しかし彼が操る錬金術は聖剣や飛空船すら生み出せる規格外の力を秘めていた。周囲の評価を覆しながら、やがて世界最強と呼ばれる存在へと成長していく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で著者・イラスト・出版社・巻数・アニメ化(2025年冬)・コミカライズを確認。あらすじはWikipediaに記載がないため各種紹介文をもとに要約。受賞歴に関する記載はアルファポリスファンタジー小説大賞読者賞とあるが西暦が明記されておらず未確認のためawardResultsには含めなかった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いずれ最強の錬金術師%3F"
+    }
+  },
+  {
+    "id": "souzou-renkinjutsushi-wa-jiyuu-wo-oukasuru",
+    "title": "創造錬金術師は自由を謳歌する 故郷を追放されたら、魔王のお膝元で超絶効果のマジックアイテム作り放題になりました",
+    "titleKana": "そうぞうれんきんじゅつしはじゆうをおうかする",
+    "authorIds": [
+      "sengetsu-sakaki"
+    ],
+    "illustratorIds": [
+      "kabocha"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "tsuihou",
+      "naisei",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "戦闘偏重の一族に生まれながら才能に恵まれなかった青年が、厄介払い同然に魔王の領域へ送り込まれる。だがそこで開花したのは規格外の錬金術の才能だった。異界の知識を頼りに強力な魔道具を作り出し、辺境で自由な生活を築いていく追放系ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版、BOOK☆WALKER、KADOKAWA公式で確認。巻数・続刊状況は2022年末時点の情報までしか確認できず、最新巻数は未確認(要検証)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/創造錬金術師は自由を謳歌する_故郷を追放されたら、魔王のお膝元で超絶効果のマジックアイテム作り放題になりました"
+    }
+  },
+  {
+    "id": "teni-saki-wa-kusushi-ga-sukunai-sekai-deshita",
+    "title": "転移先は薬師が少ない世界でした",
+    "titleKana": "てんいさきはくすしがすくないせかいでした",
+    "authorIds": [
+      "toutetsu"
+    ],
+    "illustratorIds": [
+      "mo-illustrator"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-tensei",
+      "alchemist-apothecary",
+      "slow-life",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "神様のミスで異世界に転移してしまった優衣は、もう元の世界には戻れないと悟り、勧められるまま薬師として生きることを決意する。教わった調薬技術はどれも規格外の効果を持ち、安住の地を探す旅の道中で次々と周囲を驚かせていく、のんびり系異世界コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "アルファポリス/レジーナブックス公式サイト、BOOK☆WALKER、コミックシーモアで確認。初刊年は正確な発売日を特定できず2019年前後と推定(要検証)。最新6〜7巻(2025年9月時点)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tensei-kusushi-wa-meikyuu-toshi-sodachi",
+    "title": "転生薬師は迷宮都市育ち",
+    "titleKana": "てんせいくすしはめいきゅうとしそだち",
+    "authorIds": [
+      "kazu-kobe-toa"
+    ],
+    "illustratorIds": [
+      "toyota-saori"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "alchemist-apothecary",
+      "dungeon",
+      "adventure",
+      "naisei"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "薬学部受験の直後に命を落とした主人公は、迷宮都市トリアンにある薬屋の次女として転生する。養子ゆえに家業を継げない立場ながら、前世からの夢だった薬師を志し、薬草だけでなく迷宮産の魔物素材まで扱う過酷な薬師業界で独り立ちを目指していく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ツギクルブックス公式サイト(2024年8月刊行開始)、BOOK☆WALKER、コミックシーモア(モーニング・ツーでコミカライズ)で確認。イラストレーターとよた瑣織は既存ID(toyota-saori)を再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "sasen-renkinjutsushi-no-henkyou-gurashi",
+    "title": "左遷錬金術師の辺境暮らし 元エリートは二度目の人生も失敗したので辺境でのんびりとやり直すことにしました",
+    "titleKana": "させんれんきんじゅつしのへんきょうぐらし",
+    "authorIds": [
+      "izumo-daikichi"
+    ],
+    "illustratorIds": [
+      "mikisai"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "slow-life",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "出世街道を歩んでいたエリート錬金術師ジークは、素行の悪さを理由に辺境の小さな支部へ左遷されてしまう。未熟な部下二人しかいない職場で腐ることなく、天才的な錬金の腕を発揮しながら、可愛い使い魔や前向きな弟子たちと穏やかな第二の人生を築いていくスローライフファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "カドカワBOOKS公式サイト、BOOK☆WALKER、ガンガンONLINE(コミカライズ)で確認。初刊年・巻数は情報源間で表記に幅があり推定を含む(要検証)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "moto-kyuutei-renkinjutsushi-no-watashi-henkyou-de-nonbiri-ryouchi-kaitaku",
+    "title": "元宮廷錬金術師の私、辺境でのんびり領地開拓はじめます！ ～婚約破棄に追放までセットでしてくれるんですか？～",
+    "titleKana": "もときゅうていれんきんじゅつしのわたし、へんきょうでのんびりりょうちかいたくはじめます",
+    "authorIds": [
+      "hinokage-sora"
+    ],
+    "illustratorIds": [
+      "kyouka-hatori"
+    ],
+    "publisherId": "overlap-novels-f",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "tsuihou",
+      "naisei",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "史上最年少で宮廷錬金術師となったアメリアは、婚約者を奪った妹の讒言により王都を追放されてしまう。幼馴染との再会をきっかけに辺境の地へ移り住み、持ち前の錬金術の才能を活かして領地の困りごとを次々と解決していく、婚約破棄からはじまるスローライフファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "オーバーラップ公式サイト、Amazon商品ページ、コミックシーモアで確認。イラストレーター匈歌ハトリは既存ID(kyouka-hatori)を再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "suterare-reijou-wa-renkinjutsushi-ni-narimashita",
+    "title": "捨てられ令嬢は錬金術師になりました。稼いだお金で元敵国の将を購入します。",
+    "titleKana": "すてられれいじょうはれんきんじゅつしになりました",
+    "authorIds": [
+      "tsukahara-miyako"
+    ],
+    "illustratorIds": [
+      "shiina-satsuki"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "alchemist-apothecary",
+      "romance",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "婚約破棄とともに貴族の身分を奪われた令嬢クロエは、錬金術師として自立する道を選ぶ。稼いだ資金を元手に、かつて敵国の将軍として恐れられていた男を奴隷市場から買い取り、護衛として雇い入れることに。身分も過去も違う二人が、素材集めの旅を通じて絆を深めていく異色の令嬢サクセスファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "小説家になろう原作ページ、PASH!ブックス(主婦と生活社)公式サイト、紀伊國屋書店で確認。全3巻で完結。コミカライズの有無は情報源で確認できず。",
+    "externalLinks": {}
+  },
+  {
+    "id": "okusuri-dashimasu-tsuihou-sareta-kusushi-no-shoujo",
+    "title": "お薬、出します！ 追放された薬師の少女は、極めたポーションで辺境の薬屋から成り上がる",
+    "titleKana": "おくすりだします、ついほうされたくすしのしょうじょは、きわめたポーションでへんきょうのくすりやからのしあがる",
+    "authorIds": [
+      "rachimu"
+    ],
+    "illustratorIds": [
+      "asahikawa-hiyori"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "alchemist-apothecary",
+      "tsuihou",
+      "shigoto",
+      "adventure"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "魔法全盛の世界で時代遅れの職とされる薬師の少女メディは、無実の罪を着せられて追放されてしまう。しかし彼女が調合する薬は回復魔法すら凌駕する効果を持っていた。訳ありの仲間たちと共に辺境で薬屋を開業し、確かな実力で商いを軌道に乗せていく開業サクセス物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "KADOKAWA公式商品ページ、ファンタジア文庫公式サイト、BOOK☆WALKER(ムゲンコミックス版)で確認。刊行第1巻(2022年9月)のみ確認でき、続巻の有無・総巻数は未確認(要検証)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tensei-kusushi-wa-isekai-wo-meguru",
+    "title": "転生薬師は異世界を巡る",
+    "titleKana": "てんせいくすしはいせかいをめぐる",
+    "authorIds": [
+      "yamakawa-ibuki"
+    ],
+    "illustratorIds": [
+      "hoshizaki-reita"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "alchemist-apothecary",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "神様から「勇者召喚の予行演習」として異世界転生を持ちかけられた会社員・藤堂ユウキは、シンという名の薬師として新たな人生を歩み始める。神様お墨付きのチートスキルによって生み出す調合薬は規格外の効能を発揮し、旅先で人々を助けながら異世界を巡っていく冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER、アルファポリス公式サイト、コミックシーモアで確認。小説・コミックともに全4巻で完結。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kusushi-reijou-no-yarinaoshi",
+    "title": "薬師令嬢のやり直し",
+    "titleKana": "くすしれいじょうのやりなおし",
+    "authorIds": [
+      "miyagino-usagi"
+    ],
+    "illustratorIds": [
+      "nitaka"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "alchemist-apothecary",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "かつて薬師として生きていた貴族令嬢ユリアは、ある日突然の激痛とともに意識を失い、12歳の自分自身として目を覚ます。前世の記憶と調薬の知識を武器に、大切な人を守るためにもう一度人生をやり直していく、やり直し系ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "KADOKAWA公式商品ページ、Amazonで確認。全2巻(2018年刊)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "ikinokori-renkinjutsushi-wa-machi-de-shizuka-ni-kurashitai",
+    "title": "生き残り錬金術師は街で静かに暮らしたい",
+    "titleKana": "いきのこりれんきんじゅつしはまちでしずかにくらしたい",
+    "authorIds": [
+      "nonohara-touta"
+    ],
+    "illustratorIds": [
+      "ox-illustrator"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "alchemist-apothecary",
+      "slow-life",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "王国の滅亡から仮死の魔法で生き延びた錬金術師マリエラは、200年もの眠りから目覚める。錬金術が廃れポーションが贅沢品となった時代、都市でただ一人の錬金術師となった彼女が望むのは、穏やかで静かな暮らしだけ。だが規格外の腕前が次第に周囲を巻き込んでいくスローライフファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "KADOKAWA公式商品ページ、小説家になろうで確認。全6巻(2017-2019年刊)で完結。2026年2月に続編「愚者の石」が刊行された。",
+    "externalLinks": {}
+  },
+  {
+    "id": "isekai-kenkoku-ki",
+    "title": "異世界建国記",
+    "titleKana": "いせかいけんこくき",
+    "authorIds": [
+      "sakuragi-sakura"
+    ],
+    "illustratorIds": [
+      "rona-illustrator"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "naisei",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "交通事故で命を落とした大学生が、異世界で一羽のグリフォンに拾われ「アルムス」と名付けられる。前世で得た農業や発明の知識を武器に荒れ地を開墾し、身寄りのない子どもたちを引き取りながら小さな集落を築いていく。集落はやがて国へと成長し、主人公は統治者として内政や外交の課題にも向き合うことになる異世界建国譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「異世界建国記」記事(2019年11月時点の情報が最新の巻数記載)。同時点以降の巻数増加は未確認。漫画版(ヤングエースUP、作画:KOIZUMI)は2026年2月時点で既刊11巻と活発に継続中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界建国記"
+    }
+  },
+  {
+    "id": "isekai-cheat-kaitakuki",
+    "title": "異世界チート開拓記",
+    "titleKana": "いせかいちーとかいたくき",
+    "authorIds": [
+      "first-novelist"
+    ],
+    "illustratorIds": [
+      "fuyuzora-minoru"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "naisei",
+      "slow-life",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "孤独死したニート青年が、剣と魔法の中世風異世界で貧しい領主の息子エニードとして転生する。前世の知識とチート的な能力を活かし、寂れた辺境の村の開墾や産業振興に取り組みながら、時に冒険者として魔物とも渡り合う。地道な村おこしから始まる、のんびりとした領地開拓コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「異世界チート開拓記」記事より。単行本版(双葉社Mノベルス、全5巻、2015-2017完結)を基準に採用。後年、文庫版(モンスター文庫)が既存publisherId:futabasha-monster-bunkoで再刊。漫画版は2025年11月に完結(全7巻)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界チート開拓記"
+    }
+  },
+  {
+    "id": "okiraku-ryoushu-no-tanoshii-ryouchi-boei",
+    "title": "お気楽領主の楽しい領地防衛 〜生産系魔術で名もなき村を最強の城塞都市に〜",
+    "titleKana": "おきらくりょうしゅのたのしいりょうちぼうえい",
+    "authorIds": [
+      "akaiike-sou"
+    ],
+    "illustratorIds": [
+      "ten-illustrator"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "戦闘向きの魔法を持たないという理由で名もなき辺境の村の領主に追いやられた貴族の四男ヴァン。実は日本からの転生者である彼は、誰にも見向きされなかった「生産系魔術」を駆使し、忠実なメイドのティルらと共に、貧しい寒村を最強クラスの城塞都市へと変えていく、のんびり系内政ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「お気楽領主の楽しい領地防衛」記事より。TVアニメは2026年1〜3月放送(NAZ制作)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/お気楽領主の楽しい領地防衛_〜生産系魔術で名もなき村を最強の城塞都市に〜"
+    }
+  },
+  {
+    "id": "maou-sama-no-machizukuri",
+    "title": "魔王様の街づくり！ 〜最強のダンジョンは近代都市〜",
+    "titleKana": "まおうさまのまちづくり",
+    "authorIds": [
+      "tsukiyo-rui"
+    ],
+    "illustratorIds": [
+      "tsuruzaki-takahiro",
+      "fuumi"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "nation-building",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "人間の恐怖を糧とする魔王として異世界で目覚めた「新人」魔王プロケルは、力尽くの支配ではなく人と魔物が共存できる理想郷づくりを志す。固有スキル「創造」で配下や施設を生み出しながら街の機能を整えていく一方、旧来の魔王バラムとの対立が次第に大規模な戦争へと発展していく国家建設ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「魔王様の街づくり!〜最強のダンジョンは近代都市〜」記事より(2019年6月時点で小説8巻)。それ以降の巻数増加は未確認。著者の月夜涙は既存著者ID tsukiyo-rui(「死亡遊戯で飯を食う。」)と同一人物。漫画版(作画:吉川英朗)は既刊12巻・完結済み(コミックガルド)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王様の街づくり!〜最強のダンジョンは近代都市〜"
+    }
+  },
+  {
+    "id": "okashina-tensei",
+    "title": "おかしな転生",
+    "titleKana": "おかしなてんせい",
+    "authorIds": [
+      "koryuu-nozomu"
+    ],
+    "illustratorIds": [
+      "shuri-yasuyuki"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 28,
+    "synopsis": "世界的な菓子職人だった日本人が、事故で命を落とし、貧しい辺境貴族の末子ペイストリーとして転生する。盗賊や飢饉、腹黒い貴族たちに苦しめられる荒れ果てた領地で、前世の製菓技術と知略を武器に人々の心をつかんでいく。お菓子作りを通じて領地そのものを豊かにしていく、グルメ×領地経営ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「おかしな転生」記事より。TVアニメは2023年7〜9月放送。累計175万部超(2024年9月時点)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おかしな転生"
+    }
+  },
+  {
+    "id": "yakutatazu-to-iwareta-node-watashi-no-ie-wa-dokuritsu-shimasu",
+    "title": "役立たずと言われたので、わたしの家は独立します！ 〜伝説の竜を目覚めさせたら、なぜか最強の国になっていました〜",
+    "titleKana": "やくたたずといわれたのでわたしのいえはどくりつします",
+    "authorIds": [
+      "tono-kokonoe"
+    ],
+    "illustratorIds": [
+      "abeno-chako"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "nation-building",
+      "naisei",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "辺境伯の令嬢フローラは、王太子から一方的に婚約を破棄され「辺境暮らしで役立たず」と貶められる。憤慨した彼女は見限られた辺境の地に見切りをつけ、独立を決意。眠っていた伝説の竜や精霊たちの力を借りながら領地を発展させ、ついには一つの独立国家へと築き上げていく執政ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia「役立たずと言われたので、わたしの家は独立します!」記事より。著者遠野九重は既存著者ID tono-kokonoeと同一人物、イラスト阿倍野ちゃこも既存ID abeno-chakoと同一人物。小説は完結、漫画版(黒野ユウ)はB's-LOG COMICで既刊8巻(2026年4月時点)で連載中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/役立たずと言われたので、わたしの家は独立します!_〜伝説の竜を目覚めさせたら、なぜか最強の国になっていました〜"
+    }
+  },
+  {
+    "id": "tsuihou-sareta-tensei-koushaku",
+    "title": "追放された転生公爵は、辺境でのんびりと畑を耕したかった",
+    "titleKana": "ついほうされたてんせいこうしゃくは、へんきょうでのんびりとはたけをたがやしたかった",
+    "authorIds": [
+      "umi-author"
+    ],
+    "illustratorIds": [
+      "anbe-yoshirou"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "tsuihou",
+      "nation-building",
+      "naisei",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "日本人だった前世の記憶を持ち、公爵として国の発展に尽力してきたヨシュアは、クーデターによって突如その地位を追われてしまう。絶望するどころか念願だった悠々自適の隠居生活を望み辺境へ向かうが、彼を慕う元領民たちが続々と押し寄せてくる。望まぬまま辺境地で再び内政に奔走することになるスローライフ系内政ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia記事は未確認(検索でヒットせず)。カドカワBOOKS公式シリーズページ及びカクヨム掲載ページより情報を採録。刊行開始年は同ページの情報から推定。コミカライズはコミックウォーカーでの配信を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "isekai-ryouridou",
+    "title": "異世界料理道",
+    "titleKana": "いせかいりょうりどう",
+    "authorIds": [
+      "eda"
+    ],
+    "illustratorIds": [
+      "kochimo"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 35,
+    "synopsis": "実家の洋食屋で修業していた青年・鶴見明日太は、父の形見の包丁を守ろうと炎に飛び込んだ末、見知らぬ密林で異世界に迷い込む。彼を助けた森辺の民の娘アイ=ファと暮らしながら、食べることを楽しむ習慣が失われた世界に「美味しい料理」を持ち込み、狩猟や採集を通じて異世界の食文化を切り拓いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ホビージャパン公式サイト・BOOK☆WALKERにて1巻発売日(2015年2月20日)・著者・イラストレーターを確認。2025年5月時点で既刊35巻、連載中。コミック版はコミックファイアで2017年より連載。",
+    "externalLinks": {}
+  },
+  {
+    "id": "youheidan-no-ryourigakari",
+    "title": "傭兵団の料理番",
+    "titleKana": "ようへいだんのりょうりばん",
+    "authorIds": [
+      "kawai-kou"
+    ],
+    "illustratorIds": [
+      "shiki-douji"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "senki",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 22,
+    "synopsis": "料理人を目指していた青年・東朱里は、現代日本から戦国時代さながらの異世界サブラユ大陸へ転移してしまう。傭兵団の団長ガングレイブに拾われた朱里は、雑用係として身を寄せながら次第に料理の腕を発揮し、傭兵たちの胃袋と信頼を掴んでいく、戦乱の異世界を舞台にした料理×傭兵ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER公式作品ページにて著者・イラストレーター・配信開始日(2018年7月2日)・最新22巻を確認。コミカライズあり(梅木泰祐作画)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "maoujou-no-chef",
+    "title": "魔王城のシェフ 黒竜のローストからはじまる異世界グルメ伝",
+    "titleKana": "まおうじょうのシェフ",
+    "authorIds": [
+      "mizushiro-mizushiro"
+    ],
+    "illustratorIds": [
+      "artumph"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "黒竜を討伐した流浪の料理人シイガは、その腕を見込んだ魔王ルイーナに城へと囚われてしまう。「断れば死、不味ければ死」という理不尽な条件のもと魔王のために料理を作り続けるうち、彼に反発する魔族たちも次々と料理で懐柔していく、魔王城を舞台にした異世界グルメファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BOOK☆WALKER公式作品ページにて著者・イラストレーター・1巻配信開始日(2017年4月28日)・全3巻を確認。2018年以降新刊情報が見当たらず実質的に更新が止まっている可能性が高い。漫画・アニメ化された『魔王城の料理番』(新潮社)は同名テーマの別・無関係作品。",
+    "externalLinks": {}
+  },
+  {
+    "id": "yuusha-ikkou-burari-tabi",
+    "title": "勇者一行ぶらり旅",
+    "titleKana": "ゆうしゃいっこうぶらりたび",
+    "authorIds": [
+      "kigatsukeba-kedama"
+    ],
+    "illustratorIds": [
+      "horosuke"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "かつて魔王を倒したベテラン勇者・白坂虎太郎は、再び異世界へと召喚される。しかし道中立ち寄った美食の国フランチェーゼで絶品料理に目覚めてしまい、魔王討伐そっちのけで各地のグルメと観光を満喫する旅に出てしまう。天使や剣の精霊たちを巻き込みながら繰り広げられる、脱力系異世界グルメ紀行。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "BOOK☆WALKER公式作品ページにて著者・イラストレーター・1巻配信開始日(2015年12月1日)・全3巻(3巻は2016年11月発売)を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kouta-no-isekai-gohan",
+    "title": "康太の異世界ごはん",
+    "titleKana": "こうたのいせかいごはん",
+    "authorIds": [
+      "nakano-aruta"
+    ],
+    "illustratorIds": [
+      "shichiwa-rei"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "slow-life",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "強盗に刺されて命を落とした居酒屋の店主・紺屋康太は、日本の農村によく似た異世界に転生する。米と黒豆しかない食材、調味料も調理器具も乏しい環境の中、前世の料理の知恵を頼りに工夫を重ね、村人やエルフの娘との交流を通じて異世界の食卓を少しずつ豊かにしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER公式作品ページにて著者・イラストレーター・1巻発売日(2018年9月21日)・最新9巻(2025年6月発売)を確認。コミカライズあり(寅尾あかまる作画)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "isekai-ekisha-no-kissaten",
+    "title": "異世界駅舎の喫茶店",
+    "titleKana": "いせかいえきしゃのきっさてん",
+    "authorIds": [
+      "swind"
+    ],
+    "illustratorIds": [
+      "pon-marsh"
+    ],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "shigoto",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ある夫婦は乗っていた列車ごと異世界へと転移してしまい、妻は猫のような獣人の姿に変わってしまう。二人は異世界の片田舎で駅を管理しながら喫茶店を営むことになり、日本仕込みの料理や飲み物で異世界の人々をもてなしていく、夫婦の絆と異文化交流を描く鉄道×喫茶店の異世界グルメ物語。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "第4回ネット小説大賞 受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「異世界駅舎の喫茶店」記事で著者・イラストレーター・受賞歴(第4回ネット小説大賞、2016年)・単行本2巻(2016-2017)/文庫版2巻(2018年5月・9月)・コミカライズ(神無ゆゆ作画、2016-2019年、全5巻)を確認。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界駅舎の喫茶店"
+    }
+  },
+  {
+    "id": "scrapped-princess",
+    "title": "スクラップド・プリンセス",
+    "titleKana": "すくらっぷど・ぷりんせす",
+    "authorIds": [
+      "sakaki-ichirou"
+    ],
+    "illustratorIds": [
+      "azumi-yukinobu"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "『世界を滅ぼす災厄』と予言され生まれてすぐ捨てられた王女パシフィカは、養家の兄妹に守られながら育つ。しかし出生の秘密が知られ、教会や実の父である国王からも命を狙われる身に。兄妹とともに追っ手から逃げ続けるうち、世界そのものを管理する謎の存在との対決に巻き込まれていく王道ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ryuuou-hai",
+        "year": 1998,
+        "result": "優勝(第1回龍皇杯)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「スクラップド・プリンセス」を参照し独自要約。著者榊一郎は既存収録作(棺姫のチャイカ等)と同一人物のため既存IDを再利用。累計発行部数213万部(2014年12月時点)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクラップド・プリンセス"
+    }
+  },
+  {
+    "id": "owari-no-chronicle",
+    "title": "終わりのクロニクル",
+    "titleKana": "おわりのくろにくる",
+    "authorIds": [
+      "kawakami-minoru"
+    ],
+    "illustratorIds": [
+      "satoyasu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "alternate-history",
+      "senki",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "第二次大戦下、生存をかけて11の並行世界が概念戦争を繰り広げ、最下位の世界『Low-G』だけが生き残った。60年後、その世界が滅びの危機に瀕する中、少年・佐山御言は敗れ去った異世界の生存者たちと交渉し、世界の存続をかけた『全竜交渉』に挑む。巨大な力を操る者たちが入り乱れる、多元宇宙規模の群像戦記。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "作品部門5位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2007,
+        "result": "作品部門7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "Wikipedia日本語版「終わりのクロニクル」を参照。著者川上稔は既存収録作『境界線上のホライゾン』と同一人物のため既存IDを再利用。イラストレーターさとやすも既存ID(satoyasu)を再利用。2025年から新装版が刊行中だが、本エントリは2003-2005年の旧版(全14巻)を対象とした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/終わりのクロニクル"
+    }
+  },
+  {
+    "id": "delphinia-senki",
+    "title": "デルフィニア戦記",
+    "titleKana": "でるふぃにあせんき",
+    "authorIds": [
+      "kayata-sunako"
+    ],
+    "illustratorIds": [
+      "oki-mamiya"
+    ],
+    "publisherId": "chuokoron-cnovels-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "romance",
+      "senki",
+      "naisei"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "異世界から突然デルフィニア王国に落ちてきた少女リィは、陰謀により命を狙われる若き国王ウォルと出会い、成り行きで彼の片腕として戦うことになる。素性を隠しながらも卓越した剣の腕で敵を退け、王位を脅かす貴族の陰謀や隣国との戦争に立ち向かっていく、異世界転移ヒロインの戦記ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "Wikipedia日本語版「デルフィニア戦記」を参照。出版社は中央公論新社のC★NOVELSファンタジアのため新規ID発行。舞台化(2017-2019年)はあるがアニメ化・コミカライズの記述はWikipedia上確認できず。累計発行部数360万部超(2026年時点)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デルフィニア戦記"
+    }
+  },
+  {
+    "id": "mardock-scramble",
+    "title": "マルドゥック・スクランブル",
+    "titleKana": "まるどっく・すくらんぶる",
+    "authorIds": [
+      "ubukata-tou"
+    ],
+    "illustratorIds": [
+      "terada-katsuya"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "fukushuu",
+      "battle-action",
+      "mystery"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "娼婦の少女バロットは殺人事件に巻き込まれ爆殺されかけるが、特殊な技術により蘇生し、あらゆる電子機器を操る能力を得る。彼女を救った男ウフコックや相棒イースターとともに、自らを手にかけた犯人シェルを追い詰めるべく違法カジノに乗り込み、頭脳と能力を駆使した心理戦を繰り広げる近未来SFサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2004,
+        "result": "受賞(第24回日本SF大賞)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「マルドゥック・スクランブル」を参照。本編3巻+ヴェロシティ3巻+アノニマス8巻(2023年5月時点)の合計14巻構成で、アノニマスは継続中のためstatusはongoingとした。出版社は既存ID(hayakawa-bunko-ja、グイン・サーガ等と同一)を再利用。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルドゥック・スクランブル"
+    }
+  },
+  {
+    "id": "the-third",
+    "title": "ザ・サード",
+    "titleKana": "ざ・さーど",
+    "authorIds": [
+      "hoshino-ryou"
+    ],
+    "illustratorIds": [
+      "gotou-nao"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "post-apocalypse",
+      "adventure",
+      "battle-action",
+      "sf",
+      "mystery"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "大戦の代償で世界の大半が砂漠と化した未来。青い瞳を持つ寡黙な少女ホノカは、機械知性体のボギーを相棒に賞金稼ぎとして砂漠を旅している。ある事件で出会った青年イクスをきっかけに、世界を統べる支配種族『ザ・サード』にまつわる秘密へと足を踏み入れていく、ポストアポカリプス活劇。",
+    "awardResults": [
+      {
+        "awardId": "fantasia-taisho",
+        "year": 1998,
+        "result": "準入選(第10回ファンタジア長編小説大賞)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「ザ・サード」を参照。本編12巻(2011年12月刊が最新)+短編7巻+外伝1巻の全20巻を基準とし、それ以降の新刊情報が記事上で確認できないためstatusはcompletedとした。第10回ファンタジア長編小説大賞『準入選』は既存アワードID(fantasia-taisho)を再利用。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ザ・サード"
+    }
+  },
+  {
+    "id": "rental-magica",
+    "title": "レンタルマギカ",
+    "titleKana": "れんたるまぎか",
+    "authorIds": [
+      "mita-makoto"
+    ],
+    "illustratorIds": [
+      "pako"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mahou",
+      "battle-action",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "気弱な高校生・伊庭いつきは、失踪した父の跡を継ぎ、魔法使い派遣業「アストラル」の若き社長となる。個性豊かな魔術師の従業員たちを率い、依頼を通じて怪異や敵対組織と渡り合っていく。異種の魔法体系がぶつかり合う戦闘と、賑やかな日常が同居するアクションファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "light-novel-award",
+        "year": 2007,
+        "result": "アクション部門賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「レンタルマギカ」を参照。著者三田誠は既存収録作『ロード・エルメロイII世の事件簿』と同一人物、イラストレーターpakoも既存IDを再利用。累計発行部数200万部超(2009年3月時点)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レンタルマギカ"
+    }
+  },
+  {
+    "id": "shinigami-no-ballad",
+    "title": "しにがみのバラッド。",
+    "titleKana": "しにがみのばらっど",
+    "authorIds": [
+      "hasegawa-keisuke"
+    ],
+    "illustratorIds": [
+      "nanakusa"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "comedy",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "感情豊かでお節介な死神の少女モモは、死を間近に控えた人々のもとを訪れ、時にその最期を看取り、時にささやかな救いをもたらす。一話ごとに描かれる出会いと別れを通して、死と向き合う人々の想いを丁寧に描く連作短編形式のダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「しにがみのバラッド。」を参照。出版社は既存ID(dengeki-bunko)を再利用。受賞歴の記載は確認できず。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/しにがみのバラッド。"
+    }
+  },
+  {
+    "id": "duan-sark",
+    "title": "デュアン・サーク",
+    "titleKana": "でゅあん・さーく",
+    "authorIds": [
+      "fukazawa-mishio"
+    ],
+    "illustratorIds": [
+      "otokita-takao",
+      "tobe-atsushi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "剣士としては平凡と見なされていた16歳の少年デュアン・サークは、旅の途中で秘めた魔法の才能に目覚める。老練な戦士オルバや魔術師アグネスとともに各地を巡りながら、数々の依頼や事件を乗り越え、やがて伝説と呼ばれる英雄へと成長していく王道ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版「デュアン・サーク」を参照。著者深沢美潮は既存収録作『フォーチュン・クエスト』と同一人物のため既存IDを再利用。イラストレーターは第1部担当のおときたたかおと第2部以降担当の戸部淑の両名を新規追加。受賞歴の記載は確認できず、アニメ化なし(コミカライズのみ)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デュアン・サーク"
+    }
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naruzo",
+    "title": "歴史に残る悪女になるぞ 悪役令嬢になるほど王子の溺愛は加速するようです!",
+    "titleKana": "れきしにのこるあくじょになるぞ あくやくれいじょうになるほどおうじのできあいはかそくするようです",
+    "authorIds": [
+      "ookido-izumi"
+    ],
+    "illustratorIds": [
+      "hayase-jun"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akujo",
+      "akuyaku-reijou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "前世の記憶を持つ公爵令嬢アリシアは、遊んでいた乙女ゲームの世界で自ら望んで「悪役令嬢」の道を極め、歴史に名を残す稀代の悪女になろうと画策する。しかし振る舞いを重ねるほど氷の王子デュークの寵愛は深まり、聖女リズとの関係も変化していく。悪を目指すほど幸せになる逆説的な溺愛コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版記事より基本情報を確認。2024年10〜12月にアニメ放送。累計140万部超(2024年9月時点)。既刊9巻(2026年1月刊行分まで確認)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/歴史に残る悪女になるぞ"
+    }
+  },
+  {
+    "id": "kyou-kara-akujo-ni-narimasu",
+    "title": "今日から悪女になります! 使い捨ての身代わり聖女なんてごめんです",
+    "titleKana": "きょうからあくじょになります! つかいすてのみがわりせいじょなんてごめんです",
+    "authorIds": [
+      "onogami-akeyo"
+    ],
+    "illustratorIds": [
+      "miyama-kiri"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akujo",
+      "fukushuu",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "聖女レオノーラの身代わりとして奇跡の力で人々を癒し続けた侍女エーダは、力を使い果たした末に見捨てられ川に投げ込まれる。傭兵グロウに救われた彼女は、偽りの聖女への復讐を誓い、自らの意志で「悪女」となることを選ぶ。聖女としての力を武器に国と姫を追い詰めていく成り上がりラブファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BookWalker/Amazon/一迅社刊行情報より確認。BookWalkerでは小説「全2件」表示のため完結と推定したが公式な完結表記は未確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kitai-no-akujo-sandome-no-jinsei",
+    "title": "稀代の悪女、三度目の人生で【無才無能】を楽しむ",
+    "titleKana": "きたいのあくじょ、さんどめのじんせいでむさいむのうをたのしむ",
+    "authorIds": [
+      "arashi-hanako"
+    ],
+    "illustratorIds": [
+      "yabi-wan"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akujo",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "前々世は「稀代の悪女」と恐れられた天才魔法師、前世は86歳で大往生した日本人という記憶を持つラビアンジェは、三度目の人生を「無才無能」の公爵令嬢として気ままに生きている。祖母のような胆力と隠された実力で周囲の悪意をいなしつつ、嫌われ令嬢が次第に周囲を魅了していくコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BookWalker/KADOKAWA商品ページより確認。既刊巻数について情報源間で5巻/6巻の表記揺れあり(2026年1月に第5巻刊行を確認)。",
+    "externalLinks": {}
+  },
+  {
+    "id": "koukyuu-ichiban-no-akujo",
+    "title": "後宮一番の悪女",
+    "titleKana": "こうきゅういちばんのあくじょ",
+    "authorIds": [
+      "yuzuhara-tail"
+    ],
+    "illustratorIds": [
+      "minado"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "akujo",
+      "chuuka-fantasy",
+      "romance",
+      "naisei"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "化粧で絶世の美女に変身できる地味顔の令嬢琳麗は、父にだまされ後宮に送り込まれる。後宮解体を目論む皇帝と「妃たちを全員追い出せば自由にする」と取引した琳麗は、化粧の力を武器に自ら「後宮一番の悪女」を演じ、権謀渦巻く後宮を策略で渡り歩いていく痛快な後宮ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "紀伊國屋書店/HMV/KADOKAWA商品ページより確認。既刊3巻(2024年7月刊行分)まで確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "seiren-na-reijou-wa-akujo-ni-naritai",
+    "title": "清廉な令嬢は悪女になりたい ～父親からめちゃくちゃな依頼をされたので、遠慮なく悪女になります！～",
+    "titleKana": "せいれんなれいじょうはあくじょになりたい",
+    "authorIds": [
+      "ei"
+    ],
+    "illustratorIds": [
+      "tsukito"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akujo",
+      "romance",
+      "isekai-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "貧しい地方領主の娘マリーは、病に伏す姫の身代わり出産という父親の非道な依頼を突きつけられる。幸せな結婚を諦めた彼女は報酬目当てに開き直り、自ら「悪女」を名乗って城に乗り込む。姫そっくりの容姿を武器に宮廷の陰謀と渡り合いながら、したたかに自分の幸せをつかみ取っていく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "アリアンローズ公式サイトより確認。小説家になろう発、2022年11月頃書籍化。続刊・コミカライズの有無は未確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "botsuraku-reijou-no-akutou-sanka",
+    "title": "没落令嬢の悪党賛歌",
+    "titleKana": "ぼつらくれいじょうのあくとうさんか",
+    "authorIds": [
+      "mochimochi-busshitsu"
+    ],
+    "illustratorIds": [
+      "peperon"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akujo",
+      "fukushuu",
+      "isekai-fantasy",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "名門フォルテシア家の令嬢ヴァイオリアは、王子暗殺の濡れ衣を着せられ家は没落、自身は逃亡犯となる。倫理観をかなぐり捨てた彼女は裏社会の犯罪者たちと手を組み、自らを陥れた国家権力への復讐を掲げて悪党として生きることを選ぶ。明るく破天荒な立ち回りで裏社会を駆け上がる反逆譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小説家になろう掲載ページ、書誌検索結果(ISBN)より確認。上下巻構成のため完結と推定したが公式な完結表記は直接確認できていない。",
+    "externalLinks": {}
+  },
+  {
+    "id": "dobotehen-reijou-ni-hyoui-shita-akujo",
+    "title": "ど底辺令嬢に憑依した800年前の悪女はひっそり青春を楽しんでいる。",
+    "titleKana": "どぼってへんれいじょうにひょういしたはっぴゃくねんまえのあくじょはひっそりせいしゅんをたのしんでいる",
+    "authorIds": [
+      "yui-regina"
+    ],
+    "illustratorIds": [
+      "toyota-saori"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "akujo",
+      "isekai-fantasy",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "かつて「稀代の悪女」として恐れられ、その罪ゆえに800年間封印されていたノーラ＝ノーズは、死を望む「枯草令嬢」シシリーの体に憑依して蘇る。大罪人としての凄みと自由奔放な悪女らしい振る舞いで、いじめられっ子だったシシリーの学園生活をひっそりと変えていく異世界コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Amazon商品情報(2023年11月15日刊行)、コミカライズ告知情報より確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "shakoukai-no-dokufu-to-yobareru-watashi",
+    "title": "社交界の毒婦とよばれる私～素敵な辺境伯令息に腕を折られたので、責任とってもらいます～",
+    "titleKana": "しゃこうかいのどくふとよばれるわたし",
+    "authorIds": [
+      "kurusu-mikan"
+    ],
+    "illustratorIds": [
+      "minsuke"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akujo",
+      "romance",
+      "comedy",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "空気を読むのが得意なセレナは、悲劇のヒロインになりたい異母妹マリンの望みどおり、社交界で「毒婦」の悪役を演じ続けている。ある日、辺境伯令息リオに腕をつかまれて骨折させてしまったことをきっかけに、演じ続けてきた悪女の仮面と本当の自分の人生が動き出していく令嬢コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "検索結果(2024年4月10日刊行、2025年11月に5〜6巻予告)より確認。イラストレーター名・巻数の一次情報での裏付けはやや弱く要再確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "shinmai-ossan-boukensha-saikyou-party",
+    "title": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
+    "titleKana": "しんまいおっさんぼうけんしゃ、さいきょうパーティにしぬほどきたえられてむてきになる。",
+    "authorIds": [
+      "kishima-kiraku"
+    ],
+    "illustratorIds": [
+      "tea-illustrator"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "dungeon",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "冴えない30歳の会社員リックは、大陸最強と噂される冒険者パーティ「オリハルコン・フィスト」のS級冒険者リーネットに見込まれ、地獄のような2年間の特訓に付き合わされる羽目になる。並外れた実力を身につけたリックは、パーティの仲間たちと共に伝説の強敵討伐という新たな目標に挑んでいく、鍛錬と友情を軸にしたパーティ冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事を情報源とした。イラストレーターTea、出版社HJノベルスは既存ID(tea-illustrator, hj-novels)を再利用。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。"
+    }
+  },
+  {
+    "id": "blade-and-bastard",
+    "title": "ブレイド&バスタード",
+    "titleKana": "ぶれいどあんどばすたーど",
+    "authorIds": [
+      "kagyuu-kumo"
+    ],
+    "illustratorIds": [
+      "so-bin"
+    ],
+    "publisherId": "dre-novels",
+    "themeIds": [
+      "dark-fantasy",
+      "dungeon",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "「迷宮」と呼ばれる巨大ダンジョンで死体回収を生業とする冒険者イアルマスは、記憶の中にぽっかりと空いた自らの過去への手がかりを求め、危険な階層へと潜り続けている。新人盗賊ララジャをはじめとする熟練の仲間たちと固いパーティを組み、迷宮の奥深くへと挑んでいく、往年のRPGを思わせる硬派なダークファンタジー作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。著者蝸牛くも・イラストso-binは既存ID再利用(ゴブリンスレイヤーと同一人物)。アニメ化は2027年放送予定として公式発表済み(本レポート時点で未放送)。3DダンジョンRPG『ウィザードリィ』へのリスペクト作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブレイド&バスタード"
+    }
+  },
+  {
+    "id": "kenja-no-deshi-wo-nanoru-kenja",
+    "title": "賢者の弟子を名乗る賢者",
+    "titleKana": "けんじゃのでしをなのるけんじゃ",
+    "authorIds": [
+      "ryuusen-hirotsugu"
+    ],
+    "illustratorIds": [
+      "fuji-choko"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "vrmmo",
+      "dungeon",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "かつて九賢者の一人だった主人公ミラは、ある事情で女児の姿に変わってしまい、体面を保つため自ら「賢者の弟子」を名乗って活動を始める。冒険者ギルドの等級制度のもとパーティを組んで様々な依頼をこなし、各地の巨大組織や陰謀とも渡り合いながら、自らの正体を隠しつつ実力者としての道を歩んでいく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。2012年よりWeb版「小説家になろう」連載、2014年書籍化。イラスト藤ちょこは既存ID(fuji-choko)を再利用。TVアニメは2022年放送。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の弟子を名乗る賢者"
+    }
+  },
+  {
+    "id": "hell-mode",
+    "title": "ヘルモード〜やり込み好きのゲーマーは廃設定の異世界で無双する〜",
+    "titleKana": "へるもーど やりこみずきのゲーマーははいせっていのいせかいでむそうする",
+    "authorIds": [
+      "hamuo"
+    ],
+    "illustratorIds": [
+      "mo-hellmode"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "battle-action",
+      "adventure",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "35歳のサラリーマンは、通常の100倍の難易度を誇る「ヘルモード」で異世界に転生し、貧しい農奴の子アレンとして人生をやり直すことになる。勇者と魔王が争う世界で数々の技能や召喚獣を駆使して着実に力をつけたアレンは、気の合う仲間とパーティ「廃ゲーマー」を結成し、魔王打倒を目指して各地を巡る冒険の旅に出る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。2019年より「小説家になろう」連載。TVアニメは第1期2026年1〜3月、第2期2026年7月〜放送。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヘルモード_～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+    }
+  },
+  {
+    "id": "katainaka-no-ossan-kensei-ni-naru",
+    "title": "片田舎のおっさん、剣聖になる",
+    "titleKana": "かたいなかのおっさん、けんせいになる",
+    "authorIds": [
+      "sagasaki-shigeru"
+    ],
+    "illustratorIds": [
+      "nabeshima-tetsuhiro"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "片田舎の村で剣術指南役を務める、自己評価の低い中年男性ベリル。かつての教え子たちが次々と国内屈指の実力者へと成長していく中、当人だけが気づかぬまま「片田舎の剣聖」として名を轟かせていた。やがて王国騎士団の指南役に招かれたベリルは、頼れる教え子たちと肩を並べ、新たな冒険と人間関係の中に身を投じていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。2020年よりWeb版連載。コミック版が複数のマンガ賞を受賞しているが、小説作品自体の受賞歴には含めていない。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片田舎のおっさん、剣聖になる"
+    }
+  },
+  {
+    "id": "koko-wa-ore-ni-makasete-densetsu-ni-natteita",
+    "title": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+    "titleKana": "ここはおれにまかせてさきにいけといってからじゅうねんがたったらでんせつになっていた。",
+    "authorIds": [
+      "ezo-gingitsune"
+    ],
+    "illustratorIds": [
+      "deecha"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "dungeon",
+      "adventure",
+      "battle-action",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "異次元からの侵攻に立ち向かった冒険者パーティの中で、魔導士ラックはただ一人「ここは俺に任せて先に行け」と仲間を逃がし、たった一人で殿を務め続けることを選ぶ。10年後、生還を果たしたラックは知らぬ間に伝説の英雄として讃えられ、大公爵の身分まで得ており、離れ離れになっていた旧き仲間たちとの再会が待ち受けていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。イラストDeeCHAは既存ID(deecha)を再利用。小説版は2022年に連載終了(完結)、漫画版は継続中。TVアニメは2026年7月放送開始。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。"
+    }
+  },
+  {
+    "id": "ore-wa-subete-wo-parry-suru",
+    "title": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
+    "titleKana": "おれはすべてをパリイする さかかんちがいのせかいさいきょうはぼうけんしゃになりたい",
+    "authorIds": [
+      "nabeshiki"
+    ],
+    "illustratorIds": [
+      "kawaguchi-illust"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "dungeon",
+      "adventure",
+      "battle-action",
+      "ken-to-mahou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "才能なしと見なされ見捨てられていた少年ノールは、唯一使える防御技能「パリイ」をひたすら磨き続けた結果、誰にも気づかれぬまま世界最強の実力者になっていた。自分の異常さをまるで自覚しないまま最低ランクの冒険者としてギルドに登録し、慎ましい冒険者生活を望むものの、行く先々で大きな騒動を巻き起こしてしまう。",
+    "awardResults": [
+      {
+        "awardId": "narou-nenkan-ranking",
+        "year": 2020,
+        "result": "年間総合ランキング1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "ja.wikipedia.org作品記事より。2019年よりWeb版連載。TVアニメ第1期は2024年7〜9月放送、第2期制作決定。2024年12月時点でシリーズ累計100万部突破。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺は全てを【パリイ】する"
+    }
+  },
+  {
+    "id": "saijo-no-osewa",
+    "title": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+    "titleKana": "さいじょのおせわ",
+    "authorIds": [
+      "sakaishi-yuusaku"
+    ],
+    "illustratorIds": [
+      "miwabe-sakura"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "butler-maid",
+      "mibunsa-romance",
+      "seishun-lovecome",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "貧しさゆえに両親にも見捨てられた高校生・友成樹は、財閥令嬢の誘拐事件をきっかけに、名門校随一の令嬢ながら生活能力が皆無という令嬢の「お世話係」として陰ながら生活を支えることになる。完璧なお嬢様という表の顔と、だらしない素顔とのギャップを軸に育まれる主従の恋を描く学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "日本語版Wikipedia「才女のお世話」記事で著者・イラスト・レーベル・巻数(12巻,2026年7月時点)・2026年7月アニメ化・2021年7月コミカライズ開始を確認。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/才女のお世話"
+    }
+  },
+  {
+    "id": "sajou-maid-senkan-kissa",
+    "title": "砂上メイド戦艦喫茶あぽかりぷちゅへようこそ",
+    "titleKana": "さじょうめいどせんかんきっさあぽかりぷちゅへようこそ",
+    "authorIds": [
+      "kurata-wasan"
+    ],
+    "illustratorIds": [
+      "carol"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "butler-maid",
+      "sf",
+      "post-apocalypse",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "正体不明の大量降砂によって砂に呑まれた近未来日本。砂漠をさまよう少女セグメは、戦艦の形をした移動式メイドカフェ「あぽかりぷちゅ」に拾われ、見習いメイドとして働き始める。艦長兼メイド長の指導のもと、時に戦って人々を救い出しながら、少女は「かわいい」の意味を見つめ直していく。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2025,
+        "result": "第32回電撃小説大賞 銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "電撃文庫公式サイトで著者・イラスト・発売日(2026年6月)・巻数・第32回電撃小説大賞銀賞受賞(2025年11月発表)を確認。刊行間もないため巻数・メディア展開は今後増える可能性あり。",
+    "externalLinks": {}
+  },
+  {
+    "id": "saikyou-no-kensei-bishoujo-maid",
+    "title": "最強の剣聖、美少女メイドに転生し箒で無双する",
+    "titleKana": "さいきょうのけんせい、びしょうじょめいどにてんせいしほうきでむそうする",
+    "authorIds": [
+      "mikazuki-neko"
+    ],
+    "illustratorIds": [
+      "azu-tarou"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "butler-maid",
+      "tsf",
+      "ken-to-mahou",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "歴代最強と謳われた剣聖アーノイックが、目を奪うほどの美少女メイド・アネットとして生まれ変わった。今度こそ平穏に暮らしたいと願っていたが、仕える伯爵令嬢が何者かに攫われたことをきっかけに、隠していた剣技を手持ちの箒に乗せて振るい、かつての力を解放していくことになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "オーバーラップ公式サイトで著者・イラスト・あらすじを確認。巻数(4巻)・コミカライズ(コミックガルド版)は複数の書店サイトで確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "isekai-maid-no-mitsuboshi-gourmet",
+    "title": "異世界メイドの三ツ星グルメ ～現代ごはん作ったら王宮で大バズリしました～",
+    "titleKana": "いせかいめいどのみつぼしぐるめ",
+    "authorIds": [
+      "morita-author"
+    ],
+    "illustratorIds": [
+      "nima"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "butler-maid",
+      "isekai-tensei",
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "異世界に転生した少女シャーリィは、ある日前世が現代日本人だった記憶を取り戻す。城で働くメイドとなった彼女は、記憶にある料理を作って王子のおやつとして振る舞い始め、王宮の伝統菓子とはまるで違う現代グルメが評判を呼び、思いがけない騒動を巻き起こしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "国立国会図書館サーチで著者(モリタ)・レーベル(Kラノベブックス)・巻数と発売年(1巻2022年12月、2巻2023年7月)を確認。イラストは講談社ラノベ公式ページで確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "saikin-yatotta-dokusenyoku-no-tsuyoi-bishoujo-maid",
+    "title": "最近雇った独占欲の強い美少女メイドが、実は王女様だった。",
+    "titleKana": "さいきんやとったどくせんよくのつよいびしょうじょめいどが、じつはおうじょさまだった",
+    "authorIds": [
+      "kouzuki-maid-author"
+    ],
+    "illustratorIds": [
+      "touchi"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "butler-maid",
+      "mibunsa-romance",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "最近雇ったメイドのシアナは、未経験のはずなのに家事を完璧にこなす優秀さで主人公の世話を焼く。女性関係を心配してみせたり、噂の第三王女の評判をやたら気にしたりと様子がおかしいが、実は彼女こそがその王女本人だった。無自覚な優しさを振りまく主人と独占欲の強いメイドの身分差ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "GA文庫公式サイト(ga.sbcr.jp)で著者・イラスト・発売日(1巻2025年6月)・あらすじを確認。カクヨム発。",
+    "externalLinks": {}
+  },
+  {
+    "id": "botsuraku-reijou-maid-ni-narimasu",
+    "title": "没落令嬢、貧乏騎士のメイドになります",
+    "titleKana": "ぼつらくれいじょう、びんぼうきしのめいどになります",
+    "authorIds": [
+      "emoto-mashimesa"
+    ],
+    "illustratorIds": [
+      "matsurika-youko"
+    ],
+    "publisherId": "bk-books",
+    "themeIds": [
+      "butler-maid",
+      "mibunsa-romance",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "「絶世の薔薇」と呼ばれた伯爵令嬢アグネスは、社交界で貧乏騎士バーナードに素っ気なくされる。五年後、父の不祥事で家が没落したアグネスに、バーナードは意趣返しのようにメイドとして雇うと申し出る。冷え切った関係から始まった主従生活の中で、二人の間に少しずつ本当の想いが芽生えていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER BKブックスシリーズページで著者・イラスト・発売開始(2024年7月)・巻数(全3巻)・あらすじを確認。コミカライズ版既刊5巻を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "daidassou-mob-maid",
+    "title": "大脱走モブメイドがゆく無敵キャラ溺愛最短ルート",
+    "titleKana": "だいだっそうもぶめいどがゆくむてききゃらできあいさいたんるーと",
+    "authorIds": [
+      "machidori-sonoko"
+    ],
+    "illustratorIds": [
+      "surada-mami"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "butler-maid",
+      "isekai-tensei",
+      "mibunsa-romance",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "気づけば乙女ゲームの世界に、名もないモブメイドとして転生していた主人公。本来ヒロインではないはずなのに、なぜか「無敵キャラ」と呼ばれる攻略対象に見初められ、溺愛される展開に巻き込まれていく。モブの立場から始まる、身分違いの恋愛ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "一迅社公式サイト・国立国会図書館サーチで著者・イラスト・レーベル(一迅社文庫アイリス)・刊行(2026年8月/1巻)を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "class-no-pride-takame-na-ojousama",
+    "title": "クラスのプライド高めなお嬢様。家では俺のメイド",
+    "titleKana": "くらすのぷらいどたかめなおじょうさま。いえではおれのめいど",
+    "authorIds": [
+      "haran-tsumugu"
+    ],
+    "illustratorIds": [
+      "unasaka"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "butler-maid",
+      "mibunsa-romance",
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "一人暮らしの高校生・東真之介が家事代行を頼むと、現れたのはクラスで近寄りがたいお嬢様として知られる同級生・仁科川姫乃だった。学校では誰も寄せ付けない完璧な令嬢が、家では料理や掃除をこなすメイドとして素顔を見せていく、身分差と学園生活が交差するラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "国立国会図書館サーチ・富士見ファンタジア文庫関連の書店サイトで著者・イラスト・発売(2023年9月)を確認。続巻・コミカライズ・アニメ化情報は確認できず。",
+    "externalLinks": {}
+  },
+  {
+    "id": "charlotte-toaru-jijo-no-shirozukae-monogatari",
+    "title": "シャーロット～とある侍女の城仕え物語～",
+    "titleKana": "しゃーろっと～とあるじじょのしろづかえものがたり～",
+    "authorIds": [
+      "moriu-author"
+    ],
+    "illustratorIds": [
+      "tsukito"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "butler-maid",
+      "isekai-fantasy",
+      "adventure",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "一年前に両親が失踪した少女シャーロットは、城で侍女として働きながら二人の帰りを待ち続けている。ある日家に見知らぬ男が現れ、彼女は木剣を握って立ち向かう。涙と痛みを隠して笑う侍女の成長と、失踪した両親をめぐる謎を描く物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "コミックシーモアのコミック版クレジット表記(原作:守雨)で著者名を確認。HJノベルスから上下巻(2024年3月)刊行、コミカライズ版は全4巻完結を確認。イラストレーター名「月戸」はコミック版のキャラクターデザインクレジットからの推定。",
+    "externalLinks": {}
+  },
+  {
+    "id": "genjitsu-de-lovecome-dekinai-to-dare-ga-kimeta",
+    "title": "現実でラブコメできないとだれが決めた？",
+    "titleKana": "げんじつでラブコメできないとだれがきめた",
+    "authorIds": [
+      "hajikano-sou"
+    ],
+    "illustratorIds": [
+      "shiina-kuro"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "ライトノベルに憧れる高校生・長坂耕平は、都合よく恋愛イベントが起こらない現実に苛立ちながらも、統計データや行動分析を駆使して理想の『ラブコメ的状況』を自らの手で作り出そうと計画する。非モテで理屈っぽい主人公が、同級生たちを巻き込みながら試行錯誤を重ね、作られた偶然の先にある本物の感情に気づいていく異色の学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2019,
+        "result": "第14回優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "小学館ライトノベル大賞Wikipedia記事、BOOK☆WALKER、書店紹介文等で確認。マンガUP!/ビッグガンガンにてコミカライズ連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/現実でラブコメできないとだれが決めた？"
+    }
+  },
+  {
+    "id": "natsu-no-owari-to-reset-kanojo",
+    "title": "夏の終わりとリセット彼女",
+    "titleKana": "なつのおわりとリセットかのじょ",
+    "authorIds": [
+      "sakaida-yoshitaka"
+    ],
+    "illustratorIds": [
+      "ueda-ryou"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "高校2年の夏休み、学年一の優等生として知られる桜間さんが事故に遭い記憶を失ってしまう。恋人だったはずの主人公のことも綺麗さっぱり忘れられ、二学期に気まずい再会を果たした二人は、風紀委員としての活動をきっかけに、ゼロどころかマイナスの関係から少しずつやり直していくことになる、瑞々しくもほろ苦い一夏の青春ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2013,
+        "result": "第8回優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "BOOK☆WALKER・小学館ライトノベル大賞Wikipedia記事で確認。単独Wikipedia記事は存在しない。イラストレーター植田亮は既存illustrator idを再利用。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tonari-no-alya-san",
+    "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
+    "titleKana": "ときどきボソッとロシアごでデレるとなりのアーリャさん",
+    "authorIds": [
+      "sansan-sun"
+    ],
+    "illustratorIds": [
+      "momoko-illustrator"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "才色兼備なロシア系ハーフの美少女・アーリャは、隣の席に座るアニメ好きの久世政近に対し、素直になれない本音をロシア語でぼそっと呟く癖がある。政近が実はロシア語を理解できることを知らないまま繰り広げられる言動のギャップが、学園中を巻き込みながら二人の距離を少しずつ縮めていく、じれったくも甘酸っぱい学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "文庫部門3位"
+      },
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2022,
+        "result": "3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2024年テレビアニメ放送、コミカライズも連載中。巻数は本編+短編集の合計。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時々ボソッとロシア語でデレる隣のアーリャさん"
+    }
+  },
+  {
+    "id": "danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
+    "title": "男女の友情は成立する？（いや、しないっ！！）",
+    "titleKana": "だんじょのゆうじょうはせいりつする？（いや、しないっ！！）",
+    "authorIds": [
+      "nanana-nana"
+    ],
+    "illustratorIds": [
+      "parum"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "中学時代からの親友同士である夏目悠宇と犬塚日葵は、いつか二人でフラワーアクセサリーの店を開くという夢を誓い合っていた。ところが高校進学後、悠宇に想いを寄せる転校生が現れたことをきっかけに、友情だけでは説明できない日葵自身の揺れ動く感情が明らかになっていく、幼なじみたちの複雑な三角関係を描く青春ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2025年テレビアニメ放送、月刊コミック電撃大王にてコミカライズ連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/男女の友情は成立する？（いや、しないっ！！）"
+    }
+  },
+  {
+    "id": "kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka",
+    "title": "可愛ければ変態でも好きになってくれますか？",
+    "titleKana": "かわいければへんたいでもすきになってくれますか？",
+    "authorIds": [
+      "hanama-tomoshibi"
+    ],
+    "illustratorIds": [
+      "sune-illustrator"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "教室の机に下着入りのラブレターを発見した主人公は、差出人の正体を探るうちに、清楚で優等生に見える同級生たちがそれぞれ人には言えない特殊な性癖を隠し持っていることを次々に知ってしまう。互いの秘密を共有する関係から始まる、癖の強いヒロインたちとのドタバタ学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2019年テレビアニメ放送、月刊ドラゴンエイジでコミカライズ。シリーズ累計100万部突破。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/可愛ければ変態でも好きになってくれますか？"
+    }
+  },
+  {
+    "id": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-janai",
+    "title": "俺が好きなのは妹だけど妹じゃない",
+    "titleKana": "おれがすきなのはいもうとだけどいもうとじゃない",
+    "authorIds": [
+      "ebisu-seiji"
+    ],
+    "illustratorIds": [
+      "gintarou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "妹の身代わりとしてライトノベルの新人賞に応募した原稿が受賞してしまったことから、高校生の兄はゴーストライターとして小説を書き続けることになる。表向きは平凡な兄妹を演じながら、互いに抱く複雑な想いと創作にかける情熱が絡み合っていく、シスコン気味の兄と妹の関係を描く学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。2018年テレビアニメ放送、コミカライズ全4巻。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺が好きなのは妹だけど妹じゃない"
+    }
+  },
+  {
+    "id": "boku-no-kanojo-sensei",
+    "title": "僕のカノジョ先生",
+    "titleKana": "ぼくのカノジョせんせい",
+    "authorIds": [
+      "kagami-yuu"
+    ],
+    "illustratorIds": [
+      "oryou"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "幼少期のトラウマから教師嫌いになった高校生・悠人は、担任を務める美人英語教師から『先生であることを隠して恋人になりたい』と告白される。秘密の交際が始まったことをきっかけに、生徒会長や幼なじみ、実の妹まで加わった賑やかな争奪戦へと発展していく、教師と生徒の禁断のハーレムラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。既存著者ID『kagami-yuu』(鏡遊)を再利用。コミカライズは2026年時点で連載継続中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕のカノジョ先生"
+    }
+  },
+  {
+    "id": "gimai-seikatsu",
+    "title": "義妹生活",
+    "titleKana": "ぎまいせいかつ",
+    "authorIds": [
+      "mikawa-goosuto"
+    ],
+    "illustratorIds": [
+      "hiten"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "両親の離婚と再婚をきっかけに、高校2年生の浅村悠太は義理の妹となった綾瀬沙季と一つ屋根の下で暮らし始める。互いに深入りしすぎない『適切な距離感』を保つ約束のもと、干渉し合わない生活を送っていた二人だったが、日々を共に過ごすうちに少しずつ互いへの意識が変化していく、静かで丁寧な現代の義理きょうだいラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "文庫部門7位"
+      },
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2021,
+        "result": "書き下ろし新作部門2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版で確認。既存著者ID『mikawa-goosuto』(三河ごーすと)・既存イラストレーターID『hiten』(Hiten)を再利用。2024年テレビアニメ放送、少年エースplusでコミカライズ連載中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/義妹生活"
+    }
+  },
+  {
+    "id": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+    "title": "世界最高の暗殺者、異世界貴族に転生する",
+    "titleKana": "せかいさいこうのあんさつしゃ、いせかいきぞくにてんせいする",
+    "authorIds": [
+      "tsukiyo-rui"
+    ],
+    "illustratorIds": [
+      "reia"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "spy-assassin",
+      "isekai-tensei",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "隠居を望んでいた伝説の暗殺者が仲間の裏切りで命を落とし、異世界の貴族の子として転生する。女神から「十八年後に世界を滅ぼす勇者」の暗殺を依頼された彼は、前世の暗殺技術と魔法を磨きながら幼少期から準備を進め、標的である少女とも関わりつつ運命に立ち向かっていく。",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "文庫部門4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版、BOOK☆WALKER、KADOKAWA公式で確認。web連載は2018年開始、書籍化は2019年2月。アニメは2021年10-12月放送、続編制作決定。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界最高の暗殺者、異世界貴族に転生する"
+    }
+  },
+  {
+    "id": "hazure-skill-kage-ga-usui-guild-shokuin-densetsu-no-ansatsusha",
+    "title": "外れスキル「影が薄い」を持つギルド職員が、実は伝説の暗殺者",
+    "titleKana": "はずれすきる「かげがうすい」をもつぎるどしょくいんが、じつはでんせつのあんさつしゃ",
+    "authorIds": [
+      "kennoji"
+    ],
+    "illustratorIds": [
+      "kwkm"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "spy-assassin",
+      "isekai-fantasy",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "史上最強と謳われた暗殺者ロランは、魔王を単独で討伐した後、普通の生活に憧れて冒険者ギルドの下っ端職員に転身する。「影が薄い」という一見ハズレのスキルで目立たぬよう振る舞う一方、裏では国王すら頭が上がらない伝説の暗殺者として暗躍する二重生活を描くギャップコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "カドカワBOOKS公式・カクヨム原作ページ・BOOK☆WALKERで確認。1巻2019年3月刊、9巻2026年2月刊を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "nokutaan-tatantantantatan",
+    "title": "のくたーんたたんたんたんたたん",
+    "titleKana": "のくたーんたたんたんたんたたん",
+    "authorIds": [
+      "murasaki-amari"
+    ],
+    "illustratorIds": [
+      "oryou"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "spy-assassin",
+      "fukushuu",
+      "gendai-drama",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "父を殺した謎の存在「亡霊」への復讐を誓った少年・緋野ユズリハは、五年後、裏社会で「死神」と恐れられる殺し屋に成長していた。ある日、何度殺されても悪魔との契約で蘇る不老不死の魔女と出会い、彼女と手を組んで依頼をこなしながら亡霊の正体に迫っていく、現代を舞台にした復讐×バディアクション。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2022,
+        "result": "第18回最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "KADOKAWA公式商品ページ、honto、BOOK☆WALKER等で確認。刊行は2022年11月25日の全1巻。",
+    "externalLinks": {}
+  },
+  {
+    "id": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-daga",
+    "title": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
+    "titleKana": "あんさつしゃであるおれのすてーたすがゆうしゃよりもあきらかにつよいのだが",
+    "authorIds": [
+      "akai-matsuri"
+    ],
+    "illustratorIds": [
+      "touzai"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "spy-assassin",
+      "isekai-fantasy",
+      "gakuen",
+      "battle-action",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "存在感の薄い高校生・織田晶は、クラスメイトごと異世界に召喚され「暗殺者」の職業を得る。しかし彼のステータスは同級生の勇者を遥かに凌ぐものだった。召喚の首謀者である国王の言動に不信を抱いた晶は、迷宮で出会った仲間と共に真実を追い、自らの力で運命を切り開いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "sourceNote": "Wikipedia日本語版、オーバーラップ公式サイトで確認。web連載2017年開始、書籍1巻2017年11月刊、5巻2025年9月刊。アニメは2025年10-12月放送。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/暗殺者である俺のステータスが勇者よりも明らかに強いのだが"
+    }
+  },
+  {
+    "id": "moto-ansatsusha-tensei-shite-kizoku-no-reijou-ni-narimashita",
+    "title": "元暗殺者、転生して貴族の令嬢になりました。",
+    "titleKana": "もとあんさつしゃ、てんせいしてきぞくのれいじょうになりました。",
+    "authorIds": [
+      "otonashi-satsuki"
+    ],
+    "illustratorIds": [
+      "mirea"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "spy-assassin",
+      "isekai-tensei",
+      "romance",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "物心つく前から暗殺者として育てられた主人公は、王太子暗殺の任務中に命を落とし、公爵令嬢セレナとして異世界に転生する。冷徹な暗殺者としての性分ゆえに周囲と噛み合わず孤立しながらも、令嬢になりすまして生き延びようとする彼女の前に第一王子が現れ、事件の謎に巻き込まれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "PASH!ブックス公式で1巻(2022年8月)・2巻(2023年8月)を確認。3巻以降の存在は情報源が錯綜し確認しきれなかった。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tefuda-ga-oome-no-victoria",
+    "title": "手札が多めのビクトリア",
+    "titleKana": "てふだがおおめのびくとりあ",
+    "authorIds": [
+      "moriu"
+    ],
+    "illustratorIds": [
+      "fujimi-nanna"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "spy-assassin",
+      "isekai-fantasy",
+      "romance",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "かつて凄腕の工作員として組織に尽くしてきたビクトリアは、組織を抜けて新天地で平民として生きる道を選ぶ。「手札(スキルカード)を支配する者が世界を制す」という力を武器に、歴史学者の助手や語学教師など様々な仕事をこなすうちに、自分の中にあった孤独や欠けていたものに気づいていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "MFブックス公式で書籍化2022年7月・少なくとも4巻の刊行を確認。最新刊の巻数・発売年は情報源間で食い違いがあり、確定できた範囲で記載。",
+    "externalLinks": {}
+  },
+  {
+    "id": "moto-spy-kaseifu-ni-tenshoku-suru",
+    "title": "元スパイ、家政夫に転職する",
+    "titleKana": "もとすぱい、かせいふにてんしょくする",
+    "authorIds": [
+      "akihara-taku"
+    ],
+    "illustratorIds": [
+      "hario-ai"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "spy-assassin",
+      "comedy",
+      "romance",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "秘密組織「フルピース」の諜報部員として活躍してきた野宮クロウは、第一線を退き、ある一家の家政夫に転職する。スパイ時代に培った観察力や交渉術、戦闘技術を炊事洗濯やご近所トラブルの解決、三姉妹の相談ごとに応用していく、アットホームなスパイエンターテインメントコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2020,
+        "result": "第5回ラブコメ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "角川スニーカー文庫公式・カクヨム受賞発表で確認。1巻2020年12月、2巻2021年5月刊行を確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "tsuihou-sareta-node-ansatsu-ikka-jikiden-no-kage-mahou-de-oujo-no-goei-hajimemashita",
+    "title": "追放されたので、暗殺一家直伝の影魔法で王女の護衛はじめました!～でも、暗殺者なのに人は殺したくありません～",
+    "titleKana": "ついほうされたので、あんさついっかじきでんのかげまほうでおうじょのごえいはじめました",
+    "authorIds": [
+      "kemuri-u"
+    ],
+    "illustratorIds": [
+      "fuku-kitsune"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "spy-assassin",
+      "tsuihou",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "暗殺者の家系に生まれ育った青年ノアは、暗殺者であることを理由に勇者パーティを追放されてしまう。幼馴染である第二王女ルビアの推薦で護衛となった彼は、国王が課した試練を乗り越えながら、人を殺したくないという信念を貫きつつ、暗殺一家伝来の影魔法で王女を守り抜いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "sourceNote": "ツギクルブックス公式で1巻(2021年9月)刊行を確認。巻数はコミカライズ版の巻数と混同されている可能性があり、正確な最終巻・完結年は未確認。",
+    "externalLinks": {}
+  },
+  {
+    "id": "kokou-no-ansatsusha-dakedo-hyouteki-no-shimai-to-kurashiteimasu",
+    "title": "孤高の暗殺者だけど、標的の姉妹と暮らしています",
+    "titleKana": "ここうのあんさつしゃだけど、ひょうてきのしまいとくらしています",
+    "authorIds": [
+      "arisawa-yuu"
+    ],
+    "illustratorIds": [
+      "muninshiki"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "spy-assassin",
+      "comedy",
+      "gendai-drama",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "政府に所属する凄腕の暗殺者ミナトは、亡き師匠の遺志により、本来は始末すべき師匠の遺族――義娘と実の娘の姉妹――と家族として暮らすことになる。秘密だらけの三人が繰り広げる、暗殺者と標的候補という奇妙な関係から始まる凸凹な日常を描くホームコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "sourceNote": "GA文庫公式で1巻(2023年2月)・2巻の刊行を確認。3巻以降・メディアミックス情報は見つからず。",
+    "externalLinks": {}
   }
 ]

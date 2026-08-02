@@ -319,5 +319,59 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版を参照(2026年8月時点)。",
     "updatedAt": "2026-08-01"
+  },
+  {
+    "id": "alphapolis-fantasy-shousetsu-taisho",
+    "name": "アルファポリスファンタジー小説大賞",
+    "organizer": "アルファポリス",
+    "description": "小説投稿サイトアルファポリスが主催するファンタジー小説の新人賞",
+    "firstYear": 2008,
+    "externalLinks": {},
+    "sourceNote": "第6回(2013年度)特別賞受賞作として「鍛冶師ですが何か！」がBOOK☆WALKER等の紹介文に記載。公式サイトでの一次資料は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryuuou-hai",
+    "name": "龍皇杯",
+    "organizer": "月刊ドラゴンマガジン(富士見書房/KADOKAWA)",
+    "description": "月刊ドラゴンマガジン誌上で複数の新作読み切りを掲載し、読者投票で最も支持された作品に連載権が与えられるコンテスト。1998年開始。",
+    "firstYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍皇杯"
+    },
+    "sourceNote": "Wikipedia日本語版「龍皇杯」を参照。第1回優勝作が『スクラップド・プリンセス』であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nihon-sf-taisho",
+    "name": "日本SF大賞",
+    "organizer": "日本SF作家クラブ",
+    "description": "その年に発表されたSF関連作品(小説・映像・その他媒体)の中から最も優れたものを選出する賞。1980年創設。",
+    "firstYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本SF大賞"
+    },
+    "sourceNote": "Wikipedia日本語版「マルドゥック・スクランブル」記事より、同作が第24回(2004年)受賞であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "narou-nenkan-ranking",
+    "name": "小説家になろう年間総合ランキング",
+    "organizer": "小説家になろう(ヒナプロジェクト運営)",
+    "description": "小説投稿サイト「小説家になろう」の年間総合ランキング。年間を通じてポイントを集めた作品が上位にランクインする、なろう系ライトノベルの人気の指標となる企画。",
+    "firstYear": 2013,
+    "externalLinks": {},
+    "sourceNote": "「俺は全てを【パリイ】する」が2020年3月時点で年間総合ランキング1位を獲得したとの一次情報を確認。ランキング自体の開始年(firstYear)は推定値であり未検証。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsugi-ni-kuru-light-novel-taisho",
+    "name": "次にくるライトノベル大賞",
+    "organizer": "キミラノ編集部(KADOKAWA)",
+    "description": "Web媒体「キミラノ」が主催する、読者投票によるライトノベル人気ランキング企画。",
+    "firstYear": 2021,
+    "externalLinks": {},
+    "sourceNote": "Yahoo検索結果で「初の開催となる本賞」として2021年版が言及されているのを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
