@@ -408,6 +408,22 @@ h1 {
   font-size: 0.9rem;
 }
 
+.filter-clear-btn {
+  padding: 5px 11px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.filter-clear-btn:hover {
+  border-color: var(--color-blue-strong);
+  color: var(--color-text);
+}
+
 /* ---- Home ---- */
 
 .home-hero {

@@ -158,6 +158,16 @@ export function WorkListPage() {
     window.scrollTo(0, 0);
   }
 
+  function clearFilters() {
+    const next = new URLSearchParams(params);
+    for (const key of ["q", "theme", "publisher", "status", "webNovel", "mediaMix", "page"]) {
+      next.delete(key);
+    }
+    setParams(next, { replace: true });
+  }
+
+  const hasActiveFilters = Boolean(q || themeId || publisherId || status || webNovel || mediaMix);
+
   return (
     <div className="page">
       <h1>作品一覧</h1>
@@ -223,6 +233,11 @@ export function WorkListPage() {
             </option>
           ))}
         </select>
+        {hasActiveFilters && (
+          <button type="button" className="filter-clear-btn" onClick={clearFilters}>
+            フィルターをクリア
+          </button>
+        )}
       </div>
 
       {worksState.status === "loading" && <Loading />}
