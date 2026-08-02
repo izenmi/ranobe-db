@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { TopNav } from "./ui/common/TopNav";
 import { HomePage } from "./ui/home/HomePage";
 import { WorkListPage } from "./ui/works/WorkListPage";
@@ -10,10 +10,11 @@ import { PersonDetailPage } from "./ui/common/PersonDetailPage";
 import { AwardListPage } from "./ui/awards/AwardListPage";
 import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
 import { AboutPage } from "./ui/about/AboutPage";
+import { NotFoundPage } from "./ui/common/NotFoundPage";
 
 export function App() {
   return (
-    <HashRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <TopNav />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -30,7 +31,8 @@ export function App() {
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
         <Route path="/about" element={<AboutPage />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }

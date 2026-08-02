@@ -4,6 +4,7 @@ import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
 import { WorkCard } from "./WorkCard";
 import type { PersonKind } from "./PersonListPage";
+import { BASE_PATH, breadcrumbJsonLd, useSeo } from "./useSeo";
 
 const FETCHER: Record<PersonKind, (id: string) => ReturnType<typeof getAuthor>> = {
   author: getAuthor,
@@ -11,9 +12,40 @@ const FETCHER: Record<PersonKind, (id: string) => ReturnType<typeof getAuthor>> 
   publisher: getPublisher,
 };
 
+const LIST_INFO: Record<PersonKind, { pathPrefix: string; listName: string; schemaType: string; noun: string }> = {
+  author: { pathPrefix: "/authors", listName: "著者一覧", schemaType: "Person", noun: "著者" },
+  illustrator: { pathPrefix: "/illustrators", listName: "イラストレーター一覧", schemaType: "Person", noun: "イラストレーター" },
+  publisher: { pathPrefix: "/publishers", listName: "出版社(レーベル)一覧", schemaType: "Organization", noun: "出版社" },
+};
+
 export function PersonDetailPage({ kind }: { kind: PersonKind }) {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => FETCHER[kind](id!), [kind, id]);
+  const person = state.status === "ready" ? state.data : undefined;
+  const info = LIST_INFO[kind];
+
+  useSeo({
+    title: person?.name,
+    description: person
+      ? `${info.noun}「${person.name}」の作品${person.workCount}件一覧。${person.description}`.slice(0, 160)
+      : undefined,
+    jsonLd: person
+      ? [
+          {
+            "@context": "https://schema.org",
+            "@type": info.schemaType,
+            name: person.name,
+            ...(person.description && { description: person.description }),
+            ...(person.externalLinks.wikipediaUrl && { sameAs: [person.externalLinks.wikipediaUrl] }),
+          },
+          breadcrumbJsonLd([
+            { name: "らのべDB", path: BASE_PATH },
+            { name: info.listName, path: `${BASE_PATH}${info.pathPrefix.slice(1)}` },
+            { name: person.name, path: `${BASE_PATH}${info.pathPrefix.slice(1)}/${id}` },
+          ]),
+        ]
+      : undefined,
+  });
 
   return (
     <div className="page">

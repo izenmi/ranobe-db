@@ -3,6 +3,8 @@ import { getWork } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCover, amazonSearchUrl, webNovelSearch } from "../common/WorkCover";
+import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
+import type { WorkGenerated } from "../../types";
 
 const STATUS_LABEL: Record<string, string> = {
   completed: "完結",
@@ -10,9 +12,47 @@ const STATUS_LABEL: Record<string, string> = {
   unknown: "不明",
 };
 
+function workJsonLd(id: string, w: WorkGenerated) {
+  return [
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      name: w.title,
+      inLanguage: "ja",
+      author: w.authorNames.map((name) => ({ "@type": "Person", name })),
+      ...(w.illustratorNames.length > 0 && {
+        contributor: w.illustratorNames.map((name) => ({ "@type": "Person", name })),
+      }),
+      publisher: { "@type": "Organization", name: w.publisherName },
+      datePublished: String(w.firstPublishedYear),
+      genre: w.themeNames,
+      description: w.synopsis,
+      ...(w.coverUrl && { image: w.coverUrl }),
+      ...(w.awardSummaries.length > 0 && {
+        award: w.awardSummaries.map((a) => `${a.awardName} ${a.result}(${a.year})`),
+      }),
+    },
+    breadcrumbJsonLd([
+      { name: "らのべDB", path: BASE_PATH },
+      { name: "作品一覧", path: `${BASE_PATH}works` },
+      { name: w.title, path: `${BASE_PATH}works/${id}` },
+    ]),
+  ];
+}
+
 export function WorkDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getWork(id!), [id]);
+  const work = state.status === "ready" ? state.data : undefined;
+
+  useSeo({
+    title: work?.title,
+    description: work
+      ? `${work.title}(${work.authorNames.join("・")}/${work.publisherName})のあらすじ・刊行年・受賞歴・テーマをまとめて紹介。${work.synopsis.slice(0, 60)}…`
+      : undefined,
+    image: work?.coverUrl ?? DEFAULT_OG_IMAGE,
+    jsonLd: work ? workJsonLd(id!, work) : undefined,
+  });
 
   return (
     <div className="page">

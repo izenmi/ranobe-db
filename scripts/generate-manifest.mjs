@@ -180,3 +180,37 @@ writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated),
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(`generate-manifest: wrote ${works.length} works, ${authors.length} authors, ${illustrators.length} illustrators, ${publishers.length} publishers, ${themes.length} themes, ${awards.length} awards`);
+
+// ---- sitemap.xml ----
+// Lives at the site root (not data/generated/) so it's served at /ranobe-db/sitemap.xml, but is
+// just as deterministically derived from public/data/source/*.json — see the .gitignore note.
+const SITE_URL = "https://izenmi.github.io/ranobe-db";
+const today = new Date().toISOString().slice(0, 10);
+
+function urlEntry(loc, lastmod) {
+  return `  <url>\n    <loc>${SITE_URL}${loc}</loc>\n    <lastmod>${lastmod ?? today}</lastmod>\n  </url>`;
+}
+
+const sitemapEntries = [
+  urlEntry("/"),
+  urlEntry("/works"),
+  ...works.map((w) => urlEntry(`/works/${w.id}`, w.updatedAt?.slice(0, 10))),
+  urlEntry("/themes"),
+  ...themes.map((t) => urlEntry(`/themes/${t.id}`)),
+  urlEntry("/authors"),
+  ...authors.map((a) => urlEntry(`/authors/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/illustrators"),
+  ...illustrators.map((i) => urlEntry(`/illustrators/${i.id}`, i.updatedAt?.slice(0, 10))),
+  urlEntry("/publishers"),
+  ...publishers.map((p) => urlEntry(`/publishers/${p.id}`, p.updatedAt?.slice(0, 10))),
+  urlEntry("/awards"),
+  ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/about"),
+];
+
+const sitemapXml =
+  `<?xml version="1.0" encoding="UTF-8"?>\n` +
+  `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.join("\n")}\n</urlset>\n`;
+
+writeFileSync(path.join(rootDir, "public", "sitemap.xml"), sitemapXml, "utf-8");
+console.log(`generate-manifest: wrote sitemap.xml with ${sitemapEntries.length} URLs`);

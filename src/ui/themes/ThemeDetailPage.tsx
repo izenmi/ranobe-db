@@ -4,6 +4,7 @@ import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
+import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 const STATUS_OPTIONS: { value: string; label: string }[] = [
   { value: "completed", label: "完結" },
@@ -32,6 +33,22 @@ const SORT_OPTIONS: { value: string; label: string }[] = [
 export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTheme(id!), [id]);
+  const theme = state.status === "ready" ? state.data : undefined;
+
+  useSeo({
+    title: theme?.name,
+    description: theme
+      ? `「${theme.name}」テーマのライトノベル${theme.workCount}作品一覧。${theme.description ?? ""}`.trim()
+      : undefined,
+    jsonLd: theme
+      ? breadcrumbJsonLd([
+          { name: "らのべDB", path: BASE_PATH },
+          { name: "テーマ一覧", path: `${BASE_PATH}themes` },
+          { name: theme.name, path: `${BASE_PATH}themes/${id}` },
+        ])
+      : undefined,
+  });
+
   const [params, setParams] = useSearchParams();
   const status = params.get("status") ?? "";
   const webNovel = params.get("webNovel") ?? "";

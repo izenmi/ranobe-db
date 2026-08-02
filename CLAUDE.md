@@ -4,7 +4,7 @@
 
 - 公開URL: https://izenmi.github.io/ranobe-db/
 - リポジトリ: `izenmi/ranobe-db`(public。GitHub Pagesは無料枠だとpublicでないと使えない)
-- スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`HashRouter`。GitHub Pagesにサーバサイドルーティングがないため)
+- スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`BrowserRouter`。2026-08-02に`HashRouter`から移行、詳細は「SEO / SSG」の節を参照)
 
 ## データフロー(source → generated)
 
@@ -85,6 +85,18 @@ npm run preview
 ## メディアミックス(アニメ化/コミカライズ)フィルター(2026-08-01実装)
 
 全105作品について`mediaMix?: { anime?: boolean; comic?: boolean }`(`src/types.ts`の`WorkSource`)を追加し、`sourceNote`にアニメ化・コミカライズの確認内容を追記した。`WorkListPage`/`ThemeDetailPage`に既存のstatus/webNovelフィルターと同じパターンで「アニメ化」「コミカライズ」「メディアミックスなし」のセレクトフィルターを実装(`?mediaMix=anime|comic|none`)。`WorkCard`のメタ行・`WorkDetailPage`のメタ行にも該当作品はテキストで表示する。新規作品を追加する際は、Wikipedia確認時にあわせて`mediaMix`も設定すること(テレビアニメ・OVAがあれば`anime: true`、コミカライズ版があれば`comic: true`。記述がなければ両方`false`)。
+
+## SEO / SSG(2026-08-02実装)
+
+ユーザーから「多くの人の目に止まるようにしたい、検索で上位に来るような工夫を」という依頼を受け、本格的なSSG(静的サイト生成)化を実施した。
+
+- **`HashRouter`→`BrowserRouter`移行**: URLが`#/works/xxx`から`/works/xxx`という綺麗な形になった。旧URLとの互換性のため、`src/main.tsx`で`#/`始まりのURLを新しいパス形式へ`history.replaceState`で書き換える処理を追加している。`App.tsx`に`path="*"`のcatch-allルート(`NotFoundPage`)も追加した
+- **`src/ui/common/useSeo.ts`**: 各ページコンポーネントが呼ぶ共通フック。`document.title`・meta description・canonicalリンク・OGP/Twitterカードタグ・JSON-LD構造化データ(`<script type="application/ld+json">`、`data-seo-jsonld="1"`でページ遷移時に前のページの分を除去)を`useEffect`内でDOM操作により設定する。**canonical/og:urlは`window.location.origin`ではなく固定の`SITE_ORIGIN`定数から組み立てる**(`scripts/prerender.mjs`はローカルの`vite preview`(`http://localhost:PORT`)からページを取得するため、`window.location.origin`をそのまま使うとプリレンダーされた静的HTMLのcanonicalが`localhost`になってしまうバグが実際に発生し、修正した)。作品詳細ページは`Book`型、著者/イラストレーターは`Person`型、出版社は`Organization`型のJSON-LDに加え`BreadcrumbList`を出力。トップページは`WebSite`+`SearchAction`(Googleのサイトリンク検索ボックス向け)
+- **`scripts/prerender.mjs`(npm `postbuild`フック)**: `vite build`後に自動実行され、`vite preview`をローカル起動した上でPlaywright(Chromium)で全ルート(トップ・6種類の一覧ページ・works/themes/authors/illustrators/publishers/awards各詳細ページ・about、2026-08-02時点で計2003ルート)を並行(デフォルト同時実行数6、`PRERENDER_CONCURRENCY`環境変数で変更可)にクロールし、レンダリング結果のDOMを`dist/<route>/index.html`として書き出す。`<script type="module">`タグはそのままキャプチャされるため、実際の訪問者のブラウザでは通常通りReactが再レンダリングする(挙動は変わらず、クローラーが最初に受け取るHTMLだけが変わる)。最後に`dist/index.html`(プリレンダー済みトップページ)を`dist/404.html`にコピーし、GitHub Pagesの不明パスへのフォールバックとする(未クロールのルートに直接アクセスされても、クライアントJSが正しいURLを読んでReact Routerで正しく描画する)。全ルートクロールに数分〜十数分かかる。CI(`.github/workflows/deploy.yml`)では`npx playwright install --with-deps chromium`ステップを`npm run build`の前に追加している
+  - Playwrightは`package.json`の`devDependencies`にバージョン固定(`1.55.0`)で追加。このsandboxはNode 18のため、Node 20必須の最新版ではなく`engines: {node: ">=18"}`の版を明示的に選んだ
+- **`public/sitemap.xml`**: `scripts/generate-manifest.mjs`の末尾で全データ読み込み後に生成(`public/data/generated/`と同様に`.gitignore`対象、ビルドのたびに再生成)。トップ・6一覧・全詳細ページ(2003件)の`<loc>`+`<lastmod>`(works/authors/illustrators/publishers/awardsは`updatedAt`、themesとリスト自体は生成日)を出力
+- **`public/robots.txt`**: `Allow: /`と`Sitemap:`行を置いているが、**GitHub Pagesのプロジェクトページ(`izenmi.github.io/ranobe-db/`)では技術的な注意点がある**: robots.txtはオリジンのルート(`izenmi.github.io/robots.txt`)でのみ仕様上権威を持ち、`/ranobe-db/robots.txt`はGooglebotが自動参照する保証がない(ユーザーが`izenmi.github.io`のユーザールートリポジトリを別途持っていて、そちらに別のrobots.txtがある場合はそちらが優先される)。実害は小さい(robots.txt不在時のデフォルトは「全許可」なので、このファイルがなくてもクロール自体は妨げられない)が、確実に索引させたい場合は**Google Search Console / Bing Webmaster Toolsにsitemap.xmlのURLを手動で直接登録することを推奨**(このURLはユーザー自身のGoogleアカウント操作が必要なため代行不可)
+- **`public/og-image.png`**: `scripts/generate-ogp.mjs`(手動実行、ビルドパイプラインには含まれない)がPlaywrightでtheme.cssの配色を再現した1200×630のブランドバナーをスクリーンショットして生成。作品詳細ページはこの代わりに実際の表紙画像(`coverUrl`)をog:image/twitter:imageに使う(表紙未解決作品はこのフォールバック画像になる)
 
 ## データ規模の推移
 

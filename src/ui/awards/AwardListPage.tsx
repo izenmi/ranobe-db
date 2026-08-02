@@ -2,9 +2,18 @@ import { Link } from "react-router-dom";
 import { getAwards } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
+import { useSeo } from "../common/useSeo";
 
 export function AwardListPage() {
   const state = useAsyncData(getAwards, []);
+
+  useSeo({
+    title: "アワード一覧",
+    description:
+      state.status === "ready"
+        ? `ライトノベル関連の新人賞・人気投票など${state.data.length}件のアワードと受賞作一覧。`
+        : undefined,
+  });
 
   return (
     <div className="page">

@@ -4,6 +4,7 @@ import { getPublishers, getThemes, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
+import { useSeo } from "../common/useSeo";
 
 const STATUS_OPTIONS: { value: string; label: string }[] = [
   { value: "completed", label: "完結" },
@@ -110,6 +111,14 @@ export function WorkListPage() {
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
   const publishersState = useAsyncData(getPublishers, []);
+
+  useSeo({
+    title: "作品一覧",
+    description:
+      worksState.status === "ready"
+        ? `ライトノベル${worksState.data.length}作品を刊行年・五十音・テーマ・レーベルなどから検索・絞り込みできます。`
+        : undefined,
+  });
 
   const filtered = useMemo(() => {
     if (worksState.status !== "ready") return [];

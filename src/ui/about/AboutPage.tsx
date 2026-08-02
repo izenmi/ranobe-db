@@ -1,4 +1,11 @@
+import { useSeo } from "../common/useSeo";
+
 export function AboutPage() {
+  useSeo({
+    title: "このサイトについて",
+    description: "らのべDBの掲載方針・情報源・お問い合わせ方法について説明しています。",
+  });
+
   return (
     <div className="page">
       <h1>このサイトについて</h1>

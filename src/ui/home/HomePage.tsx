@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { getCounts } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
+import { SITE_NAME, SITE_URL, useSeo } from "../common/useSeo";
 
 const BADGES: { key: keyof Awaited<ReturnType<typeof getCounts>>; label: string; to: string; color: string }[] = [
   { key: "works", label: "作品", to: "/works", color: "blue" },
@@ -17,6 +18,24 @@ export function HomePage() {
   const state = useAsyncData(getCounts, []);
   const [q, setQ] = useState("");
   const navigate = useNavigate();
+
+  useSeo({
+    description:
+      state.status === "ready"
+        ? `日本語ライトノベル${state.data.works}作品を著者・イラストレーター・出版社(レーベル)・受賞歴・テーマから検索できるファンデータベース。`
+        : undefined,
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: SITE_NAME,
+      url: SITE_URL,
+      potentialAction: {
+        "@type": "SearchAction",
+        target: `${SITE_URL}works?q={search_term_string}`,
+        "query-input": "required name=search_term_string",
+      },
+    },
+  });
 
   function handleSearch(e: React.FormEvent) {
     e.preventDefault();

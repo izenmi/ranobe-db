@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { getAward } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
+import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 const YEAR_COLORS = ["blue", "pink", "mint", "yellow", "peach", "purple"] as const;
 
@@ -14,6 +15,21 @@ function colorForYear(year: number): (typeof YEAR_COLORS)[number] {
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getAward(id!), [id]);
+  const award = state.status === "ready" ? state.data : undefined;
+
+  useSeo({
+    title: award?.name,
+    description: award
+      ? `「${award.name}」(主催: ${award.organizer})の受賞作${award.workCount}件一覧。${award.description}`.slice(0, 160)
+      : undefined,
+    jsonLd: award
+      ? breadcrumbJsonLd([
+          { name: "らのべDB", path: BASE_PATH },
+          { name: "アワード一覧", path: `${BASE_PATH}awards` },
+          { name: award.name, path: `${BASE_PATH}awards/${id}` },
+        ])
+      : undefined,
+  });
 
   return (
     <div className="page">
