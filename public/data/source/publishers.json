@@ -829,5 +829,16 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia『魔王の始め方』の刊行レーベルとして確認。創刊年等の詳細は確認できず未記載。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gagaga-books",
+    "name": "ガガガブックス",
+    "nameKana": "ガガガブックス",
+    "parentCompany": "小学館",
+    "description": "小学館が2017年に創刊した新文芸レーベル。「ガガガ文庫」を補完する形で、主にWeb発の小説を単行本として刊行する。",
+    "foundedYear": 2017,
+    "externalLinks": {},
+    "sourceNote": "複数の二次情報にて2017年5月18日創刊、ガガガ文庫（2007年創刊）とは別レーベルであることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

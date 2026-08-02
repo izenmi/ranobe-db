@@ -5381,5 +5381,77 @@
     "externalLinks": {},
     "sourceNote": "booklog等の書誌情報サイトで著作リストを確認(2026年8月時点)。Wikipedia記事は確認できず、生年等の経歴詳細は不明。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okazawa-rokujuushi",
+    "name": "岡沢六十四",
+    "nameKana": "おかざわろくじゅうし",
+    "description": "「小説家になろう」出身のライトノベル作家。『解雇された暗黒兵士（30代）のスローなセカンドライフ』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「解雇された暗黒兵士（30代）のスローなセカンドライフ」記事にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ibaraki-no",
+    "name": "茨木野",
+    "nameKana": "いばらきの",
+    "description": "「小説家になろう」出身のライトノベル作家。『不遇職【鑑定士】が実は最強だった』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版・英語版Wikipedia「不遇職【鑑定士】が実は最強だった」記事にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuzu-nanao",
+    "name": "九頭七尾",
+    "nameKana": "くずななお",
+    "description": "「小説家になろう」出身のライトノベル作家。『無職の英雄 〜別にスキルなんか要らなかったんだが〜』『使えないと追い出された生活魔法使い、無限の魔力で生活無双』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「無職の英雄 〜別にスキルなんか要らなかったんだが〜」記事、およびBOOK☆WALKER・出版社情報にて『使えないと追い出された生活魔法使い』の著者としても同名義を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukikage",
+    "name": "槻影",
+    "nameKana": "つきかげ",
+    "description": "「小説家になろう」出身のライトノベル作家。『嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「嘆きの亡霊は引退したい」記事にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ushio-no-kurage",
+    "name": "潮ノ海月",
+    "nameKana": "しおのくらげ",
+    "description": "アルファポリス発のライトノベル作家。『ハズレ属性土魔法のせいで辺境に追放されたので、ガンガン領地開拓します！』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・アルファポリス公式サイトにて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amaui-hakuichi",
+    "name": "あまうい白一",
+    "nameKana": "あまういはくいち",
+    "description": "ライトノベル作家。『最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます」記事にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "honobonoru-500",
+    "name": "ほのぼのる500",
+    "nameKana": "ほのぼのるごひゃく",
+    "description": "「小説家になろう」出身のライトノベル作家。『最弱テイマーはゴミ拾いの旅を始めました。』を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「最弱テイマーはゴミ拾いの旅を始めました。」記事にて著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mine-baiern",
+    "name": "みねバイヤーン",
+    "nameKana": "みねばいやーん",
+    "description": "ライトノベル作家。『ハズレスキル《草刈り》持ちの役立たず王女、気ままに草を刈っていたら追放先を魅惑のリゾート島に開拓できちゃいました』を手がける。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER検索結果にて著者名を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

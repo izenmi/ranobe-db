@@ -21770,5 +21770,370 @@
       "anime": false,
       "comic": false
     }
+  },
+  {
+    "id": "kaiko-sareta-ankoku-heishi",
+    "title": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
+    "titleKana": "かいこされたあんこくへいしさんじゅうだいのすろーなせかんどらいふ",
+    "authorIds": [
+      "okazawa-rokujuushi"
+    ],
+    "illustratorIds": [
+      "sage",
+      "jou"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "slow-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "魔王軍の暗黒兵士ダリエルは、魔法が使えないことを理由に若い後継者から解雇されてしまう。人間の村娘を助けたことで移り住んだ彼は、実は自分が人間族であり、独自のオーラ操作に異例の適性を持つことに気づく。第二の人生で穏やかな日々と自らの隠れた強さを見出していく異世界ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%A7%A3%E9%9B%87%E3%81%95%E3%82%8C%E3%81%9F%E6%9A%97%E9%BB%92%E5%85%B5%E5%A3%AB%EF%BC%8830%E4%BB%A3%EF%BC%89%E3%81%AE%E3%82%B9%E3%83%AD%E3%83%BC%E3%81%AA%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者・あらすじ・巻数(既刊3巻, 2019-2020)・コミカライズ・2023年TVアニメ化を確認。BOOK☆WALKER検索結果にてイラストレーター「sage・ジョー」を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+    "title": "不遇職【鑑定士】が実は最強だった 〜奈落で鍛えた最強の【神眼】で無双する〜",
+    "titleKana": "ふぐうしょくかんていしがじつはさいきょうだった ならくできたえたさいきょうのしんがんでむそうする",
+    "authorIds": [
+      "ibaraki-no"
+    ],
+    "illustratorIds": [
+      "hitaki-yuu"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "物を鑑定することしかできない不遇職とされた青年アインは、パーティーで軽んじられながらも隠しダンジョンに足を踏み入れる。そこで出会った精霊から、あらゆる能力を見抜き強化できる規格外の神眼を授かったことで、最弱と思われていた立場から一転、圧倒的な力を発揮していく異世界ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E9%81%87%E8%81%B7%E3%80%90%E9%91%91%E5%AE%9A%E5%A3%AB%E3%80%91%E3%81%8C%E5%AE%9F%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%A0%E3%81%A3%E3%81%9F_%E3%80%9C%E5%A5%88%E8%90%BD%E3%81%A7%E9%8D%9B%E3%81%88%E3%81%9F%E6%9C%80%E5%BC%B7%E3%81%AE%E3%80%90%E7%A5%9E%E7%9C%BC%E3%80%91%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%80%9C"
+    },
+    "sourceNote": "日本語版・英語版Wikipedia記事にて実在・著者・イラストレーター・巻数(既刊4巻, 2020-2025)・コミカライズ・2025年TVアニメ化を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "mushoku-no-eiyuu-skill-iranakatta",
+    "title": "無職の英雄 〜別にスキルなんか要らなかったんだが〜",
+    "titleKana": "むしょくのえいゆう べつにすきるなんかいらなかったんだが",
+    "authorIds": [
+      "kuzu-nanao"
+    ],
+    "illustratorIds": [
+      "ueda-yumeto"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "伝説的な英雄夫婦の子として生まれながら、成人の儀で「無職」という最低の職業を授かってしまった少年アレル。特別なスキルを持たないハンデを地道な鍛錬と創意工夫で覆し、努力を積み重ねることで着実に名声を築き上げていく王道の成長ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84_%E3%80%9C%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C%E3%80%9C"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者・イラストレーター・巻数(既刊4巻, 2018-2019)・コミカライズ・2025年TVアニメ化を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "nageki-no-bourei-wa-intai-shitai",
+    "title": "嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜",
+    "titleKana": "なげきのぼうれいはいんたいしたい さいじゃくはんたーによるさいきょうぱーてぃいくせいじゅつ",
+    "authorIds": [
+      "tsukikage"
+    ],
+    "illustratorIds": [
+      "chiiko"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "dungeon",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "最弱ランクのハンターと目されるクライは、実力を周囲に隠したまま宝物殿を探索するパーティのリーダーを務めている。周囲は彼を規格外の実力者と誤解して次々と頼ってくるが、本人はただ穏便に引退したいだけ。実力と評判のすれ違いが騒動を呼ぶ、隠れ最強系のコメディファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "7位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "10位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%98%86%E3%81%8D%E3%81%AE%E4%BA%A1%E9%9C%8A%E3%81%AF%E5%BC%95%E9%80%80%E3%81%97%E3%81%9F%E3%81%84_%E3%80%9C%E6%9C%80%E5%BC%B1%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E6%9C%80%E5%BC%B7%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E8%82%B2%E6%88%90%E8%A1%93%E3%80%9C"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者・イラストレーター・巻数(既刊13巻, 2018-2025)・コミカライズ・2024年TVアニメ化・『このライトノベルがすごい!』各年ランキング順位を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hazure-zokusei-tsuchi-mahou-de-ryouchi-kaitaku",
+    "title": "ハズレ属性土魔法のせいで辺境に追放されたので、ガンガン領地開拓します！",
+    "titleKana": "はずれぞくせいつちまほうのせいでへんきょうについほうされたので がんがんりょうちかいたくします",
+    "authorIds": [
+      "ushio-no-kurage"
+    ],
+    "illustratorIds": [
+      "shiitake-ita"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "tsuihou",
+      "naisei",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "成人の儀で戦闘に不向きな土魔法という「ハズレ属性」を授かった貴族の子エクトは、父に見限られて辺境の村へ追いやられる。しかし発想力豊かな土魔法の応用で農地や防壁を次々に築き上げ、寂れた土地を発展させていく。追放先での領地経営を描く異世界ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、アルファポリス公式サイトにて実在・著者・イラストレーター・巻数(既刊5巻, 2021-2025)・公式コミカライズを確認。アルファポリスファンタジー小説大賞第13回優秀賞受賞という情報も複数の二次情報で見られたが、開催年を一次情報で確認できなかったためawardResultsには未収録。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru",
+    "title": "史上最強の魔法剣士、Fランク冒険者に転生する 〜剣聖と魔帝、2つの前世を持った男の英雄譚〜",
+    "titleKana": "しじょうさいきょうのまほうけんし えふらんくぼうけんしゃにてんせいする けんせいとまてい ふたつのぜんせをもったおとこのえいゆうたん",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [
+      "aono-shita"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-tensei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "剣聖と魔帝という二つの前世で頂点を極めたユーリは、その栄光から逃れるように新たな世界へ転生する。しかし生まれ持った適性は最底辺のFランク。周囲から侮られながらも、二つの前世で培った圧倒的な剣技と魔法の力を密かに発揮していく転生ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、集英社ダッシュエックス文庫公式情報にて実在・著者・イラストレーター・巻数(既刊8巻, 2019-2025)・コミカライズ(ヤングジャンプコミックス)を確認。テレビアニメ化情報は確認できなかったためmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "saikyoushoku-ryuukishi-kara-hakobiya-ni-natta-noni",
+    "title": "最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます",
+    "titleKana": "さいきょうしょくりゅうきしからしょきゅうしょくはこびやになったのに なぜかゆうしゃたちからたよられてます",
+    "authorIds": [
+      "amaui-hakuichi"
+    ],
+    "illustratorIds": [
+      "izumi-sai"
+    ],
+    "publisherId": "gagaga-books",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "かつて最強職とされた竜騎士だった青年は、ある事情から初級職の運び屋へと転じることになる。地味な配達業務をこなすだけのはずが、荷運びで培った洞察力や機転を見込まれ、いつしか勇者たちから頼りにされる存在になっていく。職業と実力のギャップが生む異世界ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E8%81%B7%E3%80%8A%E7%AB%9C%E9%A8%8E%E5%A3%AB%E3%80%8B%E3%81%8B%E3%82%89%E5%88%9D%E7%B4%9A%E8%81%B7%E3%80%8A%E9%81%8B%E3%81%B3%E5%B1%8B%E3%80%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AB%E3%80%81%E3%81%AA%E3%81%9C%E3%81%8B%E5%8B%87%E8%80%85%E9%81%94%E3%81%8B%E3%82%89%E9%A0%BC%E3%82%89%E3%82%8C%E3%81%A6%E3%81%BE%E3%81%99"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者・イラストレーター・出版社(小学館ガガガブックス)・巻数(既刊6巻, 2018-2021)・コミカライズ・ドラマCD化を確認。テレビアニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "saijaku-tamer-wa-gomihiroi-no-tabi-wo-hajimemashita",
+    "title": "最弱テイマーはゴミ拾いの旅を始めました。",
+    "titleKana": "さいじゃくていまーはごみひろいのたびをはじめました",
+    "authorIds": [
+      "honobonoru-500"
+    ],
+    "illustratorIds": [
+      "nama"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "星なしのテイマースキルしか持たず、家族から忌み子として扱われ追放された少女アイビー。最弱の魔物とされるスライムを仲間にし、道端のゴミを拾い集めながら旅を続けるうち、その素材や工夫が思わぬ形で真価を発揮していく。地味な行動の積み重ねが周囲の評価を覆すスローペースな冒険譚。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BC%B1%E3%83%86%E3%82%A4%E3%83%9E%E3%83%BC%E3%81%AF%E3%82%B4%E3%83%9F%E6%8B%BE%E3%81%84%E3%81%AE%E6%97%85%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者・イラストレーター・巻数(単行本版既刊16巻, 2019-2026)・複数のコミカライズ・2024年TVアニメ化(第2期制作決定)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "hazureskill-kusakari-mochi-no-yakutatazu-oujo",
+    "title": "ハズレスキル《草刈り》持ちの役立たず王女、気ままに草を刈っていたら追放先を魅惑のリゾート島に開拓できちゃいました",
+    "titleKana": "はずれすきるくさかりもちのやくたたずおうじょ きままにくさをかっていたらついほうさきをみわくのりぞーとじまにかいたくできちゃいました",
+    "authorIds": [
+      "mine-baiern"
+    ],
+    "illustratorIds": [
+      "murakami-yuichi"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "tsuihou",
+      "naisei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "第七王女マーゴットは「草刈り」というハズレスキルしか持たず、王宮内で役立たず扱いされていた。同じく不遇な仲間たちと共に不毛の島へ追いやられるが、持ち前の草刈りの力で魔性の植物まで刈り尽くし、荒れ地を人々の憧れる楽園へと作り変えていく。追放先発の島おこしファンタジー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER検索結果にて実在・著者・イラストレーター・出版社(SBクリエイティブGAノベル)・巻数(既刊2巻, 2024年)・コミカライズを確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "shikkakumon-no-saikyou-kenja",
+    "title": "失格紋の最強賢者 〜世界最強の賢者が更に強くなるために転生しました〜",
+    "titleKana": "しっかくもんのさいきょうけんじゃ せかいさいきょうのけんじゃがさらにつよくなるためにてんせいしました",
+    "authorIds": [
+      "shinkou-shotou"
+    ],
+    "illustratorIds": [
+      "kazahana-kazahana"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-tensei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "古代最強の賢者ガイアスは、自らの持つ魔法の紋章がさらなる成長を妨げていることに気づき、より適した紋章を持って生まれ変わるための転生魔法を編み出す。時を経て転生した少年マティアスは、周囲から見劣りする紋章の持ち主と侮られながらも、前世の知識と実力で魔法界の常識を覆していく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%B1%E6%A0%BC%E7%B4%8B%E3%81%AE%E6%9C%80%E5%BC%B7%E8%B3%A2%E8%80%85"
+    },
+    "sourceNote": "日本語版Wikipedia記事にて実在・著者(既存id shinkou-shotouと同一人物)・イラストレーター(既存id kazahana-kazahanaと同一人物)・巻数(既刊21巻, 2017-2025)・コミカライズ・2022年TVアニメ化・シリーズ累計700万部突破(2024年7月時点)を確認。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    }
+  },
+  {
+    "id": "tsukaenai-to-oidasareta-seikatsu-mahoutsukai",
+    "title": "使えないと追い出された生活魔法使い、無限の魔力で生活無双",
+    "titleKana": "つかえないとおいだされたせいかつまほうつかい むげんのまりょくでせいかつむそう",
+    "authorIds": [
+      "kuzu-nanao"
+    ],
+    "illustratorIds": [
+      "jimmy"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "fuguushoku-kakushi-skill",
+      "isekai-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "神童と呼ばれた伯爵家の三男ライルは、15歳の適性判定で戦闘に向かない「生活魔法」の才しかないと判明し、実家から追い出されてしまう。ところが桁外れの魔力を持つ彼の生活魔法は、収納や修繕、火起こしなど日常のあらゆる場面で規格外の性能を発揮し始める。地味な魔法で無自覚に無双していくファンタジー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER、出版社(アース・スターエンターテイメント)関連情報にて実在・著者(既に登録済みのkuzu-nanaoと同一人物)・イラストレーター(既存id jimmyと同一人物)・巻数(既刊2巻, 2025年12月-2026年2月)・コミカライズを確認。テレビアニメ化情報は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]
