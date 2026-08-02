@@ -22749,5 +22749,289 @@
     },
     "sourceNote": "日本語版Wikipedia「薬屋探偵妖綺談」で著者・レーベル(講談社ノベルス)・刊行年(1999年頃〜2023年以降、15巻・継続中)・あらすじを確認。第1作『銀の檻を溶かして』は第11回メフィスト賞受賞作だが、メフィスト賞は一般ミステリ向けの新人賞でawards.txtの既存リストにも該当がなく、ライトノベル向け賞と言い切れないためawardResultsには含めずawardResults:[]とした。イラストレーター情報は複数のソースで確認できず、illustratorIdsは空欄とした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maou-sama-retry",
+    "title": "魔王様、リトライ!",
+    "titleKana": "まおうさま、りとらい",
+    "authorIds": [
+      "kanzaki-kurone"
+    ],
+    "illustratorIds": [
+      "ogata-takeshi"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "isekai-tensei",
+      "comedy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "ゲーム制作に携わる青年が、自ら手がけたゲーム内の魔王キャラクターとしてある日突然異世界へ転移してしまう。開発者権限に由来する規格外の能力を持て余しながらも、行く先々で出会う個性豊かな少女たちと絆を深め、時に人類側の脅威と渡り合いつつ、元の世界へ戻る手段を探して各地を巡っていくコメディタッチの異世界魔王ファンタジー。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王様、リトライ!"
+    },
+    "sourceNote": "日本語版Wikipedia「魔王様、リトライ!」記事で著者・イラストレーター・レーベル・刊行状況・アニメ化(2019年/2024年R)・コミカライズ・なろう出身を確認。BOOK☆WALKERでも刊行状況を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "title": "魔王軍最強の魔術師は人間だった",
+    "titleKana": "まおうぐんさいきょうのまじゅつしはにんげんだった",
+    "authorIds": [
+      "hata-ryousuke"
+    ],
+    "illustratorIds": [
+      "kuma"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "senki",
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "現代日本からの転生者である青年アイクは、人間でありながら正体を隠して魔王軍に加わり、不死部隊を率いる最強の魔術師として名を馳せていく。人類との千年戦争が続く世界で、魔族側の内部事情や軍略、人間軍との駆け引きに触れながら、敵味方の垣根を越えた戦いへ身を投じていく異世界転生ダークファンタジー。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王軍最強の魔術師は人間だった"
+    },
+    "sourceNote": "日本語版Wikipedia「魔王軍最強の魔術師は人間だった」記事で著者・イラストレーター・レーベル・刊行状況(全5巻完結)・アニメ化(2024年)・コミカライズ・なろう出身を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "horobi-no-kuni-no-seifukusha",
+    "title": "亡びの国の征服者〜魔王は世界を征服するようです〜",
+    "titleKana": "ほろびのくにのせいふくしゃ〜まおうはせかいをせいふくするようです〜",
+    "authorIds": [
+      "fudeorika"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "naisei",
+      "nation-building",
+      "senki",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "現代日本で死んだ青年が、隣国の「勇者」によっていずれ滅ぼされる運命にある弱小国の王族として異世界に転生する。祖国を守るため、前世の知識を活かして教育や産業、軍備の立て直しに奔走し、周辺国との戦争や政略を乗り越えながら国家存続の道を模索していく、内政と戦記が絡み合う異世界転生譚。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/亡びの国の征服者〜魔王は世界を征服するようです〜"
+    },
+    "sourceNote": "日本語版Wikipedia「亡びの国の征服者〜魔王は世界を征服するようです〜」記事、BOOK☆WALKERシリーズページ(既刊7巻)で確認。アニメ化情報なし、コミカライズ(コミックガルド+)あり、なろう出身を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maougun-no-kanbu-ni-nattakedo-jimushigoto-shika-dekimasen",
+    "title": "魔王軍の幹部になったけど事務仕事しかできません",
+    "titleKana": "まおうぐんのかんぶになったけどじむしごとしかできません",
+    "authorIds": [
+      "akuichi"
+    ],
+    "illustratorIds": [
+      "ouka"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "naisei",
+      "senki",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "社畜サラリーマンだった晶は異世界に召喚され、人類と千年にもわたり戦い続けて疲弊した魔王軍の幹部として迎え入れられる。戦闘力は皆無だが、唯一の部下である秘書ソフィアと共に書類仕事や兵站の立て直しに奔走し、効率的な補給網の構築によって崩壊寸前だった魔王軍を再建していく、内政・兵站に焦点を当てた異色の戦記コメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式作品ページ(tobooks.jp/contents/10919)、コミックシーモア・BOOK☆WALKER作品ページで著者・イラストレーター・巻数(全2巻完結)・コミカライズ・あらすじを確認。なろう掲載(ncode.syosetu.com/n5015dq/)で原作出身を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuusha-yamemasu-tsugi-no-shokuba-wa-maoujou",
+    "title": "勇者、辞めます〜次の職場は魔王城〜",
+    "titleKana": "ゆうしゃ、やめます〜つぎのしょくばはまおうじょう〜",
+    "authorIds": [
+      "quantum"
+    ],
+    "illustratorIds": [
+      "amano-hide"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "naisei",
+      "shigoto",
+      "comedy",
+      "senki"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "魔王軍を打ち倒した最強の勇者は、戦後の人間社会から疎まれ、居場所を失ってしまう。行き場のない彼は正体を隠して魔王城に潜り込み、荒廃した魔王軍を立て直す管理職として一から働き始める。かつての敵陣営の内政・軍政改革に携わりながら、人と魔族の関係のあり方を見つめ直していく異世界お仕事ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "result": "第2回カクヨムWeb小説コンテスト ファンタジー部門大賞",
+        "year": 2017
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者、辞めます〜次の職場は魔王城〜"
+    },
+    "sourceNote": "日本語版Wikipedia「勇者、辞めます〜次の職場は魔王城〜」記事で著者・イラストレーター・レーベル(カドカワBOOKS/富士見ファンタジア文庫)・刊行状況(全3巻完結)・アニメ化(2022年)・コミカライズ・カクヨム出身と受賞歴(第2回カクヨムWeb小説コンテスト ファンタジー部門大賞)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akuma-koujo-yurui-akuma-no-monogatari",
+    "title": "悪魔公女〜ゆるいアクマの物語〜",
+    "titleKana": "あくまこうじょ〜ゆるいあくまのものがたり〜",
+    "authorIds": [
+      "harunohi-biyori"
+    ],
+    "illustratorIds": [
+      "umiu-geso"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "comedy",
+      "adventure",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "光あふれる世界での暮らしの記憶を持つ小さな悪魔が、魔界の片隅で生まれ落ちる。かつて憧れた明るい世界を求めて突如現れた召喚門をくぐった結果、聖王国で人間の赤ん坊として生まれ変わってしまう。悪魔であることを隠しながら人間社会でしぶとく生き延びようとする、魔族側の視点で描かれるハートフルコメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "講談社コミックプラス作品ページ、BOOK☆WALKERシリーズページ(既刊6巻、2022年5月〜2025年8月)で著者・イラストレーター・巻数・コミカライズ(月刊少年シリウス)を確認。著者なろうマイページで原作出身を確認。アニメ化情報は確認できず(未アニメ化)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-shitara-maou-no-musume-ukkari-saikyou-mazoku",
+    "title": "転生したら魔王の娘 うっかり最凶魔族をスキルで魅了しちゃって甘すぎる溺愛から逃げられません！",
+    "titleKana": "てんせいしたらまおうのむすめ うっかりさいきょうまぞくをすきるでみりょうしちゃってあますぎるできあいからにげられません",
+    "authorIds": [
+      "miura-maki"
+    ],
+    "illustratorIds": [
+      "yokoyama-moyo"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "isekai-tensei",
+      "romance",
+      "ijuzoku-koi"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "交通事故で命を落とした少女が、魔王の娘メノウとして異世界に転生する。相手を魅了する力を持つ魔族であることを思い出したとたん、これまで冷淡だった上級魔族の青年が急に甘く接してくるようになり戸惑いを覚える。自分の魅了の効果を疑いながらも惹かれていく、魔族社会を舞台にした主従ラブストーリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書籍ページ(kadokawa.co.jp/product/322305000189/、角川ビーンズ文庫)で著者・イラストレーター・あらすじ・刊行年(2024年)を確認。フロースコミックでのコミカライズ版の存在をAmazon等で確認。web小説発かどうかは確認できず書き下ろし扱い。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokyo-maou",
+    "title": "〜東京魔王〜 モンスターが溢れる世界になり目醒めた能力【モンスターマスター】を使い最強のモンスター軍団を育成したら魔王と呼ばれ人類の敵にされたんだが",
+    "titleKana": "とうきょうまおう",
+    "authorIds": [
+      "kamahara-yayuu"
+    ],
+    "illustratorIds": [
+      "katagiri-illustrator"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "battle-action",
+      "post-apocalypse",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "各地にダンジョンが出現しモンスターが溢れる世界と化した現代日本で、ある青年がモンスターを従える力に目覚め、その力を駆使して最強のモンスター軍団を育て上げていく。あまりに圧倒的な力を持つがゆえに人々から恐れられて「魔王」と呼ばれるようになり、いつしか人類の敵として扱われてしまう、現代異能×モンスター軍団もののダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "集英社公式書籍ページ(shueisha.co.jp/books-cbs/c2082/c166-14327/)、コミックシーモア作品ページ(cmoa.jp/title/1101334098/)で著者・イラストレーター・出版社(ダッシュエックス文庫DIGITAL)・刊行年(2021年12月)・コミカライズの存在を確認。続刊・アニメ化情報は確認できず。web小説発かどうか確証得られず未設定。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -4778,5 +4778,50 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「いぬかみっ!」記事、コミックシーモア作品ページでイラスト担当を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuma",
+    "name": "KUMA",
+    "nameKana": "くま",
+    "description": "イラストレーター。『魔王軍最強の魔術師は人間だった』(モンスター文庫、双葉社)の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「魔王軍最強の魔術師は人間だった」記事、BOOK☆WALKER作品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umiu-geso",
+    "name": "海鵜げそ",
+    "nameKana": "うみうげそ",
+    "description": "イラストレーター。『悪魔公女〜ゆるいアクマの物語〜』(Kラノベブックス、講談社)のキャラクター原案・挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "講談社コミックプラス作品ページ、BOOK☆WALKER作品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yokoyama-moyo",
+    "name": "横山もよ",
+    "nameKana": "よこやまもよ",
+    "description": "イラストレーター。『転生したら魔王の娘 うっかり最凶魔族をスキルで魅了しちゃって甘すぎる溺愛から逃げられません！』(角川ビーンズ文庫)の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書籍ページ(kadokawa.co.jp/product/322305000189/)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amano-hide",
+    "name": "天野英",
+    "nameKana": "あまのひで",
+    "description": "イラストレーター。『勇者、辞めます〜次の職場は魔王城〜』(カドカワBOOKS/富士見ファンタジア文庫)のキャラクター原案担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「勇者、辞めます〜次の職場は魔王城〜」記事、コミックシーモア作品ページで確認。読み仮名は検索結果に基づく推定で確度は中程度。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "katagiri-illustrator",
+    "name": "片桐",
+    "nameKana": "かたぎり",
+    "description": "イラストレーター。『〜東京魔王〜 モンスターが溢れる世界になり目醒めた能力【モンスターマスター】を使い最強のモンスター軍団を育成したら魔王と呼ばれ人類の敵にされたんだが』(ダッシュエックス文庫DIGITAL、集英社)の挿絵担当。",
+    "externalLinks": {},
+    "sourceNote": "集英社公式書籍ページ、コミックシーモア作品ページで確認。読み仮名は一般的な読みからの推定で確度は低い。",
+    "updatedAt": "2026-08-02"
   }
 ]

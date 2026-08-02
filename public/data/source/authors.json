@@ -5581,5 +5581,77 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「薬屋探偵妖綺談」記事で著者名・受賞歴・シリーズ概要を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kanzaki-kurone",
+    "name": "神埼黒音",
+    "nameKana": "かんざきくろね",
+    "description": "ライトノベル作家。『魔王様、リトライ!』(モンスター文庫/Mノベルス、双葉社)の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「魔王様、リトライ!」記事、BOOK☆WALKER作品ページで著者名・レーベル・刊行状況を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hata-ryousuke",
+    "name": "羽田遼亮",
+    "nameKana": "はたりょうすけ",
+    "description": "ライトノベル作家。『魔王軍最強の魔術師は人間だった』(モンスター文庫、双葉社)の著者。第15回エンターブレインえんため大賞出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「魔王軍最強の魔術師は人間だった」記事、著者名の読み方はラノベニュースオンライン等の著者紹介記事で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fudeorika",
+    "name": "不手折家",
+    "nameKana": "ふでおりか",
+    "description": "ライトノベル作家。『亡びの国の征服者〜魔王は世界を征服するようです〜』(オーバーラップノベルス)の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「亡びの国の征服者〜魔王は世界を征服するようです〜」記事、BOOK☆WALKER著者ページで確認。読み仮名は公式Xアカウント表記(Fudeorca)からの推定で確度は低い。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akuichi",
+    "name": "悪一",
+    "nameKana": "あくいち",
+    "description": "ライトノベル作家。『魔王軍の幹部になったけど事務仕事しかできません』(TOブックス)の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式作品ページ、BOOK☆WALKER・コミックシーモア作品ページ、なろう掲載(ncode.syosetu.com/n5015dq/)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "quantum",
+    "name": "クオンタム",
+    "nameKana": "くおんたむ",
+    "description": "ライトノベル作家。『勇者、辞めます〜次の職場は魔王城〜』(カドカワBOOKS/富士見ファンタジア文庫)の著者。カクヨム出身、第2回カクヨムWeb小説コンテスト ファンタジー部門大賞受賞。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「勇者、辞めます〜次の職場は魔王城〜」記事、カクヨム作品ページで受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "harunohi-biyori",
+    "name": "春の日びより",
+    "nameKana": "はるのひびより",
+    "description": "ライトノベル作家。『悪魔公女〜ゆるいアクマの物語〜』(Kラノベブックス、講談社)の著者。「小説家になろう」出身。",
+    "externalLinks": {},
+    "sourceNote": "講談社コミックプラス作品ページ、BOOK☆WALKER作品ページ、著者なろうマイページ(mypage.syosetu.com/mypage/novellist/userid/642340/)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miura-maki",
+    "name": "三浦まき",
+    "nameKana": "みうらまき",
+    "description": "ライトノベル作家。『転生したら魔王の娘 うっかり最凶魔族をスキルで魅了しちゃって甘すぎる溺愛から逃げられません！』(角川ビーンズ文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書籍ページ(kadokawa.co.jp/product/322305000189/)で著者名・イラストレーター名・あらすじ・刊行年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamahara-yayuu",
+    "name": "鎌原や裕",
+    "nameKana": "かまはらやゆう",
+    "description": "ライトノベル作家。『〜東京魔王〜 モンスターが溢れる世界になり目醒めた能力【モンスターマスター】を使い最強のモンスター軍団を育成したら魔王と呼ばれ人類の敵にされたんだが』(ダッシュエックス文庫DIGITAL、集英社)の著者。",
+    "externalLinks": {},
+    "sourceNote": "集英社公式書籍ページ(shueisha.co.jp)、コミックシーモア作品ページで著者名・出版社・刊行年(2021年12月)を確認。読み仮名は検索結果に基づく推定で確度は中程度。",
+    "updatedAt": "2026-08-02"
   }
 ]
