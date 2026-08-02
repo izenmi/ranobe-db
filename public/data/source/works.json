@@ -23552,5 +23552,311 @@
     "externalLinks": {},
     "sourceNote": "小説家になろう掲載ページ(ncode.syosetu.com/n4138ck/)を原作掲載元として確認。BOOK☆WALKER『夜伽の国の月光姫』TOブックス版シリーズページ(bookwalker.jp/series/56259/)で著者・イラストレーター・全5冊・完結・1巻刊行(2015年10月25日)を確認。紀伊國屋書店電子版ページでも著者・イラストレーター表記を確認。コミカライズ・アニメ化情報は確認できず、いずれもfalseとした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "magical-explorer",
+    "title": "マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
+    "titleKana": "まじかるえくすぷろーらー えろげのゆうじんきゃらにてんせいしたけど、げーむちしきつかってじゆうにいきる",
+    "authorIds": [
+      "irisu"
+    ],
+    "illustratorIds": [
+      "kaminazuki-noboru"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "otome-game-sekai",
+      "gakuen",
+      "mahou-gakuen",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "かつて遊んだ美少女ゲームに登場する、主人公の親友ポジションのモブキャラとして転生した高校生・コウスケ。本来は目立たない役回りだが、前世のゲーム知識を武器に魔法修行に打ち込み、ヒロインたちの攻略ルートを横目に独自の力を身につけていく。ゲーム主人公を凌ぐ実力者を目指す学園コメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マジカル★エクスプローラー_エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
+    },
+    "sourceNote": "日本語版Wikipedia記事、KADOKAWA公式商品ページ(kadokawa.co.jp/product/321903000004)、スニーカー文庫公式サイト(sneakerbunko.jp/series/majieku)で確認。2018年2月から小説家になろうに連載開始、2019年11月書籍化。TVアニメは2026年秋放送予定として制作発表済み(White Fox制作)。コミカライズは『ヤングエースUP』で連載(一時休止あり)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akutou-ikka-no-manamusume-tensei-saki-mo-otome-game-no-gokudou-reijou",
+    "title": "悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。〜最上級ランクの悪役さま、その溺愛は不要です！〜",
+    "titleKana": "あくとういっかのまなむすめ、てんせいさきもおとめげーむのごくどうれいじょうでした",
+    "authorIds": [
+      "amekawa-touko"
+    ],
+    "illustratorIds": [
+      "anno-meiji"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "urashakai",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "前世で遊んでいた乙女ゲームの世界に転生した主人公は、なぜかマフィアの令嬢フランチェスカとして生を受ける。ゲーム設定ではヒロインを付け狙う最上級ランクの悪役が言い寄ってくるはずの立場だが、本人はその溺愛シナリオを全力で回避しようとする。裏社会と乙女ゲームが融合した異色のシリーズ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「Reincarnated in a Mafia Dating Sim」記事、TOブックス公式オンラインストア(tobooks.shop-pro.jp/?pid=173089507ほか各巻ページ)、BOOK☆WALKER商品ページで確認。小説家になろうで2022年4月連載開始、2023年書籍化。2025年11月にTVアニメ化が発表(制作決定)。イラストは1〜3巻が安野メイジ、4巻以降はLINOに交代。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "badend-mokuzen-no-heroine-ni-tensei-shita-watashi",
+    "title": "バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？",
+    "titleKana": "ばっどえんどもくぜんのひろいんにてんせいしたわたし、こんせではれんあいするつもりがちーとなあにがはなしてくれません",
+    "authorIds": [
+      "kotoko-author"
+    ],
+    "illustratorIds": [
+      "tsukasa-satsuki"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "isekai-tensei",
+      "mahou-gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "元OLの主人公は、自分がかつて遊んだ乙女ゲームのヒロイン・レーヌとして転生したことに気づく。だが魔力も学力も底辺評価でバッドエンド直行の立場だった。今度こそ恋愛を楽しもうと奮闘するが、過保護でチート級の実力を持つ「兄」が何かと過干渉してきて、思うように事が運ばない乙女ゲーム世界コメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「I Was Reincarnated as the Heroine on the Verge of a Bad Ending, and I'm Determined to Fall in Love!」記事、TOブックス公式ストア各巻ページで確認。小説家になろうで2021年4月連載開始、2022年書籍化。2026年2月にアニメ化発表。コミカライズは七星郁斗による(既刊多数)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mobu-douzen-no-akuyaku-reijou-wa-dansou-shite-kouryaku-taishou-no-za-wo-nerau",
+    "title": "モブ同然の悪役令嬢は男装して攻略対象の座を狙う",
+    "titleKana": "もぶどうぜんのあくやくれいじょうはだんそうしてこうりゃくたいしょうのざをねらう",
+    "authorIds": [
+      "okazaki-masamune"
+    ],
+    "illustratorIds": [
+      "hayase-jun"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "乙女ゲーム「Royal LOVERS」のモブに近い悪役令嬢エリザベスに転生した主人公は、原作通りに断罪されるくらいなら発想を変えようと決意。なんと男装してヒロインから見た「攻略対象」の座そのものを狙いにいく。悪役令嬢と攻略対象、両方の立場を逆手に取るハートフルなラブコメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページ(kakuyomu.jp/works/1177354055532544122、初回投稿2021年1月5日)、TOブックスノベル公式シリーズページ(bookwalker.jp/series/364094)、Amazon商品ページ(著者:岡崎マサムネ/イラスト:早瀬ジュン)で確認。書籍第1巻は2022年9月発売。第10回ネット小説大賞との関連が複数の二次情報で言及されているが、部門・順位を一次資料で確認できなかったため受賞歴には計上せず。舞台化(2025年11月)あり、アニメ化は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-shitara-otome-ge-no-sekai-mahou-wo-kiwameru-no-ni-isogashii",
+    "title": "転生したら乙女ゲーの世界？ いえ、魔術を極めるのに忙しいのでそういうのは結構です。",
+    "titleKana": "てんせいしたらおとめげーのせかい？いえ、まじゅつをきわめるのにいそがしいのでそういうのはけっこうです",
+    "authorIds": [
+      "sakurai-mimaru"
+    ],
+    "illustratorIds": [
+      "musha"
+    ],
+    "publisherId": "kadokawa-shinbungei",
+    "themeIds": [
+      "otome-game-sekai",
+      "isekai-tensei",
+      "mahou",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "unknown",
+    "synopsis": "オカルト好きのアラサーOLが、貴族の五歳児アリスとして異世界に転生する。この世界が魔術の使える乙女ゲーム風の設定だと気づくが、恋愛フラグにはまるで興味がなく「魔術を極めるのに忙しい」と公言して研究にのめり込んでいく。攻略対象たちを尻目に、我が道を行く転生幼女の学園ファンタジー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321807000523、発売日2018年9月29日・著者:櫻井三丸・イラスト:ミュシャ・レーベル:新文芸)、コミカライズ版各巻ページ(コミックシーモア等、原作:櫻井三丸/漫画:坂巻あきむ/キャラクター原案:ミュシャ)で確認。原作小説の既刊巻数・完結状況および原作Web連載サイトは一次資料で確認できなかったため、volumeCount・webNovelSourceは記載せずstatusはunknownとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otome-game-no-sekai-de-watashi-ga-akuyaku-reijou-sonna-no-okotowari-desu",
+    "title": "乙女ゲームの世界で私が悪役令嬢!? そんなのお断りです!",
+    "titleKana": "おとめげーむのせかいでわたしがあくやくれいじょう!?そんなのおことわりです!",
+    "authorIds": [
+      "aozuki"
+    ],
+    "illustratorIds": [
+      "sasahara-ami"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "harem",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "27歳独身OLの神崎真里子は、お気に入りの乙女ゲームの悪役令嬢セシリアとして転生してしまう。ヒロインが幸せになるほど自分は破滅する設定に気づき、攻略対象たちから距離を置こうと画策するのだが、避ければ避けるほどなぜか複数の攻略対象に好かれてしまうすれ違いラブコメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作品ページ(ncode.syosetu.com/n3738er、連載開始2018年4月5日)、BOOK☆WALKER商品ページ(著者:蒼月/イラスト:笹原亜美、ビーズログ文庫)、KADOKAWA公式コミック商品ページで確認。既刊8巻(コミカライズ版販売ページの記載に基づく)。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otome-ge-senki",
+    "title": "乙女ゲー戦記 乙女ゲームを1ミリも知らない男がTS転生した結果",
+    "titleKana": "おとめげーせんき おとめげーむをいちみりもしらないおとこがてぃーえすてんせいしたけっか",
+    "authorIds": [
+      "ukkari-ippei"
+    ],
+    "illustratorIds": [
+      "amano-ei"
+    ],
+    "publisherId": "dragon-novels",
+    "themeIds": [
+      "otome-game-sekai",
+      "tsf",
+      "senki",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "ongoing",
+    "synopsis": "要人警護の任に就いていた男が、乙女ゲームとは知らぬまま女騎士エレウノーラとしてTS転生する。乙女ゲームの知識が一切ないまま、「男は拳で語り、女子会にも合理主義で臨む」という武骨な流儀を貫いた結果、学園内の攻略対象や悪役令嬢たちを巻き込みながら物語の筋書きを大きく狂わせていく異色の乙女ゲーム転生記。",
+    "awardResults": [
+      {
+        "awardId": "dragon-novels-shousetsu-contest",
+        "result": "第6回大賞受賞"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/322506000370、発売日2025年10月3日・著者:うっかり一兵衛・イラスト:天野英・レーベル:ドラゴンノベルス・第6回ドラゴンノベルス小説コンテスト大賞受賞と明記)、カクヨム作品ページ、コミックシーモア商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-rasubosu-joou-wa-tami-no-tame-ni-tsukushimasu",
+    "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
+    "titleKana": "ひげきのげんきょうとなるさいきょうげどうらすぼすじょおうはたみのためにつくします",
+    "authorIds": [
+      "ten-ichi"
+    ],
+    "illustratorIds": [
+      "suzunosuke"
+    ],
+    "publisherId": "ichijinsha-iris-neo",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "naisei",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "第一王女プライドは8歳のとき、自分が前世で遊んでいた乙女ゲームのラスボスであり、十年後に大陸を揺るがす悲劇を引き起こす女王になる運命だと思い出す。持ち前の予知知識と規格外の「ラスボスチート」を武器に、破滅の未来を回避しながら民のために国を導いていく内政系ラスボス転生譚。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・レーベル(一迅社アイリスNEO)・初出年(2018年小説家になろう連載開始)・既刊12巻(2025年10月現在)・アニメ2期制作・コミカライズ3種を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otome-ge-no-kouryaku-taishou-ni-narimashita",
+    "title": "乙女ゲーの攻略対象になりました…。",
+    "titleKana": "おとめげーのこうりゃくたいしょうになりました",
+    "authorIds": [
+      "aki-mesujin"
+    ],
+    "illustratorIds": [
+      "morisawa-haruyuki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "otome-game-sekai",
+      "tsf",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "かつて女子高生として乙女ゲーム『フォーチュン・クラウン』をやり込んでいた前世の記憶を持つまま、男子高校生・穂高湊として転生した主人公。しかも自分はゲーム内でヒロインに振られ続けるバッドエンド確定の攻略対象キャラだと判明する。ゲームの筋書きを覆すため、攻略対象という立場そのものと向き合う学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲーの攻略対象になりました…。"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者(秋目人)・イラストレーター(森澤晴行)・レーベル(電撃文庫/アスキー・メディアワークス)・刊行時期(2012年1月〜5月、全2巻)・完結・アニメ化コミカライズなしを確認。書き下ろし作品のためwebNovelSourceは記載せず。",
+    "updatedAt": "2026-08-02"
   }
 ]

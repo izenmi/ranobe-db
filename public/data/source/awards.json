@@ -383,5 +383,15 @@
     "externalLinks": {},
     "sourceNote": "一二三書房および関連記事による。BOOK☆WALKER収録の書籍紹介文に「第3回一二三書房WEB小説大賞 銀賞」受賞の記載あり(単一情報源、要ダブルチェック)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dragon-novels-shousetsu-contest",
+    "name": "ドラゴンノベルス小説コンテスト",
+    "organizer": "KADOKAWA(ドラゴンノベルス編集部)",
+    "description": "KADOKAWAのライトノベルレーベル「ドラゴンノベルス」が主催する新人向け小説コンテスト。大賞受賞作は同レーベルより書籍化される。",
+    "firstYear": 2019,
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/322506000370)に『乙女ゲー戦記』が「第6回ドラゴンノベルス小説コンテスト大賞受賞」と明記されているのを確認(発売2025年10月)。創設年(firstYear)は同コンテストが年1回開催と仮定した逆算による推定値で、正確な創設年は未確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

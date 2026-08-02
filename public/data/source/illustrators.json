@@ -4933,5 +4933,59 @@
     "externalLinks": {},
     "sourceNote": "紀伊國屋書店電子版ページおよびBOOK☆WALKER『夜伽の国の月光姫』シリーズページ(bookwalker.jp/series/56259/)でイラストレーター名を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "anno-meiji",
+    "name": "安野メイジ",
+    "nameKana": "あんのめいじ",
+    "description": "イラストレーター。『悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。』1〜3巻の挿絵を担当(4巻以降はLINOが担当)。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「Reincarnated in a Mafia Dating Sim」記事、BOOK☆WALKER商品ページ(著者:雨川透子/安野メイジ)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukasa-satsuki",
+    "name": "彩月つかさ",
+    "nameKana": "さつきつかさ",
+    "description": "イラストレーター。『バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？』1〜2巻の挿絵、コミカライズ版キャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia該当記事、Amazon商品ページ(コミック版クレジットに「彩月つかさ(キャラクター原案)」と記載)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sasahara-ami",
+    "name": "笹原亜美",
+    "nameKana": "ささはらあみ",
+    "description": "イラストレーター。『乙女ゲームの世界で私が悪役令嬢!? そんなのお断りです!』(ビーズログ文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER商品ページ(著者:蒼月/イラスト:笹原亜美 ビーズログ文庫)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "musha",
+    "name": "ミュシャ",
+    "nameKana": "みゅしゃ",
+    "description": "イラストレーター(キャラクター原案)。『転生したら乙女ゲーの世界？ いえ、魔術を極めるのに忙しいのでそういうのは結構です。』の原作キャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321807000523)、BOOK☆WALKER・コミックシーモア各商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amano-ei",
+    "name": "天野英",
+    "nameKana": "あまのえい",
+    "description": "イラストレーター。『乙女ゲー戦記 乙女ゲームを1ミリも知らない男がTS転生した結果』(ドラゴンノベルス)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/322506000370)、Amazon商品ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzunosuke",
+    "name": "鈴ノ助",
+    "nameKana": "すずのすけ",
+    "description": "イラストレーター。『悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。』(一迅社アイリスNEO)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。」記事で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

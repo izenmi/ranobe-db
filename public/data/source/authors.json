@@ -5781,5 +5781,77 @@
     "externalLinks": {},
     "sourceNote": "紀伊國屋書店電子版ページおよびBOOK☆WALKER『夜伽の国の月光姫』シリーズページ(bookwalker.jp/series/56259/、完結・全5冊)で著者名・イラストレーター名・レーベル・刊行年(2015年)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "irisu",
+    "name": "入栖",
+    "nameKana": "いりす",
+    "description": "ライトノベル作家。『マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる』(角川スニーカー文庫)の著者。小説家になろう出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる」記事、KADOKAWA公式商品ページ(kadokawa.co.jp/product/321903000004)、スニーカー文庫公式サイト(sneakerbunko.jp/series/majieku)で著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kotoko-author",
+    "name": "琴子",
+    "nameKana": "ことこ",
+    "description": "ライトノベル作家。『バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？』(TOブックス)の著者。小説家になろう出身。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「I Was Reincarnated as the Heroine on the Verge of a Bad Ending, and I'm Determined to Fall in Love!」記事、TOブックス公式ストア(tobooks.shop-pro.jp)、コミック版クレジット(cmoa.jp等)で著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okazaki-masamune",
+    "name": "岡崎マサムネ",
+    "nameKana": "おかざきマサムネ",
+    "description": "ライトノベル作家。『モブ同然の悪役令嬢は男装して攻略対象の座を狙う』(TOブックスノベル)の著者。カクヨム出身。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページ(kakuyomu.jp/works/1177354055532544122)、TOブックスノベル公式シリーズページ(bookwalker.jp/series/364094)、Amazon商品ページで著者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakurai-mimaru",
+    "name": "櫻井三丸",
+    "nameKana": "さくらいみまる",
+    "description": "ライトノベル作家。『転生したら乙女ゲーの世界？ いえ、魔術を極めるのに忙しいのでそういうのは結構です。』(KADOKAWA 新文芸)の著者。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ(kadokawa.co.jp/product/321807000523)で著者名・発売日を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aozuki",
+    "name": "蒼月",
+    "nameKana": "あおづき",
+    "description": "ライトノベル作家。『乙女ゲームの世界で私が悪役令嬢!? そんなのお断りです!』(ビーズログ文庫)の著者。小説家になろう出身。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作品ページ(ncode.syosetu.com/n3738er)、BOOK☆WALKER商品ページ(著者:蒼月/イラスト:笹原亜美 ビーズログ文庫と記載)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ukkari-ippei",
+    "name": "うっかり一兵衛",
+    "nameKana": "うっかりいっぺい",
+    "description": "ライトノベル作家。『乙女ゲー戦記 乙女ゲームを1ミリも知らない男がTS転生した結果』(ドラゴンノベルス)の著者。第6回ドラゴンノベルス小説コンテスト大賞受賞。カクヨム出身。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページ、KADOKAWA公式商品ページ(kadokawa.co.jp/product/322506000370、発売日2025年10月3日・著者名・イラストレーター名・受賞歴を記載)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ten-ichi",
+    "name": "天壱",
+    "nameKana": "てんいち",
+    "description": "ライトノベル作家。『悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。』(一迅社アイリスNEO)の著者。小説家になろう出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。」記事で著者名・巻数・メディア展開を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aki-mesujin",
+    "name": "秋目人",
+    "nameKana": "あきめじん",
+    "description": "ライトノベル作家。『乙女ゲーの攻略対象になりました…。』(電撃文庫)の著者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「乙女ゲーの攻略対象になりました…。」記事で著者名・出版年・巻数を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
