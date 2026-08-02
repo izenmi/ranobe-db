@@ -23,6 +23,12 @@ const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
   { value: "none", label: "メディアミックスなし" },
 ];
 
+const SORT_OPTIONS: { value: string; label: string }[] = [
+  { value: "year-desc", label: "刊行年が新しい順" },
+  { value: "year-asc", label: "刊行年が古い順" },
+  { value: "kana", label: "五十音順" },
+];
+
 const PAGE_SIZE = 50;
 
 /** Numbered page list with "…" collapsing for large totals, e.g. [1,2,3,"…",710].
@@ -98,6 +104,7 @@ export function WorkListPage() {
   const status = params.get("status") ?? "";
   const webNovel = params.get("webNovel") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
+  const sort = params.get("sort") ?? "year-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const worksState = useAsyncData(getWorks, []);
@@ -124,9 +131,16 @@ export function WorkListPage() {
     });
   }, [worksState, q, themeId, publisherId, status, webNovel, mediaMix]);
 
-  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const sorted = useMemo(() => {
+    if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
+    if (sort === "year-desc") return [...filtered].sort((a, b) => b.firstPublishedYear - a.firstPublishedYear);
+    if (sort === "kana") return [...filtered].sort((a, b) => a.titleKana.localeCompare(b.titleKana, "ja"));
+    return filtered;
+  }, [filtered, sort]);
+
+  const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
   const page = Math.min(pageParam, totalPages);
-  const pageItems = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+  const pageItems = sorted.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
 
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
@@ -194,6 +208,16 @@ export function WorkListPage() {
         <select value={mediaMix} onChange={(e) => updateParam("mediaMix", e.target.value)}>
           <option value="">メディアミックスで絞り込み</option>
           {MEDIA_MIX_OPTIONS.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+        <select
+          value={sort}
+          onChange={(e) => updateParam("sort", e.target.value === "year-desc" ? "" : e.target.value)}
+        >
+          {SORT_OPTIONS.map((o) => (
             <option value={o.value} key={o.value}>
               {o.label}
             </option>
