@@ -23,6 +23,12 @@ const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
   { value: "none", label: "メディアミックスなし" },
 ];
 
+const SORT_OPTIONS: { value: string; label: string }[] = [
+  { value: "year-desc", label: "刊行年が新しい順" },
+  { value: "year-asc", label: "刊行年が古い順" },
+  { value: "kana", label: "五十音順" },
+];
+
 export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTheme(id!), [id]);
@@ -30,6 +36,7 @@ export function ThemeDetailPage() {
   const status = params.get("status") ?? "";
   const webNovel = params.get("webNovel") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
+  const sort = params.get("sort") ?? "year-desc";
 
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
@@ -44,12 +51,29 @@ export function ThemeDetailPage() {
     });
   }, [state, status, webNovel, mediaMix]);
 
+  const sorted = useMemo(() => {
+    if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
+    if (sort === "year-desc") return [...filtered].sort((a, b) => b.firstPublishedYear - a.firstPublishedYear);
+    if (sort === "kana") return [...filtered].sort((a, b) => a.titleKana.localeCompare(b.titleKana, "ja"));
+    return filtered;
+  }, [filtered, sort]);
+
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
     if (value) next.set(key, value);
     else next.delete(key);
     setParams(next, { replace: true });
   }
+
+  function clearFilters() {
+    const next = new URLSearchParams(params);
+    for (const key of ["status", "webNovel", "mediaMix"]) {
+      next.delete(key);
+    }
+    setParams(next, { replace: true });
+  }
+
+  const hasActiveFilters = Boolean(status || webNovel || mediaMix);
 
   return (
     <div className="page">
@@ -86,10 +110,25 @@ export function ThemeDetailPage() {
                 </option>
               ))}
             </select>
+            <select
+              value={sort}
+              onChange={(e) => updateParam("sort", e.target.value === "year-desc" ? "" : e.target.value)}
+            >
+              {SORT_OPTIONS.map((o) => (
+                <option value={o.value} key={o.value}>
+                  {o.label}
+                </option>
+              ))}
+            </select>
+            {hasActiveFilters && (
+              <button type="button" className="filter-clear-btn" onClick={clearFilters}>
+                フィルターをクリア
+              </button>
+            )}
           </div>
-          {filtered.length === 0 && <EmptyState />}
+          {sorted.length === 0 && <EmptyState />}
           <div className="work-grid">
-            {filtered.map((w) => (
+            {sorted.map((w) => (
               <WorkCard work={w} key={w.id} />
             ))}
           </div>
