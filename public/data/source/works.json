@@ -22135,5 +22135,287 @@
       "anime": false,
       "comic": true
     }
+  },
+  {
+    "id": "isekai-yurutto-survival-seikatsu",
+    "title": "異世界ゆるっとサバイバル生活〜学校の皆と異世界の無人島に転移したけど俺だけ楽勝です〜",
+    "titleKana": "いせかいゆるっとさばいばるせいかつ",
+    "authorIds": [
+      "ayano"
+    ],
+    "illustratorIds": [
+      "inui-waon"
+    ],
+    "publisherId": "brave-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "survival",
+      "mujintou",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "無人島暮らしに憧れる高校生・篠宮火影は、クラスメイトとともに異世界の無人島へ転移してしまう。電気も水道もない環境の中、祖父仕込みのサバイバル知識を武器に火起こしや漁、道具作りをこなし、少しずつ生活基盤を築きながら仲間たちを支えるリーダー的存在になっていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。一二三書房公式サイト(hifumi.co.jp)、BOOK☆WALKER、ブックライブの書籍情報ページで著者・イラストレーター・レーベル・発売日・巻数を確認。本編6巻に加え番外編2巻が刊行済み(2025年時点、通算8冊)。あらすじは各サイトの紹介文を参照し自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "garapago",
+    "title": "ガラパゴ〜集団転移で無人島に来た俺、美少女達とスマホの謎アプリで生き抜く〜",
+    "titleKana": "がらぱご",
+    "authorIds": [
+      "ayano"
+    ],
+    "illustratorIds": [
+      "arekkusu"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "survival",
+      "mujintou",
+      "harem"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "修学旅行中に謎の無人島へ集団転移してしまった主人公たち。地図に載っていないその島で、スマートフォンに入っていた奇妙なアプリだけを頼りに物資を整え、仲間との連携を図りながら生存の道を探る異世界サバイバル。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。HMV&BOOKS online、紀伊國屋書店ウェブストア、BOOK☆WALKERの書籍情報ページで著者・イラストレーター・レーベルを確認(底本発行日2021年1月)。続巻の有無・完結状況は確認できなかったためstatusはunknownとした。コミカライズ版あり(コミックPASH!、作画:夜坂一槻)。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "nariagari-eiyuu-no-mujintou-kitan",
+    "title": "成り上がり英雄の無人島奇譚〜スキルアップと万能アプリで美少女たちと快適サバイバル〜",
+    "titleKana": "なりあがりえいゆうのむじんとうきたん",
+    "authorIds": [
+      "ayano"
+    ],
+    "illustratorIds": [
+      "tenyu"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "survival",
+      "mujintou",
+      "harem"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "修学旅行中の生徒と教師が、謎のモンスターが棲む無人島へ集団転移してしまう。生徒の一人・風斗はスマートフォンに入っていた万能アプリの存在に気づき、これを駆使して過酷な島の生活を切り開いていく。仲間の美少女たちと数々の試練を乗り越え、帰還を目指すハーレムサバイバル。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。株式会社主婦と生活社のプレスリリース(PR TIMES)、コミックPASH!作品ページ、小説家になろう作品情報ページで著者・イラストレーター・レーベル(PASH!文庫)・各巻発売日を確認。2026年7月時点で既刊5巻。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "shousha-man-no-isekai-survival",
+    "title": "商社マンの異世界サバイバル〜絶対人とはつるまねえ〜",
+    "titleKana": "しょうしゃまんのいせかいさばいばる",
+    "authorIds": [
+      "anno-un"
+    ],
+    "illustratorIds": [
+      "fuse-ryuta"
+    ],
+    "publisherId": "dragon-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "survival",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "宝くじで大金を得て脱サラした元商社マンが、北海道の人里離れた土地で農業を始めようとした矢先、鶏小屋ごと異世界へ転移してしまう。人付き合いが苦手なアラフォー男が、商社勤務で培った知識と行動力を頼りに、言葉も通じない世界でたった一人の自給自足生活を築いていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。小説家になろう作品情報ページ(書籍化・コミカライズ情報)、BOOK☆WALKERの巻別ページで出版社(ドラゴンノベルス)・著者・イラストレーター・発売日・巻数(全4巻、完結)を確認。原作Web版はカクヨム第4回コンテストで特別賞を受賞したとの記載があるが、受賞年・部門の詳細を一次資料で確認できなかったためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "tenohira-kaitakumura-de-isekai-kenkokuki",
+    "title": "てのひら開拓村で異世界建国記〜増えてく嫁たちとのんびり無人島ライフ〜",
+    "titleKana": "てのひらかいたくむらでいせかいけんこくき",
+    "authorIds": [
+      "hoshizaki-kon"
+    ],
+    "illustratorIds": [
+      "aruya"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-tensei",
+      "survival",
+      "mujintou",
+      "harem",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "現代日本から異世界に転生したカイは、邪神と判定されたことで無人島へ島流しにされてしまう。そこで出会った少女アビスと、箱庭のように領地を操る能力「てのひら開拓村」を頼りに、道具も文明もない状態から手探りで生活基盤を整え、やがて島に国を築いていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/てのひら開拓村で異世界建国記〜増えてく嫁たちとのんびり無人島ライフ〜"
+    },
+    "sourceNote": "日本語版Wikipedia「てのひら開拓村で異世界建国記〜増えてく嫁たちとのんびり無人島ライフ〜」で著者・イラストレーター・レーベル(MF文庫J)・巻数(小説版全7巻、2017〜2020年)・完結状況を確認。あらすじは同記事の内容を参照し自分の言葉で要約。コミカライズ版が2025年時点で連載中。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "uchuusen-ga-sounan-shitakedo",
+    "title": "宇宙船が遭難したけど、目の前に地球型惑星があったから、今までの人生を捨ててイージーに生きたい",
+    "titleKana": "うちゅうせんがそうなんしたけど",
+    "authorIds": [
+      "mizuno-airai"
+    ],
+    "illustratorIds": [
+      "tamago-no-kimi"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "sf",
+      "survival"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "宇宙船のパイロット・ルーディは航行中の事故で、見知らぬ辺境の惑星に不時着してしまう。そこで出会った魔女に自分の持つ知識や技術を分け与える代わりに現地の暮らし方を教わりながら、文明レベルの大きく異なる星でのサバイバル生活を送ることになる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。BOOK☆WALKERの個別書籍ページ(1巻・2巻)でタイトル・著者・イラストレーター・レーベル(カドカワBOOKS)・発売日を確認。全3巻刊行との情報を確認したが3巻の正確な発売日は特定できず、latestPublishedYearは推定。コミカライズ版(ドラゴンコミックスエイジ)全2巻・完結。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
+  },
+  {
+    "id": "maou-ni-nattara-ryouchi-ga-mujintou-datta",
+    "title": "魔王になったら領地が無人島だった",
+    "titleKana": "まおうになったらりょうちがむじんとうだった",
+    "authorIds": [
+      "hirune-suru-bourei"
+    ],
+    "illustratorIds": [
+      "jon-dii"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "survival",
+      "mujintou"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "異世界に転生した男は、モンスターの村に暮らす鬼(オーガ)の少年カルムとして生まれ変わる。与えられた領地は何もない無人島。原始的な暮らしに音を上げつつ、積極的な幼馴染の鬼娘に迫られながらも、シャベル一本を手に島の開拓と生活基盤づくりに奮闘していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「GCノベルズ」作品一覧ページ、BOOK☆WALKERの個別書籍ページで著者・イラストレーター・レーベル・発売日(2016〜2018年)・巻数(全4巻、完結)を確認。メディアミックス情報は確認できなかったためanime/comicともfalseとした。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "skill-niwaijiri-reijou-shimanagashi",
+    "title": "スキル【庭いじり】持ち令嬢、島流しにあう〜未開の島でスキルが大進化！簡単開拓始めます〜",
+    "titleKana": "すきるにわいじりもちれいじょう、しまながしにあう",
+    "authorIds": [
+      "takata-chihiro"
+    ],
+    "illustratorIds": [
+      "asatani-tomoyo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "isekai-fantasy",
+      "survival",
+      "mujintou",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "「庭いじり」というありふれたスキルしか持たないと軽んじられていた公爵令嬢は、身に覚えのない罪を着せられ未開の孤島へ追放されてしまう。だが手つかずの自然は彼女のスキルと相性抜群で、次々と力を発揮していく。島に住む不思議な植物の精霊や人々と交流しながら、独自のやり方で島の開拓を進めていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。BOOK☆WALKER・honto.jpの書籍情報ページでタイトル・レーベル(MFブックス)・発売日(1巻2024年6月、2巻2025年2月)を確認。著者/イラストレーターの対応関係はサイトによって表記の揺れがあり、honto.jp・BOOK☆WALKER双方の記載(著者:たかたちひろ／イラスト:麻谷知世)を採用した。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    }
+  },
+  {
+    "id": "tsuihou-ryoushu-no-kotou-kaitakuki",
+    "title": "追放領主の孤島開拓記〜秘密のギフト【クラフトスキル】で世界一幸せな領地を目指します！〜",
+    "titleKana": "ついほうりょうしゅのことうかいたくき",
+    "authorIds": [
+      "nagao-takao"
+    ],
+    "illustratorIds": [
+      "karei"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "tsuihou",
+      "isekai-fantasy",
+      "survival",
+      "mujintou",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "伯爵家の長男レストは、面倒な家督争いを避けるため自ら仕組んで国外追放の身となる。流れ着いた先は名もなき孤島。特別な「クラフトスキル」の力を武器に、慕ってくれる家臣たちとともに、争いのない穏やかな理想郷を目指して島の開拓を始める。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事なし。日本語版Wikipedia「サーガフォレスト」作品一覧ページ、BOOK☆WALKERの個別書籍ページ(1巻・3巻)でタイトル・著者・イラストレーター・レーベル・発売日(1巻2021年5月、3巻2023年7月)・巻数(全3巻)を確認。3巻以降の続刊情報および完結の公式発表は確認できなかったためstatusはunknownとした。コミカライズ版あり。",
+    "updatedAt": "2026-08-02",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    }
   }
 ]

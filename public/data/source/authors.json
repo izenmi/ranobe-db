@@ -5453,5 +5453,61 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER検索結果にて著者名を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ayano",
+    "name": "絢乃",
+    "nameKana": "あやの",
+    "description": "小説投稿サイト「小説家になろう」「カクヨム」を中心に活動する作家・漫画原作者。無人島・異世界サバイバルを題材にした作品を多数手掛ける。",
+    "sourceNote": "BOOK☆WALKER・ブックライブ等の著者ページ、各作品の書籍情報ページで確認。日本語版Wikipediaに単独記事は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "anno-un",
+    "name": "餡乃雲",
+    "nameKana": "あんのうん",
+    "description": "「小説家になろう」発の作家。カクヨム第4回コンテストで特別賞を受賞したとされる『商社マンの異世界サバイバル』で書籍デビュー。",
+    "sourceNote": "小説家になろう作品情報ページ、BOOK☆WALKER書籍ページで確認。日本語版Wikipediaに単独記事は確認できず。カクヨムコンテスト受賞の詳細(年・部門)は未確認のためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hoshizaki-kon",
+    "name": "星崎崑",
+    "nameKana": "ほしざきこん",
+    "description": "ライトノベル作家。代表作『てのひら開拓村で異世界建国記〜増えてく嫁たちとのんびり無人島ライフ〜』(MF文庫J)。",
+    "sourceNote": "日本語版Wikipedia「てのひら開拓村で異世界建国記〜増えてく嫁たちとのんびり無人島ライフ〜」記事で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizuno-airai",
+    "name": "水野藍雷",
+    "nameKana": "みずのあいらい",
+    "description": "ライトノベル作家。宇宙船の遭難をきっかけに異世界的な惑星でのサバイバル生活を描く『宇宙船が遭難したけど、目の前に地球型惑星があったから、今までの人生を捨ててイージーに生きたい』(カドカワBOOKS)の著者。",
+    "sourceNote": "BOOK☆WALKER書籍ページで確認。日本語版Wikipediaに単独記事は確認できず、読み仮名は推定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hirune-suru-bourei",
+    "name": "昼寝する亡霊",
+    "nameKana": "ひるねするぼうれい",
+    "description": "ライトノベル作家。『魔王になったら領地が無人島だった』(GCノベルズ)などを手掛ける。",
+    "sourceNote": "日本語版Wikipedia「GCノベルズ」作品一覧ページ、BOOK☆WALKER書籍ページで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takata-chihiro",
+    "name": "たかたちひろ",
+    "nameKana": "たかたちひろ",
+    "description": "ライトノベル作家。『スキル【庭いじり】持ち令嬢、島流しにあう〜未開の島でスキルが大進化！簡単開拓始めます〜』(MFブックス)の著者。",
+    "sourceNote": "honto.jp、BOOK☆WALKER書籍ページで確認。サイトにより著者/イラストレーターの表記が入れ替わって要約されるケースがあったため、複数ソースを突き合わせて著者側と判断。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagao-takao",
+    "name": "長尾隆生",
+    "nameKana": "ながおたかお",
+    "description": "ライトノベル作家。『追放領主の孤島開拓記〜秘密のギフト【クラフトスキル】で世界一幸せな領地を目指します！〜』(サーガフォレスト)の著者。",
+    "sourceNote": "日本語版Wikipedia「サーガフォレスト」作品一覧ページ、BOOK☆WALKER書籍ページで確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
