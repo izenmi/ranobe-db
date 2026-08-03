@@ -24783,5 +24783,415 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者・出版社(オーバーラップ Rosage Novels、2025年5月)およびあらすじ概要(悪女として断罪された令嬢が初恋相手の王太子と偽りの愛に溺れる)を確認。アニメ化・コミカライズ情報なし。イラストレーターは未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "beru-pupe-no-supadari-konyaku",
+    "title": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い!〜",
+    "titleKana": "べるぷぺーのすぱだりこんやく",
+    "authorIds": [
+      "asagiri-asaki"
+    ],
+    "illustratorIds": [
+      "seren"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "「美しい人形」と評判の公爵令嬢レティシアは、女性関係の噂が絶えない第二皇子ジルベールとの結婚を命じられる。皇子の好みに合わせて猫をかぶるのをやめ、素の自分をさらけ出すようになったレティシアに、皇子は次第に本気の好意を寄せていく。政略から始まった許嫁関係が、不器用な二人の恋へと変わっていく宮廷ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "sqex-novel-taisho",
+        "year": 2023,
+        "result": "金賞(第1回SQEXノベル大賞)"
+      }
+    ],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い!〜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事を確認。原作は「小説家になろう」2023年1-4月連載、2024年3月にSQEXノベルより書籍化(1巻)。第1回SQEXノベル大賞金賞受賞。マンガUP!にてコミカライズ中(アニメ化情報なし)。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akushoku-reijou-to-kyouketsu-koushaku",
+    "title": "悪食令嬢と狂血公爵 〜その魔物、私が美味しくいただきます!〜",
+    "titleKana": "あくじきれいじょうときょうけつこうしゃく",
+    "authorIds": [
+      "hoshi-kanata"
+    ],
+    "illustratorIds": [
+      "peperon"
+    ],
+    "publisherId": "k-ranobe-books-f",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "dark-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "飢饉とモンスターに苦しむ辺境で、伯爵令嬢メルフィエラは人道に反するとされる「モンスターを食用にする研究」に没頭していた。縁談にも恵まれず修道院行きを迫られていた矢先、魔獣に襲われた彼女を救ったのは「狂血公爵」の異名を持つガルブレイス公爵。彼女の変わった知識に興味を持った公爵からその場で求婚され、政略結婚さながらに彼の領地へ嫁ぐことになる。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪食令嬢と狂血公爵_〜その魔物、私が美味しくいただきます!〜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事を確認。原作は「小説家になろう」2019年11月連載開始、2021年4月に講談社Kラノベブックスfより書籍化(2025年12月時点で4巻)。水辺チカによるコミカライズ(2021年〜)、2025年10-12月にテレビアニメ放送。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seiryaku-kekkon-no-otto-ni-aisanakute-kekkou-desu",
+    "title": "政略結婚の夫に「愛さなくて結構です」と宣言したら溺愛が始まりました",
+    "titleKana": "せいりゃくけっこんのおっとにあいさなくてけっこうですとせんげんしたらできあいがはじまりました",
+    "authorIds": [
+      "shakushi-neko"
+    ],
+    "illustratorIds": [
+      "nikrome"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "家族から冷遇されてきた伯爵令嬢マルグリットは、王命により対立する公爵家の後継者ルシアンとの政略結婚を命じられる。「愛するつもりはない」と告げられ嫁ぎ先でも疎遠にされるが、実家での扱いに比べればましだと明るく振る舞い続ける。そんな彼女の態度に触れるうち、ルシアンは次第に心を開き始め、義務だけだったはずの結婚がすれ違いを重ねながら愛情へと変わっていく。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "officialUrl": "https://promo.kadokawa.co.jp/bslogbunko/series/seiryakukekkon/"
+    },
+    "sourceNote": "KADOKAWA公式シリーズ紹介ページ・国立国会図書館サーチの書誌情報(ビーズログ文庫、し-13-01〜03、2023-2024年刊)を確認。原作は「小説家になろう」。コミカライズあり(フロースコミック)、アニメ化情報なし。既刊3巻で完結しているかは情報源からは確認できず「unknown」とした。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ouhi-beruta-no-shouzou",
+    "title": "王妃ベルタの肖像",
+    "titleKana": "おうひべるたのしょうぞう",
+    "authorIds": [
+      "nishino-himawari"
+    ],
+    "illustratorIds": [
+      "imai-takahiro"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "辺境伯の娘ベルタは、寵姫との仲睦まじさで知られる国王ハロルドの「第二妃」として政略結婚することになる。子宝に恵まれない第一妃を尻目にベルタが世継ぎを身ごもったことから、宮廷内の派閥争いに巻き込まれていく。政略結婚で迎えられた身でありながら王の心情や周囲の思惑に翻弄されつつ、次第に国王との関係を築いていく後宮ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "officialUrl": "https://lbunko.kadokawa.co.jp/product/oukiberuta/321911000793.html"
+    },
+    "sourceNote": "KADOKAWA公式商品ページ・国立国会図書館サーチの書誌情報(富士見L文庫、2020年刊行開始、3巻は2021年5月刊)を確認。『うっかり陛下の子を妊娠してしまいました』のタイトルでガンガンONLINEにてコミカライズ(田中文作画)。アニメ化情報なし。4巻以降の刊行情報が確認できず、完結・続刊未定いずれとも判断できないため「unknown」とした。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sanshoku-hirunetsuki-seikatsu-wo-yakusoku-shite-kudasai-koushaku-sama",
+    "title": "三食昼寝付き生活を約束してください、公爵様",
+    "titleKana": "さんしょくひるねつきせいかつをやくそくしてくださいこうしゃくさま",
+    "authorIds": [
+      "chikafuji-yuki"
+    ],
+    "illustratorIds": [
+      "minsuke"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "借金を抱えた貧乏令嬢のもとに、余所者を毛嫌いする名門公爵家当主から縁談が舞い込む。跡継ぎも夫婦生活も求めない代わりに「三食昼寝付きの安泰な暮らし」を条件とする型破りな契約結婚に応じた令嬢だったが、公爵家での日々を通じて偏屈だった当主や周囲の人々との距離が少しずつ縮まっていく、契約結婚から始まる幸福探しの物語。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう作品ページ(書籍化・コミカライズ完結の表記あり)および国立国会図書館サーチの書誌情報(ツギクルブックス、2022-2023年刊、全3巻)を確認。2022年7月に本編完結。アニメ化情報なし。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dareka-kono-joukyou-wo-setsumei-shite-kudasai",
+    "title": "誰かこの状況を説明してください!",
+    "titleKana": "だれかこのじょうきょうをせつめいしてください",
+    "authorIds": [
+      "tsurezure-hana"
+    ],
+    "illustratorIds": [
+      "hagiwara-rin"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "unknown",
+    "volumeCount": 9,
+    "synopsis": "借金を抱える貧乏子爵令嬢ヴィオラは、愛人との関係を守りたい名門公爵家当主サーシスから「跡継ぎ不要、浮気公認」という破格の条件で契約結婚を持ちかけられる。名ばかりの妻でいいはずだったが、公爵家での暮らしを通じてサーシス本人や周囲の人々との距離が徐々に縮まっていく。政略や打算から始まった夫婦関係が本物の愛情に変わっていく契約結婚ラブコメディ。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/誰かこの状況を説明してください!"
+    },
+    "sourceNote": "日本語版Wikipediaの記事を確認。原作は「小説家になろう」、2013年9月よりフロンティアワークス「アリアンローズ」で書籍化開始。木野咲カズラによるコミカライズあり、2016年に舞台化。既刊9巻(2019年時点、7巻以降は続編パート)まで確認できたが、その後の巻・完結状況は情報源からは確認できず「unknown」とした。アニメ化情報なし。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tensei-oujo-wa-ai-yori-ryouchi-ga-hoshii-node-seiryaku-kekkon-wo-kibou-shimasu",
+    "title": "転生王女は愛より領地が欲しいので政略結婚を希望します！",
+    "titleKana": "てんせいおうじょはあいよりりょうちがほしいのでせいりゃくけっこんをきぼうします",
+    "authorIds": [
+      "hiiragi-kazuha"
+    ],
+    "illustratorIds": [
+      "sako"
+    ],
+    "publisherId": "ichijinsha-iris-neo",
+    "themeIds": [
+      "iinazuke-marriage",
+      "isekai-tensei",
+      "naisei",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "戦略シミュレーションゲームの世界に転生した王女フェアリスは、前世のゲーム知識を活かして戦を勝ち抜き「戦姫」と呼ばれるようになる。戦後、国王から結婚を命じられた彼女が望むのは恋愛ではなく「より多くの領地が得られる政略結婚」。ところが結婚相手候補の一人で腹心でもある魔導士オルフェドから不意に想いを告げられ、領地目当てのはずの婚活が思わぬ方向へ転がり出す。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.ichijinsha.co.jp/iris/title/tensei-oujyo/"
+    },
+    "sourceNote": "一迅社公式サイト(一迅社アイリスNEOレーベル紹介ページ)および国立国会図書館サーチの書誌情報(2022年9月刊、1巻完結)を確認。2023年よりZERO-SUMコミックスにてコミカライズ。アニメ化情報なし。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seiryaku-yori-ai-wo-eranda-kekkon",
+    "title": "政略より愛を選んだ結婚。―後悔は十年後にやってきた。",
+    "titleKana": "せいりゃくよりあいをえらんだけっこんこうかいはじゅうねんごにやってきた",
+    "authorIds": [
+      "tsukumo-nasu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "完璧な侯爵令嬢との婚約を解消し、恋した下級貴族の娘を選んだ王太子。真実の愛さえあれば乗り越えられると信じていたが、教養も気品も欠く新しい妃は次々と問題を起こし、宮廷での評判を落としていく。一方、婚約を解消された元婚約者は公爵に嫁ぎ、貴族や民からの信頼を集めて幸福に暮らしていた。十年の歳月をかけて「愛さえあれば」という理想が幻想だったと思い知らされていく王太子の後悔の物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報(アルファポリス「レジーナブックス」、2024年6月刊、280p、1巻完結)を確認。2026年にレジーナCOMICSでコミカライズ(作画: 大庭ジョルジョ)。原作小説の挿絵担当者はNDLサーチ・書店サイトいずれにも明記が見当たらず確認できなかったためillustratorIdsは空とした。アニメ化情報なし。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dakara-chigau-to-itteru-deshou",
+    "title": "だから違うと言ってるでしょう　貧乏伯爵令嬢ですが訳あって大富豪侯爵様の契約妻になりました",
+    "titleKana": "だからちがうといってるでしょうびんぼうはくしゃくれいじょうですがわけあってだいふごうこうしゃくさまのけいやくづまになりました",
+    "authorIds": [
+      "suzuno"
+    ],
+    "illustratorIds": [
+      "yoi-machi"
+    ],
+    "publisherId": "ichijinsha-iris-neo",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "貧乏伯爵令嬢オーロラのもとに、面識のない大富豪侯爵ミハイルから「幼い頃に交わした婚約の約束」を理由に結婚の申し出が届く。身に覚えがないと困惑するオーロラだったが、直接訪ねてきたミハイルは人違いだったと認めながらも、なぜか彼女との結婚を望むと告げる。奇妙な求婚から始まった契約結婚の行方を描く、じれったい年の差ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER商品ページ(発売日2026年8月4日、一迅社アイリスNEO、著者: 錫乃、イラスト: 宵マチ)を確認。刊行直後のため続刊予定・完結状況は不明、アニメ化・コミカライズ情報も現時点で確認できず。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gohoubi-kon-tamawarimasu",
+    "title": "ご褒美婚賜ります",
+    "titleKana": "ごほうびこんたまわります",
+    "authorIds": [
+      "momotomoe"
+    ],
+    "illustratorIds": [
+      "ataka"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "冷遇されている某国の王女は、叔父の思惑により敵対する隣国の王の側室として差し出されることになる。屈辱的なはずのこの政略結婚を、彼女はなぜか「思わぬご褒美」だと前向きに受け止め、新しい生活を存分に楽しみ始める。暗い顔をして当然という周囲の予想を裏切る明るさとたくましさが、次第に冷徹だったはずの王本人の心すら動かしていく、発想の転換が痛快な政略結婚ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報(一迅社文庫アイリス、発売日2026年8月20日、著者: 桃巴、イラスト: 宛)および一迅社公式サイトの紹介文を確認。刊行直前のため続刊予定・完結状況は不明、アニメ化・コミカライズ情報も現時点で確認できず。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "koutei-tsuki-nyokan-wa-hanayome-toshite-nozomare-chuu",
+    "title": "皇帝つき女官は花嫁として望まれ中",
+    "titleKana": "こうていつきにょかんははなよめとしてのぞまれちゅう",
+    "authorIds": [
+      "satsuki-kanata"
+    ],
+    "illustratorIds": [
+      "ichika-yoru"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "前世は女騎士だったという記憶を持つ男爵令嬢リーゼは、帝国との関わりを避けたいと願いながらも、訪問してきた皇帝付きの女官に抜擢されてしまう。さらに騎士シディスとの婚約話まで持ち上がり、皇帝の花嫁候補として望まれる立場に。前世で培った戦闘の心得を活かして次々と難題を解決しながら、望まぬ縁談と恋の間で揺れ動く宮廷ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.ichijinsha.co.jp/special/iris/koutei/"
+    },
+    "sourceNote": "一迅社公式特設ページの記載(一迅社文庫アイリス、2018年4月〜2019年8月、全3巻)を確認。アニメ化・コミカライズ情報は確認できず。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinigami-hime-no-saikon",
+    "title": "死神姫の再婚",
+    "titleKana": "しにがみひめのさいこん",
+    "authorIds": [
+      "onogami-akeyo"
+    ],
+    "illustratorIds": [
+      "kishida-mel",
+      "fujiwara-ryo"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "dark-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "没落した地方伯の娘アリシアは、結婚式当日に夫が急死するという不運から「死神姫」と呼ばれるようになる。一年後、叔父の勧めで再婚することになった相手は「暴君」と噂される新興貴族の強公爵カシュヴァーン。「お前を金で買った」と言い放つ公爵に、アリシアは持ち前の逞しさで「お買い上げありがとうございます」と応じる。政略結婚から始まり夫に溺愛されていく「姫嫁」ジャンルの先駆的作品。",
+    "awardResults": [
+      {
+        "awardId": "enterbrain-entame-taisho",
+        "year": 2007,
+        "result": "第9回エンターブレインえんため大賞ガールズノベル部門奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死神姫の再婚"
+    },
+    "sourceNote": "日本語版Wikipediaの記事および国立国会図書館サーチの書誌情報(B's-LOG文庫→ビーズログ文庫、エンターブレイン→KADOKAWA、2007年9月〜2016年9月刊、本編25巻前後)を確認。政略結婚後に夫から溺愛される「姫嫁」ジャンルを確立した作品とWikipediaに明記。イラストは岸田メルが担当し、「儚き永遠の恋人達」(2015年刊)以降は冨士原良に交代。コミカライズあり(2011年〜)、アニメ化情報なし。受賞年(第9回エンターブレインえんため大賞)はWikipediaに明記がなく、他回の受賞から刊行年へのタイムラグを参考に2007年と推定した。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5095,5 +5095,77 @@
     "externalLinks": {},
     "sourceNote": "小説家になろう該当作品ページ(2026-08-03閲覧)でイラストレーター名を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seren",
+    "name": "セレン",
+    "nameKana": "せれん",
+    "description": "イラストレーター。『ベル・プペーのスパダリ婚約』(SQEXノベル)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い!〜」の記載を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nikrome",
+    "name": "NiKrome",
+    "nameKana": "にくろーむ",
+    "description": "イラストレーター。『政略結婚の夫に「愛さなくて結構です」と宣言したら溺愛が始まりました』(ビーズログ文庫)のキャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページの記載を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "imai-takahiro",
+    "name": "今井喬裕",
+    "nameKana": "いまいたかひろ",
+    "description": "イラストレーター。『王妃ベルタの肖像』(富士見L文庫)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページの記載を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sako",
+    "name": "サコ",
+    "nameKana": "さこ",
+    "description": "イラストレーター。『転生王女は愛より領地が欲しいので政略結婚を希望します！』(一迅社アイリスNEO)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "一迅社文庫アイリス公式サイトおよび国立国会図書館サーチの書誌情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoi-machi",
+    "name": "宵マチ",
+    "nameKana": "よいまち",
+    "description": "イラストレーター。『だから違うと言ってるでしょう　貧乏伯爵令嬢ですが訳あって大富豪侯爵様の契約妻になりました』(一迅社アイリスNEO)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "一迅社公式サイトおよびBOOK☆WALKER商品ページの記載を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ataka",
+    "name": "宛",
+    "nameKana": "あたか",
+    "description": "イラストレーター。『ご褒美婚賜ります』(一迅社文庫アイリス)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "一迅社公式サイトおよび国立国会図書館サーチの書誌情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ichika-yoru",
+    "name": "一花夜",
+    "nameKana": "いちかよる",
+    "description": "イラストレーター。『皇帝つき女官は花嫁として望まれ中』(一迅社文庫アイリス)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "一迅社公式特設ページの記載を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fujiwara-ryo",
+    "name": "冨士原良",
+    "nameKana": "ふじわらりょう",
+    "description": "イラストレーター。『死神姫の再婚』(ビーズログ文庫)の途中巻(『儚き永遠の恋人達』以降)からイラストを担当。前任は岸田メル。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「死神姫の再婚」の記載(イラスト担当交代の経緯を含む)を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
