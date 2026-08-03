@@ -23858,5 +23858,272 @@
     },
     "sourceNote": "日本語版Wikipedia記事で著者(秋目人)・イラストレーター(森澤晴行)・レーベル(電撃文庫/アスキー・メディアワークス)・刊行時期(2012年1月〜5月、全2巻)・完結・アニメ化コミカライズなしを確認。書き下ろし作品のためwebNovelSourceは記載せず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ginga-kojiki-gundan",
+    "title": "銀河乞食軍団",
+    "titleKana": "ぎんがこじきぐんだん",
+    "authorIds": [
+      "noda-masahiro"
+    ],
+    "illustratorIds": [
+      "katou-naoyuki"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "銀河辺境の自治星系「星涯」で、元星系基地司令官や退役軍人ら個性的な面々が寄せ集めの小企業を営みながら、大手貨物業者や星系政府としばしば衝突している。彼らは「銀河乞食軍団」と渾名され、故郷の村ごと消えた少女の依頼をきっかけに、やがて銀河規模の陰謀に巻き込まれていく。和風の固有名詞とユーモアを効かせた、著者渾身の長編スペースオペラ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "著者・野田昌宏の日本語版Wikipedia記事(刊行年1982-1995、ハヤカワ文庫JA、本編17巻+外伝4巻、完結)、および note.com掲載の書評記事・BOOK☆WALKERシリーズページであらすじ・イラスト担当(加藤直之)を確認。作品単独のWikipedia記事は存在しないため著者記事と二次資料を併用。アニメ化・コミカライズ情報は確認できず両方falseとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hoshi-no-pilot",
+    "title": "星のパイロット",
+    "titleKana": "ほしのぱいろっと",
+    "authorIds": [
+      "sasamoto-yuuichi"
+    ],
+    "illustratorIds": [
+      "suzuki-masahisa"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "shigoto",
+      "adventure"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "宇宙輸送が民間企業にも開放された近未来。念願のフライト機会に恵まれずにいた新人宇宙飛行士・羽山美紀は、人手不足のアメリカの零細宇宙企業「スペース・プランニング」に採用される。個性的な同僚たちとともに静止軌道上の衛星保守など様々なミッションに挑みながら、トラブルを乗り越えて一人前の宇宙飛行士へと成長していく、地に足の着いた近未来宇宙冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星のパイロット"
+    },
+    "sourceNote": "日本語版Wikipedia「星のパイロット」記事で刊行年(ソノラマ文庫版1997-2000年、全4巻、2巻は上中下巻構成)・あらすじ概要・イラスト担当(鈴木雅久)を確認。GAINAX制作のドラマCD化はあるがテレビアニメ化・コミカライズ情報は確認できず両方falseとした。続刊2巻が星雲賞を受賞したとする記述もWikipedia上にあるが、記載された受賞年(1990年)が同巻の刊行時期(1997-2000年)と整合しない矛盾があり事実関係を確定できなかったためawardResultsには含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "port-town-blues",
+    "title": "ポート・タウン・ブルース",
+    "titleKana": "ぽーとたうんぶるーす",
+    "authorIds": [
+      "asou-shunpei"
+    ],
+    "illustratorIds": [
+      "nakamura-ryou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "tantei",
+      "adventure"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "人類が異星人との戦争に敗れて四年が過ぎた時代、辺境惑星カナベラルの港町を舞台にしたハードボイルドSF。私立探偵クドウ・リュウスケは、戦場から帰らぬ恋人を捜してほしいという女性の依頼を受け、行方を追ううちに戦争の傷跡と怪しい陰謀に巻き込まれていく。著者・麻生俊平の第2回ファンタジア長編小説大賞準入選デビュー作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻生俊平"
+    },
+    "sourceNote": "著者・麻生俊平の日本語版Wikipedia記事およびBOOK☆WALKER/紀伊國屋書店の作品ページで刊行年(1991年3月)・出版社(富士見ファンタジア文庫)・イラスト担当(中村亮)・デビュー経緯(第2回ファンタジア長編小説大賞準入選)を確認。あらすじは出典元記事に詳細な記載がなく、複数の書誌情報ページの断片的な記述から要約した。アニメ化・コミカライズ情報は確認できず両方falseとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "銀河英雄伝説",
+    "titleKana": "ぎんがえいゆうでんせつ",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "katou-naoyuki"
+    ],
+    "publisherId": "tokuma-novels",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "senki",
+      "battle-action",
+      "naisei"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "遠未来、銀河系に進出した人類は専制の銀河帝国と共和主義の自由惑星同盟に分裂し、恒久的な戦争状態にある。帝国の若き軍人ラインハルト・フォン・ローエングラムと、同盟の智将ヤン・ウェンリー、二人の天才の対照的な生き様と艦隊戦・政治謀略を通じ、国家と個人、専制と民主主義のあり方を壮大なスケールで描くスペースオペラの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "seiun-sho",
+        "year": 1988,
+        "result": "日本長編部門受賞(第19回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河英雄伝説"
+    },
+    "sourceNote": "日本語版Wikipedia「銀河英雄伝説」記事で刊行年(1982-1989年、トクマ・ノベルズ、本編10巻+外伝4巻)・イラスト担当(本編1-5巻:加藤直之、6-10巻:鴨下幸久、外伝:道原かつみ。代表として1-5巻担当の加藤直之を採用)・星雲賞受賞歴(第19回・1988年)・アニメ化(1988年-2000年版、2018年-Die Neue These版)・コミカライズ(複数版)を確認。原作は徳間書店トクマ・ノベルズ刊行後に東京創元社創元SF文庫へ移籍しているが、既存publishers.jsonに未登録の初刊レーベル(トクマ・ノベルズ)を新規追加した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "soreyuke-uchuu-senkan-yamamoto-yoko",
+    "title": "それゆけ!宇宙戦艦ヤマモト・ヨーコ",
+    "titleKana": "それゆけうちゅうせんかんやまもとようこ",
+    "authorIds": [
+      "shouji-takashi"
+    ],
+    "illustratorIds": [
+      "akaishizawa-takashi"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "battle-action",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "30世紀、銀河に進出した人類は二大勢力TERRAとNESSに分かれて戦争状態にある。ごく普通の女子高生ヤマモト・ヨーコは、ある日突然TERRAの巨大宇宙戦艦のパイロットに任命され、学園生活と艦隊戦をかけもちする羽目になる。個性豊かな仲間たちとともに敵勢力との戦いに身を投じていく、学園コメディと本格宇宙艦隊戦を組み合わせたスペースオペラ・シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/それゆけ!宇宙戦艦ヤマモト・ヨーコ"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者(庄司卓)・イラスト担当(赤石沢貴士)・刊行経緯(富士見ファンタジア文庫版1993-2001年・全22巻は未完結、朝日ノベルズ完全版2010-2013年・全13巻で完結)・あらすじ・アニメ化(OVA2期+TV26話)・コミカライズ(複数版)を確認。volumeCountは完結した朝日ノベルズ版の巻数(13巻)を採用した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "minisuka-uchuu-kaizoku",
+    "title": "ミニスカ宇宙海賊",
+    "titleKana": "みにすかうちゅうかいぞく",
+    "authorIds": [
+      "sasamoto-yuuichi"
+    ],
+    "illustratorIds": [
+      "matsumoto-noriyuki"
+    ],
+    "publisherId": "asahi-novels",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "adventure",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "海洋惑星の高校に通うごく普通の女子高生・海月miffee螢は、亡き父の跡を継ぎ、数百年前の勅許状に基づく合法的な宇宙海賊船の船長を継承することになる。学業と、伝統ある海賊業(実態は民間軍事・護衛業務)の船長業務を両立させながら、癖の強い乗組員たちとともに宇宙を駆ける冒険を繰り広げていくスペースオペラ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミニスカ宇宙海賊"
+    },
+    "sourceNote": "日本語版Wikipedia「ミニスカ宇宙海賊」記事で著者(笹本祐一)・イラスト担当(松本規之)・刊行レーベル(朝日ノベルズ、後にKADOKAWA)・刊行期間(2008年-2014年、全12巻、完結)・あらすじ・アニメ化(テレビアニメ「モーレツ宇宙海賊」全26話+劇場版)・コミカライズを確認。続編「超ミニスカ宇宙海賊」(2019年-)は別シリーズ扱いとしvolumeCount等には含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yabou-enbukyoku",
+    "title": "野望円舞曲",
+    "titleKana": "やぼうえんぶきょく",
+    "authorIds": [
+      "oginome-yuuki"
+    ],
+    "illustratorIds": [
+      "kuori-chimaki"
+    ],
+    "publisherId": "tokuma-dual-bunko",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "senki",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "人類が宙峡(宇宙航路)を介して広く星間進出を遂げた未来。宙峡を独占管理する商業国家オルヴィエートと、軍事大国ボスポラス帝国が鋭く対立する中、商業国家の令嬢エレオノーラと防衛艦隊司令官ジェラルドが、複雑に絡み合う政治的野望と艦隊戦に巻き込まれていく。田中芳樹の原案をもとに荻野目悠樹が執筆した本格宇宙政治劇。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "著者・荻野目悠樹の日本語版Wikipedia記事および作品情報ページで、原案(田中芳樹)・執筆(荻野目悠樹)・刊行レーベル(徳間デュアル文庫)・刊行期間(2000年8月-2010年12月、本編10巻+外伝1巻)・イラスト担当(久織ちまき)・あらすじ骨子(商業国家オルヴィエートと軍事大国ボスポラス帝国の対立、令嬢エレオノーラと艦隊司令官ジェラルド)を確認。アニメ化・コミカライズ情報は確認できず両方falseとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hoshikuzu-eiyuuden",
+    "title": "星くず英雄伝",
+    "titleKana": "ほしくずえいゆうでん",
+    "authorIds": [
+      "araki-shin"
+    ],
+    "illustratorIds": [
+      "hirai-hisashi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "「放浪惑星の姫君」など各巻に個別の副題を持つ宇宙冒険譚シリーズ。日本語版Wikipediaのスペースオペラ関連記事でも本作は同ジャンルの代表例の一つとして挙げられている。電撃文庫で1996年から2001年にかけて全9巻が刊行され、根強い人気から2014年以降ぽにきゃんBOOKSで全12巻の新装版が刊行されるなど、長く読み継がれているシリーズである。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "著者・新木伸の日本語版Wikipedia記事および「スペースオペラ」記事内の言及で、刊行レーベル(電撃文庫、1996年12月-2001年4月、全9巻、完結)・後年のぽにきゃんBOOKS新装版(2014-2016年、全12巻)・スペースオペラ作品としての位置付けを確認。個別の詳細なあらすじはWikipedia本文に記載がなく、巻タイトル等の断片情報から概要のみ要約した。イラスト担当は国立国会図書館サーチの書誌表記「新木伸×平井久司」から著者×イラストレーターの慣例的な組み合わせとして平井久司を採用したが、役割を明記した一次情報には未到達のため要再確認。アニメ化・コミカライズ情報は確認できず両方falseとした(声優が関連記事に登場するためドラマCD化等の可能性はあるが未確認)。",
+    "updatedAt": "2026-08-03"
   }
 ]

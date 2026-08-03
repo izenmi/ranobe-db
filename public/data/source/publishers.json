@@ -870,5 +870,35 @@
     "externalLinks": {},
     "sourceNote": "book.mynavi.jp/lnb/ (マイナビブックス公式ページ)を確認。創刊年の明記は見当たらず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokuma-novels",
+    "name": "トクマ・ノベルズ",
+    "nameKana": "とくまのべるず",
+    "parentCompany": "徳間書店",
+    "description": "徳間書店の新書判ノベルスレーベル。田中芳樹『銀河英雄伝説』の初刊行元(1982年-1989年)。現行のライトノベルレーベル「トクマ・ノベルズEdge」とは別の、1980年代から続く一般向けノベルスレーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「銀河英雄伝説」記事で初刊レーベルとしてトクマ・ノベルズ(徳間書店)を確認。既存publishers.jsonの「トクマ・ノベルズEdge」とは別レーベルのため新規id追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "asahi-novels",
+    "name": "朝日ノベルズ",
+    "nameKana": "あさひのべるず",
+    "parentCompany": "朝日新聞出版",
+    "description": "朝日新聞出版の新書判小説レーベル。笹本祐一『ミニスカ宇宙海賊』『星のパイロット』(復刊)、庄司卓『それゆけ!宇宙戦艦ヤマモト・ヨーコ』完全版などSF作品の刊行元。2014年に朝日新聞出版が新書レーベルの新刊刊行を終了して以降は他社(KADOKAWA等)に版元が移った作品もある。",
+    "externalLinks": {},
+    "sourceNote": "『ミニスカ宇宙海賊』『それゆけ!宇宙戦艦ヤマモト・ヨーコ』の各作品情報で朝日ノベルズ刊行を確認。既存publishers.jsonの「朝日ソノラマ ソノラマ文庫」(asahi-sonorama-bunko)とは別の後継レーベルのため新規id追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tokuma-dual-bunko",
+    "name": "徳間デュアル文庫",
+    "nameKana": "とくまでゅあるぶんこ",
+    "parentCompany": "徳間書店",
+    "description": "徳間書店のSF・ファンタジー中心の文庫レーベル。荻野目悠樹(原案:田中芳樹)『野望円舞曲』(2000年-2010年)の刊行元。",
+    "externalLinks": {},
+    "sourceNote": "『野望円舞曲』の作品情報で刊行レーベルとして徳間デュアル文庫(2000年-2010年、全11巻)を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
