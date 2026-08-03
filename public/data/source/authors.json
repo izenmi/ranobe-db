@@ -6619,5 +6619,41 @@
     "externalLinks": {},
     "sourceNote": "独立したWikipedia項目が確認できないため、作品項目「司書とハサミと短い鉛筆」内の記載に基づく最小限の情報のみ記載。既存著者リストの「結城光流」とは別人であり、混同しないよう新規idを付与した。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ryukishi07",
+    "name": "竜騎士07",
+    "nameKana": "りゅうきしぜろなな",
+    "description": "同人サークル「07th Expansion」を主宰する脚本家・小説家。サウンドノベル『ひぐらしのなく頃に』『うみねこのなく頃に』の原作者であり、自身の手で講談社BOXより独立した小説版を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ひぐらしのなく頃に」「うみねこのなく頃に」の各記事内、小説版の著者表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kutsu-haruki",
+    "name": "久追遥希",
+    "nameKana": "くつはるき",
+    "description": "MF文庫Jを中心に活動するライトノベル作家。学園を舞台に階級制度と頭脳戦を組み合わせた『ライアー・ライアー』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ライアー・ライアー(小説)」の著者表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shunme-kyou",
+    "name": "駿馬京",
+    "nameKana": "しゅんめきょう",
+    "description": "第27回電撃小説大賞で銀賞を受賞しデビューしたライトノベル作家。SNS時代の事件を題材にした『インフルエンス・インシデント』を手掛ける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「電撃小説大賞」の受賞作一覧(第27回・銀賞)、およびBOOK☆WALKER・honto掲載の著者表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "masaki-ryou",
+    "name": "政木亮",
+    "nameKana": "まさきりょう",
+    "description": "アドベンチャーゲーム『おおかみかくし』のノベライズ『おおかみかくし〜都忘れ編〜』等を手掛けたライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「おおかみかくし」記事内、小説版の著者表記を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

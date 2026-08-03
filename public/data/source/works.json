@@ -26860,5 +26860,218 @@
     },
     "sourceNote": "Wikipediaで第3回ダ・ヴィンチ文学賞編集長特別賞受賞・MF文庫ダ・ヴィンチ刊・全3巻(2008〜2009年)・漫画化(2014〜2017年連載)を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "inakunare-gunjou",
+    "title": "いなくなれ、群青",
+    "titleKana": "いなくなれ、ぐんじょう",
+    "authorIds": [
+      "kono-yuu"
+    ],
+    "illustratorIds": [
+      "koshima-hagu"
+    ],
+    "publisherId": "shinchosha-bunko-nex",
+    "themeIds": [
+      "mystery",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "誰からも必要とされなくなった者だけが流れ着くという島、階段島。かつて幼馴染を島に置き去りにしてしまった主人公は、再びその少女と再会し、島に隠された仕組みや自分自身の記憶の欠落と向き合っていく。優しさと痛みが交錯する青春ミステリー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/階段島シリーズ"
+    },
+    "sourceNote": "日本語版Wikipedia「階段島シリーズ」記事にて著者・イラストレーター(越島はぐ)・レーベル(新潮文庫nex)・巻数(全6巻)・刊行期間(2014年9月〜2019年5月)・漫画化の情報を確認。あらすじは記事内の概要説明を基に自分の言葉で要約。シリーズ第1巻タイトルを代表タイトルとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "usotsuki-mii-kun-to-kowareta-maa-chan",
+    "title": "嘘つきみーくんと壊れたまーちゃん",
+    "titleKana": "うそつきみーくんとこわれたまーちゃん",
+    "authorIds": [
+      "iruma-hitoma"
+    ],
+    "illustratorIds": [
+      "hidari"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "幼い頃に誘拐された過去を持つ少年は、二度と会えないはずだった幼馴染と八年ぶりに再会し、同居を始める。折しも田舎町では兄妹の失踪と連続殺人が同時多発しており、穏やかに見えた再会の裏に隠された欺瞞と狂気が少しずつ明らかになっていく。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/嘘つきみーくんと壊れたまーちゃん"
+    },
+    "sourceNote": "日本語版Wikipediaにて著者(入間人間)・イラストレーター(左)・レーベル(電撃文庫)・巻数(全12巻)・刊行期間(2007年6月〜2017年6月)・実写映画化(2011年)/漫画化(2010年)の情報を確認。第13回電撃小説大賞の最終選考で議論を呼んだ作品として言及あり。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "higurashi-no-naku-koro-ni-shousetsu",
+    "title": "ひぐらしのなく頃に",
+    "titleKana": "ひぐらしのなくころに",
+    "authorIds": [
+      "ryukishi07"
+    ],
+    "illustratorIds": [
+      "tomohi"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "周囲を山に囲まれた雛見沢村に越してきた主人公は、心優しい友人たちに囲まれ穏やかな日々を送っていた。しかし村に伝わる祟りの噂と、毎年繰り返される怪死事件を知ったことで些細な違和感が疑心暗鬼に変わり、信じていた友情そのものが壊れていく。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に"
+    },
+    "sourceNote": "原作は竜騎士07によるサウンドノベル(同人ゲーム)だが、本エントリは講談社BOXより刊行された、竜騎士07自身による全面改稿の独立した小説版(出題編7巻・解答編9巻・礼1巻)を指す。日本語版Wikipediaにてイラスト(ともひ)・刊行期間・アニメ化/漫画化の情報を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "umineko-no-naku-koro-ni-shousetsu",
+    "title": "うみねこのなく頃に",
+    "titleKana": "うみねこのなくころに",
+    "authorIds": [
+      "ryukishi07"
+    ],
+    "illustratorIds": [
+      "tomohi"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "孤島に住む資産家一族の当主が世を去ったことをきっかけに、遺産相続のため親族一同が六軒島に集う。しかし会議の最中に一族は次々と惨殺され、生き残った青年は「魔女の仕業」と語る謎の存在に対し、あくまで論理でその真相を暴こうとする。赤と青の言葉が交錯する頭脳戦の物語。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うみねこのなく頃に"
+    },
+    "sourceNote": "原作は竜騎士07によるサウンドノベル(同人ゲーム)だが、本エントリは講談社BOXより刊行された、竜騎士07自身による全面改稿の独立した小説版(出題編8巻・展開編7巻)を指す。日本語版Wikipediaにて刊行期間(2009年7月〜2018年9月)・「赤き真実」等の色文字システムの再現・アニメ化/漫画化の情報を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "liar-liar",
+    "title": "ライアー・ライアー",
+    "titleKana": "らいあー・らいあー",
+    "authorIds": [
+      "kutsu-haruki"
+    ],
+    "illustratorIds": [
+      "konomi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "実力に応じて星の数で階級が決まる学園島に転入した主人公は、初日にして学園最強の少女を打ち破り最高位「七ツ星」の座についてしまう。だが本当の実力は最下位同然。周囲を欺き続けながら真に実力者へと成り上がるため、幾多の頭脳戦を制していく学園頭脳戦もの。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライアー・ライアー_(小説)"
+    },
+    "sourceNote": "日本語版Wikipedia「ライアー・ライアー(小説)」にて著者(久追遥希)・イラストレーター(konomi)・レーベル(MF文庫J)・巻数(全16巻)・刊行期間(2019年4月〜2023年11月)・アニメ化(2023年)/漫画化の情報を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "influence-incident",
+    "title": "インフルエンス・インシデント",
+    "titleKana": "いんふるえんす・いんしでんと",
+    "authorIds": [
+      "shunme-kyou"
+    ],
+    "illustratorIds": [
+      "takebana-note"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "gendai-drama",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "動画配信者として活動する女装高校生が、ストーカー被害の末に誘拐される事件が発生する。SNS社会を研究する女性教授とその助手は、断片的な手がかりと投稿者たちの心理を読み解きながら、ネット社会に潜む欺瞞と悪意の正体に迫っていく現代サスペンス。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「電撃小説大賞」の受賞作一覧(第27回・2021年3月刊行・銀賞)、およびBOOK☆WALKER・hontoの書誌情報(著者:駿馬京、イラスト:竹花ノート、電撃文庫、2021年12月時点で既刊3巻)を確認。個別のWikipedia記事は未確認のため、2021年12月以降の巻数・完結状況は不明としてstatusをunknownとした。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ookami-kakushi-miyakowasure-hen",
+    "title": "おおかみかくし〜都忘れ編〜",
+    "titleKana": "おおかみかくし みやこわすれへん",
+    "authorIds": [
+      "masaki-ryou"
+    ],
+    "illustratorIds": [
+      "natsume-eri"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "山あいのニュータウンへ転校してきた主人公は、穏やかに見えるこの町でかつて猟奇殺人が起きていたという噂を耳にする。優しかったはずの友人たちの言動に潜む違和感を追ううち、町ぐるみで守られてきた秘密と後味の悪い真実に少しずつ追い詰められていく。",
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おおかみかくし"
+    },
+    "sourceNote": "日本語版Wikipedia「おおかみかくし」にて著者(政木亮)・イラストレーター(なつめえり)・レーベル(ガガガ文庫)・刊行(2010年3月〜、続編『一人静編』『雪月花編』全3巻)・原作ゲームのアニメ化(2010年)の情報を確認。原作はPSPアドベンチャーゲームだが、本エントリはノベライズ版を指す。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

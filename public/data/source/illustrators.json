@@ -5378,5 +5378,41 @@
     "externalLinks": {},
     "sourceNote": "独立したWikipedia項目は確認できず、作品項目の記載を基に最小限の記載とした。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hidari",
+    "name": "左",
+    "nameKana": "ひだり",
+    "description": "『嘘つきみーくんと壊れたまーちゃん』のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「嘘つきみーくんと壊れたまーちゃん」記事内のイラスト担当表記を確認。既存イラストレーター『左リュウ』とは別人のため新規idとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tomohi",
+    "name": "ともひ",
+    "nameKana": "ともひ",
+    "description": "『ひぐらしのなく頃に』『うみねこのなく頃に』小説版(講談社BOX)のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ひぐらしのなく頃に」「うみねこのなく頃に」各記事内のイラスト担当表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konomi",
+    "name": "konomi",
+    "nameKana": "このみ",
+    "description": "『ライアー・ライアー』のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ライアー・ライアー(小説)」記事内のイラスト担当表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "natsume-eri",
+    "name": "なつめえり",
+    "nameKana": "なつめえり",
+    "description": "『おおかみかくし〜都忘れ編〜』のイラストを担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「おおかみかくし」記事内のイラスト担当表記を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
