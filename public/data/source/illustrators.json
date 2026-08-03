@@ -5032,5 +5032,32 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌情報で「新木伸×平井久司」というクレジット表記を複数巻で確認したが、役割(挿絵担当かどうか)を明記した一次情報には到達できず、慣例的な著者×イラストレーター表記として扱った。断定はできないため要再確認の情報として付記。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hayama-eishi",
+    "name": "葉山えいし",
+    "nameKana": "はやまえいし",
+    "description": "電撃文庫『Re:スタート！転生新選組』などのイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・電撃文庫公式サイト『Re:スタート！転生新選組』商品ページでイラスト担当を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aoi-fuuka",
+    "name": "碧風羽",
+    "nameKana": "あおいふうか",
+    "description": "TOブックス『淡海乃海 水面が揺れる時』のキャラクターイラストを手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「淡海乃海 水面が揺れる時」記事でイラスト担当を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "honda-keiko",
+    "name": "本田恵子",
+    "nameKana": "ほんだけいこ",
+    "description": "集英社コバルト文庫『きっとシリーズ』のイラストを手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「きっとシリーズ」記事でイラスト担当を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

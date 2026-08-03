@@ -5888,5 +5888,50 @@
     },
     "sourceNote": "日本語版Wikipedia「荻野目悠樹」記事で読み仮名・生年(1965年)・経歴・代表作(『野望円舞曲』10巻等)を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "israfil",
+    "name": "イスラーフィール",
+    "nameKana": "いすらーふぃーる",
+    "description": "「小説家になろう」出身の作家。戦国時代の近江国人領主に転生した現代人を描く『淡海乃海 水面が揺れる時』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「淡海乃海 水面が揺れる時」記事および同作なろう掲載ページで筆名を確認。作者個人のWikipedia記事は存在しないため作品記事から確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "origami-kyoya",
+    "name": "織守きょうや",
+    "nameKana": "おりがみきょうや",
+    "description": "1980年生まれ。ミステリー・ホラーを中心に活躍する小説家。戦国武将の転生者たちが集う同窓会を描いたミステリー『戦国転生同窓会』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店ウェブストア・BOOK☆WALKER『戦国転生同窓会』商品ページで著者名・生年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yagi-hitsuji",
+    "name": "八木羊",
+    "nameKana": "やぎひつじ",
+    "description": "富士見L文庫を中心に、戦国時代への転生を題材にした乙女向けラブストーリーなどを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『本能寺に萌ゆ』商品ページで著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kujira-touichirou",
+    "name": "鯨統一郎",
+    "nameKana": "くじらとういちろう",
+    "description": "歴史ミステリと絡めたタイムスリップもの、および『邪馬台国はどこですか？』など歴史謎解きミステリで知られる小説家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「鯨統一郎」記事および国立国会図書館サーチの書誌情報で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuramoto-yuu",
+    "name": "倉本由布",
+    "nameKana": "くらもとゆう",
+    "description": "1990年代から2000年代に活躍したジュニア小説家。戦国時代へのタイムスリップを描く『きっとシリーズ』などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「きっとシリーズ」記事で著者名を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

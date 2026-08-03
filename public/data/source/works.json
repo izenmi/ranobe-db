@@ -24125,5 +24125,220 @@
     "externalLinks": {},
     "sourceNote": "著者・新木伸の日本語版Wikipedia記事および「スペースオペラ」記事内の言及で、刊行レーベル(電撃文庫、1996年12月-2001年4月、全9巻、完結)・後年のぽにきゃんBOOKS新装版(2014-2016年、全12巻)・スペースオペラ作品としての位置付けを確認。個別の詳細なあらすじはWikipedia本文に記載がなく、巻タイトル等の断片情報から概要のみ要約した。イラスト担当は国立国会図書館サーチの書誌表記「新木伸×平井久司」から著者×イラストレーターの慣例的な組み合わせとして平井久司を採用したが、役割を明記した一次情報には未到達のため要再確認。アニメ化・コミカライズ情報は確認できず両方falseとした(声優が関連記事に登場するためドラマCD化等の可能性はあるが未確認)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "afumi-no-umi-minamo-ga-yureru-toki",
+    "title": "淡海乃海 水面が揺れる時",
+    "titleKana": "あふみのうみ みなもがゆれるとき",
+    "authorIds": [
+      "israfil"
+    ],
+    "illustratorIds": [
+      "aoi-fuuka"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "nihonshi-tensei",
+      "nation-building",
+      "naisei",
+      "jidai-fantasy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "三英傑をはじめ多くの人物から疎まれた不運な現代人が、戦国時代の近江国の弱小国衆・朽木家の当主にわずか二歳で転生してしまう。史実には残らない小領主という立場を活かし、歴史と科学の知識を武器に富国強兵策を進めながら、周辺の大名たちとの緊張関係の中で領国を守り育てていく、じっくりとした内政重視の国盗り物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/淡海乃海_水面が揺れる時"
+    },
+    "sourceNote": "日本語版Wikipediaで作者(イスラーフィール)・イラスト(碧風羽)・TOブックスより2017年11月刊行開始・『小説家になろう』にて2016年3月連載開始・コミカライズありを確認。2026年3月時点で本編19巻+外伝3巻刊行中(連載継続中)。アニメ化情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "re-start-tensei-shinsengumi",
+    "title": "Re:スタート！転生新選組",
+    "titleKana": "りすたーと てんせいしんせんぐみ",
+    "authorIds": [
+      "kasuga-mikage"
+    ],
+    "illustratorIds": [
+      "hayama-eishi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "nihonshi-tensei",
+      "time-leap",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "unknown",
+    "volumeCount": 3,
+    "synopsis": "幕末に転生した主人公は、剣の才に恵まれた女性隊士たちが集う新選組に加わることになる。死ぬたびに直前まで時間が巻き戻る「死に戻り」の力を得た彼は、副長・土方歳三をはじめとする隊士たちに待ち受ける史実の非業の運命を知り、それを変えるため、何度も死を重ねながら幕末動乱の歴史の改変に挑んでいくタイムリープ×剣戟アクション作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "officialUrl": "https://dengekibunko.jp/product/tenseishinsengumi/321812000888.html"
+    },
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKER商品ページ・カクヨム掲載作品『Re:スタート！転生新選組～一周目～』で著者(春日みかげ)・イラスト(葉山えいし)・カクヨム原作・2020年4月刊行開始・既刊3巻であることを確認。完結済みかどうかは情報源で明確化できず status を unknown とした。アニメ化・コミカライズ情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sengoku-tensei-dousoukai",
+    "title": "戦国転生同窓会",
+    "titleKana": "せんごくてんせいどうそうかい",
+    "authorIds": [
+      "origami-kyoya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "nihonshi-tensei",
+      "mystery"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "本能寺の変から440年の節目に届いた奇妙な招待状をきっかけに、大学生の主人公は同窓会と称する集まりに参加する。集った8人はそれぞれ明智光秀や豊臣秀吉、浅井長政など戦国武将の生まれ変わりだと名乗り出すが、主人公だけは前世の記憶を持たない。誰が誰の生まれ変わりなのか、そして自分自身の前世が何者なのかを推理しながら、命の危険を伴う奇妙な集まりを生き抜こうとする歴史ミステリー小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・紀伊國屋書店ウェブストア・読書メーターで著者(織守きょうや)・双葉社より2025年3月刊行(313頁、単巻)であることを確認。Wikipedia記事は見つからず。ライトノベル専門レーベルではなく双葉社の一般文芸として刊行されている点に留意(スニーカー/電撃等のいわゆるライトノベルレーベル作品ではない)。アニメ化・コミカライズ情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "honnouji-ni-moyu",
+    "title": "本能寺に萌ゆ 戦国一の姫君に転生した一般モブ子は、推し武将の寵愛を喜べない",
+    "titleKana": "ほんのうじにもゆ せんごくいちのひめぎみにてんせいしたいっぱんもぶこは、おしぶしょうのちょうあいをよろこべない",
+    "authorIds": [
+      "yagi-hitsuji"
+    ],
+    "illustratorIds": [
+      "kuga-foona"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "nihonshi-tensei",
+      "romance",
+      "harem"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "歴史ゲームを愛するアラサー会社員が過労で倒れた末、目を覚ますと戦国時代の姫・お市になっていた。自分が推すカップルである明智光秀と織田信長が近い将来「本能寺の変」で相討つ運命にあると気づいた彼女は、ゲームで培った知識と史実を頼りに、その悲劇を回避しようと奔走する。一方で周囲の美形武将たちから次々と言い寄られ、望まぬ寵愛に困惑する乙女向け転生ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER商品ページおよびあらすじ情報で、著者(八木羊)・イラスト(久賀フーナ)・富士見L文庫より2023年11月15日刊行・全1巻(2026年8月時点で続巻なし)であることを確認。Wikipedia記事は見つからず。アニメ化・コミカライズ情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "time-slip-meiji-ishin",
+    "title": "タイムスリップ明治維新",
+    "titleKana": "たいむすりっぷめいじいしん",
+    "authorIds": [
+      "kujira-touichirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "nihonshi-tensei",
+      "time-travel",
+      "mystery"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "現代の女子高生が幕末の日本へタイムスリップし、桂小五郎や坂本龍馬ら維新志士たちと関わっていく。歴史の傍観者としてではなく当事者としてこの激動の時代に飛び込み、教科書には載っていない歴史の裏側や、志士たちが抱える知られざる真実に迫っていく。タイムトラベルと歴史ミステリを融合させた、著者による「タイムスリップシリーズ」の第1弾となる作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作者(鯨統一郎)の日本語版Wikipedia記事および国立国会図書館サーチの書誌情報で、2003年7月に講談社ノベルスとして刊行、2006年7月に講談社文庫化されたことを確認。2004年にNHK-FM「青春アドベンチャー」でラジオドラマ化。アニメ化・コミカライズ情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "time-slip-sengoku-jidai",
+    "title": "タイムスリップ戦国時代",
+    "titleKana": "たいむすりっぷせんごくじだい",
+    "authorIds": [
+      "kujira-touichirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "nihonshi-tensei",
+      "time-travel",
+      "mystery"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "25世紀のマフィア組織がタイムスリップで戦国時代に現れ、自分たちの都合の良いように歴史を書き換えようと企む。それを察知した現代の女子高生うららたちは、正しい歴史を守るべく自らも戦国の世へと飛び込んでいく。史実の合戦や歴史上の人物の運命に翻弄されながら、未来から来た陰謀に立ち向かっていく、著者「タイムスリップシリーズ」の一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報で、2008年11月に講談社ノベルスとして刊行、2011年11月に講談社文庫化されたことを確認(ISBN 4062770997は文庫版)。「タイムスリップシリーズ」第5弾。アニメ化・コミカライズ情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kitto-series",
+    "title": "きっとシリーズ",
+    "titleKana": "きっとしりーず",
+    "authorIds": [
+      "kuramoto-yuu"
+    ],
+    "illustratorIds": [
+      "honda-keiko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "nihonshi-tensei",
+      "time-travel",
+      "jidai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "修学旅行中に落雷の衝撃で戦国時代へタイムスリップしてしまった女子高生が織田信長と結ばれる第一部を皮切りに、二人の間に生まれた娘、さらにその娘へと主人公を替えながら、戦国・現代・平安など複数の時代を行き来していく三部構成の長編シリーズ。時代を超えて受け継がれる血族の因縁と、それぞれの主人公の恋の行方を描く。全20巻にわたる大河ジュブナイル小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/きっとシリーズ"
+    },
+    "sourceNote": "日本語版Wikipedia「きっとシリーズ」記事で、著者(倉本由布)・イラスト(本田恵子)・集英社コバルト文庫より1995年11月-2002年6月刊行・全20巻・三部構成(濃子編=戦国時代、蒼生子編=複数時代往来、瑚々編=平安時代)であることを確認。コミカライズ・アニメ化の記載はなし。",
+    "updatedAt": "2026-08-03"
   }
 ]
