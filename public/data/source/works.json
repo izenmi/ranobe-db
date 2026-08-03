@@ -26421,5 +26421,188 @@
     },
     "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター(梱枝りこ、既存イラストレーターIDを再利用)・出版レーベル(MF文庫J)・全12巻完結・コミカライズとドラマCD化を確認。アニメ化はされていないためmediaMix.animeはfalseとした。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arafoo-otoko-no-isekai-tsuuhan-seikatsu",
+    "title": "アラフォー男の異世界通販生活",
+    "titleKana": "あらふぉーおとこのいせかいつうはんせいかつ",
+    "authorIds": [
+      "asakura-hifumi"
+    ],
+    "illustratorIds": [
+      "yamakawa"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "独身38歳の会社員ケンイチは、ある日突然異世界の森へ転移してしまう。絶望する間もなく、日本の通販サイトを利用できるという奇妙な力を授かり、重機や工具を取り寄せては自給自足の拠点作りに励む。野盗退治や用水路工事を通じて現地の人々と絆を深めながら、中年男らしいマイペースさで異世界暮らしを軌道に乗せていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索(要約情報)により、著者・原作掲載期間(なろう2017-2021)・書籍版全3巻(ツギクルブックス2018-2019)・漫画版(月刊Gファンタジー全8巻)・TVアニメ化(2025年)を確認。表紙画像URLは記載していない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arafoo-ossan-isekai-e-demo-tokidoki-jikka-ni-kaerimasu",
+    "title": "アラフォーおっさん異世界へ!! でも時々実家に帰ります",
+    "titleKana": "あらふぉーおっさんいせかいへ でもときどきじっかにかえります",
+    "authorIds": [
+      "hirao-masakazu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "40歳独身の大下敏樹は、ある日見知らぬ異世界へ引きずり込まれてしまう。しかし彼が得たのは、いつでも実家へ帰還できるという地味なスキル。危険を感じればすぐさま日本の自室へ逃げ帰り、休息を取ってから再び異世界へ舞い戻るという、無理をしない自分のペースを貫く冒険が始まる。年齢相応の慎重さと図太さを武器にした異世界サバイバル。",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索により、著者(平尾正和)・カドカワBOOKS刊行・全3巻(完結)・カクヨム原作である旨を確認。イラストレーター名は「吉武新」との表記を確認したが、既存データベースの登録済みイラストレーター「吉武」と同一人物か確認が取れなかったため、誤った紐付けを避けてillustratorIdsは空にした。刊行月日等の一次情報(Wikipedia)は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sabaku-darake-no-sekai-de-ossan-ga-denshi-money-de-musou-suru",
+    "title": "砂漠だらけの世界で、おっさんが電子マネーで無双する",
+    "titleKana": "さばくだらけのせかいで おっさんがでんしまねーでむそうする",
+    "authorIds": [
+      "y-a"
+    ],
+    "illustratorIds": [
+      "daiekusuto"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "harem",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "異世界に召喚されたアラフォー独身サラリーマンの加藤太郎は、役立たずと判断され砂漠地帯へ追放されてしまう。絶望的な環境の中で見つけたのは、倒した砂漠の魔物が電子マネーに変わるという奇妙な力。ネットショッピングで日用品や装備を調達しながら出会った女性たちと絆を育み、見捨てられた土地でしぶとく生き延びていく中年男の逆転劇。",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索により、著者(Y.A、既存著者idを流用)・MFブックス刊行(第1巻2020年8月21日)・コミカライズ(ヴァルキリーコミックス)を確認。完結状況の一次情報は未確認のため status は unknown とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "38-sai-shachiku-ossan-no-makikomare-isekai-seikatsu",
+    "title": "38歳社畜おっさんの巻き込まれ異世界生活～【異世界農業】なる神スキルを授かったので田舎でスローライフを送ります～",
+    "titleKana": "さんじゅうはっさいしゃちくおっさんのまきこまれいせかいせいかつ",
+    "authorIds": [
+      "okamoto-takeya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "ブラック企業勤めで心身を壊し、田舎でのスローライフを夢見ていた三十代半ばの佐藤浩一は、退院直後に勇者召喚の巻き添えで異世界へ転送されてしまう。授かったのは「異世界農業」という地味だが実用的な力。荒れた土地を耕し作物を育てながら、疲れ切った心を癒やしていく、社畜からの再出発を描く異世界スローライフ。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索により、著者(岡本剛也、既存著者idを流用)・SQEXノベル刊行・第1巻発売日2025年12月5日・第2巻2026年9月予定を確認。イラストレーター名は確認できず未記載。当初別の検索結果で「2023年12月刊行」という誤情報が出たため、SQEX公式表記(2025年12月5日)で訂正済み。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ossan-isekai-de-saikyou-ni-naru",
+    "title": "おっさん異世界で最強になる ～物理特化の覚醒者～",
+    "titleKana": "おっさんいせかいでさいきょうになる ぶつりとっかのかくせいしゃ",
+    "authorIds": [
+      "jisa-kuhito"
+    ],
+    "illustratorIds": [
+      "peroshi"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "アラフォーの元社畜サラリーマン、オクノソウシはゲームのような異世界へ転移し、覚醒者として戦う運命を背負う。授かったスキルは地味な物理特化ばかりだが、愚直にレベルを積み重ね武器の扱いを極めて、ダンジョンのボスに挑んでいく。年齢による衰えを経験と工夫で補い、着実に冒険者としての地位を築き上げていく王道の成り上がり劇。",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索により、著者・イラストレーター(peroshi)・カドカワBOOKS刊行・既刊5巻(第6巻は2026年8月10日発売予定)・コミカライズ連載中を確認。第1巻の正確な発売年月日は確認できなかったため、既刊5巻のペースから2023年頃と推定(要検証)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "45-sai-no-ossan-isekai-shoukan-ni-makikomareru",
+    "title": "45歳のおっさん、異世界召喚に巻き込まれる",
+    "titleKana": "よんじゅうごさいのおっさん いせかいしょうかんにまきこまれる",
+    "authorIds": [
+      "yosshii"
+    ],
+    "illustratorIds": [
+      "ichimaru-kisuke"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "chuunen-ossan-shujinkou"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "通勤中に見知らぬ異世界へ召喚されてしまった45歳のサラリーマン白河小次郎。授かったスキルは年齢を重ねるほど強くなるという珍しい性質を持っていた。王城を脱出した後は王女の助けを借りながら、鑑定や交易のスキルを駆使して商売で稼ぎつつ、これまでの社会人経験を武器に異世界をしたたかに渡り歩いていく。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索により、著者(よっしぃ)・イラストレーター(市丸きすけ、既存id流用)・アルファポリス刊行(第1巻2025年9月17日、第3巻2026年7月10日予定)・原作は小説家になろう(書籍化に伴い削除)を確認。コミカライズは企画進行中のため未実現としてcomic:falseとした。",
+    "updatedAt": "2026-08-03"
   }
 ]

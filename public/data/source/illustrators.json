@@ -5311,5 +5311,23 @@
     "externalLinks": {},
     "sourceNote": "「カンピオーネ!」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "daiekusuto",
+    "name": "ダイエクスト",
+    "nameKana": "ダイエクスト",
+    "description": "イラストレーター。『砂漠だらけの世界で、おっさんが電子マネーで無双する』(MFブックス)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Web検索によるKADOKAWA/MFブックス関連ページの表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "peroshi",
+    "name": "peroshi",
+    "nameKana": "ペロシ",
+    "description": "イラストレーター。『おっさん異世界で最強になる ～物理特化の覚醒者～』(カドカワBOOKS)の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER関連のWeb検索結果での表記を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

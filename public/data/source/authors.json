@@ -6514,5 +6514,41 @@
     "externalLinks": {},
     "sourceNote": "「つきツキ!」日本語版Wikipedia記事の著者情報を基に記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "asakura-hifumi",
+    "name": "朝倉一二三",
+    "nameKana": "あさくらひふみ",
+    "description": "「小説家になろう」出身の作家。会社員経験を活かした中年男性主人公のスローライフ系異世界ものを手がける。",
+    "externalLinks": {},
+    "sourceNote": "Web検索で確認した『アラフォー男の異世界通販生活』(ツギクルブックス)の著者表記に基づく。生年等の一次情報は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hirao-masakazu",
+    "name": "平尾正和",
+    "nameKana": "ひらおまさかず",
+    "description": "カクヨム出身の作家。『アラフォーおっさん異世界へ!! でも時々実家に帰ります』(カドカワBOOKS)の作者。",
+    "externalLinks": {},
+    "sourceNote": "カクヨム作品ページおよびWeb検索での著者表記を確認。生年等の一次情報は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jisa-kuhito",
+    "name": "次佐駆人",
+    "nameKana": "じさくひと",
+    "description": "カクヨム出身の作家。『おっさん異世界で最強になる ～物理特化の覚醒者～』(カドカワBOOKS)の作者。",
+    "externalLinks": {},
+    "sourceNote": "読み仮名はカクヨムのユーザーID(jisa_kuhito)からの推定であり未確定。刊行情報はKADOKAWA/BOOK☆WALKER関連のWeb検索結果に基づく。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yosshii",
+    "name": "よっしぃ",
+    "nameKana": "よっしぃ",
+    "description": "「小説家になろう」出身の作家。『45歳のおっさん、異世界召喚に巻き込まれる』(アルファポリス)の作者。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリスでの書籍化情報および著者表記をWeb検索で確認。ペンネームのためフルネーム・生年は不明。",
+    "updatedAt": "2026-08-03"
   }
 ]
