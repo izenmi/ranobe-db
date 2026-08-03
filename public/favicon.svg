@@ -4,9 +4,12 @@
     x="34"
     y="46"
     font-family="'M PLUS Rounded 1c', 'Hiragino Maru Gothic ProN', 'IPAGothic', sans-serif"
-    font-weight="800"
+    font-weight="900"
     font-size="42"
     fill="#7cd0ff"
+    stroke="#7cd0ff"
+    stroke-width="1.5"
+    paint-order="stroke fill"
     text-anchor="middle"
   >ら</text>
 </svg>
