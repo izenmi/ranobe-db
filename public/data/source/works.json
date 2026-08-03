@@ -26604,5 +26604,261 @@
     "externalLinks": {},
     "sourceNote": "Web検索により、著者(よっしぃ)・イラストレーター(市丸きすけ、既存id流用)・アルファポリス刊行(第1巻2025年9月17日、第3巻2026年7月10日予定)・原作は小説家になろう(書籍化に伴い削除)を確認。コミカライズは企画進行中のため未実現としてcomic:falseとした。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "daitoshokan-no-hitsujikai",
+    "title": "大図書館の羊飼い",
+    "titleKana": "だいとしょかんのひつじかい",
+    "authorIds": [
+      "tao-noritake"
+    ],
+    "illustratorIds": [
+      "bekkankou"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "五万人もの生徒を抱える巨大学園・汐見学園。図書委員会に所属する筧恭太郎は、新入部員として加わった白咲つぐみたち個性豊かな仲間とともに、利用者から持ち込まれるさまざまな悩みや謎を解決していく。差出人不明の「羊飼い」からのメッセージが日常に静かな波紋を広げていく、図書室を舞台にした学園ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大図書館の羊飼い"
+    },
+    "sourceNote": "元は2013年発売の恋愛アドベンチャーゲーム(ブランド:august)。本項目はファミ通文庫より刊行された田尾典丈によるノベライズ版(挿絵:べっかんこう、全3巻)を対象とした。Wikipediaで刊行巻数・年・アニメ化(2014年)・複数の漫画化を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rod-read-or-die",
+    "title": "R.O.D -READ OR DIE-",
+    "titleKana": "アールオーディー リードオアダイ",
+    "authorIds": [
+      "kurata-hideyuki"
+    ],
+    "illustratorIds": [
+      "hane-otaraku"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2016,
+    "status": "unknown",
+    "volumeCount": 12,
+    "synopsis": "大英図書館の特殊工作部に所属する読子・リードマンは、紙を自在に操る特殊能力者「ペーパー」であると同時に、床が抜けそうなほど本を溜め込んだ部屋に暮らす筋金入りの愛書家でもある。若き人気作家・角川枢のボディガードとして行動を共にしながら、書物や紙の力を悪用しようとする陰謀に立ち向かっていく伝奇アクション。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/R.O.D"
+    },
+    "sourceNote": "Wikipediaでスーパーダッシュ文庫刊・著者/イラストレーター・既刊12巻(2016年時点)・OVA/TVアニメ化・漫画化を確認。長期新刊が確認できないためstatusはunknownとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shisou-toshokan-no-livre-blanche",
+    "title": "死想図書館のリヴル・ブランシェ",
+    "titleKana": "しそうとしょかんのリヴル・ブランシェ",
+    "authorIds": [
+      "origuchi-yoshino"
+    ],
+    "illustratorIds": [
+      "keg"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "mystery"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "人々の忘れられた想いが書物となって集まる禁書の館「死想図書館」。そこから逃げ出してしまった魔法の書物を連れ戻す役目を、ある女神から見込まれた高校生・黒岩樹は、話す速度のままその内容を書き取れる特異な速記能力を武器に、図書館付きの少女とともに世に放たれた本を追いかけていくことになる学園伝奇ファンタジー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死想図書館のリヴル・ブランシェ"
+    },
+    "sourceNote": "Wikipediaで電撃文庫刊・著者(折口良乃、既存著者IDを再利用)/イラストレーター(KeG、既存イラストレーターIDを再利用)・全5巻(2010〜2012年、完結)を確認。アニメ化・漫画化情報はなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "toshokan-sentai-biblion",
+    "title": "図書館戦隊ビブリオン",
+    "titleKana": "としょかんせんたいビブリオン",
+    "authorIds": [
+      "komatsu-yukako"
+    ],
+    "illustratorIds": [
+      "tatsuneko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "成り行きで図書委員になった高校一年生・仁科秋乃は、ある日学校の図書室が異世界の図書館とつながってしまったことをきっかけに、本を狙う悪の組織「ネオ・バグフォード」から蔵書を守るため、戦隊ヒーロー「図書館戦隊ビブリオン」の一員に任命されてしまう。特撮ヒーロー物のパロディ色が強いコメディ作品。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/図書館戦隊ビブリオン"
+    },
+    "sourceNote": "Wikipediaでコバルト文庫刊・全2巻・1998年刊・図書館問題研究会推薦作である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bungaku-shoujo",
+    "title": "「文学少女」シリーズ",
+    "titleKana": "ぶんがくしょうじょ",
+    "authorIds": [
+      "nomura-mizuki"
+    ],
+    "illustratorIds": [
+      "takeoka-miho"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "mystery"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "文芸部の顧問に勧められるまま部活を続ける高校生・井上心葉は、部長である三年生・天野遠子の正体が、原稿用紙をちぎってつまむほど本を愛してやまない「文学少女」であることを知る。国内外の名作文学になぞらえた事件が次々と持ち込まれるたび、心葉自身が抱える過去の傷とも向き合うことになる学園ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "light-novel-award",
+        "year": 2007,
+        "result": "ミステリー部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/文学少女シリーズ"
+    },
+    "sourceNote": "著者・イラストレーターは既存ID(nomura-mizuki、takeoka-miho)を再利用。Wikipediaで全16巻(2006〜2011年完結)・2007年ライトノベルアワードミステリー部門受賞・劇場版アニメ(2010年)・漫画化を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mikan-shoujo-lovecraft",
+    "title": "未完少女ラヴクラフト",
+    "titleKana": "みかんしょうじょラヴクラフト",
+    "authorIds": [
+      "kuro-shirou"
+    ],
+    "illustratorIds": [
+      "kobashiko"
+    ],
+    "publisherId": "smash-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "horror"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "米国アーカムの酒場で働く、体が弱く女性的な容姿を持つ青年カンナ・セリオは、伝説の怪奇作家と同じ名を持つ少女ラヴクラフトと出会う。クトゥルフ神話ゆかりの禁断の蔵書を収めた「ラヴクラフト記念図書館」を軸に、現実の世界「オアン」と異界「スウシャイ」の二つを行き来しながら、隠された真実を探っていく怪奇幻想譚。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2014,
+        "result": "7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/未完少女ラヴクラフト"
+    },
+    "sourceNote": "Wikipediaでスマッシュ文庫(PHP研究所)刊・全2巻・2013年刊・2014年ラノベ好き書店員大賞7位を確認。レーベル自体が2015年に終了し以降の続刊が確認できないためstatusはunknownとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shisho-to-hasami-to-mijikai-enpitsu",
+    "title": "司書とハサミと短い鉛筆",
+    "titleKana": "ししょとハサミとみじかいえんぴつ",
+    "authorIds": [
+      "yuuki-rin"
+    ],
+    "illustratorIds": [
+      "tomose-shunsaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "ごく普通の高校生・江本文人は、ペン回しを引き金にして思考の速度が体感時間ごと跳ね上がる能力「走馬灯」に目覚める。ある事件をきっかけに自らの心臓を一冊の「本」へと変えられてしまった文人は、禁書の番人を名乗る生きた飛び出し絵本のような少女フィフと手を組み、失われた心臓を取り戻すべく奔走する学園伝奇コメディ。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/司書とハサミと短い鉛筆"
+    },
+    "sourceNote": "Wikipediaで電撃文庫刊・全7巻(2008〜2010年完結)を確認。挿絵担当のトモセシュンサクは既存イラストレーターIDを再利用。著者・結城リンの独立したWikipedia項目は確認できなかったため作品項目の記載に基づき最小限の紹介とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoshinokita-koukou-toshoiinkai",
+    "title": "吉野北高校図書委員会",
+    "titleKana": "よしのきたこうこうとしょいいんかい",
+    "authorIds": [
+      "yamamoto-nagisa"
+    ],
+    "illustratorIds": [
+      "kyoumachi-kiko"
+    ],
+    "publisherId": "mf-bunko-da-vinci",
+    "themeIds": [
+      "toshokan-shisho",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "図書委員会の副委員長を務める高校二年生・河本かずらは、幼い頃から仲の良い男友達が可愛がっていた後輩と付き合い始めたことをきっかけに、自分でも気づいていなかった恋心をゆっくりと自覚していく。かずらへの片想いを抱える別の友人との関係も静かに絡み合っていく、図書室を舞台にした青春群像劇。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉野北高校図書委員会"
+    },
+    "sourceNote": "Wikipediaで第3回ダ・ヴィンチ文学賞編集長特別賞受賞・MF文庫ダ・ヴィンチ刊・全3巻(2008〜2009年)・漫画化(2014〜2017年連載)を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

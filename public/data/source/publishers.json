@@ -959,5 +959,31 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で「愛する貴方の愛する人に憑依しました」のレーベル表記(Rosage Novels、オーバーラップ、2025年5月)を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "smash-bunko",
+    "name": "スマッシュ文庫",
+    "nameKana": "スマッシュブンコ",
+    "parentCompany": "PHP研究所",
+    "description": "PHP研究所が2010年に創刊したライトノベルレーベル。「愛と友情のミラクル小説」を掲げたが、2015年4月を最後に新刊刊行を終了した。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スマッシュ文庫"
+    },
+    "sourceNote": "日本語版Wikipediaでレーベルの創刊年・運営会社・終了時期を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mf-bunko-da-vinci",
+    "name": "MF文庫ダ・ヴィンチ",
+    "nameKana": "エムエフブンコダヴィンチ",
+    "parentCompany": "KADOKAWA(旧メディアファクトリー)",
+    "description": "メディアファクトリーが2008年に創刊したMF文庫の姉妹レーベル。文芸誌『ダ・ヴィンチ』や怪談専門誌『幽』掲載作品などを単行本化する。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MF文庫ダ・ヴィンチ"
+    },
+    "sourceNote": "日本語版Wikipediaでレーベルの創刊年・運営会社・特色を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

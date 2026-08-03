@@ -5329,5 +5329,54 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER関連のWeb検索結果での表記を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hane-otaraku",
+    "name": "羽音たらく",
+    "nameKana": "はねおたらく",
+    "description": "スタジオオルフェ所属のイラストレーター・キャラクターデザイナー。「R.O.D」のキャラクターデザインのほか、「Fate/Grand Order」「WIXOSS」など幅広い作品を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/羽音たらく"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目(スタブ)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bekkankou",
+    "name": "べっかんこう",
+    "nameKana": "べっかんこう",
+    "description": "ゲームブランドaugust所属の原画家・イラストレーター。慶應義塾大学理工学部卒。「月は東に日は西に」「FORTUNE ARTERIAL」などの原画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/べっかんこう"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目で経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tatsuneko",
+    "name": "たつねこ",
+    "nameKana": "たつねこ",
+    "description": "1990年代から活動するイラストレーター。「図書館戦隊ビブリオン」の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "独立したWikipedia項目は確認できず、「高河ゆん」項目内の言及及び作品情報を基に最小限の記載とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kobashiko",
+    "name": "コバシコ",
+    "nameKana": "こばしこ",
+    "description": "ライトノベル・漫画のイラストレーター。「未完少女ラヴクラフト」の挿絵のほか、「妹さえいればいい。」のスピンオフ漫画も手がけた。",
+    "externalLinks": {},
+    "sourceNote": "独立したWikipedia項目は確認できず、作品項目の記載を基に最小限の記載とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kyoumachi-kiko",
+    "name": "京町記子",
+    "nameKana": "きょうまちきこ",
+    "description": "イラストレーター・漫画家。「吉野北高校図書委員会」の挿絵を担当し、のちに同作のコミカライズも手がけた。",
+    "externalLinks": {},
+    "sourceNote": "独立したWikipedia項目は確認できず、作品項目の記載を基に最小限の記載とした。",
+    "updatedAt": "2026-08-03"
   }
 ]

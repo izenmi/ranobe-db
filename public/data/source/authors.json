@@ -6550,5 +6550,74 @@
     "externalLinks": {},
     "sourceNote": "アルファポリスでの書籍化情報および著者表記をWeb検索で確認。ペンネームのためフルネーム・生年は不明。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kurata-hideyuki",
+    "name": "倉田英之",
+    "nameKana": "くらたひでゆき",
+    "description": "アニメ脚本家・小説家。「R.O.D -READ OR DIE-」の原作・脚本を手がけたほか、「ゴブリンスレイヤー」「メイドインアビス」など多数のアニメでシリーズ構成・脚本を担当している。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/倉田英之"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tao-noritake",
+    "name": "田尾典丈",
+    "nameKana": "たおのりたけ",
+    "description": "神奈川県出身のライトノベル作家。2008年、第10回エンターブレインえんため大賞で佳作を受賞しデビューした。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田尾典丈"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目でデビュー経緯・出身地を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuro-shirou",
+    "name": "黒史郎",
+    "nameKana": "くろしろう",
+    "description": "神奈川県出身の小説家。クトゥルフ神話や都市伝説を題材にしたホラー・怪奇小説を多く手がけ、「夜は一緒に散歩しよ」で第1回『幽』怪談文学賞長編部門を受賞した。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒史郎"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目で生年・受賞歴・作風を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "komatsu-yukako",
+    "name": "小松由加子",
+    "nameKana": "こまつゆかこ",
+    "description": "熊本県出身の小説家。1997年、「機械の耳」で集英社小説大賞・読者賞をダブル受賞してデビューし、コバルト文庫を中心に執筆活動を行った。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小松由加子"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目で生年・デビュー経緯を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yamamoto-nagisa",
+    "name": "山本渚",
+    "nameKana": "やまもとなぎさ",
+    "description": "徳島県出身・在住の小説家。2008年、デビュー作で第3回ダ・ヴィンチ文学賞編集長特別賞を受賞した。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本渚"
+    },
+    "sourceNote": "日本語版Wikipediaの人物項目で生年・受賞歴を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yuuki-rin",
+    "name": "結城リン",
+    "nameKana": "ゆうきりん",
+    "description": "ライトノベル作家。電撃文庫より「司書とハサミと短い鉛筆」シリーズ(全7巻)を刊行した。",
+    "externalLinks": {},
+    "sourceNote": "独立したWikipedia項目が確認できないため、作品項目「司書とハサミと短い鉛筆」内の記載に基づく最小限の情報のみ記載。既存著者リストの「結城光流」とは別人であり、混同しないよう新規idを付与した。",
+    "updatedAt": "2026-08-03"
   }
 ]
