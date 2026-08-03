@@ -25769,5 +25769,312 @@
     },
     "sourceNote": "星海社公式サイトで著者(清涼院流水、JDCシリーズで知られる作家)・2025年10月刊行・イエス・キリストを名探偵役に据えたユダの裏切りの謎を解く聖書ミステリという設定・あらすじを確認。イラストレーター表記なし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuro-no-shoukanshi",
+    "title": "黒の召喚士",
+    "titleKana": "くろのしょうかんし",
+    "authorIds": [
+      "meii-toufu"
+    ],
+    "illustratorIds": [
+      "kurogane"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "monster-taming",
+      "isekai-tensei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "目覚めると異世界におり、前世の記憶の大半と引き換えに規格外の力を得ていた青年ケルヴィン。召喚術師として様々な魔物や精霊を使い魔に迎え入れ、強敵との死闘を渇望する生粋の戦闘狂として、迷宮探索や国家間の争いに次々と首を突っ込みながら、仲間との絆を深めつつ、いつしか大陸の歴史を動かす存在へと成り上がっていく召喚バトルファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒の召喚士"
+    },
+    "sourceNote": "Wikipedia「黒の召喚士」記事で著者・レーベル・刊行年（2016年6月～）・既刊23巻（2026年3月時点）・アニメ化（2022年）・コミカライズ（2018年～）を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "level-1-no-saikyou-teimaa",
+    "title": "レベル1の最強テイマー ～幸運極振りの初心者ゲーマーはもふもふ軍団を従え最強へ至ります～",
+    "titleKana": "れべるわんのさいきょうていまー",
+    "authorIds": [
+      "jajamaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "monster-taming",
+      "vrmmo",
+      "vtuber-streamer"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "貧乏な女子高生が姉に誘われて始めたVRMMO「テイマーズバトルオンライン」。ステータスを幸運値に全振りしたレベル1キャラを作ったところ、戦闘能力はほぼ皆無なのになぜか強力なモンスターたちに次々と懐かれてしまう。誰もやらない変わった立ち回りが視聴者に受け、配信活動を続けながらもふもふな仲間を従え、いつの間にか最強へと至っていく異色のVRMMOテイマーもの。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（カドカワBOOKS、2022年5月・11月刊、全2巻）、および小説家になろう掲載ページのあらすじで著者名・原作サイトを確認。イラストレーターは情報源で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fuguushoku-teimaa-no-nariagari",
+    "title": "不遇職テイマーの成り上がり ～スキル【吸収】でモンスターの能力を手に入れ、最強になる～",
+    "titleKana": "ふぐうしょくていまーのなりあがり",
+    "authorIds": [
+      "aono-hakuto"
+    ],
+    "illustratorIds": [
+      "piz-illust"
+    ],
+    "publisherId": "m-novels",
+    "themeIds": [
+      "monster-taming",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2020,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "戦闘力が低く不遇職と見なされがちな「テイマー」の職に就いた主人公。しかし彼が持つ固有スキル「吸収」は、契約したモンスターの能力を自らの内に取り込むことができる特殊な力だった。周囲から見下されていたテイマーという職業の常識を覆し、様々な魔物の力を吸収しながら着実に力をつけ、いずれ最強へと至ることを目指していく下剋上ファンタジー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（双葉社Mノベルス、2019年9月・2020年9月刊、全2巻）で著者名・イラスト担当・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fuguushoku-teimaa-henkyou-slow-life",
+    "title": "不遇職『テイマー』なせいでパーティーを追放されたので、辺境でスローライフを送ります",
+    "titleKana": "ふぐうしょくていまーなせいでぱーてぃーをついほうされたのでへんきょうですろーらいふをおくります",
+    "authorIds": [
+      "shinkosei"
+    ],
+    "illustratorIds": [
+      "yunohito"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "monster-taming",
+      "fuguushoku-kakushi-skill",
+      "tsuihou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "戦闘の役に立たない不遇職「テイマー」であることを理由に、これまで所属していたパーティーから追い出されてしまった主人公。都会での冒険者生活に見切りをつけ、辺境の地でテイムした魔物たちと共に静かに暮らし始める。追放をきっかけに自分本来のペースを取り戻し、実は侮られていた力を発揮していく、従魔と歩む辺境スローライフファンタジー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房、2025年6月・9月刊、全2巻）で著者・イラスト担当（コミカライズ書誌より）・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mamono-wo-shitagaeru-teiin-wo-motsu-tensei-kenja",
+    "title": "魔物を従える\"帝印\"を持つ転生賢者 ～かつての魔法と従魔でひっそり最強の冒険者になる～",
+    "titleKana": "まものをしたがえるていいんをもつてんせいけんじゃ",
+    "authorIds": [
+      "naehara-hajime"
+    ],
+    "illustratorIds": [],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "monster-taming",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "前世で培った魔法の知識と、魔物を従える証である\"帝印\"の力を併せ持ち転生した賢者。目立つことを避けてひっそりと生きたいと願いながらも、従魔たちとの絆を頼りに冒険者としての依頼をこなすうちに、実力の突出ぶりが次第に周囲へ知られてしまう。控えめな主人公と個性豊かな従魔たちの掛け合いを丁寧に描く転生ファンタジー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよび国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房、2019年6月～2021年5月刊、全4巻）で著者名・刊行年・巻数を確認。コミカライズは2020年より継続中。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tsuihou-sareta-fuguushoku-teimaa-haigoujutsushi",
+    "title": "追放された不遇職『テイマー』ですが、2つ目の職業が万能職『配合術師』だったので俺だけの最強パーティを作ります",
+    "titleKana": "ついほうされたふぐうしょくていまーですがふたつめのしょくぎょうがばんのうしょくはいごうじゅつしだったのでおれだけのさいきょうぱーてぃをつくります",
+    "authorIds": [
+      "shitaka-shiki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "monster-taming",
+      "fuguushoku-kakushi-skill",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "不遇職「テイマー」であることを理由にパーティーから追放されてしまった主人公。失意の中で自分にはもう一つ、モンスター同士を掛け合わせて新たな個体を生み出せる万能職「配合術師」の才能があったことに気づく。テイムと配合、二つの力を組み合わせて唯一無二の従魔たちを育て上げ、自分だけの最強パーティを一から作り上げていく物語。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房、2023年2月・2024年2月刊、全2巻）で著者名・刊行年を確認。コミカライズ（NOVA COMICS）が2024年より継続中。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hottoite-kudasai-juuma-to-cheat-life",
+    "title": "ほっといて下さい 従魔とチートライフ楽しみたい!",
+    "titleKana": "ほっといてください　じゅうまとちーとらいふたのしみたい",
+    "authorIds": [
+      "misono-nanashi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "周囲から構われることを好まず、放っておいてほしいと願いながら異世界で生きる主人公。実は規格外のチート級の力を持っているものの、目立つことを避けてひっそりと過ごしたいだけ。従魔となったモンスターたちとの穏やかな触れ合いを楽しみつつ、望まぬ形で頼られてしまう場面も交えて描く、干渉ぎらいの主人公と従魔たちのスローライフファンタジー。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（レジーナブックス/アルファポリス、2020年8月刊行開始、既刊10巻・最新刊2026年7月刊）で著者名・刊行年・巻数を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "monster-no-goshujin-sama",
+    "title": "モンスターのご主人様",
+    "titleKana": "もんすたーのごしゅじんさま",
+    "authorIds": [
+      "higurashi-nemuto"
+    ],
+    "illustratorIds": [
+      "napo-illust"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "monster-taming",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "ある出来事をきっかけにモンスターたちの\"ご主人様\"と呼ばれる立場になった主人公。それぞれ胸に事情を抱えた様々な種類の魔物たちと出会い、時にすれ違い、衝突しながらも少しずつ絆を育んでいく。双葉社モンスター文庫にて2014年から長期にわたり刊行が続いた、従魔と人との関係性をじっくり描く王道ファンタジーシリーズ。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（双葉社モンスター文庫、2014年9月刊行開始、既刊16巻・最新刊2020年9月刊確認）で著者名・キャラクター原案・刊行年を確認。コミカライズは2018年より別イラストレーターが担当。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mameshiba-tayori-no-majuu-shiekisha-life",
+    "title": "マメシバ頼りの魔獣使役者(モンスターセプター)ライフ",
+    "titleKana": "まめしばだよりのまじゅうしえきしゃらいふ",
+    "authorIds": [
+      "torimura-iko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "monster-taming",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "豆柴犬のように小さく頼りなさそうな魔獣を相棒とする使役者の主人公。見た目の頼りなさとは裏腹に、相棒との連携を工夫しながら学園での日々や学園祭のイベントなどを通じて次第に周囲の評価を変え、注目を集めていく。身近で愛嬌のある魔獣とのコンビ芸を持ち味にした、学園を舞台にしたコメディ色の強いテイマーファンタジー作品。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAファミ通文庫、2016年12月・2017年8月刊、全2巻）で著者名・刊行年・巻数を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinryuu-teikoku-no-dragon-teimaa",
+    "title": "神竜帝国のドラゴンテイマー",
+    "titleKana": "しんりゅうていこくのどらごんていまー",
+    "authorIds": [
+      "hachabashi-rakku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "monster-taming",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 2,
+    "synopsis": "竜を神として崇める神竜帝国を舞台に、ドラゴンをテイムする特異な力を持って生まれた主人公。人々から畏怖され、あるいは軽んじられながらも、テイムした竜たちとの信頼関係を武器に帝国内で少しずつ頭角を現していく。竜と人との複雑な関係性を軸に、身分制度の厳しい帝国社会での成り上がりを描く異世界ファンタジー作品。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房、2023年3月・11月刊、全2巻）で著者名・刊行年を確認。コミカライズ（NOVA COMICS）が2024年より継続中。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jakusha-wa-usero-yo-tsuihou-sareta-dragon-teimaa",
+    "title": "弱者は失せろよ 追放されたドラゴンテイマーは竜王の娘と契約し最強ギルドを作ります",
+    "titleKana": "じゃくしゃはうせろよついほうされたどらごんていまーはりゅうおうのむすめとけいやくしさいきょうぎるどをつくります",
+    "authorIds": [
+      "ishihachi-kageto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dragon-novels",
+    "themeIds": [
+      "monster-taming",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "ドラゴンをテイムする特殊な力を弱者呼ばわりされ、長年所属していたギルドを追放されてしまった主人公。失意の底で竜王の娘と出会い契約を結んだことをきっかけに、その圧倒的な力を武器として自らのギルドを一から立ち上げていく。理不尽な追放をばねに、竜との絆を頼りに着実に成り上がっていく異世界ファンタジー作品。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAドラゴンノベルス、2022年2月刊）で著者名・刊行年を確認。刊行は1巻のみ確認できたため巻数は1として記載。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5239,5 +5239,32 @@
     },
     "sourceNote": "日本語版Wikipedia「あづみ冬留」を確認。代表作・活動分野を記載。生年の記載はなし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "piz-illust",
+    "name": "ぴず",
+    "nameKana": "ぴず",
+    "description": "「不遇職テイマーの成り上がり」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報でイラスト担当者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yunohito",
+    "name": "ゆのひと",
+    "nameKana": "ゆのひと",
+    "description": "「不遇職『テイマー』なせいでパーティーを追放されたので、辺境でスローライフを送ります」のイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチのコミカライズ書誌情報からイラスト（キャラクター原案）担当者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "napo-illust",
+    "name": "ナポ",
+    "nameKana": "なぽ",
+    "description": "「モンスターのご主人様」のキャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報でキャラクター原案担当者として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

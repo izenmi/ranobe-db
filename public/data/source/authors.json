@@ -6332,5 +6332,106 @@
     },
     "sourceNote": "日本語版Wikipedia「清涼院流水」を確認。生年・出身・デビュー経緯・代表シリーズを記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "meii-toufu",
+    "name": "迷井豆腐",
+    "nameKana": "めいとうふ",
+    "description": "「小説家になろう」出身の作家。異世界召喚・召喚術をテーマにした「黒の召喚士」シリーズで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒の召喚士"
+    },
+    "sourceNote": "Wikipedia「黒の召喚士」記事で著者名を確認。生年等の個人情報は非公開のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jajamaru",
+    "name": "ジャジャ丸",
+    "nameKana": "じゃじゃまる",
+    "description": "「小説家になろう」出身の作家。VRMMOを題材にした「レベル1の最強テイマー」で書籍化。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報および小説家になろう掲載ページで著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aono-hakuto",
+    "name": "蒼乃白兎",
+    "nameKana": "あおのはくと",
+    "description": "「不遇職テイマーの成り上がり」などを手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（双葉社Mノベルス）で著者名・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinkosei",
+    "name": "しんこせい",
+    "nameKana": "しんこせい",
+    "description": "「不遇職『テイマー』なせいでパーティーを追放されたので、辺境でスローライフを送ります」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房）で著者名・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "naehara-hajime",
+    "name": "苗原一",
+    "nameKana": "なえはらはじめ",
+    "description": "「魔物を従える\"帝印\"を持つ転生賢者」の作者。作品はコミカライズもされている。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよび国立国会図書館サーチで著者名・レーベル・巻数を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shitaka-shiki",
+    "name": "志鷹志紀",
+    "nameKana": "したかしき",
+    "description": "「追放された不遇職『テイマー』ですが、2つ目の職業が万能職『配合術師』だったので俺だけの最強パーティを作ります」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房）で著者名・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "misono-nanashi",
+    "name": "三園七詩",
+    "nameKana": "みそのななし",
+    "description": "アルファポリス発、レジーナブックスの「ほっといて下さい 従魔とチートライフ楽しみたい!」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（レジーナブックス/アルファポリス）で著者名・刊行年・既刊10巻を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "higurashi-nemuto",
+    "name": "日暮眠都",
+    "nameKana": "ひぐらしねむと",
+    "description": "双葉社モンスター文庫の「モンスターのご主人様」シリーズ作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（双葉社モンスター文庫）で著者名・刊行年（2014年～）・既刊16巻を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "torimura-iko",
+    "name": "鳥村居子",
+    "nameKana": "とりむらいこ",
+    "description": "ファミ通文庫「マメシバ頼りの魔獣使役者ライフ」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAファミ通文庫）で著者名・刊行年・全2巻を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hachabashi-rakku",
+    "name": "八茶橋らっく",
+    "nameKana": "はちゃばしらっく",
+    "description": "サーガフォレスト「神竜帝国のドラゴンテイマー」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（サーガフォレスト/一二三書房）で著者名・刊行年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ishihachi-kageto",
+    "name": "石八影斗",
+    "nameKana": "いしはちかげと",
+    "description": "ドラゴンノベルス「弱者は失せろよ 追放されたドラゴンテイマーは竜王の娘と契約し最強ギルドを作ります」の作者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAドラゴンノベルス、2022年2月刊）で著者名を確認。刊行は1巻のみ確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
