@@ -6655,5 +6655,59 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「おおかみかくし」記事内、小説版の著者表記を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "meikyou-shisui",
+    "name": "明鏡シスイ",
+    "nameKana": "めいきょうしすい",
+    "description": "「小説家になろう」出身のライトノベル作家。ギフト・スキルを軸にした異世界復讐譚「無限ガチャ」シリーズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo経由でHJノベルス公式・Wikipedia「無限ガチャ」記事の情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kaito",
+    "name": "海翔",
+    "nameKana": "かいと",
+    "description": "「小説家になろう」「カクヨム」出身のライトノベル作家。ダンジョン探索×レアカード収集を描く「モブから始まる探索英雄譚」で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「モブから始まる探索英雄譚」記事で著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tera",
+    "name": "tera",
+    "nameKana": "てら",
+    "description": "アルファポリス出身のライトノベル作家。装備製作・召喚スキルを軸にした異世界冒険譚「装備製作系チートで異世界を自由に生きていきます」の原作者。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式情報・DuckDuckGo検索結果で著者名(ペンネーム表記「tera」)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "myouwa-ritou",
+    "name": "明和里苳",
+    "nameKana": "みょうわりとう",
+    "description": "「小説家になろう」出身のライトノベル作家。ステータス画面を介したスキル習得をコミカルに描く「スキルが生えてくる異世界に転生したっぽい話」の著者。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(KADOKAWA MFブックス書籍情報)で著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fuji-tomato",
+    "name": "富士とまと",
+    "nameKana": "ふじとまと",
+    "description": "「小説家になろう」出身のライトノベル作家。ハズレスキル×日本食アイテムというユニークな鑑定要素を描く「ハズレドロップ品に【味噌】って見えるんですけど」の著者。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(ガガガブックス書籍情報)で著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "andou-masaki",
+    "name": "安藤正樹",
+    "nameKana": "あんどうまさき",
+    "description": "「小説家になろう」出身のライトノベル作家。テイマースキルによるモンスター収集と孤児院経営を描く「孤児院テイマー」でHJネット小説大賞2018を受賞。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(HJノベルス公式・コミカライズ告知情報)で著者名・受賞歴を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

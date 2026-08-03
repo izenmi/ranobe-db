@@ -5414,5 +5414,41 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「おおかみかくし」記事内のイラスト担当表記を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tef",
+    "name": "tef",
+    "nameKana": "てふ",
+    "description": "「無限ガチャ」(HJノベルス)のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「無限ガチャ」記事でイラストレーター名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "subachi",
+    "name": "すばち",
+    "nameKana": "すばち",
+    "description": "「レベル1だけどユニークスキルで最強です」(Kラノベブックス)のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「レベル1だけどユニークスキルで最強です」記事でイラストレーター名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "goro-star",
+    "name": "ごろー＊",
+    "nameKana": "ごろー",
+    "description": "「スキルが生えてくる異世界に転生したっぽい話」(MFブックス)のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(BOOK☆WALKER等書誌情報)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ishibashi-yousuke",
+    "name": "イシバシヨウスケ",
+    "nameKana": "いしばしようすけ",
+    "description": "「孤児院テイマー」(HJノベルス)のイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(HJノベルス公式書誌情報)でイラストレーター名を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

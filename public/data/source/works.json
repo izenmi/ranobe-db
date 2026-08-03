@@ -27073,5 +27073,231 @@
     },
     "sourceNote": "日本語版Wikipedia「おおかみかくし」にて著者(政木亮)・イラストレーター(なつめえり)・レーベル(ガガガ文庫)・刊行(2010年3月〜、続編『一人静編』『雪月花編』全3巻)・原作ゲームのアニメ化(2010年)の情報を確認。原作はPSPアドベンチャーゲームだが、本エントリはノベライズ版を指す。あらすじは自分の言葉で要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mugen-gacha",
+    "title": "無限ガチャ",
+    "titleKana": "むげんガチャ",
+    "authorIds": [
+      "meikyou-shisui"
+    ],
+    "illustratorIds": [
+      "tef"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "fukushuu",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "仲間に裏切られダンジョン奥地で殺されかけた青年ライトは、ギフト『無限ガチャ』でレベル9999の仲間を引き当てる。奈落の底で長い年月をかけて力を蓄えた彼は、かつての仲間と自分を陥れた世界に対して反撃を開始する、ガチャで戦力を収集していく復讐譚。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無限ガチャ"
+    },
+    "sourceNote": "正式タイトルは『信じていた仲間達にダンジョン奥地で殺されかけたがギフト「無限ガチャ」でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐&「ざまぁ！」します！』(略称:無限ガチャ)。日本語版Wikipediaで著者・イラストレーター・出版社・巻数(2026年2月19日時点14巻)・メディアミックス(2021年5月漫画化、2025年10-12月TVアニメ化)を確認。なろう2020年4月17日連載開始。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "level1-dakedo-unique-skill-saikyou",
+    "title": "レベル1だけどユニークスキルで最強です",
+    "titleKana": "レベルいちだけどユニークスキルでさいきょうです",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "subachi"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "isekai-tensei",
+      "fuguushoku-kakushi-skill",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "ブラック企業で過労死した社畜が異世界へ転生する。彼が持つ固有スキルは、本来ドロップ品を持たないモンスターを倒すと、その世界に存在しないはずのアイテムを入手できるというもの。レベルこそ上がらないが、次々と収集する規格外のドロップ品を元手に、彼はしぶとく生計を立てていく。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レベル1だけどユニークスキルで最強です"
+    },
+    "sourceNote": "日本語版Wikipediaで確認。なろう2017年2月24日〜2020年4月19日連載、2017年8月書籍化、2023年9月時点既刊9巻(漫画は2025年10月時点既刊17巻)。2023年7-9月にTVアニメ化。著者IDは既存のmiki-nazunaを再利用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
+    "title": "モブから始まる探索英雄譚",
+    "titleKana": "モブからはじまるたんさくえいゆうたん",
+    "authorIds": [
+      "kaito"
+    ],
+    "illustratorIds": [
+      "arumikku"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "dungeon",
+      "skill-drop-collection",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "冴えない高校生・高木海斗はダンジョンで出会った黄金のスライムから、数億円の価値を持つ激レアアイテム『使い魔の召喚証』を入手する。伝説の戦乙女シルフィーを召喚した海斗は、レアな召喚証や仲間を求めてダンジョン探索にのめり込み、モブから英雄へと歩みを進めていく。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia「モブから始まる探索英雄譚」記事で確認。Web版は2019年4月より小説家になろう・カクヨム両方で連載、2021年7月1日書籍化、2026年1月30日時点既刊13巻。2024年7-9月TVアニメ化、漫画はヤングチャンピオンで連載中。ウィキペディア記事URLは今回取得できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "soubi-seisakukei-cheat-isekai",
+    "title": "装備製作系チートで異世界を自由に生きていきます",
+    "titleKana": "そうびせいさくけいチートでいせかいをじゆうにいきていきます",
+    "authorIds": [
+      "tera"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "他人の召喚に巻き込まれて異世界に迷い込んだ29歳のフリーター・トウジは、役立たずとして王城を追い出されてしまう。絶望しかけた矢先、かつて遊んでいたネットゲームと同じステータス画面が見えることに気づき、装備製作やペット召喚といったゲーム由来のスキルを頼りに、自由な冒険者生活を切り開いていく。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(アルファポリス公式・書誌情報)で確認。2019年1月11日書籍化、全11巻で完結、漫画版(作画:満月シオン)は全6巻。小説版の挿絵担当者は複数回検索したが特定できず、illustratorIdsは空欄とした。Web版はアルファポリス独自の投稿サイト発のためwebNovelSourceは付与していない(なろう・カクヨムいずれでもないため)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "skill-ga-haete-kuru-isekai-tensei",
+    "title": "スキルが生えてくる異世界に転生したっぽい話",
+    "titleKana": "スキルがはえてくるいせかいにてんせいしたっぽいはなし",
+    "authorIds": [
+      "myouwa-ritou"
+    ],
+    "illustratorIds": [
+      "goro-star"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "辺境の村に生まれた三男坊クラウスは、自分にだけ見えるステータス画面と前世の記憶を頼りに、幼い頃から次々と新しいスキルを身につけていく。持ち前の好奇心のままスキルを開発しては村を豊かにし、やがて宮廷魔術師に見出されて王都へ。周囲を振り回しながら、国家機密級のスキルまで気ままに習得していく。",
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(KADOKAWA MFブックス書誌情報)で確認。なろう2022年5月26日初投稿、書籍化(1巻)、2巻は2025年12月25日発売予定と案内あり。日本語版Wikipediaの該当記事は未確認のため未記載。コミカライズ情報は確認できずcomic:falseとした(将来変わる可能性あり)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hazure-drop-hin-ni-miso",
+    "title": "ハズレドロップ品に【味噌】って見えるんですけど",
+    "titleKana": "はずれドロップひんにみそってみえるんですけど",
+    "authorIds": [
+      "fuji-tomato"
+    ],
+    "illustratorIds": [
+      "tomozo"
+    ],
+    "publisherId": "gagaga-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "gourmet",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "右目が黒くなるだけの地味なスキル『ジャパニーズアイ』を持つ荷運び屋のリオ。ある日、誰も見向きもしないハズレドロップ品に不思議な文字が浮かび、それが味噌やカレーといった日本の食べ物であることに気づく。異世界の誰も知らない価値を見抜く力で、リオは冒険者としての生活を切り開いていく。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果で確認。小説家になろう(ncode.syosetu.com/n0608gm/)原作、ガガガブックスより書籍化、全4巻で完結。コミカライズ版がCMOA・LINEマンガ等で配信中。日本語版Wikipediaの該当記事は未確認のため未記載。イラストレーターは既存IDのtomozo(ともぞ)を再利用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kojiin-tamer",
+    "title": "孤児院テイマー",
+    "titleKana": "こじいんテイマー",
+    "authorIds": [
+      "andou-masaki"
+    ],
+    "illustratorIds": [
+      "ishibashi-yousuke"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "天寿を全うした日本人が、異世界の貧しい孤児院に赤ん坊として転生する。神様から授かった『テイマー』のスキルを使い、野生のモンスターを次々と仲間に加えながら狩猟や採集で孤児院の暮らしを支えていく、モンスター収集×スローライフな異世界譚。",
+    "awardResults": [
+      {
+        "awardId": "hj-net-shousetsu-taisho",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "DuckDuckGo検索結果(HJノベルス公式・コミカライズ告知情報)で確認。なろう原作、HJネット小説大賞2018受賞作としてHJノベルスより書籍化(2019年5月24日)。コミカライズ版(作画:倉崎もろこ)は2025年3月時点既刊6巻。小説版の既刊巻数は複数巻確認できたが正確な最新巻数は特定できずvolumeCountは未記載とした。日本語版Wikipediaの該当記事は未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
