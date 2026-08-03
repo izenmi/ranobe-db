@@ -1,5 +1,5 @@
-import { useMemo, useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { useMemo } from "react";
+import { Link } from "react-router-dom";
 import { getCounts, getThemes, getWorks } from "../../data/manifest";
 import type { WorkGenerated } from "../../types";
 import { useAsyncData } from "../common/useAsyncData";
@@ -70,8 +70,6 @@ export function HomePage() {
   const state = useAsyncData(getCounts, []);
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
-  const [q, setQ] = useState("");
-  const navigate = useNavigate();
 
   const pickupWorks = useMemo(
     () => (worksState.status === "ready" ? pickRandomWorks(worksState.data, PICKUP_COUNT) : []),
@@ -107,11 +105,6 @@ export function HomePage() {
     },
   });
 
-  function handleSearch(e: React.FormEvent) {
-    e.preventDefault();
-    navigate(`/works?q=${encodeURIComponent(q)}`);
-  }
-
   return (
     <div className="page">
       <div className="home-hero">
@@ -121,16 +114,6 @@ export function HomePage() {
           読みたい作品探しに使えるデータベースです。テーマ・著者・出版社などで絞り込めます。
         </p>
       </div>
-
-      <form className="home-search-form" onSubmit={handleSearch}>
-        <input
-          className="search-box"
-          type="search"
-          placeholder="作品名・著者名で検索"
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-        />
-      </form>
 
       {state.status === "loading" && <Loading />}
       {state.status === "error" && <ErrorState error={state.error} />}
