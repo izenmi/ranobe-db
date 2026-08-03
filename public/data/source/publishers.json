@@ -909,5 +909,35 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER『戦国転生同窓会』商品ページで刊行元(双葉社、レーベル指定なしの単行本)であることを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gcn-bunko",
+    "name": "GCN文庫",
+    "nameKana": "じーしーえぬぶんこ",
+    "parentCompany": "マイクロマガジン社",
+    "description": "マイクロマガジン社が展開するライトノベルレーベル。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『王者の盤狂わせ』商品ページでレーベル表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kodansha-kc-deluxe",
+    "name": "講談社KCデラックス",
+    "nameKana": "こうだんしゃけーしーでらっくす",
+    "parentCompany": "講談社",
+    "description": "講談社の漫画・ノベライズ関連レーベル。「小説 ちはやふる」シリーズなどを刊行。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER「小説 ちはやふる 中学生編」シリーズページでレーベル表記（KCデラックス）を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gakken-sorairo-novels",
+    "name": "部活系空色ノベルズ",
+    "nameKana": "ぶかつけいそらいろのべるず",
+    "parentCompany": "学研（Gakken）",
+    "description": "学研が展開する、テレビドラマ等のノベライズを中心とした部活動テーマの小説レーベル。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店・学研の書誌情報でレーベル名「部活系空色ノベルズ」を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

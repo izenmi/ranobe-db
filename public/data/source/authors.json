@@ -5933,5 +5933,63 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「きっとシリーズ」記事で著者名を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hatsuno-sei",
+    "name": "初野晴",
+    "nameKana": "はつの せい",
+    "description": "日本の小説家。高校吹奏楽部を舞台にした学園ミステリー〈ハルチカ〉シリーズなどで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/初野晴"
+    },
+    "sourceNote": "Wikipedia「〈ハルチカ〉シリーズ」記事より著者名を確認。生年等の個人情報は出典未確認のため記載省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "iikoiren",
+    "name": "依依恋恋",
+    "nameKana": "いいこいれん",
+    "description": "Web小説サイト発の将棋ライトノベル『王者の盤狂わせ』（GCN文庫）の著者。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER『王者の盤狂わせ』商品ページで著者名を確認。読み仮名はペンネームの一般的な読みを採用したが確定情報ではない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tokiumi-yui",
+    "name": "時海結以",
+    "nameKana": "ときうみ ゆい",
+    "description": "末次由紀の漫画『ちはやふる』を原作としたノベライズ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER「小説 ちはやふる 中学生編」シリーズページで著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sakurai-tsuyoshi",
+    "name": "櫻井剛",
+    "nameKana": "さくらい つよし",
+    "description": "テレビドラマ『表参道高校合唱部！』の脚本を担当。同作は小説化もされている。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店の書誌情報で「脚本：櫻井剛」表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuwahata-kinuko",
+    "name": "桑畑絹子",
+    "nameKana": "くわはた きぬこ",
+    "description": "テレビドラマ『表参道高校合唱部！』のノベライズを担当した小説家。",
+    "externalLinks": {},
+    "sourceNote": "紀伊國屋書店の書誌情報で「著：桑畑絹子」表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "enoda-yuuri",
+    "name": "榎田ユウリ",
+    "nameKana": "えのだ ゆうり",
+    "description": "日本の小説家。歌舞伎部を題材にした学園小説『カブキブ!』などで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/榎田ユウリ"
+    },
+    "sourceNote": "Wikipedia「カブキブ!」記事より著者名を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

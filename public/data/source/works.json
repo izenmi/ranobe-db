@@ -24340,5 +24340,164 @@
     },
     "sourceNote": "日本語版Wikipedia「きっとシリーズ」記事で、著者(倉本由布)・イラスト(本田恵子)・集英社コバルト文庫より1995年11月-2002年6月刊行・全20巻・三部構成(濃子編=戦国時代、蒼生子編=複数時代往来、瑚々編=平安時代)であることを確認。コミカライズ・アニメ化の記載はなし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "harutika",
+    "title": "ハルチカ 〜ハルタとチカは青春する〜",
+    "titleKana": "はるちか はるたとちかはせいしゅんする",
+    "authorIds": [
+      "hatsuno-sei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "music",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2017,
+    "status": "unknown",
+    "volumeCount": 6,
+    "synopsis": "かつて全国大会常連だったものの、今では廃部寸前まで落ちぶれてしまった高校吹奏楽部。そこに所属する上条春太と、9年ぶりに再会した幼なじみの穂村千夏は、全国大会出場という大きな目標「普門館」を目指して日々の練習に励む。その一方で、学校生活の中でふと生まれる小さな謎の数々にも二人で知恵を絞って挑んでいく。吹奏楽の青春と日常の謎解きが交錯する学園ミステリーシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/〈ハルチカ〉シリーズ"
+    },
+    "sourceNote": "Wikipedia「〈ハルチカ〉シリーズ」およびBOOK☆WALKERシリーズページで著者・レーベル・巻数・メディア化情報を確認。2017年の番外篇『ひとり吹奏楽部』以降新刊が出ておらず、続刊の有無が不明なためstatusはunknownとした。イラストレーター表記は両情報源で確認できなかったため空欄。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ouja-no-ban-kuruwase",
+    "title": "王者の盤狂わせ 〜ネット将棋の帝王、黄龍の王者と対峙する〜",
+    "titleKana": "おうじゃのばんくるわせ ねっとしょうぎのていおう、こうりゅうのおうじゃとたいじする",
+    "authorIds": [
+      "iikoiren"
+    ],
+    "illustratorIds": [
+      "fujiko-ban-kuruwase"
+    ],
+    "publisherId": "gcn-bunko",
+    "themeIds": [
+      "gakuen",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "ネット将棋界で相手を次々に打ち破り、プロ棋士すら恐れる正体不明の強者「自滅帝」。その正体は、教室の隅で目立たず日々を過ごす、冴えない高校生・渡辺真才だった。ある日、部員募集の貼り紙を目にしたことで初めて自ら動き出した真才は、将棋部に入部する。部員たちと切磋琢磨しながら、アマチュア全国大会「黄龍戦」を勝ち上がっていく、Web小説発の将棋部青春物語。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://bookwalker.jp/decaeb0ed7-8e66-4374-8ca3-5dd5880c48ae/"
+    },
+    "sourceNote": "BOOK☆WALKER商品ページおよびカクヨム連載ページ（作品ID:16817330668051422146）で著者・イラストレーター・レーベル・原作がWeb小説であること・将棋部が舞台であることを確認。2026年3月に第1巻刊行、2026年8月時点で既刊4巻。アニメ化・コミカライズ情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shousetsu-chihayafuru-chugakusei-hen",
+    "title": "小説 ちはやふる 中学生編",
+    "titleKana": "しょうせつ ちはやふる ちゅうがくせいへん",
+    "authorIds": [
+      "tokiumi-yui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-kc-deluxe",
+    "themeIds": [
+      "gakuen",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "末次由紀の漫画「ちはやふる」のスピンオフ小説。競技かるたの魅力を教えてくれた新と離れ離れになる際、「かるたを続けていればまた会える」と約束を交わした綾瀬千早と真島太一。二人は別々の中学校に進学し、千早はかるた部を作ろうと仲間を探して空回りし、太一は次第に情熱を失っていく。漫画本編では詳しく描かれなかった千早・太一・大江奏の中学時代のかるた部青春を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "officialUrl": "https://bookwalker.jp/series/6122/"
+    },
+    "sourceNote": "BOOK☆WALKERシリーズページ（ラノベカテゴリ掲載）で著者・レーベル（講談社KCデラックス）・全4巻構成を確認。原作漫画『ちはやふる』本編はアニメ化・コミカライズ（原作漫画）されているため、mediaMixはシリーズ全体の実績として anime/comic ともtrueとした。本スピンオフ小説自体の独自アニメ化はない点に留意。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "omotesandou-koukou-gassyoubu",
+    "title": "表参道高校合唱部！ 涙の数だけ強くなれるよ",
+    "titleKana": "おもてさんどうこうこうがっしょうぶ なみだのかずだけつよくなれるよ",
+    "authorIds": [
+      "sakurai-tsuyoshi",
+      "kuwahata-kinuko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gakken-sorairo-novels",
+    "themeIds": [
+      "gakuen",
+      "music",
+      "bunka-club",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "表参道高校に転校してきた香川真琴は、ひょんなことから部員不足で廃部寸前だった合唱部に入部することになる。バラバラだった部員たちは、歌う喜びをどこかで忘れかけていた。ぶつかり合いながらも励まし合う真琴たちは、練習を重ねる中で声を合わせて一つの歌を作り上げることの大切さを少しずつ取り戻していく。実写テレビドラマを原作にした、涙と歌でつづる部活動青春小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.kinokuniya.co.jp/f/dsg-01-9784052043659"
+    },
+    "sourceNote": "紀伊國屋書店およびBOOK☆WALKERの書誌情報で、TBS系実写テレビドラマのノベライズ（脚本:櫻井剛、著:桑畑絹子）であること、レーベル「部活系空色ノベルズ」（学研）、全3巻構成（2016年刊行）を確認。実写ドラマが原作のためアニメ化・コミカライズ情報はなしと判断。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kabukibu",
+    "title": "カブキブ!",
+    "titleKana": "かぶきぶ",
+    "authorIds": [
+      "enoda-yuuri"
+    ],
+    "illustratorIds": [
+      "ishino-aya"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "gakuen",
+      "engeki-butai",
+      "bunka-club",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "幼い頃から歌舞伎に魅せられ、その魅力に心を奪われてきたある男子高校生。彼は、伝統芸能である歌舞伎の面白さを同世代にも知ってほしいと一念発起し、通う高校に前例のない歌舞伎部を創設しようとする。最初は誰にも理解されず部員集めに苦労するものの、彼のひたむきな情熱に触れた個性豊かな生徒たちが次第に集まり、手探りで舞台稽古に励んでいく学園部活動青春物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カブキブ!"
+    },
+    "sourceNote": "Wikipedia「カブキブ!」記事で著者・イラストレーター・出版社（角川文庫）・全7巻・完結・アニメ化（2017年）・コミカライズ情報を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
