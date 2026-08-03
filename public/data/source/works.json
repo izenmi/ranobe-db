@@ -26076,5 +26076,350 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAドラゴンノベルス、2022年2月刊）で著者名・刊行年を確認。刊行は1巻のみ確認できたため巻数は1として記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "isekai-chiito-majutsushi",
+    "title": "異世界チート魔術師",
+    "titleKana": "いせかいちーとまじゅつし",
+    "authorIds": [
+      "uchida-ken"
+    ],
+    "illustratorIds": [
+      "nardack"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "harem",
+      "isekai-fantasy",
+      "mahou"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "高校の校外学習中に同級生の少女とともに異世界へ転移した少年は、桁外れの魔法適性を授かり、二人だけを頼りに冒険者として生きることになる。強大な魔物や大国の思惑が渦巻く世界で幾多の戦いを乗り越えながら、道中で出会う戦士や魔術師の少女たちとも協力関係を深め、それぞれの恋心が少しずつ育まれていく異世界ハーレムファンタジー。",
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界チート魔術師"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(ヒーロー文庫)・刊行巻数(2024年時点で17巻)・小説家になろう原作である点・アニメ化(2019年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dakara-boku-wa-h-ga-dekinai",
+    "title": "だから僕は、Hができない。",
+    "titleKana": "だからぼくはえっちができない",
+    "authorIds": [
+      "tachibana-pan"
+    ],
+    "illustratorIds": [
+      "katsurai-yoshiaki"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "死神の少女とうっかり契約を結んでしまった高校生の主人公は、彼女を三ヶ月以内に成仏させなければ自らの命を落とす運命にある。町に潜む強い精神エネルギーの持ち主を探し出し戦わせるという任務をこなす中で、事情も性格も異なる複数のヒロインたちと否応なく関わりを深めていく、恋愛・バトル・コメディが入り混じった学園ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/だから僕は、Hができない。"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(富士見ファンタジア文庫)・全11巻完結・アニメ化(2012年)とコミカライズ(2作)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kono-naka-ni-hitori-imouto-ga-iru",
+    "title": "この中に1人、妹がいる!",
+    "titleKana": "このなかにひとりいもうとがいる",
+    "authorIds": [
+      "taguchi-hajime"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "harem",
+      "imouto",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "莫大な資産を持つ一族の跡取りである主人公は、名門校在学中に将来の伴侶を見つけることを条件に一族の会社を継ぐ立場にある。ところが同じクラスの少女たちの中に、血のつながった妹を名乗る人物が身分を隠して紛れ込んでいると知らされ、誰が妹なのかを探りながらも他の少女たちとの恋愛模様も同時進行していく学園ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この中に1人、妹がいる!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(MF文庫J)・全11巻(短編集含む)完結・アニメ化(2012年、OVA2013年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "asobi-ni-iku-yo",
+    "title": "あそびにいくヨ!",
+    "titleKana": "あそびにいくよ",
+    "authorIds": [
+      "kanno-okina"
+    ],
+    "illustratorIds": [
+      "houden-eizou",
+      "nishi-e-ta"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "harem",
+      "sf",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "ある日突然、猫耳の異星人少女が高校生の部屋に舞い降りたことから、地球と異星文明の外交問題を巻き込む大騒動に巻き込まれていく主人公。おてんばな来訪者に加え、実は戦闘力を隠し持つ同級生や、彼を守るために現れた幼なじみの護衛官など、個性豊かな少女たちに囲まれながら騒動を乗り越えていくSFラブコメアクション。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あそびにいくヨ!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター(1-14巻/15-20巻で交代)・出版レーベル(MF文庫J)・全20巻完結・アニメ化(2010年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "emuemu",
+    "title": "えむえむっ!",
+    "titleKana": "えむえむっ",
+    "authorIds": [
+      "matsuno-akina"
+    ],
+    "illustratorIds": [
+      "qp-flapper"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2010,
+    "status": "unknown",
+    "volumeCount": 12,
+    "synopsis": "極度のマゾヒスト体質に悩む高校生の主人公は、その性質を治療すべく生徒会が運営する非公認の部活動に足を踏み入れることになる。自らを女神と称し女王様気質を隠さない部長や、極端な男性恐怖症を抱える同級生、家出中の妹分など、癖の強いヒロインたちに振り回されながらも治療という名目で共同生活を送っていくドタバタ学園ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/えむえむっ!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストユニット・出版レーベル(MF文庫J)・全12巻(8.5/9.5巻含む)・アニメ化(2010年)とコミカライズを確認。2011年の著者急逝により作品が未完のまま終了したため、statusは「unknown」とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kanojo-ga-flag-wo-oraretara",
+    "title": "彼女がフラグをおられたら",
+    "titleKana": "かのじょがふらぐをおられたら",
+    "authorIds": [
+      "takei-tooka"
+    ],
+    "illustratorIds": [
+      "cuteg"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "harem",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "人の頭上に恋愛や運命の行方を示す「フラグ」が見える特殊な力を持つ転校生の主人公は、面倒事を避けるため出会う人のフラグを次々と折って生きてきた。しかし転校先の学校で複数の少女たちに気に入られ、断ち切ったはずの好意のフラグが何度も立てられていくうちに、二つの世界をまたぐ大きな謎にも巻き込まれていく学園ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/彼女がフラグをおられたら"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(講談社ラノベ文庫)・全16巻完結・アニメ化(2014年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "uchi-no-kyoryuu-ga-sekai-wo-shouaku-shiteiru",
+    "title": "うちの居候が世界を掌握している!",
+    "titleKana": "うちのいそうろうがせかいをしょうあくしている",
+    "authorIds": [
+      "shichijou-tsuyoshi"
+    ],
+    "illustratorIds": [
+      "kibou-tsubame"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "若くして世界的企業の経営者となった少年は、莫大な富も権力も隠したまま、あえて庶民的な工務店を営む一家に居候として住み込む生活を選ぶ。温かく迎え入れてくれる長女をはじめとする姉妹たちや、素性を隠して近づいてくる女性エージェントなど、正体を明かせない事情を抱えた複数の女性から想いを寄せられながら、穏やかな日常と裏の世界の駆け引きを行き来していく同居コメディ。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うちの居候が世界を掌握している!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(GA文庫)・全17巻完結・コミカライズとドラマCD化を確認。同記事にアニメ化の記載はないためmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mayoi-neko-overrun",
+    "title": "迷い猫オーバーラン!",
+    "titleKana": "まよいねこおーばーらん",
+    "authorIds": [
+      "matsu-tomohiro"
+    ],
+    "illustratorIds": [
+      "peko"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "osananajimi"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "経営難の小さな洋菓子店を、義理の姉と二人で切り盛りする主人公のもとに、なかなか素直になれない幼なじみや、突然転がり込んできた猫好きの謎めいた少女、彼に強く執着する裕福な同級生など、性格も生まれ育ちも異なる少女たちが次々と集まってくる。下町の商店街を舞台に描かれる、ドタバタな共同生活と淡い恋心が入り混じる青春ラブコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/迷い猫オーバーラン!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者(松智洋、既存著者IDを再利用)・イラストレーター・出版レーベル(スーパーダッシュ文庫)・全12巻完結・アニメ化(2010年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "campione",
+    "title": "カンピオーネ!",
+    "titleKana": "かんぴおーね",
+    "authorIds": [
+      "jougetsu-jou"
+    ],
+    "illustratorIds": [
+      "sikorsky"
+    ],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "harem",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "旅先で古代の軍神を偶然打ち倒したことで、人ならざる力を宿す「魔王殺し」となってしまった高校生の主人公。イタリア貴族の令嬢や日本の巫女、遠い異国の騎士の血を引く少女など、それぞれ強い個性と力を持つ女性たちと縁を結びながら、世界各地に降臨する神々との過酷な戦いに次々と身を投じていく現代伝奇バトルファンタジー。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カンピオーネ!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター・出版レーベル(スーパーダッシュ文庫→ダッシュエックス文庫)・本編全21巻完結(スピンオフ「Road of Realms」は別途刊行中)・アニメ化(2012年)とコミカライズを確認。巻数・年はいずれも本編分を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "itsuka-tenma-no-kuro-usagi",
+    "title": "いつか天魔の黒ウサギ",
+    "titleKana": "いつかてんまのくろうさぎ",
+    "authorIds": [
+      "kagami-takaya"
+    ],
+    "illustratorIds": [
+      "enomoto-yuu"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "harem",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "幼い頃に受けた呪いによって、致命傷を負っても簡単には死ねない体になってしまった高校生の主人公。因縁浅からぬ少女との複雑な絆を軸に、異能を持つ複数のヒロインたちが織りなす人間関係と、それぞれから寄せられる想いの中で、次第に明らかになっていく主人公の謎めいた過去と壮絶な戦いを描くバトルダークファンタジー。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いつか天魔の黒ウサギ"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者(鏡貴也、既存著者IDを再利用)・イラストレーター(榎宮祐、既存イラストレーターIDを再利用)・出版レーベル(富士見ファンタジア文庫)・全13巻完結・アニメ化(2011年)とコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tsukitsuki",
+    "title": "つきツキ!",
+    "titleKana": "つきつき",
+    "authorIds": [
+      "gotou-yuujin"
+    ],
+    "illustratorIds": [
+      "koneda-riko"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "ある夜、布団の中に突然現れた金髪の少女に「今日からお前は私の奴隷だ」と一方的に宣言されたことから始まる主人公の日常。自らを神と称するホームレス少女や、悪霊祓いを生業とする退魔士の少女なども次々と居候として転がり込み、性格も事情も異なる彼女たちと、やがてかけがえのない疑似家族になっていく様子を描くドタバタ同居コメディ。",
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つきツキ!"
+    },
+    "sourceNote": "日本語版Wikipedia記事で著者・イラストレーター(梱枝りこ、既存イラストレーターIDを再利用)・出版レーベル(MF文庫J)・全12巻完結・コミカライズとドラマCD化を確認。アニメ化はされていないためmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -6433,5 +6433,86 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌情報（KADOKAWAドラゴンノベルス、2022年2月刊）で著者名を確認。刊行は1巻のみ確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "uchida-ken",
+    "name": "内田健",
+    "nameKana": "うちだけん",
+    "description": "「異世界チート魔術師」などを手がけるライトノベル作家。小説投稿サイト「小説家になろう」での連載を経て書籍化された作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "「異世界チート魔術師」日本語版Wikipedia記事の著者情報を基に記載。個人の独立したWikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tachibana-pan",
+    "name": "橘ぱん",
+    "nameKana": "たちばなぱん",
+    "description": "「だから僕は、Hができない。」で知られるライトノベル作家。学園を舞台にした恋愛コメディを中心に執筆する。",
+    "externalLinks": {},
+    "sourceNote": "「だから僕は、Hができない。」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "taguchi-hajime",
+    "name": "田口一",
+    "nameKana": "たぐちはじめ",
+    "description": "「この中に1人、妹がいる!」の作者。学園を舞台にした群像恋愛コメディを手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "「この中に1人、妹がいる!」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kanno-okina",
+    "name": "神野オキナ",
+    "nameKana": "かんのオキナ",
+    "description": "「あそびにいくヨ!」の作者。SF要素を交えたラブコメ・アクション作品を手がけるライトノベル作家。",
+    "externalLinks": {},
+    "sourceNote": "「あそびにいくヨ!」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "matsuno-akina",
+    "name": "松野秋鳴",
+    "nameKana": "まつのあきな",
+    "description": "「えむえむっ!」の作者。2011年に急逝し、同作は未完のまま絶筆となった。",
+    "externalLinks": {},
+    "sourceNote": "「えむえむっ!」日本語版Wikipedia記事の著者情報を基に記載。作者急逝により同作が未完となった旨も同記事に基づく。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takei-tooka",
+    "name": "竹井10日",
+    "nameKana": "たけいとおか",
+    "description": "「彼女がフラグをおられたら」の作者。学園ラブコメと並行世界の謎解きを組み合わせた作風で知られる。",
+    "externalLinks": {},
+    "sourceNote": "「彼女がフラグをおられたら」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shichijou-tsuyoshi",
+    "name": "七条剛",
+    "nameKana": "しちじょうつよし",
+    "description": "「うちの居候が世界を掌握している!」の作者。同居コメディとビジネス要素を組み合わせた作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "「うちの居候が世界を掌握している!」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jougetsu-jou",
+    "name": "丈月城",
+    "nameKana": "じょうげつじょう",
+    "description": "「カンピオーネ!」シリーズの作者。神殺しを題材にした現代伝奇バトルファンタジーで知られる。",
+    "externalLinks": {},
+    "sourceNote": "「カンピオーネ!」日本語版Wikipedia記事の著者情報を基に記載。読みは推定を含む。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gotou-yuujin",
+    "name": "後藤祐迅",
+    "nameKana": "ごとうゆうじん",
+    "description": "「つきツキ!」の作者。居候してきた少女たちとの疑似家族的な同居生活を描くコメディ作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "「つきツキ!」日本語版Wikipedia記事の著者情報を基に記載。",
+    "updatedAt": "2026-08-03"
   }
 ]

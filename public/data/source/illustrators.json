@@ -5266,5 +5266,50 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌情報でキャラクター原案担当者として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "katsurai-yoshiaki",
+    "name": "桂井よしあき",
+    "nameKana": "かつらいよしあき",
+    "description": "「だから僕は、Hができない。」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "「だから僕は、Hができない。」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "qp-flapper",
+    "name": "QP:flapper",
+    "nameKana": "きゅーぴー ふらっぱー",
+    "description": "小原トメ太とさくら小春の2人によるイラストユニット。「えむえむっ!」の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "「えむえむっ!」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kibou-tsubame",
+    "name": "希望つばめ",
+    "nameKana": "きぼうつばめ",
+    "description": "「うちの居候が世界を掌握している!」の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "「うちの居候が世界を掌握している!」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "peko",
+    "name": "ぺこ",
+    "nameKana": "ぺこ",
+    "description": "「迷い猫オーバーラン!」の挿絵を1〜9巻で担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "「迷い猫オーバーラン!」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sikorsky",
+    "name": "シコルスキー",
+    "nameKana": "しこるすきー",
+    "description": "「カンピオーネ!」シリーズ本編の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "「カンピオーネ!」日本語版Wikipedia記事のイラストレーター情報を基に記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
