@@ -25193,5 +25193,581 @@
     },
     "sourceNote": "日本語版Wikipediaの記事および国立国会図書館サーチの書誌情報(B's-LOG文庫→ビーズログ文庫、エンターブレイン→KADOKAWA、2007年9月〜2016年9月刊、本編25巻前後)を確認。政略結婚後に夫から溺愛される「姫嫁」ジャンルを確立した作品とWikipediaに明記。イラストは岸田メルが担当し、「儚き永遠の恋人達」(2015年刊)以降は冨士原良に交代。コミカライズあり(2011年〜)、アニメ化情報なし。受賞年(第9回エンターブレインえんため大賞)はWikipediaに明記がなく、他回の受賞から刊行年へのタイムラグを参考に2007年と推定した。あらすじは自分の言葉で要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "juuou-mujin-no-fafnir",
+    "title": "銃皇無尽のファフニール",
+    "titleKana": "じゅうおうむじんのふぁふにーる",
+    "authorIds": [
+      "tsukasa"
+    ],
+    "illustratorIds": [
+      "koneda-riko"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "gakuen-ianou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "世界各地で竜の因子「D」に目覚めた少年少女が集うミッドガル学園。彼らはブリュンヒルデ教室に配属され、実戦形式で竜討伐の任務にあたりながら、その働きぶりに応じた評価と序列を与えられていく。人並み外れた力を胸の内に隠す主人公が、教室の仲間たちとの絆を育みながら、学園の裏に潜む陰謀や強大な竜との戦いに立ち向かっていく学園アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銃皇無尽のファフニール"
+    },
+    "sourceNote": "Wikipedia日本語版「銃皇無尽のファフニール」を参照し独自に要約(2026年8月時点)。ミッドガル学園ブリュンヒルデ教室での竜討伐任務と序列評価、2015年アニメ化(全12話)、アフタヌーン連載のコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seikoku-no-dragonar",
+    "title": "星刻の竜騎士",
+    "titleKana": "せいこくのりゅうきし",
+    "authorIds": [
+      "mizuchi-shiki"
+    ],
+    "illustratorIds": [
+      "shimesaba-kohada"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "gakuen-ianou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "竜使いを育成する寄宿制の騎竜学院を舞台に、人間の少女の姿をした竜と契約することになった少年の学園生活を描く物語。学院では年に一度、竜使いたちが相棒の竜と組んで団体戦を行う「聖騎武闘祭」という校内トーナメントが開催され、生徒たちはこの大会での勝利と上位の成績を目指し、日々鍛錬と激しい競争を重ねながら成長していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星刻の竜騎士"
+    },
+    "sourceNote": "Wikipedia日本語版「星刻の竜騎士」を参照し独自に要約(2026年8月時点)。アンサリヴァン騎竜学院での校内競技大会「聖騎武闘祭」、2014年アニメ化、コミカライズ(月刊コミックアライブ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kokaku-no-regios",
+    "title": "鋼殻のレギオス",
+    "titleKana": "こうかくのれぎおす",
+    "authorIds": [
+      "amagi-shuusuke"
+    ],
+    "illustratorIds": [
+      "miyou"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "荒廃した大地を渡り歩く自律型移動都市を舞台に、故郷を追われた剣士の少年が学園都市ツェルニに辿り着き、生徒でありながら都市防衛の役割も担う小隊の一員として迎えられる。都市連盟が主催する武芸大会や学内対抗試合を通じて生徒たちが実力と序列を競い合いながら、都市を脅かす脅威や過去の因縁に立ち向かっていくSF学園アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼殻のレギオス"
+    },
+    "sourceNote": "Wikipedia日本語版「鋼殻のレギオス」を参照し独自に要約(2026年8月時点)。学園都市連盟主催の武芸大会・学内対抗試合という生徒間の競技要素、2009年アニメ化(全24話)、複数版のコミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "majika-no-kenshi-to-shoukan-maou",
+    "title": "魔技科の剣士と召喚魔王",
+    "titleKana": "まじかのけんしとしょうかんまおう",
+    "authorIds": [
+      "mihara-mitsuki"
+    ],
+    "illustratorIds": [
+      "chun"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "mahou-gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "召喚魔法が広まった世界で、本来女性にしか現れないはずの召喚痕を発現させた少年が、騎士学院の魔技科に入学する。生徒会長選挙や学内トーナメント戦を通じて、召喚した神魔を操る生徒同士が実力と人望を競い合う中、主人公は特異な体質を隠しながらも次第に頭角を現し、仲間たちとの絆を深めながら騎士学院での日々を歩んでいく学園バトルコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔技科の剣士と召喚魔王"
+    },
+    "sourceNote": "Wikipedia日本語版「魔技科の剣士と召喚魔王」を参照し独自に要約(2026年8月時点)。生徒会長選挙やトーナメント戦の存在、月刊コミックアライブでのコミカライズを確認。アニメ化情報は確認できず(なし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tasogare-iro-no-utautai",
+    "title": "黄昏色の詠使い",
+    "titleKana": "たそがれいろのうたうたい",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "takeoka-miho"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen",
+      "mahou-gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "詠師と呼ばれる魔法使いを養成するトレミア・アカデミーが舞台。余命少ない少女が生きた証として新たな詠唱形式の完成を目指すが、後の時代、その意志を継ごうとする転入生が現れる。学校行事として催される学生決闘や競演会で、生徒たちが各々の詠唱の力を披露し合い、その優劣を競い合う様子が描かれる学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黄昏色の詠使い"
+    },
+    "sourceNote": "Wikipedia日本語版「黄昏色の詠使い」を参照し独自に要約(2026年8月時点)。トレミア・アカデミーでの学生決闘・競演会という生徒間の競技要素を確認。2007年1月〜2009年8月刊行、全10巻完結。アニメ化・コミカライズ情報は確認できず(なし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saijaku-muhai-no-bahamut",
+    "title": "最弱無敗の神装機竜",
+    "titleKana": "さいじゃくむはいのばはむーと",
+    "authorIds": [
+      "meigetsu-senri"
+    ],
+    "illustratorIds": [
+      "kasuga-ayumi",
+      "murakami-yuichi"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "robot-mecha"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "クーデターで没落した旧帝国の皇子が、装甲兵器「機竜」を操る士官学園に身分を隠して編入する。月に一度王都の闘技場で開催される公式模擬戦をはじめ、生徒たちが機竜の性能と操縦技術を競い合うランキング戦が展開される中、「無敗の最弱」と呼ばれ見下されてきた主人公が、秘めた実力と過去の因縁を明らかにしながら頭角を現していく学園バトルアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最弱無敗の神装機竜"
+    },
+    "sourceNote": "Wikipedia日本語版「最弱無敗の神装機竜」を参照し独自に要約(2026年8月時点)。王都コロシアムでの公式模擬戦・校内戦という機竜使いのランキング要素、2016年アニメ化(全12話)、ガンガンONLINE版コミカライズを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ichiokunen-button-gakuin-musou",
+    "title": "一億年ボタンを連打した俺は、気付いたら最強になっていた 〜落第剣士の学院無双〜",
+    "titleKana": "いちおくねんぼたんをれんだしたおれはきづいたらさいきょうになっていた",
+    "authorIds": [
+      "tsukishima-shuichi"
+    ],
+    "illustratorIds": [
+      "mokyu"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "「落第剣士」と見下されていた青年が、時間を加速させる不思議なボタンを連打し続けたことで、十数億年分の修行を積み圧倒的な剣技を身につける。剣術の名門校へ推薦入学した主人公は、学内で行われる剣術大会や複数校合同の大規模な祭典に参加し、格下と侮っていた周囲を驚かせながら、着実に頭角を現し評価を高めていく学園無双ファンタジー。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一億年ボタンを連打した俺は、気付いたら最強になっていた_〜落第剣士の学院無双〜"
+    },
+    "sourceNote": "Wikipedia日本語版「一億年ボタンを連打した俺は、気付いたら最強になっていた」を参照し独自に要約(2026年8月時点)。千刃学院での剣術大会・大五聖祭という校内外トーナメント要素、小説家になろう原作(2019年2月投稿開始)、Young Ace UPでのコミカライズを確認。アニメ化情報は確認できず(なし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "intelli-village-no-zashiki-warashi",
+    "title": "インテリビレッジの座敷童",
+    "titleKana": "いんてりびれっじのざしきわらし",
+    "authorIds": [
+      "kamachi-kazuma"
+    ],
+    "illustratorIds": [
+      "mahaya"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "最先端技術で理想の田舎を演出したブランド地区インテリビレッジには、なぜか各地の妖怪たちも呼び寄せられ住み着いていた。東京からやって来た刑事・内幕隼と、推理好きの少女・菱神艶美が、座敷童をはじめ妖怪がらみの奇妙な事件を一つ一つ解き明かしていくオカルト推理コメディ。巻を重ねるごとに、物語は妖怪勢力同士の大規模な衝突へと発展していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://dengekibunko.jp/product/intellivillage/201201000538.html"
+    },
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKER・読書メーターで著者(鎌池和馬)・イラストレーター(真早)・全9巻完結を確認。アニメ化・コミカライズ情報は確認できず、両方falseとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tantei-wa-misu-no-naka",
+    "title": "探偵は御簾の中―検非違使と奥様の平安事件簿",
+    "titleKana": "たんていはみすのなか",
+    "authorIds": [
+      "migiwa-korumono"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "jidai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "平安時代、頼りない検非違使別当・祐高と、聡明だが行き遅れと陰口を叩かれていた妻・忍。政略結婚から始まった二人だが、忍は御簾の内側に控えたまま知恵を働かせ、バラバラ殺人や密室での怪異出没など、夫が担当することになった不可解な事件の真相を推理で導き出し、陰から夫の名声を支えていく平安ラブコメミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.kinokuniya.co.jp/f/dsg-01-9784065192726"
+    },
+    "sourceNote": "紀伊國屋書店書誌ページ・日本語版Wikipedia「汀こるもの」で著者名・2020年5月刊行開始・2023年11月時点で既刊4巻であることを確認。イラストレーターは各書誌情報に記載がなく未確認のため空欄。アニメ化・コミカライズ情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "clock-jou-satsujin-jiken",
+    "title": "『クロック城』殺人事件",
+    "titleKana": "くろっくじょうさつじんじけん",
+    "authorIds": [
+      "kitayama-takekuni"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-novels",
+    "themeIds": [
+      "mystery",
+      "tantei"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "現在・過去・未来、進み方の異なる三基の大時計を擁する奇怪な洋館・クロック城。謎の轟音が響き渡った夜、礼拝堂で首のない死体が、そして眠る美女の部屋では二つの生首が発見される。外部からの侵入がおよそ不可能な状況下で起きた「時を超えた不可能犯罪」の謎に名探偵が挑む、著者のデビュー作となった本格ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2002,
+        "result": "受賞(第24回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.kodansha.co.jp/r/book/product?item=0000158460"
+    },
+    "sourceNote": "講談社BOOK倶楽部・Amazon商品ページ・複数書評ブログで著者・2002年刊・第24回メフィスト賞受賞・巨大時計仕掛けの館という特殊設定を確認。「城」シリーズの独立第一作(著者デビュー作)で、シリーズ内で話は繋がっていない。イラストレーター表記は各情報源になく未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "danganronpa-kirigiri",
+    "title": "ダンガンロンパ霧切",
+    "titleKana": "だんがんろんぱきりぎり",
+    "authorIds": [
+      "kitayama-takekuni"
+    ],
+    "illustratorIds": [
+      "komatsuzaki-rui"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "death-game"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "ゲーム『ダンガンロンパ』のシナリオライター本人の監修による前日譚。謎の依頼を受けて集められた五人の探偵たちを待っていたのは、「犯罪被害者救済委員会」が仕掛ける連続探偵殺人劇の幕開けだった。少女探偵・霧切響子が探偵図書館の仲間たちと共に、命がけの謎解き対決へと挑んでいく特殊設定ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://seikaisha.co.jp/books/fictions/1pqpzo8okh/"
+    },
+    "sourceNote": "星海社公式サイトで著者(北山猛邦)・イラストレーター(小松崎類)・2013年9月刊行開始・小高和剛監修であることを確認。「第7巻がシリーズ10周年に贈る最終巻」という書評記述から2020年完結と推定(10周年=ゲーム版2010年発売から起算)。本作単体のアニメ化・コミカライズは確認できず(原作ゲームにはアニメ化・コミカライズあり)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "eigou-kan-chourenzoku-satsujin-jiken",
+    "title": "永劫館超連続殺人事件 魔女はXと死ぬことにした",
+    "titleKana": "えいごうかんちょうれんぞくさつじんじけん",
+    "authorIds": [
+      "nankai-yuu"
+    ],
+    "illustratorIds": [
+      "kiyohara-kou"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "time-leap"
+    ],
+    "firstPublishedYear": 2024,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "没落貴族の長男ヒースクリフが母の葬儀のため一族の永劫館へ帰ると、妹の密室殺人、そして魔女リリィによる連続殺人が発生する。しかもリリィが目の前で死ぬたびに、時間は一日前へと巻き戻ってしまう。館・密室・タイムループという三つの謎が絡み合う事件を、限られた時間の中で解き明かしていく特殊設定本格ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2025,
+        "result": "候補(第25回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://bookwalker.jp/de281f383b-0f6d-43db-bfd6-b6d398ce8f6d/"
+    },
+    "sourceNote": "BOOK☆WALKER・版元ドットコムで著者(南海遊)・イラストレーター(清原紘)・2024年3月刊行・館×密室×タイムループの特殊設定を確認。「本格ミステリ・ベスト10」等複数ランキング入りと第25回本格ミステリ大賞候補入りも確認。現状シリーズ続刊の情報がないためstatusはunknownとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rakuen-to-wa-tantei-no-fuzai-nari",
+    "title": "楽園とは探偵の不在なり",
+    "titleKana": "らくえんとはたんていのふざいなり",
+    "authorIds": [
+      "shasendou-yuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "嘘をつけばたちどころに命を落とすという不文律が支配し、争いも裁きも存在しないとされる楽園のような世界。真実だけが語られる社会では、罪を暴くための探偵という存在すら不要とされてきた。だがそこで起きた不可解な死をめぐり、決して嘘をつけないはずの人々の証言に潜む小さな矛盾を追っていく特殊設定本格ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斜線堂有紀"
+    },
+    "sourceNote": "日本語版Wikipedia「斜線堂有紀」および複数の特殊設定ミステリ紹介サイトで、2020年8月早川書房刊(単行本)、2022年11月ハヤカワ文庫JA版刊行、「週刊文春ミステリーベスト10」3位など複数ランキング入りを確認。詳細なあらすじページは取得できず、タイトルの含意と各紹介サイトでの特殊設定ミステリとしての一貫した扱われ方から要旨を記述した。イラストレーター情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "guren-kan-no-satsujin",
+    "title": "紅蓮館の殺人",
+    "titleKana": "ぐれんかんのさつじん",
+    "authorIds": [
+      "atsukawa-tatsumi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "学校に来なくなった名探偵・葛城輝義を訪ねて、山中の別荘・紅蓮館を訪れた高校生の田所信哉。だが折からの落雷による山火事が迫り、館は35時間後には焼け落ちてしまう危機に陥る。外は炎、館内では殺人事件という二重の脅威にさらされる中、限られた時間で謎を解かねば全員が助からないという極限状況下の本格ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2020,
+        "result": "候補"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/阿津川辰海"
+    },
+    "sourceNote": "日本語版Wikipedia「阿津川辰海」・書評サイト(note.com)で、2019年9月刊(講談社タイガ)、山火事のタイムリミット35時間という特殊設定、本格ミステリ大賞候補作であることを確認。「館四重奏」シリーズは2024年時点で『紅蓮館』『蒼海館』『黄土館』の3作刊行でongoing。イラストレーター情報は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shoushitsu-mura-no-satsuriku-riron",
+    "title": "消失村の殺戮理論",
+    "titleKana": "しょうしつむらのさつりくりろん",
+    "authorIds": [
+      "mori-akimaro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "horror"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "文化人類学を研究する岩井戸准教授率いる調査団が、地図に載らない村「網花村」を訪れる。村には巨大な山椒魚の神へ生贄を捧げる秘儀が伝わっており、村人たちはたびたび起こる集団失踪すら当然のこととして受け入れていた。それが人間の企みなのか神の仕業なのか、常識的な推理を超えた怪異の真相に迫っていく特殊設定ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://seikaisha.co.jp/books/fictions/fv6uyc1zph/"
+    },
+    "sourceNote": "星海社公式サイトで著者(森晶麿)・2025年12月刊行(予定)・生贄の秘儀が伝わる山間の村という特殊設定・あらすじを確認。イラストレーター表記なし。刊行間もなくシリーズ展開の有無は未確認のためstatusはunknown。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "reirei-kidan",
+    "title": "零零奇談 退魔探偵と心霊物件",
+    "titleKana": "れいれいきだん",
+    "authorIds": [
+      "aotsuki-kairi"
+    ],
+    "illustratorIds": [
+      "azumi-fuyuru"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "onmyoushi-taimashi",
+      "tantei"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "不動産会社に勤める青年・百々瀬千早には、幽霊の姿が見えてしまう特殊な力があった。美しい退魔師・姜零零と出会ったことをきっかけに、彼の除霊の力を借りながら、会社が抱える心霊物件にまつわる問題を解決していくことになる。物件ごとに隠された因縁と怪異の正体を、除霊のルールに基づいて解き明かしていくオカルト探偵ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://seikaisha.co.jp/books/fictions/lpw3kdzxps4/"
+    },
+    "sourceNote": "星海社公式サイトで著者(蒼月海里)・イラストレーター(あづみ冬留)・2025年11月刊行・霊視能力を持つ主人公と退魔師の相棒による心霊物件解決ものというあらすじを確認。刊行間もなくシリーズ展開の有無は未確認のためstatusはunknown。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "futagoboshi-no-satsujin",
+    "title": "双子星の殺人 メイド喫茶探偵黒苺フガシの事件簿",
+    "titleKana": "ふたごぼしのさつじん",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "illustratorIds": [
+      "mochizuki-kei"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "秋葉原のメイド喫茶を心から愛する青年「ぼっちー」こと星斗は、探偵業を営むメイド・黒苺フガシと出会う。見立て殺人になぞらえたクイズやダイイングメッセージの謎解きから、超能力が絡んでいるらしき不審死まで、秋葉原の街を舞台にした奇妙な難事件の数々に、メイド探偵とともに挑んでいく異色のミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://seikaisha.co.jp/books/fictions/pqsqwv9na8_t/"
+    },
+    "sourceNote": "星海社公式サイトで著者(柴田勝家)・イラストレーター(望月けい)・2026年4月刊行・メイド探偵と秋葉原を舞台にした事件簿(超能力絡みの不審死を含む)というあらすじを確認。イラストレーターは既存データの望月けいと同一人物として既存idを再利用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shin-tantei-jesus-christ-no-kaisou",
+    "title": "神探偵イエス・キリストの回想 逆襲のユダ",
+    "titleKana": "しんたんていいえすきりすとのかいそう",
+    "authorIds": [
+      "seiryouin-ryuusui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "tantei"
+    ],
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "人類史上もっとも有名な裏切り者とされる、イスカリオテのユダ。彼はなぜ師であるイエスを裏切り、謎めいた死を遂げるに至ったのか。聖書の記述の裏に隠された真相を、自ら「名探偵」を名乗るイエス・キリスト本人が推理していくという、著者渾身の本格「聖書ミステリー」。宗教と本格推理を大胆に融合させた異色作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://seikaisha.co.jp/books/fictions/ja8uxqmayk/"
+    },
+    "sourceNote": "星海社公式サイトで著者(清涼院流水、JDCシリーズで知られる作家)・2025年10月刊行・イエス・キリストを名探偵役に据えたユダの裏切りの謎を解く聖書ミステリという設定・あらすじを確認。イラストレーター表記なし。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5167,5 +5167,77 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia「死神姫の再婚」の記載(イラスト担当交代の経緯を含む)を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shimesaba-kohada",
+    "name": "〆鯖コハダ",
+    "nameKana": "しめさばこはだ",
+    "description": "「星刻の竜騎士」の挿絵を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「星刻の竜騎士」の挿絵担当表記を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chun",
+    "name": "CHuN",
+    "nameKana": "ちゅん",
+    "description": "「魔技科の剣士と召喚魔王」の挿絵を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「魔技科の剣士と召喚魔王」の挿絵担当表記を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mokyu",
+    "name": "もきゅ",
+    "nameKana": "もきゅ",
+    "description": "「一億年ボタンを連打した俺は、気付いたら最強になっていた」の挿絵を手がけたイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER作品ページの挿絵担当表記を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mahaya",
+    "name": "真早",
+    "nameKana": "まはや",
+    "description": "日本のイラストレーター。別名義「ななお」でも活動。第17回電撃イラスト大賞金賞受賞を経て、2012年『インテリビレッジの座敷童』でデビュー。RedFlagship所属。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真早"
+    },
+    "sourceNote": "日本語版Wikipedia「真早」を確認。経歴・デビュー作・所属事務所を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "komatsuzaki-rui",
+    "name": "小松崎類",
+    "nameKana": "こまつざきるい",
+    "description": "日本のイラストレーター・キャラクターデザイナー。スパイク・チュンソフト出身で、『ダンガンロンパ』シリーズのキャラクターデザインを担当。Too Kyo Gamesの設立メンバーの一人。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小松崎類"
+    },
+    "sourceNote": "日本語版Wikipedia「小松崎類」を確認。経歴・代表作を記載。生年の記載はなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kiyohara-kou",
+    "name": "清原紘",
+    "nameKana": "きよはらこう",
+    "description": "1981年10月24日生まれ、愛知県名古屋市出身の漫画家・イラストレーター。2005年、月刊少年エースの読切作品でデビュー。『Another』『十角館の殺人』などのコミカライズや小説挿絵を手がける。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/清原紘"
+    },
+    "sourceNote": "日本語版Wikipedia「清原紘」を確認。生年・出身・デビュー経緯・代表作を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "azumi-fuyuru",
+    "name": "あづみ冬留",
+    "nameKana": "あづみふゆる",
+    "description": "日本のフリーイラストレーター。角川ビーンズ文庫や電撃文庫など複数のライトノベルの挿絵・キャラクターデザインを担当。ゲームキャラクターデザインや画集刊行など幅広く活動する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あづみ冬留"
+    },
+    "sourceNote": "日本語版Wikipedia「あづみ冬留」を確認。代表作・活動分野を記載。生年の記載はなし。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -6184,5 +6184,153 @@
     "externalLinks": {},
     "sourceNote": "一迅社公式特設ページおよび国立国会図書館サーチの書誌情報(2018-2019年刊)を確認。生年等の詳細プロフィールは情報源に記載なし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tsukasa",
+    "name": "ツカサ",
+    "nameKana": "つかさ",
+    "description": "京都府出身の作家。2006年「RIGHT×LIGHT」で小学館ライトノベル大賞期待賞を受賞し、2007年にガガガ文庫からデビュー。「銃皇無尽のファフニール」で知られる。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ツカサ_(作家)"
+    },
+    "sourceNote": "Wikipedia日本語版「ツカサ(作家)」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mizuchi-shiki",
+    "name": "瑞智士記",
+    "nameKana": "みずちしき",
+    "description": "滋賀県出身の作家。2005年に「木ノ歌詠」名義でデビューし、2007年に現在の筆名に改名。「星刻の竜騎士」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/瑞智士記"
+    },
+    "sourceNote": "Wikipedia日本語版「瑞智士記」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "amagi-shuusuke",
+    "name": "雨木シュウスケ",
+    "nameKana": "あまぎしゅうすけ",
+    "description": "広島県三原市出身の作家。アミューズメントメディア総合学院ノベルズ学科卒業後、第15回ファンタジア長編小説大賞佳作でデビュー。「鋼殻のレギオス」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雨木シュウスケ"
+    },
+    "sourceNote": "Wikipedia日本語版「雨木シュウスケ」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mihara-mitsuki",
+    "name": "三原みつき",
+    "nameKana": "みはらみつき",
+    "description": "第5回MF文庫Jライトノベル新人賞選考委員特別賞を受賞しデビューした作家。「魔技科の剣士と召喚魔王」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三原みつき"
+    },
+    "sourceNote": "Wikipedia日本語版「三原みつき」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "meigetsu-senri",
+    "name": "明月千里",
+    "nameKana": "めいげつせんり",
+    "description": "第1回GA文庫大賞奨励賞受賞作家。「最弱無敗の神装機竜」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/明月千里"
+    },
+    "sourceNote": "Wikipedia日本語版「明月千里」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "migiwa-korumono",
+    "name": "汀こるもの",
+    "nameKana": "みぎわこるもの",
+    "description": "1977年生まれ、大阪府出身のミステリー作家。追手門学院大学文学部卒。2008年『パラダイス・クローズド』で第37回メフィスト賞を受賞しデビュー。アクアリウムを題材にした作風で知られ、THANATOSシリーズなどを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/汀こるもの"
+    },
+    "sourceNote": "日本語版Wikipedia「汀こるもの」を確認。生年・出身・デビュー経緯・代表作を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kitayama-takekuni",
+    "name": "北山猛邦",
+    "nameKana": "きたやまたけくに",
+    "description": "1979年8月9日生まれ、岩手県盛岡市出身の推理作家。2002年『『クロック城』殺人事件』で第24回メフィスト賞を受賞しデビュー。物理トリックを駆使した「城」シリーズで知られる本格ミステリの旗手。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北山猛邦"
+    },
+    "sourceNote": "日本語版Wikipedia「北山猛邦」を確認。生年月日・出身・デビュー作・代表シリーズを記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nankai-yuu",
+    "name": "南海遊",
+    "nameKana": "なんかいゆう",
+    "description": "1986年11月26日生まれ、秋田県横手市出身、岩手県盛岡市在住の小説家。2014年頃より「小説家になろう」で活動を開始し、2018年に星海社FICTIONS新人賞を受賞。館・密室・特殊設定を組み合わせた本格ミステリを手がける。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/南海遊"
+    },
+    "sourceNote": "日本語版Wikipedia「南海遊」を確認。生年・出身・経歴・受賞歴を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "atsukawa-tatsumi",
+    "name": "阿津川辰海",
+    "nameKana": "あつかわたつみ",
+    "description": "1994年9月22日生まれ、東京都出身のミステリー作家。東京大学法学部卒。2017年、光文社の新人発掘企画「カッパ・ツー」で『名探偵は嘘をつかない』を刊行しデビュー。極限状況下の謎解きを描く「館四重奏」シリーズで人気を博す。",
+    "birthYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/阿津川辰海"
+    },
+    "sourceNote": "日本語版Wikipedia「阿津川辰海」を確認。生年・出身・学歴・デビュー経緯・館四重奏シリーズの出版年を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mori-akimaro",
+    "name": "森晶麿",
+    "nameKana": "もりあきまろ",
+    "description": "1979年3月5日生まれ、静岡県浜松市出身の小説家。早稲田大学卒、日本大学大学院修了。2011年『黒猫の遊歩あるいは美学講義』で第1回アガサ・クリスティー賞を受賞しデビュー。自らを「虚構家」と称し、複数のミステリーシリーズを手がける。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森晶麿"
+    },
+    "sourceNote": "日本語版Wikipedia「森晶麿」を確認。生年・出身・学歴・デビュー作・受賞歴を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aotsuki-kairi",
+    "name": "蒼月海里",
+    "nameKana": "あおつきかいり",
+    "description": "日本の小説家。妖怪や幽霊、和風オカルトを題材にしたライトノベル・ライト文芸を数多く手がけ、『幽落町おばけ駄菓子屋』など著作多数。特殊な設定を活かした怪異×謎解きものを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "星海社公式サイトの『零零奇談 退魔探偵と心霊物件』作品ページで著者名を確認。日本語版Wikipediaに単独記事が見当たらず、生年等の詳細情報は確認できなかったため記載を省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shibata-katsuie",
+    "name": "柴田勝家",
+    "nameKana": "しばたかついえ",
+    "description": "1987年10月3日生まれ、本名・綿谷翔太。成城大学大学院文学研究科修了。2014年、短編作品で第2回ハヤカワSFコンテスト大賞を受賞しデビュー。SF・ミステリー・ホラーを横断する作風で、日本SF大賞候補や星雲賞受賞歴を持つ。",
+    "birthYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴田勝家_(作家)"
+    },
+    "sourceNote": "日本語版Wikipedia「柴田勝家(作家)」を確認。生年・本名・経歴・受賞歴を記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seiryouin-ryuusui",
+    "name": "清涼院流水",
+    "nameKana": "せいりょういんりゅうすい",
+    "description": "1974年8月9日生まれ、兵庫県西宮市出身の小説家。京都大学在学中の1996年『1200年密室伝説』で第2回メフィスト賞を受賞し、『コズミック 世紀末探偵神話』としてデビュー。350人超の探偵が登場する「JDCシリーズ」で知られる。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/清涼院流水"
+    },
+    "sourceNote": "日本語版Wikipedia「清涼院流水」を確認。生年・出身・デビュー経緯・代表シリーズを記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
