@@ -86,6 +86,10 @@ npm run preview
 
 全105作品について`mediaMix?: { anime?: boolean; comic?: boolean }`(`src/types.ts`の`WorkSource`)を追加し、`sourceNote`にアニメ化・コミカライズの確認内容を追記した。`WorkListPage`/`ThemeDetailPage`に既存のstatus/webNovelフィルターと同じパターンで「アニメ化」「コミカライズ」「メディアミックスなし」のセレクトフィルターを実装(`?mediaMix=anime|comic|none`)。`WorkCard`のメタ行・`WorkDetailPage`のメタ行にも該当作品はテキストで表示する。新規作品を追加する際は、Wikipedia確認時にあわせて`mediaMix`も設定すること(テレビアニメ・OVAがあれば`anime: true`、コミカライズ版があれば`comic: true`。記述がなければ両方`false`)。
 
+## 一覧ページの件数表示(2026-08-03実装)
+
+`WorkListPage`の件数表示(`page-subtitle`)は、絞り込み条件が1つでもある場合(`hasActiveFilters`)は「◯件 / 全□件」(絞り込み後件数 / 全体件数)、条件がない場合は「◯件」のみを表示する。全体件数は`worksState.data.length`(絞り込み前の全件)を使う。姉妹サイトのmanga-db(`WorkListPage`)・game-db(`GameListPage`)にも同一パターンで実装済み。
+
 ## SEO / SSG(2026-08-02実装)
 
 ユーザーから「多くの人の目に止まるようにしたい、検索で上位に来るような工夫を」という依頼を受け、本格的なSSG(静的サイト生成)化を実施した。
