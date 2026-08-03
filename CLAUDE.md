@@ -90,6 +90,23 @@ npm run preview
 
 `WorkListPage`の件数表示(`page-subtitle`)は、絞り込み条件が1つでもある場合(`hasActiveFilters`)は「◯件 / 全□件」(絞り込み後件数 / 全体件数)、条件がない場合は「◯件」のみを表示する。全体件数は`worksState.data.length`(絞り込み前の全件)を使う。姉妹サイトのmanga-db(`WorkListPage`)・game-db(`GameListPage`)にも同一パターンで実装済み。
 
+## トップページのコンテンツ拡充(2026-08-03実装)
+
+`HomePage.tsx`が検索ボックスと件数バッジだけで寂しいというユーザー要望を受け、`.count-badges`の直後・`.source-note`の直前に4セクションを追加した(サブコンポーネント分割はせず`HomePage.tsx`単一ファイルのまま拡張。`WorkListPage.tsx`が272行の単一ファイルであるのと同じ許容範囲という判断)。
+
+- **ピックアップ作品**: `getWorks()`で全作品を取得し、`pickRandomWorks()`(部分Fisher–Yates)で6件をランダム抽出して`WorkCard`で表示。`useMemo`の依存が`worksState`(オブジェクト全体)なので、ページ再マウント時(=遷移して戻ってきたとき)だけ再抽選され、検索ボックス入力等の再レンダーでは変わらない
+- **受賞作スポットライト**: 全作品の`awardSummaries`を`flattenRecentAwards()`でフラット化し年降順で上位6件を表示。`AwardDetailPage.tsx`の`winner-list`パターンを流用(賞名リンクを追加した点だけ拡張)
+- **人気テーマ**: `getThemes()`を`workCount`降順で上位12件、チップリンクで`/works?theme=<id>`へ
+- **姉妹サイト紹介カード**: 既存の`SiteFooter`の小さいテキストリンクとは別に、より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数(SiteFooterとは共有しない)
+
+`colorForYear`/`YEAR_COLORS`は従来`AwardDetailPage.tsx`にprivateで定義されていたが、受賞作スポットライトからも使うため`src/ui/common/yearColor.ts`に抽出した。姉妹サイト(manga-db/game-db)にも同一パターンで実装済み(エンティティ名・ルート名・アクセントカラーのみ置き換え)。
+
+説明文(`.home-intro`)からも「次に」を削除し、「読みたい作品探しに使えるデータベースです。テーマ・著者・出版社などで絞り込めます。」に変更した。
+
+## ページ遷移時のスクロール位置リセット(2026-08-03実装)
+
+react-routerはルート遷移時にスクロール位置を保持したままなので(ブラウザのフルページ遷移と違い自動リセットされない)、トップページを下にスクロールした状態でリンクをクリックすると遷移先も同じスクロール位置のまま表示される不具合があった。`src/ui/common/ScrollToTop.tsx`(`useLocation`の`pathname`変更を`useEffect`で監視し`window.scrollTo(0, 0)`)を作成し、`App.tsx`の`<BrowserRouter>`直下・`<TopNav />`の前にマウントしてサイト全体で解決した。`WorkListPage.tsx`のページャー(`goToPage`)が既に持っていた個別の`window.scrollTo(0, 0)`呼び出しとは競合しない(そちらはクエリパラメータのみの変更でpathnameは変わらないため)。姉妹サイト(manga-db/game-db)にも同一パターンで実装済み。
+
 ## SEO / SSG(2026-08-02実装)
 
 ユーザーから「多くの人の目に止まるようにしたい、検索で上位に来るような工夫を」という依頼を受け、本格的なSSG(静的サイト生成)化を実施した。
