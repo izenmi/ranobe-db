@@ -24499,5 +24499,289 @@
     },
     "sourceNote": "Wikipedia「カブキブ!」記事で著者・イラストレーター・出版社（角川文庫）・全7巻・完結・アニメ化（2017年）・コミカライズ情報を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshouka",
+    "title": "最後にひとつだけお願いしてもよろしいでしょうか",
+    "titleKana": "さいごにひとつだけおねがいしてもよろしいでしょうか",
+    "authorIds": [
+      "ootori-nana"
+    ],
+    "illustratorIds": [
+      "satsuki"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "パリスタン王国の第二王子の婚約者だった公爵令嬢スカーレットは、心変わりした王子から一方的に婚約破棄を告げられ、社交界から追われる立場に転落する。しかし彼女はただ嘆くのではなく、隠していた実力と機知、そして鍛え上げた拳を武器に、私腹を肥やし民を苦しめる悪徳貴族たちへ次々と立ち向かっていく。婚約破棄という屈辱を逆手に取り、自らの手で正義と本当の居場所を取り戻していく痛快な逆転劇として展開する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最後にひとつだけお願いしてもよろしいでしょうか"
+    },
+    "sourceNote": "日本語版Wikipedia(2026-08-03閲覧)で著者・イラストレーター・巻数(7巻、2025年12月時点)・コミカライズ(2019年～)・アニメ化(2025年10月～12月放送)を確認。原作はアルファポリス連載のためwebNovelSourceは対象プラットフォーム外として省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "enzai-de-konyaku-haki-sareta-koushaku-reijou-wa-ringoku-e-toubou-itashimasu",
+    "title": "冤罪で婚約破棄された公爵令嬢は隣国へ逃亡いたします！",
+    "titleKana": "えんざいでこんやくはきされたこうしゃくれいじょうはりんごくへとうぼういたします",
+    "authorIds": [
+      "yakiimo-hokuhoku"
+    ],
+    "illustratorIds": [
+      "kurodeko"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "konyaku-haki-zamaa"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "synopsis": "前世で読んだ小説の世界に転生していたと気づいた公爵令嬢ロザリンダは、無実の罪を着せられ、婚約者だった王太子エリオットから死刑寸前まで追い詰められる。婚約破棄と国外追放を受け入れた彼女は名をローザと改め、身寄りのない双子の少年アダンとエデンを連れて隣国へ逃れ、静かな新生活を始める。しかしやがて冤罪が明らかになり、事の真相を知ったエリオットが彼女を連れ戻そうと現れたとき、ローザと双子は用意していた思わぬ作戦で決着をつける。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "officialUrl": "https://regina.alphapolis.co.jp/book/detail/9984"
+    },
+    "sourceNote": "アルファポリス レジーナブックス公式ページおよび国立国会図書館サーチ(2026-08-03閲覧)で著者・イラストレーター・発売年(2023年9月)・複数のコミカライズを確認。アニメ化情報は確認できず。原作アルファポリス連載のためwebNovelSourceは省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "subete-wo-ubawareta-shoujo-wa-ringoku-nite-kaerizaku",
+    "title": "すべてを奪われた少女は隣国にて返り咲く",
+    "titleKana": "すべてをうばわれたしょうじょはりんごくにてかえりざく",
+    "authorIds": [
+      "sayama-hibiki"
+    ],
+    "illustratorIds": [
+      "suzumushi"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 2,
+    "synopsis": "身に覚えのない罪を着せられて婚約と身分を奪われ、生まれ育った国を追われた少女。辛い過去を抱えたまま隣国へと流れ着いた彼女は、そこで出会った一人の誠実な男性に支えられながら少しずつ心を開いていく。かつて理不尽に奪われた地位や名誉、そして自分自身への信頼を取り戻すべく、静かな決意とともに新しい人生を歩み、真実を明らかにして本来あるべき幸福をつかみ取っていく再生と逆転の物語。",
+    "awardResults": [],
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう該当作品ページおよび国立国会図書館サーチ(2026-08-03閲覧)で著者・イラストレーター・出版社(TOブックス Celica NOVELS)・巻数(2巻、2026年2月・2026年内)・コミカライズ企画進行中を確認。アニメ化情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "enzai-reijou-wa-shinjitai",
+    "title": "冤罪令嬢は信じたい",
+    "titleKana": "えんざいれいじょうはしんじたい",
+    "authorIds": [
+      "yamayo-mii"
+    ],
+    "illustratorIds": [],
+    "publisherId": "k-ranobe-books-f",
+    "themeIds": [
+      "konyaku-haki-zamaa"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "無実であるにもかかわらず身に覚えのない罪を着せられ、婚約破棄とともに周囲からの信頼まで失ってしまった令嬢。誰もが彼女を疑い、孤立していく中で、それでも変わらず信じ続けてくれる数少ない人々の存在が心の支えとなる。冤罪の裏に隠された真相を少しずつ突き止めながら、失った名誉と本来の居場所を取り戻していく姿を描く、信頼と再生をテーマにした物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)でラノベ版(講談社Kラノベブックスf、2023年12月)の書誌情報、およびコミカライズ版全3巻(2024年12月～2026年3月、講談社)の刊行を確認。イラストレーターはページに記載なく未確認(コミック版キャラクター原案は祀花よう子と表記されているが原作イラストと同一かは未確認のためillustratorIdsは空欄とした)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konyaku-haki-sareta-akuyaku-reijou-wa-jiyuu-ni-ikiyou-ka-to",
+    "title": "婚約破棄された悪役令嬢は自由に生きようかと。",
+    "titleKana": "こんやくはきされたあくやくれいじょうはじゆうにいきようかと",
+    "authorIds": [
+      "mitsuki-beni"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 1,
+    "synopsis": "身に覚えのない罪をでっち上げられ、婚約破棄を突きつけられた貴族令嬢。これまで築いてきた社交界での評判や立場を一方的に奪われた彼女は、もはや貴族としての体面を気にするのをやめ、自らの意思で冒険者として生きる道を選ぶ。汚名を着せた元婚約者や周囲の人々を実力で見返しながら、誰にも縛られない自分だけの新しい人生を切り拓いていく姿を描く痛快な物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者・出版社(アルファポリス Regina BOOKS、2026年4月)およびあらすじ概要(冤罪で婚約破棄を宣言された貴族令嬢が冒険者として活動)を確認。アニメ化・コミカライズ情報なし。イラストレーターは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "outaishi-kara-konyaku-haki-sare-iyagarase-no-you-ni-ojisan-to-kekkon-saseraremashita",
+    "title": "王太子から婚約破棄され、嫌がらせのようにオジサンと結婚させられました",
+    "titleKana": "おうたいしからこんやくはきされいやがらせのようにおじさんとけっこんさせられました",
+    "authorIds": [
+      "enoki-yoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2023,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "王太子から一方的に婚約を破棄されたうえ、当てつけのように年の離れた男性へと嫁がされることになった令嬢。周囲は彼女を貶めるための嫌がらせのつもりだったが、実際に夫となった人物は見た目も人柄も申し分ない、誠実で頼れる相手だった。婚約破棄で自分を見下していた王太子たちを尻目に、思いがけず始まった結婚生活の中で本当の幸福を見つけていく、逆転劇的な結婚譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者・出版社(アルファポリス レジーナブックス、2023年8月)を確認。アニメ化・コミカライズ情報なし。イラストレーターは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akuyaku-ouji-no-eiyuutan",
+    "title": "悪役王子の英雄譚",
+    "titleKana": "あくやくおうじのえいゆうたん",
+    "authorIds": [
+      "hidari-ryuu"
+    ],
+    "illustratorIds": [
+      "amano-hide"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "akuyaku-kizoku"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "王位継承争いから距離を置き、あえて目立たない影の立場に徹してきた第三王子。婚約破棄によって後ろ盾を失い窮地に立たされた公爵令嬢を引き取ったことをきっかけに、これまで隠し続けてきた本来の実力と手腕を発揮し始める。あえて悪役のように振る舞いながらも弱者を救い、彼女を貶めた者たちを実力で見返していく、力を隠した主人公が本気を出す痛快な英雄譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で小説版全3巻(2022年2月～2023年5月、KADOKAWA電撃の新文芸)、著者・イラストレーターおよびコミカライズ版(2023年～2025年、全3巻)の刊行を確認。アニメ化情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "medetaku-konyaku-haki-ga-seiritsu-shitanode-jiyuu-kimama-ni-ikiyou-to-omoimasu",
+    "title": "めでたく婚約破棄が成立したので、自由気ままに生きようと思います",
+    "titleKana": "めでたくこんやくはきがせいりつしたのでじゆうきままにいきようとおもいます",
+    "authorIds": [
+      "touma-riko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-novels-f",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "望んでいなかった婚約がめでたく解消され、ようやく自由の身となった令嬢。これまで縛り付けていた家柄や評判、周囲からの期待といったしがらみをきっぱりと手放し、誰にも指図されない気ままな人生を歩み始める。かつて婚約者や周囲から軽んじられていたことなど気にも留めず、自分の望む暮らしの中で本当の幸せとは何かを見つけ出していく、前向きで爽快な逆転劇。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者・出版社(オーバーラップ OVERLAP NOVELS f)・全3巻(2022年3月～2023年12月)の刊行情報を確認。アニメ化・コミカライズ情報なし。イラストレーターは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konyaku-haki-sareta-node-hissori-to-ikiyou-to-omottara-koushaku-reisoku-sama-no-ai-ga-omoi",
+    "title": "婚約破棄されたのでひっそりと生きようと思ったら公爵令息さまの愛が重い",
+    "titleKana": "こんやくはきされたのでひっそりといきようとおもったらこうしゃくれいそくさまのあいがおもい",
+    "authorIds": [
+      "akizuki-ichika"
+    ],
+    "illustratorIds": [
+      "matsurika-youko"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "latestPublishedYear": 2026,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "婚約破棄をきっかけに社交界の表舞台から退き、目立たずひっそりと余生を送ろうと決意した令嬢。ところが以前から彼女に想いを寄せていた公爵令息が現れ、その愛情は予想をはるかに超えて深く、そして重いものだった。静かに暮らすつもりだった計画は次第に崩れていくが、かつて自分を貶めた元婚約者たちを尻目に、思いがけない形で新たな幸福を築いていく恋物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチおよびBOOK☆WALKER試し読みページ(2026-08-03閲覧)で著者・イラストレーター・出版社(アルファポリス レジーナブックス、2026年5月)を確認。アニメ化・コミカライズ情報なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aisuru-anata-no-aisuru-hito-ni-hyoui-shimashita",
+    "title": "愛する貴方の愛する人に憑依しました",
+    "titleKana": "あいするあなたのあいするひとにひょういしました",
+    "authorIds": [
+      "yoake-seira"
+    ],
+    "illustratorIds": [],
+    "publisherId": "rosage-novels",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "akujo"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "unknown",
+    "volumeCount": 1,
+    "synopsis": "断罪の場で悪女の烙印を押され、婚約を破棄された令嬢の体に憑依してしまった主人公。周囲は誰もが彼女を悪女だと決めつけ、味方などいないと思われた状況の中、初恋の相手だった王太子との偽りの関係を装いながら日々を過ごすことになる。誤解や偏見に向き合い、着せられた汚名の真相を少しずつ解き明かしていくうちに、偽りだったはずの絆が本物へと変わっていく恋物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者・出版社(オーバーラップ Rosage Novels、2025年5月)およびあらすじ概要(悪女として断罪された令嬢が初恋相手の王太子と偽りの愛に溺れる)を確認。アニメ化・コミカライズ情報なし。イラストレーターは未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

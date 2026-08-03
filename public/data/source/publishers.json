@@ -939,5 +939,25 @@
     "externalLinks": {},
     "sourceNote": "紀伊國屋書店・学研の書誌情報でレーベル名「部活系空色ノベルズ」を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "k-ranobe-books-f",
+    "name": "Kラノベブックスf",
+    "nameKana": "けーラノベブックスエフ",
+    "parentCompany": "講談社",
+    "description": "講談社「Kラノベブックス」の女性向け派生レーベル。異世界恋愛・悪役令嬢系作品を中心に刊行。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で「冤罪令嬢は信じたい」ラノベ版のレーベル表記(Kラノベブックスf、講談社、2023年12月)を確認。既存の「k-ranobe-books」(Kラノベブックス)とは別レーベルとして新規登録。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rosage-novels",
+    "name": "Rosage Novels",
+    "nameKana": "ロサージュノベルズ",
+    "parentCompany": "オーバーラップ",
+    "description": "オーバーラップが刊行する女性向けライトノベルレーベル。悪女・令嬢ものを中心に展開。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で「愛する貴方の愛する人に憑依しました」のレーベル表記(Rosage Novels、オーバーラップ、2025年5月)を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5991,5 +5991,99 @@
     },
     "sourceNote": "Wikipedia「カブキブ!」記事より著者名を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ootori-nana",
+    "name": "鳳ナナ",
+    "nameKana": "おおとりなな",
+    "description": "アルファポリス出身の作家。婚約破棄をきっかけに立ち上がるヒロインを描いた「最後にひとつだけお願いしてもよろしいでしょうか」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最後にひとつだけお願いしてもよろしいでしょうか"
+    },
+    "sourceNote": "日本語版Wikipedia「最後にひとつだけお願いしてもよろしいでしょうか」記事(2026-08-03閲覧)より著者名を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yakiimo-hokuhoku",
+    "name": "やきいもほくほく",
+    "nameKana": "やきいもほくほく",
+    "description": "アルファポリス「レジーナブックス」で活動する作家。冤罪による婚約破棄からの逃亡と名誉回復を描く作品を発表している。",
+    "externalLinks": {
+      "officialUrl": "https://regina.alphapolis.co.jp/book/detail/9984"
+    },
+    "sourceNote": "アルファポリス レジーナブックス公式作品ページ(2026-08-03閲覧)および国立国会図書館サーチで著者名・発売年(2023年9月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sayama-hibiki",
+    "name": "狭山ひびき",
+    "nameKana": "さやまひびき",
+    "description": "小説家になろう発、TOブックス「Celica NOVELS」刊行作家。全てを奪われた少女が隣国で立場を取り戻す物語を執筆。",
+    "externalLinks": {},
+    "sourceNote": "小説家になろう該当作品ページおよび国立国会図書館サーチ(2026-08-03閲覧)で著者名・出版社(TOブックス Celica NOVELS)・発売年(2026年2月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yamayo-mii",
+    "name": "山夜みい",
+    "nameKana": "やまよみい",
+    "description": "冤罪により信用を失った令嬢の名誉回復を描く「冤罪令嬢は信じたい」の原作者。講談社Kラノベブックスfよりラノベ版刊行、コミカライズもされている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)でラノベ版(講談社Kラノベブックスf、2023年12月)およびコミカライズ版の書誌情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mitsuki-beni",
+    "name": "三月べに",
+    "nameKana": "みつきべに",
+    "description": "アルファポリス「Regina BOOKS」の作家。冤罪で婚約破棄を宣告された貴族令嬢が冒険者として自由に生きる姿を描く。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で「婚約破棄された悪役令嬢は自由に生きようかと。」(アルファポリスRegina BOOKS、2026年4月)の著者名・発売年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "enoki-yoru",
+    "name": "榎夜",
+    "nameKana": "えのきよる",
+    "description": "アルファポリス「レジーナブックス」の作家。王太子に婚約破棄された令嬢が意外な再婚相手と幸せを掴む物語を執筆。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者名・出版社(アルファポリス レジーナブックス、2023年8月)を確認。読み仮名は一般的な読みから推定。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hidari-ryuu",
+    "name": "左リュウ",
+    "nameKana": "ひだりリュウ",
+    "description": "KADOKAWA「電撃の新文芸」の作家。婚約破棄された公爵令嬢を引き取った第三王子が本気を出す「悪役王子の英雄譚」を執筆。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で全3巻(2022年2月～2023年5月、電撃の新文芸)の刊行情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "touma-riko",
+    "name": "当麻リコ",
+    "nameKana": "とうまリコ",
+    "description": "オーバーラップ「OVERLAP NOVELS f」の作家。婚約破棄成立後、自由気ままに生きる令嬢を描く全3巻の作品を執筆。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で全3巻(2022年3月～2023年12月、オーバーラップ OVERLAP NOVELS f)の刊行情報を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akizuki-ichika",
+    "name": "秋月一花",
+    "nameKana": "あきづきいちか",
+    "description": "アルファポリス「レジーナブックス」の作家。婚約破棄後にひっそり生きようとする令嬢と公爵令息の恋を描く。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチおよびBOOK☆WALKER試し読みページ(2026-08-03閲覧)で著者名・イラストレーター名(祀花よう子)・レーベル(レジーナブックス、2026年5月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoake-seira",
+    "name": "夜明星良",
+    "nameKana": "よあけせいら",
+    "description": "オーバーラップ「Rosage Novels」の作家。悪女として断罪された令嬢が初恋の王太子と結ばれる物語を執筆。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ(2026-08-03閲覧)で著者名・出版社(オーバーラップ Rosage Novels、2025年5月)を確認。読み仮名は一般的な読みから推定。",
+    "updatedAt": "2026-08-03"
   }
 ]
