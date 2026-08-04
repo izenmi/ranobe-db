@@ -1050,5 +1050,69 @@
     "externalLinks": {},
     "sourceNote": "TYPE-MOON公式サイトの『Fate/Prototype 蒼銀のフラグメンツ』書誌に「発行元:角川書店」と明記されているのを確認(2026年8月時点)。同作単行本はレーベル名を持たない角川書店刊のため本エントリを作成。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "php-bungei-bunko",
+    "name": "PHP文芸文庫",
+    "nameKana": "ピーエイチピーブンゲイブンコ",
+    "parentCompany": "PHP研究所",
+    "description": "PHP研究所が刊行する文芸文庫レーベル。時代小説やミステリに加え、『京都府警あやかし課の事件簿』などキャラクター文芸作品も手がける。",
+    "externalLinks": {},
+    "sourceNote": "PHP研究所公式サイトおよび国立国会図書館サーチで刊行レーベル名を確認(2026年8月時点)。創刊年は未確認のため省略。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kotonoha-bunko",
+    "name": "ことのは文庫",
+    "nameKana": "コトノハブンコ",
+    "parentCompany": "マイクロマガジン社",
+    "description": "マイクロマガジン社が2019年6月に創刊した女性向けライト文芸レーベル。あやかし・お仕事・日常ファンタジーを中心に刊行している。",
+    "foundedYear": 2019,
+    "externalLinks": {},
+    "sourceNote": "ことのは文庫公式サイトおよび文化通信の記事(新レーベル創刊報道)で創刊時期・創刊タイトルを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "haruki-bunko",
+    "name": "ハルキ文庫",
+    "nameKana": "ハルキブンコ",
+    "parentCompany": "角川春樹事務所",
+    "description": "角川春樹事務所が1997年に創刊した文庫レーベル。時代小説・ミステリのほか、日常ミステリ系のライト文芸も刊行する。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハルキ文庫"
+    },
+    "sourceNote": "Wikipedia日本語版「ハルキ文庫」で発行元・創刊年を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "popura-bunko",
+    "name": "ポプラ文庫",
+    "nameKana": "ポプラブンコ",
+    "parentCompany": "ポプラ社",
+    "description": "ポプラ社が刊行する一般向け文庫レーベル。『真夜中のパン屋さん』などキャラクター文芸寄りの作品も多く扱う。姉妹レーベルに若年層向けのポプラ文庫ピュアフルがある。",
+    "externalLinks": {},
+    "sourceNote": "ポプラ社公式サイトおよびBOOK☆WALKERの「ポプラ文庫 日本文学」シリーズ情報で刊行レーベルを確認(2026年8月時点)。創刊年は未確認のため省略。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kodansha-bunko",
+    "name": "講談社文庫",
+    "nameKana": "コウダンシャブンコ",
+    "parentCompany": "講談社",
+    "description": "講談社の一般文庫レーベル。エンターテインメント小説を幅広く扱い、『三軒茶屋星座館』のようなイラスト表紙のキャラクター文芸も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "講談社BOOK倶楽部の『三軒茶屋星座館』書誌でレーベル名を確認(2026年8月時点)。創刊年は未確認のため省略。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gentosha-bunko",
+    "name": "幻冬舎文庫",
+    "nameKana": "ゲントウシャブンコ",
+    "parentCompany": "幻冬舎",
+    "description": "幻冬舎の文庫レーベル。単行本で刊行されたエンターテインメント小説の文庫化を中心に、感動系の恋愛小説も多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "幻冬舎公式サイトおよびhonto等の書誌で『ぼくときみの半径にだけ届く魔法』文庫版のレーベルを確認(2026年8月時点)。創刊年は未確認のため省略。",
+    "updatedAt": "2026-08-04"
   }
 ]

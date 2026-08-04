@@ -31218,5 +31218,537 @@
     },
     "sourceNote": "Wikipedia日本語版「魔女と傭兵」およびGCノベルズ公式で超法規的かえる著・叶世べんちイラスト・GCN文庫(マイクロマガジン社)より2023年5月19日刊行開始、2026年1月時点で既刊8巻を確認(2026年8月時点)。「小説家になろう」にて2021年6月より連載。コミカライズは講談社『マガジンポケット』2024年1月より連載。テレビアニメは2027年に日本テレビ系で放送予定(制作:エイトビット)と発表済みのためanimeはtrue。「次にくるライトノベル大賞」文庫部門で2023年5位・2024年2位。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shimogamo-antique",
+    "title": "下鴨アンティーク",
+    "titleKana": "しもがもあんてぃーく",
+    "authorIds": [
+      "shirakawa-kouko"
+    ],
+    "illustratorIds": [
+      "inoue-nokia"
+    ],
+    "publisherId": "shueisha-orange-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "mystery",
+      "youkai-ayakashi",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "京都・下鴨の古びた洋館に、兄と下宿人の三人で暮らす高校生の野々宮鹿乃。旧華族の家に生まれた彼女は、祖母から受け継いだアンティーク着物を日常的に着こなしている。ある日、開けてはならないと言われていた蔵の扉を開けてしまったことから、いわくつきの着物にまつわる不思議な出来事が次々と起こりはじめる。着物に込められた持ち主の想いを解きほぐしていく、京都を舞台にしたアンティーク・ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「白川紺子」の著作リストで集英社オレンジ文庫より2015年1月20日刊行開始・全8巻(最終巻2018年5月18日)・イラスト井上のきあを確認。あらすじは集英社オレンジ文庫公式の作品紹介を参照し自分の言葉で要約(2026年8月時点)。作品自体の受賞歴・映像化・コミカライズは確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyoto-fukei-ayakashi-ka-no-jikenbo",
+    "title": "京都府警あやかし課の事件簿",
+    "titleKana": "きょうとふけいあやかしかのじけんぼ",
+    "authorIds": [
+      "tengeiji-sayaka"
+    ],
+    "illustratorIds": [
+      "shouichi"
+    ],
+    "publisherId": "php-bungei-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "mystery",
+      "gendai-drama",
+      "shigoto",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "京都府警には、人には見えない怪異が起こす事件を扱う「あやかし課」という秘密の部署が存在する。霊力を持つ新人隊員が先輩たちとともに、神社仏閣が点在する京都の町を駆けまわり、妖や神々が絡む難事件に立ち向かっていく。実在の地名や風習をふんだんに織り込み、京都という土地の空気そのものを主役に据えた、あやかし警察小説シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-hon-taisho",
+        "year": 2019,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/京都府警あやかし課の事件簿"
+    },
+    "sourceNote": "Wikipedia日本語版「京都府警あやかし課の事件簿」でPHP文芸文庫より2018年12月刊行開始・表紙イラストはショウイチ・第7回京都本大賞受賞・KADOKAWA『COMIC BRIDGE』にて栗原一実による漫画版が2021年11月〜2022年8月連載を確認。既刊は第10巻『聖なる護衛と神猫の初恋』(2025年12月)まで(PHP研究所公式・電子書店の書誌で確認)。第7回京都本大賞は既存受賞作の回次から2019年と判断。原型はエブリスタ掲載の「京都しんぶつ幻想記」だが、webNovelSourceの対応プラットフォーム外のため未設定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "izumo-no-ayakashi-hotel-ni-shuushoku-shimasu",
+    "title": "出雲のあやかしホテルに就職します",
+    "titleKana": "いずものあやかしほてるにしゅうしょくします",
+    "authorIds": [
+      "garasumachi-hari"
+    ],
+    "illustratorIds": [],
+    "publisherId": "futabasha-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "shigoto",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 17,
+    "status": "completed",
+    "synopsis": "幼い頃から幽霊やあやかしが見えてしまう女子大生・時町見初は、就職活動で連敗を重ねた末、大学の紹介で出雲にある「幽霊が出る」と噂のホテルの面接に向かう。そこは人間だけでなく神々やあやかしも客として泊まる特別な宿だった。個性豊かな従業員や客たちと関わりながら、見初がホテルの従業員として成長していく、神話の国・出雲を舞台にした和風お仕事ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "双葉文庫の書誌・国立国会図書館サーチで硝子町玻璃著・2016年11月刊行開始を確認。BOOK☆WALKERのシリーズページで第17巻(2025年2月)が「感動の最終巻」と明記されているためcompleted・全17巻とした。コミカライズ(作画:上原誠)を電子書店の書誌で確認。装画担当者は今回の調査では特定できず未設定(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konbini-tasogaredou",
+    "title": "コンビニたそがれ堂",
+    "titleKana": "こんびにたそがれどう",
+    "authorIds": [
+      "murayama-saki"
+    ],
+    "illustratorIds": [
+      "koyori"
+    ],
+    "publisherId": "popura-bunko-purefull",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "kazoku-ikuji",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "ongoing",
+    "synopsis": "風早の街のはずれ、夕暮れどきにだけ姿を現すという不思議なコンビニ「たそがれ堂」。金色の目をした店長は、本当に探しものがある人の前にだけ店を開き、この世のどこにもないはずの品物さえ差し出してくれる。亡くした人への想いや言えなかった言葉を抱えた客たちが、店を訪れることでささやかな救いを得ていく。優しい奇跡を描いた連作短編シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コンビニたそがれ堂"
+    },
+    "sourceNote": "Wikipedia日本語版「コンビニたそがれ堂」(記事は短い)および国立国会図書館サーチで、初刊は2006年9月刊『コンビニたそがれ堂 街かどの魔法の時間』(ポプラ社)、2010年1月にポプラ文庫ピュアフル版が刊行されたことを確認。以後『猫たちの星座』(2019)『花時計』(2020)『異聞 千夜一夜』(2021)『夜想曲』(2024)と続いており継続中と判断。イラストはこより(ポプラ文庫ピュアフル版書誌)。刊行形態が単行本・文庫・セレクションと入り混じるため巻数は特定できず省略。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oishii-veranda",
+    "title": "おいしいベランダ。",
+    "titleKana": "おいしいべらんだ",
+    "authorIds": [
+      "takeoka-hazuki"
+    ],
+    "illustratorIds": [
+      "okazaki-oka"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "gourmet",
+      "romance",
+      "gendai-drama",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "進学を機に一人暮らしを始めた大学生の栗坂まもりは、隣室に住む会社員・亜潟葉二にひそかに憧れていた。ところが彼の正体は、ベランダを鉢植えで埋め尽くして野菜やハーブを育て、それを料理して食べることに情熱を注ぐ筋金入りの園芸男子だった。深夜のベランダごはんをきっかけに縮まっていく二人の距離を、季節ごとの作物と食卓の風景に重ねて描く連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「竹岡葉月」の著作リストで富士見L文庫より2016年5月14日刊行開始・表紙画おかざきおか・既刊12巻(本編10巻+番外編2巻)を確認。富士見L文庫公式の特設ページで本編10巻完結を確認したためcompleted。コミカライズはおかざきおか作画でB's-LOG COMICSより全2巻(2018年連載開始)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sangenjaya-seizakan",
+    "title": "三軒茶屋星座館",
+    "titleKana": "さんげんぢゃやせいざかん",
+    "authorIds": [
+      "shibasaki-ryuto"
+    ],
+    "illustratorIds": [
+      "torocchi"
+    ],
+    "publisherId": "kodansha-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "kazoku-ikuji",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "東京・三軒茶屋の路地裏にたたずむ小さなプラネタリウム「星座館」。店主の一馬のもとに、十年ぶりに弟の颯馬が小学生の娘を連れて帰ってくる。星座の解説にかこつけて語られるギリシャ神話の現代的な読み替えが、来館者や不器用な家族の心をゆっくりとほどいていく。星と神話をモチーフに、他人同士が家族になっていく過程を描いた連作シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三軒茶屋星座館"
+    },
+    "sourceNote": "Wikipedia日本語版「三軒茶屋星座館」で著者・表紙イラストとろっち・2013年からの講談社刊行を確認。国立国会図書館サーチで『冬のオリオン』『夏のキグナス』(2014.8)『春のカリスト』(2016.3)『秋のアンドロメダ』(2016.10)の全4巻、講談社文庫での刊行を確認。第1巻は文教堂・TSUTAYAの文芸ランキングで首位を記録したとWikipediaにあるが、順位が明記された賞・アワードではないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kinyoubi-no-honyasan",
+    "title": "金曜日の本屋さん",
+    "titleKana": "きんようびのほんやさん",
+    "authorIds": [
+      "natori-sawako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "haruki-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "mystery",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "「金曜日には、探していた本が見つかる」という噂を聞き、主人公は北関東の小さな駅ナカ書店「金曜堂」を訪ねる。明るい女性店長、寡黙で長身の店員、若い青年という三人が切り盛りするその店には喫茶スペースも併設され、訪れる客はそれぞれ人には言えない事情を抱えていた。本にまつわる小さな謎とその答えを通じて、人と町のつながりを描く日常ミステリ連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで角川春樹事務所(ハルキ文庫)より2016年8月刊行を確認。続刊『夏とサイダー』『秋とポタージュ』『冬のバニラアイス』の全4巻で完結していることを書店・電子書店の書誌で確認(2026年8月時点)。装画担当者は特定できず未設定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koukyuu-no-kenshi-jokan",
+    "title": "後宮の検屍女官",
+    "titleKana": "こうきゅうのけんしじょかん",
+    "authorIds": [
+      "ono-haruka"
+    ],
+    "illustratorIds": [
+      "natsume-lemon"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "koukyuu",
+      "chuuka-fantasy",
+      "mystery",
+      "iryou",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "大光帝国の後宮で、謀殺されたと噂される妃嬪の棺から赤子の遺体が見つかる。皇后の命を受けて調査に乗り出した美貌の宦官・延明が目をつけたのは、居眠りばかりしているが検屍術の心得を持つ侍女・桃花だった。死者の身体が語る証言を読み解き、罪なき者を救っていく二人。中華風の後宮を舞台に、検屍という異色の切り口で謎を解く後宮ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-bunko-character-shousetsu-taisho",
+        "year": 2020,
+        "result": "大賞・読者賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式(カドブン)で第6回角川文庫キャラクター小説大賞の大賞・読者賞ダブル受賞(結果発表2020年10月14日、応募時タイトル『後宮の検屍妃』)、角川文庫より2021年4月23日刊行開始を確認。第7巻(2024年12月24日)まで刊行、イラストは夏目レモン。コミカライズは『月刊コミックジーン』2022年3月号より連載。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "wagaya-wa-kakuriyo-no-kashihonya-san",
+    "title": "わが家は幽世の貸本屋さん",
+    "titleKana": "わがやはかくりよのかしほんやさん",
+    "authorIds": [
+      "shinobumaru"
+    ],
+    "illustratorIds": [
+      "munamuji"
+    ],
+    "publisherId": "kotonoha-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "toshokan-shisho",
+      "kazoku-ikuji",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "幼い頃に現世から幽世へ迷い込んだ夏織は、貸本屋を営むあやかし・東雲に拾われ、人ならざる者たちに囲まれて育った。あやかしの客に本を貸し出す日々を送るなか、力を失った祓い屋の少年・水明と出会い、二人の距離は少しずつ縮まっていく。血のつながらない家族とのあたたかな暮らしと、本が結ぶ縁を描いた和風あやかしファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "マイクロマガジン社・ことのは文庫公式および国立国会図書館サーチで2019年6月刊行(ことのは文庫の創刊タイトル)・装画六七質を確認。シリーズは第6巻『無二の親子と永遠の約束』で完結(電子書店の書誌で確認)。コミカライズは目玉焼き作画でコミックライドにて連載(2020年11月単行本)。原型はエブリスタ掲載作だがwebNovelSourceの対応プラットフォーム外のため未設定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mayonaka-no-panyasan",
+    "title": "真夜中のパン屋さん",
+    "titleKana": "まよなかのぱんやさん",
+    "authorIds": [
+      "onuma-noriko"
+    ],
+    "illustratorIds": [
+      "yamanaka-hiko"
+    ],
+    "publisherId": "popura-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "gourmet",
+      "kazoku-ikuji",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "営業時間が午後11時から午前5時までという風変わりなパン屋「ブランジェリークレバヤシ」。行き場をなくした女子高生が転がり込んだその店には、無愛想な店主や訳ありの職人など、それぞれに事情を抱えた面々が集まっていた。焼きたてのパンの匂いに包まれながら、他人同士が少しずつ寄り添って擬似家族になっていく。軽やかな筆致で重い題材を描くキャラクター小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真夜中のパン屋さん"
+    },
+    "sourceNote": "Wikipedia日本語版「真夜中のパン屋さん」およびポプラ社公式で、ポプラ文庫より2011年5月『午前0時のレシピ』刊行開始・2017年6月『午前5時の朝告鳥』で全6巻完結・イラスト山中ヒコを確認。2013年4月にNHK BSプレミアムでテレビドラマ化されているが実写ドラマのためmediaMix.animeはfalse。児童書レーベルのポプラキミノベル版(イラスト:木屋町)でも復刊されている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kimi-o-aishita-hitori-no-boku-e",
+    "title": "君を愛したひとりの僕へ",
+    "titleKana": "きみをあいしたひとりのぼくへ",
+    "authorIds": [
+      "otono-yomoji"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "heikou-sekai",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "並行世界の存在が科学的に実証された世界。両親の離婚により父に引き取られた日高暦は、父の勤める虚質科学研究所の託児施設で佐藤栞と出会い、境遇の似た二人はいつしか離れられない存在になる。ところが親同士の再婚話が持ち上がったことで、二人の関係は決定的に引き裂かれてしまう。世界線を渡る技術を軸に、少年の生涯をかけた選択と喪失を描くSF恋愛小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕が愛したすべての君へ/君を愛したひとりの僕へ"
+    },
+    "sourceNote": "Wikipedia日本語版「僕が愛したすべての君へ/君を愛したひとりの僕へ」でハヤカワ文庫JAより2016年6月23日に『僕愛』と同時刊行、2022年10月7日に劇場アニメが2作同時公開されたことを確認。スピンオフ『僕が君の名前を呼ぶから』(2022年8月)は別作品として本エントリの巻数には含めない。装画担当者・コミカライズの有無は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "boku-ga-aishita-subete-no-kimi-e",
+    "title": "僕が愛したすべての君へ",
+    "titleKana": "ぼくがあいしたすべてのきみへ",
+    "authorIds": [
+      "otono-yomoji"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "sf",
+      "heikou-sekai",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "両親の離婚で母に引き取られた高崎暦は、祖父母の家で穏やかに育ち高校生になる。ある日クラスメイトの瀧川和音から、自分は別の並行世界から来たのだと打ち明けられる。並行世界間の移動を扱う虚質科学が実用化されつつある世界で、暦は和音とともに歩む人生を選び取っていく。同時刊行の『君を愛したひとりの僕へ』と対をなし、同じ人物たちの異なる世界線での生涯を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕が愛したすべての君へ/君を愛したひとりの僕へ"
+    },
+    "sourceNote": "Wikipedia日本語版「僕が愛したすべての君へ/君を愛したひとりの僕へ」でハヤカワ文庫JAより2016年6月23日に『君愛』と同時刊行、2022年10月7日に劇場アニメが2作同時公開されたことを確認。舞台は著者の出身地である大分市。装画担当者・コミカライズの有無は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koi-suru-kiseichuu",
+    "title": "恋する寄生虫",
+    "titleKana": "こいするきせいちゅう",
+    "authorIds": [
+      "miaki-sugaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "iryou",
+      "sf"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "極度の潔癖症のせいで職も人間関係も失い、孤独に日々をやり過ごしている青年。彼が出会ったのは、他人の視線に耐えられず不登校になっている女子高生だった。互いの欠落を埋めるように近づいていく二人だったが、その症状の裏には人の脳に寄生し宿主の行動を操る虫の存在があった。恋という感情の正体を問い直す、痛々しくも切実なボーイ・ミーツ・ガール。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋する寄生虫"
+    },
+    "sourceNote": "Wikipedia日本語版「恋する寄生虫」でメディアワークス文庫より2016年9月24日刊行・単巻完結・2021年に実写映画公開を確認。実写映画のためmediaMix.animeはfalse。装画担当者は特定できず未設定(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "boku-to-kimi-no-hankei-ni-dake-todoku-mahou",
+    "title": "ぼくときみの半径にだけ届く魔法",
+    "titleKana": "ぼくときみのはんけいにだけとどくまほう",
+    "authorIds": [
+      "nanatsuki-takafumi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gentosha-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "売れないカメラマンの青年は、ある日ふと窓辺に立つ美しい少女を撮影する。彼女は難病のため外へ出ることができず、白い病室の壁に風景写真を映して外の世界を想像する日々を送っていた。「外の写真を撮ってきてほしい」という依頼を受けた青年は、彼女のために各地の景色を届けはじめる。写真を介して結ばれた二人が、その先に待つ現実とどう向き合うのかを描く恋愛小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくときみの半径にだけ届く魔法"
+    },
+    "sourceNote": "Wikipedia日本語版「ぼくときみの半径にだけ届く魔法」で2018年に幻冬舎より刊行(著者初の単行本)、後に幻冬舎文庫化されたことをhonto等の書誌で確認。単巻完結。装画担当者・映像化の有無は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kimi-wa-yuki-o-miru-koto-ga-dekinai",
+    "title": "きみは雪をみることができない",
+    "titleKana": "きみはゆきをみることができない",
+    "authorIds": [
+      "ningen-rokudo"
+    ],
+    "illustratorIds": [
+      "mega-illust"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "romance",
+      "terminal-illness",
+      "gendai-drama",
+      "sf"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "文学部の一年生である主人公は、美術学部の少女に強く惹かれていく。しかし彼女は「冬眠病」という原因不明の病を抱えており、冬が来るたび長い眠りに落ちて姿を消してしまう。雪を見ることのできない恋人と、限られた季節しか共に過ごせない青年。失われる時間を前提にした関係のなかで、二人が何を選び取るのかを描く新世代の難病恋愛小説。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2021,
+        "result": "第28回 メディアワークス文庫賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「人間六度」で、オスタハーゲンの鍵名義の投稿作「きみは雪を見ることができない」が2021年10月に第28回電撃小説大賞メディアワークス文庫賞を受賞し、2022年2月にメディアワークス文庫より刊行されたことを確認。KADOKAWA公式書誌で装画がめがイラストであることを確認。単巻完結。同著者は別作品『スター・シェイカー』で第9回ハヤカワSFコンテスト大賞、『烙印の名はヒト』で第57回星雲賞日本長編部門を受賞しているが、本作の受賞ではないためawardResultsには含めない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jikyuu-sanbyakuen-no-shinigami",
+    "title": "時給三〇〇円の死神",
+    "titleKana": "じきゅうさんびゃくえんのしにがみ",
+    "authorIds": [
+      "fuji-maru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "futabasha-bunko",
+    "themeIds": [
+      "gakuen",
+      "gendai-drama",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "高校生の佐倉真司は、クラスメイトの花森雪希から「死神」のアルバイトを持ちかけられる。仕事の内容は、この世に未練を残して成仏できない霊の願いを叶えて送り出すこと。報酬は時給三〇〇円という安さだが、半年間やり遂げればどんな願いも一つ叶うという。奇妙な仕事を通じて死者の心残りと向き合ううち、真司は雪希自身が抱える秘密に近づいていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時給三〇〇円の死神"
+    },
+    "sourceNote": "Wikipedia日本語版「時給三〇〇円の死神」および国立国会図書館サーチで、双葉文庫より2017年12月14日刊行・単巻完結を確認。2026年に実写映画版が公開予定とされているためmediaMix.animeはfalse。装画担当者は特定できず未設定(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kinkakoku-shunjuu",
+    "title": "金椛国春秋",
+    "titleKana": "きんかこくしゅんじゅう",
+    "authorIds": [
+      "shinohara-yuki"
+    ],
+    "illustratorIds": [
+      "tanji-yoko"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "mystery",
+      "romance",
+      "danso-josou"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "金椛帝国の名門・星家の御曹司である遊圭は、叔母が皇后に選ばれたことで「皇帝に外戚なし」の法により一族もろとも殉死を命じられる。乳母の手引きでただ一人逃げ延びた彼は、小柄で少女にも見える体つきを利用し、女装して後宮の女官として潜り込む。正体を疑う美貌の宦官の目を逃れながら、知恵だけを武器に生き延びていく中華風宮廷ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「篠原悠希」の著作リストで、角川文庫より2016年12月『後宮に星は宿る 金椛国春秋』刊行開始、本編10巻+外伝2巻(『月下氷人』2021年9月、『白雲去来』2022年8月)の全12冊を確認。KADOKAWA公式の12冊合本版の存在からもシリーズ完結を確認。カバーイラストは丹地陽子(本人のX投稿および角川文庫書誌)。コミカライズは『後宮に星は宿る ～金椛国春秋～』(作画:hagi、コミックウォーカー)。著者は別作品「天涯の果て 波濤の彼方をゆく翼」で第4回野性時代フロンティア文学賞を受賞しているが本作の受賞ではないためawardResultsには含めない。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -7323,5 +7323,134 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「Fate/Prototype」およびTYPE-MOON公式サイトの書誌情報で確認(2026年8月時点)。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tengeiji-sayaka",
+    "name": "天花寺さやか",
+    "nameKana": "てんげいじさやか",
+    "description": "京都生まれ京都育ちの小説家・エッセイスト。小説投稿サイト「エブリスタ」への投稿がきっかけでデビューし、京都を舞台にしたあやかし小説を得意とする。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天花寺さやか"
+    },
+    "sourceNote": "Wikipedia日本語版「天花寺さやか」で経歴・著作リストを確認(2026年8月時点)。生年は非公表。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "murayama-saki",
+    "name": "村山早紀",
+    "nameKana": "むらやまさき",
+    "description": "1963年生まれ、長崎県出身の児童文学作家。『シェーラひめのぼうけん』などの児童書に加え、架空の街「風早」を舞台にした一般向けファンタジーでも人気を集める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/村山早紀"
+    },
+    "sourceNote": "Wikipedia日本語版「村山早紀」で生年・受賞歴・著作リストを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takeoka-hazuki",
+    "name": "竹岡葉月",
+    "nameKana": "たけおかはづき",
+    "description": "1979年生まれ、東京都出身の小説家。コバルト文庫でデビューし、ライトノベルからライト文芸まで幅広く執筆する。イラストレーター竹岡美穂の妹。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹岡葉月"
+    },
+    "sourceNote": "Wikipedia日本語版「竹岡葉月」で生年月日・デビュー経緯・著作リストを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "otono-yomoji",
+    "name": "乙野四方字",
+    "nameKana": "おとのよもじ",
+    "description": "1981年生まれ、大分県出身の小説家。第18回電撃小説大賞選考委員奨励賞を受賞した『ミニッツ』でデビューし、その後SF恋愛小説でも高い評価を得た。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙野四方字"
+    },
+    "sourceNote": "Wikipedia日本語版「乙野四方字」で経歴・著作リストを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ningen-rokudo",
+    "name": "人間六度",
+    "nameKana": "にんげんろくど",
+    "description": "1995年生まれ、愛知県名古屋市出身の小説家。第9回ハヤカワSFコンテスト大賞と第28回電撃小説大賞メディアワークス文庫賞をほぼ同時期に受賞した。日本SF作家クラブ会員。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人間六度"
+    },
+    "sourceNote": "Wikipedia日本語版「人間六度」で生年月日・受賞歴・著作リストを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinohara-yuki",
+    "name": "篠原悠希",
+    "nameKana": "しのはらゆうき",
+    "description": "1966年生まれ、島根県松江市出身のファンタジー作家。ニュージーランド在住。第4回野性時代フロンティア文学賞を受賞し『天涯の楽土』でデビュー、中華風ファンタジーを多く手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/篠原悠希"
+    },
+    "sourceNote": "Wikipedia日本語版「篠原悠希」で生年・経歴・著作リストを確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shibasaki-ryuto",
+    "name": "柴崎竜人",
+    "nameKana": "しばさきりゅうと",
+    "description": "日本の小説家。東京・三軒茶屋のプラネタリウムを舞台にした連作『三軒茶屋星座館』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「三軒茶屋星座館」および講談社BOOK倶楽部の書誌で著者名を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "natori-sawako",
+    "name": "名取佐和子",
+    "nameKana": "なとりさわこ",
+    "description": "日本の小説家。駅ナカ書店を舞台にした『金曜日の本屋さん』シリーズなど、人情味のある日常ミステリを手がける。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチおよびハルキ文庫の書誌で著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "garasumachi-hari",
+    "name": "硝子町玻璃",
+    "nameKana": "がらすまちはり",
+    "description": "日本の小説家。出雲を舞台にしたあやかしホテルの長期シリーズで知られる、和風ファンタジー系ライト文芸の書き手。",
+    "externalLinks": {},
+    "sourceNote": "双葉文庫の書誌・BOOK☆WALKERのシリーズページで著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinobumaru",
+    "name": "忍丸",
+    "nameKana": "しのぶまる",
+    "description": "日本の小説家。ことのは文庫の創刊タイトル『わが家は幽世の貸本屋さん』でデビューし、和風あやかしファンタジーを執筆している。",
+    "externalLinks": {},
+    "sourceNote": "マイクロマガジン社・ことのは文庫公式および国立国会図書館サーチで著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ono-haruka",
+    "name": "小野はるか",
+    "nameKana": "おのはるか",
+    "description": "日本の小説家。第6回角川文庫キャラクター小説大賞で大賞と読者賞をダブル受賞した『後宮の検屍女官』でデビューした。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式(カドブン)の第6回角川文庫キャラクター小説大賞結果発表ページで受賞・デビュー経緯を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "onuma-noriko",
+    "name": "大沼紀子",
+    "nameKana": "おおぬまのりこ",
+    "description": "日本の小説家・脚本家。深夜営業のパン屋を舞台にしたシリーズ『真夜中のパン屋さん』がベストセラーとなった。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「真夜中のパン屋さん」およびポプラ社公式で著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fuji-maru",
+    "name": "藤まる",
+    "nameKana": "ふじまる",
+    "description": "日本の小説家。双葉文庫の青春ファンタジー『時給三〇〇円の死神』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「時給三〇〇円の死神」および国立国会図書館サーチで著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

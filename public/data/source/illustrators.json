@@ -5993,5 +5993,97 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「七都市物語」の挿絵担当表記で確認(2026年8月時点)。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inoue-nokia",
+    "name": "井上のきあ",
+    "nameKana": "いのうえのきあ",
+    "description": "イラストレーター・デザイナー。『下鴨アンティーク』シリーズの表紙イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「白川紺子」の著作リストおよび集英社オレンジ文庫公式で担当作を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shouichi",
+    "name": "ショウイチ",
+    "nameKana": "しょういち",
+    "description": "イラストレーター。『京都府警あやかし課の事件簿』シリーズの表紙イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「京都府警あやかし課の事件簿」で表紙イラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "okazaki-oka",
+    "name": "おかざきおか",
+    "nameKana": "おかざきおか",
+    "description": "イラストレーター・漫画家。『おいしいベランダ。』シリーズの表紙画を担当し、同作のコミカライズも手がけた。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「竹岡葉月」の著作リストおよび富士見L文庫公式で担当作を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koyori",
+    "name": "こより",
+    "nameKana": "こより",
+    "description": "1983年生まれのイラストレーター。『コンビニたそがれ堂』シリーズの表紙イラストで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/こより_(イラストレーター)"
+    },
+    "sourceNote": "Wikipedia日本語版「こより (イラストレーター)」およびポプラ文庫ピュアフルの書誌で担当作を確認(2026年8月時点)。既存の「日柳こより」とは別人。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamanaka-hiko",
+    "name": "山中ヒコ",
+    "nameKana": "やまなかひこ",
+    "description": "漫画家・イラストレーター。『真夜中のパン屋さん』シリーズの表紙イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「真夜中のパン屋さん」およびポプラ社公式で担当作を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "munamuji",
+    "name": "六七質",
+    "nameKana": "むなむじ",
+    "description": "イラストレーター。『わが家は幽世の貸本屋さん』シリーズの装画・キャラクター原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "マイクロマガジン社・ことのは文庫公式の書誌で担当作を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "natsume-lemon",
+    "name": "夏目レモン",
+    "nameKana": "なつめれもん",
+    "description": "イラストレーター。角川文庫キャラクター文芸『後宮の検屍女官』シリーズの装画を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式の『後宮の検屍女官』各巻書誌でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tanji-yoko",
+    "name": "丹地陽子",
+    "nameKana": "たんじようこ",
+    "description": "装画・挿絵を数多く手がけるイラストレーター。『金椛国春秋』シリーズのカバーイラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "本人のX(旧Twitter)投稿および角川文庫の書誌でカバーイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "torocchi",
+    "name": "とろっち",
+    "nameKana": "とろっち",
+    "description": "イラストレーター。『三軒茶屋星座館』シリーズの表紙イラストを担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「三軒茶屋星座館」で表紙イラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mega-illust",
+    "name": "めがイラスト",
+    "nameKana": "めがいらすと",
+    "description": "イラストレーター。メディアワークス文庫『きみは雪をみることができない』の装画を担当。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式のメディアワークス文庫『きみは雪をみることができない』書誌で装画担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
   }
 ]
