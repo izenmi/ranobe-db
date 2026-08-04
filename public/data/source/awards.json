@@ -422,5 +422,27 @@
     "externalLinks": {},
     "sourceNote": "「孤児院テイマー」の受賞歴に関するDuckDuckGo検索結果(HJノベルス公式情報)で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kyoto-hon-taisho",
+    "name": "京都本大賞",
+    "nameKana": "キョウトボンタイショウ",
+    "description": "京都を舞台にした小説を対象に、書店員と一般読者の投票で年間1作を選ぶ文学賞。ライト文芸作品の受賞例も多い。",
+    "organizer": "京都本大賞実行委員会",
+    "foundedYear": 2013,
+    "externalLinks": {},
+    "sourceNote": "賞の紹介サイトおよびWikipedia日本語版の各受賞作記事で主催・選考方法・歴代受賞作を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "everystar-denshi-shoseki-taisho",
+    "name": "E★エブリスタ電子書籍大賞",
+    "nameKana": "イーエブリスタデンシショセキタイショウ",
+    "description": "投稿サイト「E★エブリスタ」に投稿された作品を対象とした賞。部門別に選考され、受賞作は書籍化された。",
+    "organizer": "エブリスタ・角川書店",
+    "foundedYear": 2012,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「櫻子さんの足下には死体が埋まっている」「太田紫織」の記述で受賞事実を確認(2026年8月時点)。開催回数など詳細は未確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

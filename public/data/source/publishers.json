@@ -985,5 +985,15 @@
     },
     "sourceNote": "日本語版Wikipediaでレーベルの創刊年・運営会社・特色を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "futabasha-bunko",
+    "name": "双葉文庫",
+    "nameKana": "フタバブンコ",
+    "parentCompany": "双葉社",
+    "description": "双葉社の文庫レーベル。時代小説やミステリに加え、『京都寺町三条のホームズ』などキャラクター文芸作品も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "双葉社公式サイト・Wikipedia日本語版「京都寺町三条のホームズ」で刊行レーベルを確認(2026年8月時点)。創刊年は未確認のため省略。",
+    "updatedAt": "2026-08-04"
   }
 ]

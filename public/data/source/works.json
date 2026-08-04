@@ -27299,5 +27299,638 @@
     "externalLinks": {},
     "sourceNote": "DuckDuckGo検索結果(HJノベルス公式・コミカライズ告知情報)で確認。なろう原作、HJネット小説大賞2018受賞作としてHJノベルスより書籍化(2019年5月24日)。コミカライズ版(作画:倉崎もろこ)は2025年3月時点既刊6巻。小説版の既刊巻数は複数巻確認できたが正確な最新巻数は特定できずvolumeCountは未記載とした。日本語版Wikipediaの該当記事は未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "talleyrand-no-jikenbo",
+    "title": "珈琲店タレーランの事件簿",
+    "titleKana": "こーひーてんたれーらんのじけんぼ",
+    "authorIds": [
+      "okazaki-takuma"
+    ],
+    "illustratorIds": [
+      "shirakaba"
+    ],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "gourmet",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "理想の一杯を求めて京都をさまよう青年が、路地裏の喫茶店「タレーラン」にたどり着く。そこで淹れられた珈琲に心を奪われた彼は、店に立つ美しいバリスタと知り合う。彼女は日常のささやかな違和感から人の隠しごとを言い当ててしまう鋭い観察眼の持ち主で、青年は彼女が関わる事件に次々と巻き込まれていく。珈琲と京都の街並みを背景に、やがてバリスタ自身が抱える過去にも光が当たっていく連作ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-hon-taisho",
+        "year": 2013,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/珈琲店タレーランの事件簿"
+    },
+    "sourceNote": "Wikipedia日本語版「珈琲店タレーランの事件簿」およびBOOK☆WALKERのシリーズ一覧を参照し独自に要約(2026年8月時点)。第10回『このミステリーがすごい!』大賞では受賞ではなく「隠し玉」としての刊行のため賞には計上していない。第1回京都本大賞は第1作『また会えたなら、あなたの淹れた珈琲を』が受賞。コミカライズは2015年より複数シリーズ。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyoto-teramachi-sanjo-no-holmes",
+    "title": "京都寺町三条のホームズ",
+    "titleKana": "きょうとてらまちさんじょうのほーむず",
+    "authorIds": [
+      "mochizuki-mai"
+    ],
+    "illustratorIds": [
+      "yamauchi-shizu"
+    ],
+    "publisherId": "futabasha-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 23,
+    "status": "ongoing",
+    "synopsis": "埼玉から京都へ引っ越してきた高校生の真城葵は、寺町三条商店街の骨董品店「蔵」でアルバイトを始める。そこで出会ったのは、鋭い観察眼から「ホームズ」と呼ばれる若き古美術鑑定士・家頭清貴だった。贋作や因縁のある品にまつわる謎、持ち込まれる依頼人の事情を、二人は古美術の知識をたよりに解きほぐしていく。京都の名所や文化が丁寧に描かれ、葵と清貴の距離が少しずつ縮まる様子も物語の柱となる。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-hon-taisho",
+        "year": 2016,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/京都寺町三条のホームズ"
+    },
+    "sourceNote": "Wikipedia日本語版「京都寺町三条のホームズ」を参照し独自に要約(2026年8月時点)。投稿サイト「エブリスタ」発だが、対応プラットフォーム値がないためwebNovelSourceは省略。2018年7〜9月TVアニメ化、月刊アクションでコミカライズ。双葉社ジュニア文庫版もあり。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "boku-wa-ashita-kinou-no-kimi-to-date-suru",
+    "title": "ぼくは明日、昨日のきみとデートする",
+    "titleKana": "ぼくはあしたきのうのきみとでーとする",
+    "authorIds": [
+      "nanatsuki-takafumi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "romance",
+      "time-travel",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "京都の電車で一目惚れした美術学生の南山高寿と、福寿愛美の恋は、四十日という限られた時間の中で進んでいく。二人は幸せな日々を重ねるが、愛美は初めての体験のたびになぜか涙をこぼす。やがて高寿は、彼女が自分の知らないはずのことを知っていると気づき、その理由を探るうちに二人の時間の流れが決定的に食い違っていることを知る。切ない仕掛けを軸にした恋愛小説。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-hon-taisho",
+        "year": 2015,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくは明日、昨日のきみとデートする"
+    },
+    "sourceNote": "Wikipedia日本語版「ぼくは明日、昨日のきみとデートする」を参照し独自に要約(2026年8月時点)。単巻作品。2016年実写映画化、2015年よりコミカライズ、2018年朗読劇。カバーイラストの担当者は未確認のためillustratorIdsは空。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ameku-takao-no-suiri-karte",
+    "title": "天久鷹央の推理カルテ",
+    "titleKana": "あめくたかおのすいりかるて",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "illustratorIds": [
+      "itou-noiji"
+    ],
+    "publisherId": "shinchosha-bunko-nex",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "iryou",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 21,
+    "status": "ongoing",
+    "synopsis": "天医会総合病院の統括診断部を率いる天久鷹央は、圧倒的な記憶力と診断能力を持つ一方、対人関係は不器用な若き女医。彼女のもとには「原因不明」「怪異のせい」とされた症例や不可解な事件が持ち込まれる。振り回されながらも支える内科医・小鳥遊優とともに、鷹央は医学知識と論理でその裏に隠された真相を暴いていく。医療とミステリを組み合わせた連作シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天久鷹央の推理カルテ"
+    },
+    "sourceNote": "Wikipedia日本語版「天久鷹央の推理カルテ」を参照し独自に要約(2026年8月時点)。巻数はシリーズ全体(2026年4月時点で21巻)。後年は実業之日本社文庫でも刊行されているが初出レーベルの新潮文庫nexを採用。2025年にTVアニメ化・実写ドラマ化、複数社でコミカライズ。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sakurako-san-no-ashimoto-niwa-shitai-ga-umatteiru",
+    "title": "櫻子さんの足下には死体が埋まっている",
+    "titleKana": "さくらこさんのあしもとにはしたいがうまっている",
+    "authorIds": [
+      "ota-shiori"
+    ],
+    "illustratorIds": [
+      "tetsuo"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "horror",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 18,
+    "status": "completed",
+    "synopsis": "北海道旭川に暮らす標本士・九条櫻子は、名家の令嬢でありながら骨に異常なまでの情熱を注ぐ変人だった。彼女に振り回される高校生・館脇正太郎は、散策や骨の採集に付き合わされるたび、なぜか人の死に出くわしてしまう。櫻子は遺された骨や現場の痕跡から死者が語らなかった事実を読み取り、事件の真相へ迫る。やがて二人の前には、死を導く「花房」の影が繰り返し現れるようになる。",
+    "awardResults": [
+      {
+        "awardId": "everystar-denshi-shoseki-taisho",
+        "year": 2012,
+        "result": "ミステリー部門 優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/櫻子さんの足下には死体が埋まっている"
+    },
+    "sourceNote": "Wikipedia日本語版「櫻子さんの足下には死体が埋まっている」を参照し独自に要約(2026年8月時点)。巻数は本編17巻+スピンオフ1巻の計18冊。E★エブリスタ発だが対応プラットフォーム値がないためwebNovelSourceは省略。2015年TVアニメ化、2017年実写ドラマ化、2015〜2017年コミカライズ。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "junkyouju-takatsuki-akira-no-suisatsu",
+    "title": "准教授・高槻彰良の推察",
+    "titleKana": "じゅんきょうじゅたかつきあきらのすいさつ",
+    "authorIds": [
+      "sawamura-mikage"
+    ],
+    "illustratorIds": [
+      "suzuki-jiro"
+    ],
+    "publisherId": "kadokawa-bunko",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "tantei",
+      "horror"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 12,
+    "status": "ongoing",
+    "synopsis": "幼い頃に「青い提灯の祭り」という異界めいた場所へ迷い込み、その代償として人の嘘が耳障りな音として聞こえるようになった大学生・深町尚哉。彼は民俗学を専門とする准教授・高槻彰良のゼミに関わったことから、怪異にまつわる相談事の調査に同行するようになる。怪異を心から愛する高槻は、収集した伝承と論理で「不思議」の正体を解き明かしていくが、その裏には彼自身の過去も横たわっていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/准教授・高槻彰良の推察"
+    },
+    "sourceNote": "Wikipedia日本語版「准教授・高槻彰良の推察」を参照し独自に要約(2026年8月時点)。巻数は本編10巻+番外編2巻(2024年8月時点)。実写ドラマ化・コミカライズあり。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "asakusa-oniyome-nikki",
+    "title": "浅草鬼嫁日記",
+    "titleKana": "あさくさおによめにっき",
+    "authorIds": [
+      "yuma-midori"
+    ],
+    "illustratorIds": [
+      "ayatoki"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 11,
+    "status": "completed",
+    "synopsis": "浅草の下町とその食べ物をこよなく愛する女子高生・茨木真紀には、かつて最強の鬼「茨木童子」として生きた前世の記憶がある。同じく前世で夫だった酒呑童子の生まれ変わりの少年とともに、彼女は人と妖の境目にある現代の浅草であやかしたちの揉め事に手を貸していく。かつての因縁や敵対していた存在との再会が現世の日常に影を落とし、二人の過去が少しずつ明かされていく和風あやかし物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/浅草鬼嫁日記"
+    },
+    "sourceNote": "Wikipedia日本語版「浅草鬼嫁日記」を参照し独自に要約(2026年8月時点)。全11巻・2022年11月完結。コミカライズあり。TVアニメ化は確認できず(プロモーション用ショートムービーのみ)のためanimeはfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sugar-apple-fairy-tale",
+    "title": "シュガーアップル・フェアリーテイル",
+    "titleKana": "しゅがーあっぷるふぇありーている",
+    "authorIds": [
+      "mikawa-miri"
+    ],
+    "illustratorIds": [
+      "aki"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 20,
+    "status": "completed",
+    "synopsis": "砂糖菓子が特別な意味を持つハイランド王国で、少女アンは亡き母と同じ「銀砂糖師」の称号を得ることを目指し、王都を目指す旅に出る。護衛として買い取ったのは、翅を奪われた戦士妖精シャル。人間が妖精を所有物として扱うこの国で、二人の関係は反発から少しずつ変わっていく。砂糖菓子作りの技と誇り、妖精と人間のあいだにある不均衡を見つめながら、アンは自分の作るべきものを探していく。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-beans-taisho",
+        "year": 2010,
+        "result": "第7回 審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シュガーアップル・フェアリーテイル"
+    },
+    "sourceNote": "Wikipedia日本語版「シュガーアップル・フェアリーテイル」およびKADOKAWA公式書誌を参照し独自に要約(2026年8月時点)。第1巻『銀砂糖師と黒の妖精』は2010年3月31日刊。巻数は本編18巻+短編集2巻。2023年TVアニメ化(全24話)、コミカライズ複数。受賞年は書籍化年に合わせた記載で、選考発表年は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "okobore-hime-to-entaku-no-kishi",
+    "title": "おこぼれ姫と円卓の騎士",
+    "titleKana": "おこぼれひめとえんたくのきし",
+    "authorIds": [
+      "ishida-rinne"
+    ],
+    "illustratorIds": [
+      "okie-kazuko"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "nation-building",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 18,
+    "status": "completed",
+    "synopsis": "ソレイユ王国の第一王女レティーツィアは、優秀な兄たちが次々と王位争いから脱落した結果、「おこぼれ」のように王太女の座を手にしてしまう。後ろ盾も実績もない彼女は、名うての騎士や癖のある人材を自ら口説き落として「円卓の騎士」を組織し、政敵や周辺国の思惑と渡り合っていく。人を見る目と交渉術を武器に、少女が王としての器を築き上げていく王宮ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "enterbrain-entame-taisho",
+        "year": 2011,
+        "result": "第13回 ガールズノベル部門 佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・BOOK☆WALKERシリーズ一覧・Web検索を参照し独自に要約(2026年8月時点)。第1巻2012年5月刊、第17巻(最終巻)2017年7月刊、9.5巻を含め計18冊。受賞は第13回エンターブレインえんため大賞ガールズノベル部門佳作(2011年)。メディアミックスは確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "seijo-no-maryoku-wa-bannou-desu",
+    "title": "聖女の魔力は万能です",
+    "titleKana": "せいじょのまりょくはばんのうです",
+    "authorIds": [
+      "tachibana-yuka"
+    ],
+    "illustratorIds": [
+      "shuri-yasuyuki"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "mahou",
+      "romance",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "残業帰りの会社員・小鳥遊聖は、異世界の「聖女召喚の儀」に巻き込まれて異世界へ飛ばされる。しかし王子が聖女と認めたのは同時に召喚されたもう一人の少女で、聖は放置されてしまう。行き場のない彼女は薬用植物研究所で働き始めるが、作るポーションは規格外の効果を発揮し、やがて桁違いの魔力の持ち主であることが明らかになっていく。研究と実務を積み重ねながら、聖は自分の居場所と人との縁を築いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖女の魔力は万能です"
+    },
+    "sourceNote": "Wikipedia日本語版「聖女の魔力は万能です」を参照し独自に要約(2026年8月時点)。2016年4月より小説家になろうで連載。巻数は2023年3月時点で9巻。TVアニメは2021年第1期・2023年第2期、コミカライズ複数。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "reijou-wa-mattari-wo-goshomou",
+    "title": "令嬢はまったりをご所望。",
+    "titleKana": "れいじょうはまったりをごしょもう",
+    "authorIds": [
+      "mitsuki-beni"
+    ],
+    "illustratorIds": [
+      "rahwia"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "slow-life",
+      "gourmet",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "過労死した前世の記憶を持つローニャは、小説世界の悪役令嬢として転生していた。破滅の筋書きどおり婚約を破棄され社交界を追われた彼女は、むしろ好機とばかりに田舎町へ移り、小さな喫茶店を開く。ちび妖精ロトたちに助けられながら店を営むうち、恐れられている獅子や狼の獣人たちが常連として通いはじめる。もふもふで個性豊かな客たちに囲まれ、望みどおりのまったりした日々が広がっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス公式サイト・BOOK☆WALKERシリーズ一覧を参照し独自に要約(2026年8月時点)。第1巻2018年4月刊、第6巻2025年5月刊。アルファポリス発だが対応プラットフォーム値がないためwebNovelSourceは省略。レジーナCOMICSでコミカライズ(梶山ミカ)。完結の明示は確認できずongoing扱い。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koushaku-reijou-wa-tegoma-wo-enjiru",
+    "title": "侯爵令嬢は手駒を演じる",
+    "titleKana": "こうしゃくれいじょうはてごまをえんじる",
+    "authorIds": [
+      "tachibana-chiaki"
+    ],
+    "illustratorIds": [
+      "aozaki-ritsu"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-fantasy",
+      "romance",
+      "naisei"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "社交界で「完璧な淑女」と称される侯爵令嬢ジュリアナは、その姿が趣味で演じている役柄にすぎないという秘密を抱えている。ある日、理想の王子と評判の第二王子エドワードに王宮へ呼び出された彼女は、外面とは裏腹に腹黒い彼から「私の手駒になれ」と命じられてしまう。断りたくとも幼い頃の因縁がそれを許さない。演技巧者の令嬢と食えない王子が、宮廷の思惑を出し抜き合いながら距離を縮めていく物語。",
+    "awardResults": [
+      {
+        "awardId": "light-bungei-shinjinshou",
+        "year": 2016,
+        "result": "第2回 優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイトの作品ページ・小説家になろう(n4111cl)・電子書店の書誌情報を参照し独自に要約(2026年8月時点)。第1巻2016年8月刊、全4巻。第2回ライト文芸新人賞アリアンローズ部門・唯一の優秀賞受賞。受賞年は書籍化年に合わせた記載で選考発表年は未確認。アリアンローズコミックスでコミカライズ(白雪しおん)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tensei-reijou-wa-shomin-no-aji-ni-ueteiru",
+    "title": "転生令嬢は庶民の味に飢えている",
+    "titleKana": "てんせいれいじょうはしょみんのあじにうえている",
+    "authorIds": [
+      "yuzukihara-miyako"
+    ],
+    "illustratorIds": [
+      "musha"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "公爵令嬢クリステアは、ある料理をきっかけに日本で働いていた前世の記憶を取り戻す。上品な貴族の食卓ではけっして出てこない、味噌や醤油を使った素朴な家庭の味が忘れられず、彼女は自ら台所に立って再現を試みはじめる。ところが出来上がった料理は貴族社会でも評判を呼び、思わぬ騒動を招いてしまう。前世の食への執着に突き動かされる令嬢が、周囲を巻き込みながら異世界に庶民の味を広げていくグルメファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス・電子書店の書誌情報およびアルファポリス掲載ページを参照し独自に要約(2026年8月時点)。第1巻2018年6月刊、第3巻(最終巻)2022年1月刊。アルファポリス発だが対応プラットフォーム値がないためwebNovelSourceは省略。レジーナCOMICSでコミカライズ(住吉文子)。著者名の読みは未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kanpeki-sugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo",
+    "title": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
+    "titleKana": "かんぺきすぎてかわいげがないとこんやくはきされたせいじょはりんごくにうられる",
+    "authorIds": [
+      "fuyutsuki-koki"
+    ],
+    "illustratorIds": [
+      "masami"
+    ],
+    "publisherId": "overlap-novels-f",
+    "themeIds": [
+      "konyaku-haki-zamaa",
+      "isekai-fantasy",
+      "mahou",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "魔物の脅威から祖国を守り続けてきた聖女フィリアは、無表情で愛想がないという理由だけで婚約を破棄され、隣国パルナコルタへ売り渡されてしまう。しかし新天地では彼女の献身と実力が正当に評価され、居場所と信頼を得ていく。一方、姉を追い出した側の妹ミアは事の真相を知り、両親と元婚約者への意趣返しを決意する。やがて大悪魔の復活という国を越えた脅威が浮上し、姉妹それぞれの戦いが交錯していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる"
+    },
+    "sourceNote": "Wikipedia日本語版「完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる」を参照し独自に要約(2026年8月時点)。2020年7月〜2022年1月に小説家になろうで連載、第1巻2021年4月25日刊、2025年3月時点で8巻。2025年4〜6月TVアニメ化(TROYCA)、コミックガルドでコミカライズ(綾北まご)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tearmoon-teikoku-monogatari",
+    "title": "ティアムーン帝国物語",
+    "titleKana": "てぃあむーんていこくものがたり",
+    "authorIds": [
+      "mochizuki-nozomu"
+    ],
+    "illustratorIds": [
+      "gilse"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "time-leap",
+      "akuyaku-reijou",
+      "naisei",
+      "nation-building",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 20,
+    "status": "ongoing",
+    "synopsis": "革命によってギロチンにかけられたティアムーン帝国の皇女ミーアは、処刑の記憶を保ったまま十二歳の自分へと巻き戻る。手元に残されたのは、血に染まった前世の日記だけ。破滅を避けたい一心で保身に走る彼女の言動は、しかし周囲には深慮遠謀として受け取られ、有能な人材が次々と集まってくる。誤解の連鎖に押し上げられるうち、わがままなだけだったはずの皇女は帝国と大陸の歴史そのものを変えていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ティアムーン帝国物語"
+    },
+    "sourceNote": "Wikipedia日本語版「ティアムーン帝国物語」を参照し独自に要約(2026年8月時点)。巻数は本編18巻+短編集2巻(2025年11月時点)。『このライトノベルがすごい!』2021年版6位。2023年10〜12月TVアニメ化、コミカライズ複数。TOジュニア文庫版(イラスト:U35)もあり。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "violet-evergarden",
+    "title": "ヴァイオレット・エヴァーガーデン",
+    "titleKana": "ゔぁいおれっとえゔぁーがーでん",
+    "authorIds": [
+      "akatsuki-kana"
+    ],
+    "illustratorIds": [
+      "takase-akiko"
+    ],
+    "publisherId": "ka-esuma-bunko",
+    "themeIds": [
+      "shigoto",
+      "romance",
+      "senki"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "戦場で道具のように扱われ、両腕を失った少女ヴァイオレットは、義手を得て「自動手記人形」という代筆の仕事に就く。依頼人の胸の内を汲み取り、言葉にして手紙へ託すその仕事を通じて、彼女は人の感情という未知の領域に少しずつ触れていく。胸に残るのは、最後に少佐ギルベルトから告げられた「愛してる」という一言。その意味を知りたいという願いが、彼女を各地の依頼と出会いへ導いていく。",
+    "awardResults": [
+      {
+        "awardId": "kyoto-animation-taisho",
+        "year": 2014,
+        "result": "第5回 小説部門 大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴァイオレット・エヴァーガーデン"
+    },
+    "sourceNote": "Wikipedia日本語版「ヴァイオレット・エヴァーガーデン」を参照し独自に要約(2026年8月時点)。第1巻2015年12月刊、全4巻(2020年完結)。京都アニメーション大賞小説部門で唯一の大賞受賞作。2018年TVアニメ化、2019年・2020年劇場版。受賞年は第5回の開催年に基づく記載で、発表月は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kinou-wa-kanojo-mo-koi-shiteta",
+    "title": "昨日は彼女も恋してた",
+    "titleKana": "きのうはかのじょもこいしてた",
+    "authorIds": [
+      "iruma-hitoma"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "time-travel",
+      "romance",
+      "gendai-drama",
+      "mystery"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "小さな離島で暮らす少年と、車椅子の少女マチ。かつては近しかった二人は、いまはすれ違ったままでいる。そんな折、風変わりな科学者が持ち込んだタイムマシンによって、二人は過去へと送り出されてしまう。そこで出会うのは、まだ何も損なわれていなかった頃の自分たち。甘やかな再訪に見えた時間旅行は、やがて取り返しのつかない後悔と、彼らが目を背けてきた事実の輪郭を浮かび上がらせていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書誌・BOOK☆WALKER・Web検索を参照し独自に要約(2026年8月時点)。2011年11月刊。続編『明日も彼女は恋をする』と合わせた2巻構成としてvolumeCountを2とした。カバー装画の担当者は情報源によって記載が食い違うため確定できずillustratorIdsは空。メディアミックスは確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sugar-dark",
+    "title": "シュガーダーク 埋められた闇と少女",
+    "titleKana": "しゅがーだーくうめられたやみとしょうじょ",
+    "authorIds": [
+      "arai-enji"
+    ],
+    "illustratorIds": [
+      "mebae"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "kyuuketsuki-fushi",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "無実の罪で終身刑を科された元歩兵の青年ムオルは、辺境の共同墓地へ送られ、来る日も来る日も穴を掘らされる。ある夜、彼は自らを墓守と名乗る少女メリアと出会い、閉ざされた日々にわずかな光を見出す。だが謎めいた子供クロウは、その穴が人類最大の敵である不死の怪物「ザ・ダーク」を埋めるためのものだと告げる。埋葬されるべき闇と、それを見張り続ける少女の運命が、青年の前で交差していく。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2009,
+        "result": "第14回 大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シュガーダーク_埋められた闇と少女"
+    },
+    "sourceNote": "Wikipedia日本語版「シュガーダーク 埋められた闇と少女」を参照し独自に要約(2026年8月時点)。2009年12月刊の単巻作品。応募時タイトルは『SUGAR DARK―Digger&Keeper―』。2010年7月〜2012年1月『ヤングエース』でコミカライズ(大岩ケンジ、全4巻)、ドラマCDあり。",
+    "updatedAt": "2026-08-04"
   }
 ]

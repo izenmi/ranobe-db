@@ -6709,5 +6709,113 @@
     "externalLinks": {},
     "sourceNote": "DuckDuckGo検索結果(HJノベルス公式・コミカライズ告知情報)で著者名・受賞歴を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "okazaki-takuma",
+    "name": "岡崎琢磨",
+    "nameKana": "おかざきたくま",
+    "description": "『珈琲店タレーランの事件簿』で知られるミステリ作家。第10回『このミステリーがすごい!』大賞の「隠し玉」に選出されデビューした。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「珈琲店タレーランの事件簿」およびWeb検索の書誌情報で確認(2026年8月時点)。生年等は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mochizuki-mai",
+    "name": "望月麻衣",
+    "nameKana": "もちづきまい",
+    "description": "投稿サイト「エブリスタ」出身の作家。京都を舞台にしたキャラクター文芸『京都寺町三条のホームズ』が代表作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「京都寺町三条のホームズ」で経歴の一部を確認(2026年8月時点)。生年等は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nanatsuki-takafumi",
+    "name": "七月隆文",
+    "nameKana": "ななつきたかふみ",
+    "description": "ライトノベルから一般文芸・ライト文芸へ活動を広げた作家。恋愛小説『ぼくは明日、昨日のきみとデートする』がベストセラーとなった。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ぼくは明日、昨日のきみとデートする」で著者情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chinen-mikito",
+    "name": "知念実希人",
+    "nameKana": "ちねんみきひと",
+    "description": "現役医師として活動しながら医療ミステリを執筆する作家。『天久鷹央』シリーズなどで知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「天久鷹央の推理カルテ」で著者情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ota-shiori",
+    "name": "太田紫織",
+    "nameKana": "おおたしおり",
+    "description": "北海道を舞台にした作品を多く手がける作家。Eleanor.S名義での投稿作『櫻子さんの足下には死体が埋まっている』で書籍デビューした。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「櫻子さんの足下には死体が埋まっている」およびWeb検索で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sawamura-mikage",
+    "name": "澤村御影",
+    "nameKana": "さわむらみかげ",
+    "description": "民俗学ミステリ『准教授・高槻彰良の推察』で知られる作家。角川文庫のキャラクター文芸を中心に活動する。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「准教授・高槻彰良の推察」で著者情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tachibana-yuka",
+    "name": "橘由華",
+    "nameKana": "たちばなゆか",
+    "description": "「小説家になろう」発の異世界ファンタジー『聖女の魔力は万能です』の作者。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「聖女の魔力は万能です」で著者情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tachibana-chiaki",
+    "name": "橘千秋",
+    "nameKana": "たちばなちあき",
+    "description": "「小説家になろう」出身の女性向けファンタジー作家。『侯爵令嬢は手駒を演じる』で第2回ライト文芸新人賞優秀賞を受賞しデビューした。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイトの作品ページ・Web検索で受賞歴を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuzukihara-miyako",
+    "name": "柚木原みやこ",
+    "nameKana": "ゆずきはらみやこ",
+    "description": "アルファポリス発の異世界グルメ作品『転生令嬢は庶民の味に飢えている』の作者。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(書誌情報・レジーナブックス)で確認(2026年8月時点)。氏名の読みは推定で、公式表記は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fuyutsuki-koki",
+    "name": "冬月光輝",
+    "nameKana": "ふゆつきこうき",
+    "description": "「小説家になろう」出身の作家。『完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる』が代表作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる」で著者情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akatsuki-kana",
+    "name": "暁佳奈",
+    "nameKana": "あかつきかな",
+    "description": "第5回京都アニメーション大賞小説部門で唯一の大賞を受賞し『ヴァイオレット・エヴァーガーデン』でデビューした作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ヴァイオレット・エヴァーガーデン」で受賞歴を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "arai-enji",
+    "name": "新井円侍",
+    "nameKana": "あらいえんじ",
+    "description": "第14回スニーカー大賞・大賞を受賞し『シュガーダーク 埋められた闇と少女』でデビューした作家。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「シュガーダーク 埋められた闇と少女」で受賞歴を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
   }
 ]

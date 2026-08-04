@@ -5450,5 +5450,113 @@
     "externalLinks": {},
     "sourceNote": "DuckDuckGo検索結果(HJノベルス公式書誌情報)でイラストレーター名を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yamauchi-shizu",
+    "name": "ヤマウチシズ",
+    "nameKana": "やまうちしず",
+    "description": "『京都寺町三条のホームズ』の装画を手がけるイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「京都寺町三条のホームズ」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tetsuo",
+    "name": "鉄雄",
+    "nameKana": "てつお",
+    "description": "『櫻子さんの足下には死体が埋まっている』の装画を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「櫻子さんの足下には死体が埋まっている」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suzuki-jiro",
+    "name": "鈴木次郎",
+    "nameKana": "すずきじろう",
+    "description": "『准教授・高槻彰良の推察』のカバーイラストを担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「准教授・高槻彰良の推察」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ayatoki",
+    "name": "あやとき",
+    "nameKana": "あやとき",
+    "description": "『浅草鬼嫁日記』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「浅草鬼嫁日記」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aki",
+    "name": "あき",
+    "nameKana": "あき",
+    "description": "『シュガーアップル・フェアリーテイル』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書誌・Wikipedia日本語版「シュガーアップル・フェアリーテイル」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "okie-kazuko",
+    "name": "起家一子",
+    "nameKana": "おきえかずこ",
+    "description": "『おこぼれ姫と円卓の騎士』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・ebookjapan等の書誌情報より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rahwia",
+    "name": "RAHWIA",
+    "nameKana": "らうぃあ",
+    "description": "『令嬢はまったりをご所望。』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス公式サイト・BOOK☆WALKERの書誌情報より。読み方は推定で公式表記は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aozaki-ritsu",
+    "name": "蒼崎律",
+    "nameKana": "あおさきりつ",
+    "description": "『侯爵令嬢は手駒を演じる』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "アリアンローズ公式サイトの作品ページより。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "masami",
+    "name": "昌未",
+    "nameKana": "まさみ",
+    "description": "『完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gilse",
+    "name": "Gilse",
+    "nameKana": "ぎるせ",
+    "description": "『ティアムーン帝国物語』の挿絵を担当するイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ティアムーン帝国物語」より。読み方は推定で、個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takase-akiko",
+    "name": "高瀬亜貴子",
+    "nameKana": "たかせあきこ",
+    "description": "京都アニメーション所属のアニメーター・キャラクターデザイナー。『ヴァイオレット・エヴァーガーデン』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ヴァイオレット・エヴァーガーデン」より。詳細な経歴は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mebae",
+    "name": "mebae",
+    "nameKana": "めばえ",
+    "description": "『シュガーダーク 埋められた闇と少女』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「シュガーダーク 埋められた闇と少女」より。個人の経歴は未確認。",
+    "updatedAt": "2026-08-04"
   }
 ]
