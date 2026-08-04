@@ -27932,5 +27932,708 @@
     },
     "sourceNote": "Wikipedia日本語版「シュガーダーク 埋められた闇と少女」を参照し独自に要約(2026年8月時点)。2009年12月刊の単巻作品。応募時タイトルは『SUGAR DARK―Digger&Keeper―』。2010年7月〜2012年1月『ヤングエース』でコミカライズ(大岩ケンジ、全4巻)、ドラマCDあり。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ryuugoroshi-no-brunhild",
+    "title": "竜殺しのブリュンヒルド",
+    "titleKana": "りゅうごろしのぶりゅんひるど",
+    "authorIds": [
+      "agarizaki-yuiko"
+    ],
+    "illustratorIds": [
+      "aoaso"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "fukushuu",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "帝国が伝説の島エデンを攻めた夜、置き去りにされた幼い少女は島を守る竜に拾われ、人ならざる養い親のもとで十三年を生きた。だが父である竜殺しの英雄が竜を撃ち殺し、少女ブリュンヒルドは「奪還」されて帝国へ連れ戻される。育ての親を奪った人間への復讐を胸に秘めながら、彼女は竜が最後まで説いた赦しと愛の言葉に縛られ続ける。憎しみと祈りのあいだで引き裂かれる少女の、神話のように静かな悲劇。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2021,
+        "result": "第28回 銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書誌・電撃文庫特設ページ・版元ドットコムを参照し独自に要約(2026年8月時点)。2022年6月10日刊の単巻作品で、続編は『竜の姫ブリュンヒルド』(2022年11月)『クリムヒルトとブリュンヒルド』(2023年8月)『王妹のブリュンヒルド』(2024年8月)と別タイトルで刊行されているためvolumeCountは本作単体の1とした。桐嶋たけるによるコミカライズあり。受賞年は第28回電撃小説大賞の発表年から2021年とした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sekai-saikyou-no-koui",
+    "title": "世界最強の後衛 〜迷宮国の新人探索者〜",
+    "titleKana": "せかいさいきょうのこういめいきゅうこくのしんじんたんさくしゃ",
+    "authorIds": [
+      "towa"
+    ],
+    "illustratorIds": [
+      "kazahana-kazahana"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "fuguushoku-kakushi-skill",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "過労の果てに命を落とした社会人が、迷宮攻略を生業とする異世界の青年として新たな生を受ける。選んだのは前衛を張れない支援職。だが人から侮られがちなその役割こそ、彼の分析癖と観察眼を最大限に活かす天職だった。仲間の力を引き出し、危険を先読みし、無名の新人パーティーを少しずつ上位へ押し上げていく。派手さのない「後衛」が、迷宮国の常識を静かに塗り替えていく成長譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界最強の後衛_〜迷宮国の新人探索者〜"
+    },
+    "sourceNote": "Wikipedia日本語版「世界最強の後衛 〜迷宮国の新人探索者〜」を参照し独自に要約(2026年8月時点)。2017年4月より「小説家になろう」連載、書籍は2017年からカドカワBOOKSで刊行、2025年9月時点で既刊9巻。力蔵によるコミカライズ(2018年〜)、テレビアニメは2026年7月5日放送開始。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "ossan-boukensha-kain-no-zengyou",
+    "title": "おっさん冒険者ケインの善行",
+    "titleKana": "おっさんぼうけんしゃけいんのぜんこう",
+    "authorIds": [
+      "fuuraizan"
+    ],
+    "illustratorIds": [
+      "super-zombie"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "chuunen-ossan-shujinkou",
+      "isekai-fantasy",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 5,
+    "status": "hiatus",
+    "synopsis": "二十年ものあいだ山で薬草を摘み続けてきた、うだつの上がらないD級冒険者ケイン。ある日たまたま手に入れた超希少品「復活の実」を、彼は価値も知らないまま銀貨三枚で気前よく譲ってしまう。相手は剣姫と呼ばれる最強のS級冒険者だった。何気ない善意が思わぬ縁を呼び、地味に生きてきた中年男の日常は、腕利きたちに囲まれた騒がしくも温かなものへと変わっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "GAノベル(SBクリエイティブ)公式書誌・小説家になろう作品ページ・ガンガンONLINEを参照し独自に要約(2026年8月時点)。2017年8月より「小説家になろう」連載、書籍第1巻は2018年3月刊。沖野真歩によるコミカライズがガンガンONLINEで連載中。小説は第5巻以降の新刊が確認できないためstatusをhiatusとした。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "kakure-tensei-yuusha",
+    "title": "隠れ転生勇者 〜チートスキルと勇者ジョブを隠して第二の人生を楽しんでやる!〜",
+    "titleKana": "かくれてんせいゆうしゃちーとすきるとゆうしゃじょぶをかくしてだいにのじんせいをたのしんでやる",
+    "authorIds": [
+      "nanjamonja"
+    ],
+    "illustratorIds": [
+      "yunitto"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "fuguushoku-kakushi-skill",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "クラスまるごとの異世界召喚に巻き込まれた青年は、勇者として国に使われる未来を拒み、神の計らいで別人として転生し直す道を選ぶ。授かったのは規格外の力と勇者の職業。しかし目立てば再び戦いに駆り出されると知る彼は、能力を徹底的に隠して生きることに決める。村人、探索者、暗殺者と顔を使い分けながら、誰にも正体を悟らせずに二度目の人生を満喫していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "MFブックス公式書誌・KADOKAWA商品ページ・小説家になろう作品ページを参照し独自に要約(2026年8月時点)。書籍第1巻は2023年3月刊、第3巻は2024年4月刊。佐々川いこによるコミカライズあり。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "live-dungeon",
+    "title": "ライブダンジョン!",
+    "titleKana": "らいぶだんじょん",
+    "authorIds": [
+      "dy-reitou"
+    ],
+    "illustratorIds": [
+      "mika-pikazo"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "fuguushoku-kakushi-skill",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "hiatus",
+    "synopsis": "サービスを終えたVRゲーム『ライブダンジョン!』に人生を捧げた廃人プレイヤーが、気づけばそのゲームそのままの世界に立っていた。選んだ職は火力を持たない支援回復役。だが彼の頭には、常人には理解不能なほど積み上げた攻略知識と操作精度が詰まっている。地味な回復職という評価を覆し、仲間を生かし切ることで最前線を押し上げる、極まった「支援」の物語が幕を開ける。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "カドカワBOOKS公式書誌・カクヨム/小説家になろう作品ページ・カドコミを参照し独自に要約(2026年8月時点)。書籍第1巻『ライブダンジョン! 支援回復のススメ』は2016年12月10日刊で既刊3巻。Web版は長期連載の末に完結。書籍は第3巻(2017年)以降の新刊が確認できないためstatusをhiatusとした。コミカライズあり、アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "nonbiri-vrmmo-ki",
+    "title": "のんびりVRMMO記",
+    "titleKana": "のんびりぶいあーるえむえむおーき",
+    "authorIds": [
+      "maguro-neko-kaineko"
+    ],
+    "illustratorIds": [
+      "maro"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "vrmmo",
+      "slow-life",
+      "craft-artisan",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 10,
+    "status": "hiatus",
+    "synopsis": "双子の妹たちから保護者役を頼まれ、青年ツグミは最新のVRMMO『REAL&MAKE』にログインする。戦闘で名を上げることには興味がなく、彼が打ち込むのは料理、調合、裁縫といった生産スキル。腕を磨くうちに作り出す品はいつしか他プレイヤーの垂涎の的となっていく。妹たちとその幼馴染を見守りながら、戦わない遊び方でゲーム世界を味わい尽くす、のんびりとした冒険の記録。",
+    "awardResults": [
+      {
+        "awardId": "alphapolis-fantasy-shousetsu-taisho",
+        "year": 2015,
+        "result": "第7回 優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式書誌・書店サイト(コミックシーモア等)を参照し独自に要約(2026年8月時点)。小説版はイラストまろ、第1巻2016年3月刊で既刊10巻(第10巻は2020年刊)のためstatusをhiatusとした。山鳥おふうによるコミカライズは2026年時点で14巻まで刊行。受賞は「アルファポリス第7回ファンタジー小説大賞 優秀賞」と明記されているが受賞年の明記がなく、刊行年から2015年と推定した。Web投稿先はアルファポリスのためwebNovelSource(narou/kakuyomu)は付与していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tanaka-nenrei-equal-kanojo-inai-reki-no-mahoutsukai",
+    "title": "田中〜年齢イコール彼女いない歴の魔法使い〜",
+    "titleKana": "たなかねんれいいこーるかのじょいないれきのまほうつかい",
+    "authorIds": [
+      "bunkorori"
+    ],
+    "illustratorIds": [
+      "mada-s-tarou"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "chuunen-ossan-shujinkou",
+      "naisei",
+      "mahou"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 15,
+    "status": "completed",
+    "synopsis": "冴えない中年サラリーマンの田中は、ある日突然異世界に放り出される。手にした力は回復魔法。派手さはないが、医療も衛生も乏しい世界ではこれ以上ない切り札だった。命を救えば貴族も王侯も頭を下げる。安定した暮らしと女性との縁だけを願う彼の身の程知らずな欲望は、いつしか一つの都市を築き上げ、諸国の思惑が絡む政治の渦へと引きずり込んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中〜年齢イコール彼女いない歴の魔法使い〜"
+    },
+    "sourceNote": "Wikipedia日本語版「田中〜年齢イコール彼女いない歴の魔法使い〜」を参照し独自に要約(2026年8月時点)。「小説家になろう」連載、GCノベルズ(マイクロマガジン社)より2015年より刊行、2024年5月に全15巻で完結。コミカライズは2種類。Wikipediaにはなろう系コンテストで3位という記述があるが賞の名称・年が特定できないためawardResultsには含めていない。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "sokushi-cheat-ga-saikyou-sugite",
+    "title": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+    "titleKana": "そくしちーとがさいきょうすぎていせかいのやつらがまるであいてにならないんですが",
+    "authorIds": [
+      "fujitaka-tsuyoshi"
+    ],
+    "illustratorIds": [
+      "naruse-chisato"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 15,
+    "status": "completed",
+    "synopsis": "修学旅行のバスごと異世界へ召喚された高校生たち。ほとんどの生徒が戦闘向きのギフトを授かるなか、高遠夜霧が得たのは相手をただ死なせる能力だった。神を名乗る者も、賢者と呼ばれる支配者も、竜も、彼の一言の前では等しく無力。世界の理を無視した力を隠したまま、彼は同級生の少女とともに、帰還の道と自分たちを弄ぶ者たちの正体を探っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。"
+    },
+    "sourceNote": "Wikipedia日本語版「即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。」を参照し独自に要約(2026年8月時点)。2016年より「小説家になろう」連載、アース・スターノベルより2016年刊行開始、本編全14巻+後始末篇1巻で完結。納都花丸によるコミカライズ、テレビアニメは2024年1月〜3月放送。なろうのジャンル別年間ランキング1位の記録はあるが既存の賞IDと対応しないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "fushisha-no-deshi",
+    "title": "不死者の弟子 〜邪神の不興を買って奈落に落とされた俺の英雄譚〜",
+    "titleKana": "ふししゃのでしじゃしんのふきょうをかってならくにおとされたおれのえいゆうたん",
+    "authorIds": [
+      "nekoko"
+    ],
+    "illustratorIds": [
+      "hiihara-you"
+    ],
+    "publisherId": "overlap-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "kyuuketsuki-fushi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "神の機嫌を損ねた青年カナタは、異世界の最深部にある地獄のような迷宮へ突き落とされる。死を待つばかりの彼を拾ったのは、そこに引きこもって暮らす不死者の少女ルナエールだった。世間知らずで過保護な師は、弟子を守るためにひたすら鍛え上げる。数百年分の修行を経て地上に出たカナタは、自分の常識外れな強さにまるで気づかないまま英雄への道を歩み始める。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式サイト・BOOK☆WALKER/ブックライブ書誌・カクヨム作品ページを参照し独自に要約(2026年8月時点)。Web版はカクヨム/小説家になろうに掲載。オーバーラップノベルスより2020年5月刊行開始、既刊7巻。かせいによるコミカライズがコミックガルドで連載。アニメ化は公式情報が確認できずfalseとした。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    }
+  },
+  {
+    "id": "saihate-no-paladin",
+    "title": "最果てのパラディン",
+    "titleKana": "さいはてのぱらでぃん",
+    "authorIds": [
+      "yanagino-kanata"
+    ],
+    "illustratorIds": [
+      "wa-kususaga"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "kyuuketsuki-fushi",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 5,
+    "status": "hiatus",
+    "synopsis": "前世の記憶を抱えたまま生まれ直した少年ウィルが目を覚ましたのは、生者の絶えた死者の街だった。彼を育てたのは骸骨の戦士、木乃伊の神官、幽鬼の魔術師という三人の不死者。惜しみない愛情と技を注がれて育った少年は、やがて彼らが街に縛られる理由を知る。灯火の神へ誓いを立て、育ての親たちの因縁に決着をつけるため、少年は聖騎士として最果ての外へ踏み出していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最果てのパラディン"
+    },
+    "sourceNote": "Wikipedia日本語版「最果てのパラディン」・オーバーラップ公式サイトを参照し独自に要約(2026年8月時点)。2015年5月より「小説家になろう」連載、オーバーラップ文庫より2016年刊行開始。小説は2017年9月時点で既刊5巻、著者が同年より活動休止しておりstatusをhiatusとした。奥橋睦によるコミカライズ、テレビアニメは第1期2021年10月〜2022年1月、第2期2023年10月〜12月放送。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "risou-no-himo-seikatsu",
+    "title": "理想のヒモ生活",
+    "titleKana": "りそうのひもせいかつ",
+    "authorIds": [
+      "watanabe-tsunehiko"
+    ],
+    "illustratorIds": [
+      "ayakura-juu"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "harem",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 15,
+    "status": "ongoing",
+    "synopsis": "冴えないサラリーマンの善治郎は、ある日突然異世界の王国へ召喚され、若き女王の夫となる。求められたのは血筋を残すことだけ。働かずに養われる理想の暮らしが手に入るはずだった。ところが王配という立場は、周辺国の思惑や貴族たちの駆け引きの真ん中にある。現代日本の知識と慎重すぎる性格を武器に、彼は望まぬ政治の盤上で少しずつ存在感を増していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/理想のヒモ生活"
+    },
+    "sourceNote": "Wikipedia日本語版「理想のヒモ生活」・ヒーロー文庫公式情報を参照し独自に要約(2026年8月時点)。2011年6月より「小説家になろう」連載、ヒーロー文庫より2012年9月刊行開始、2023年12月時点で既刊15巻。日月ネコによるコミカライズあり。2023年12月に「アニメ化企画進行中」と発表されたが放送情報が確認できないためanimeはfalseとした。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "tensei-kizoku-no-isekai-boukenroku",
+    "title": "転生貴族の異世界冒険録〜自重を知らない神々の使徒〜",
+    "titleKana": "てんせいきぞくのいせかいぼうけんろくじちょうをしらないかみがみのしと",
+    "authorIds": [
+      "yashuu"
+    ],
+    "illustratorIds": [
+      "yotsuba",
+      "mo-hellmode"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 6,
+    "status": "hiatus",
+    "synopsis": "通り魔に刺されて命を落とした青年は、異世界の貴族家に生まれ変わりカインと名乗る。幼い日の洗礼で複数の神から加護を授かるが、その量も質も明らかに人の枠を超えていた。自重を知らない神々のせいで手にした規格外の力を、彼はできるだけ隠しながら暮らそうとする。それでも隠しきれない才は周囲を驚かせ続け、少年は友と魔物と旅の日々へ踏み出していく。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "第5回 受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生貴族の異世界冒険録〜自重を知らない神々の使徒〜"
+    },
+    "sourceNote": "Wikipedia日本語版「転生貴族の異世界冒険録〜自重を知らない神々の使徒〜」・書店書誌を参照し独自に要約(2026年8月時点)。2016年10月より「小説家になろう」連載、サーガフォレスト(一二三書房)より2017年6月刊行開始。イラストは第1巻がよつば、第2巻以降が藻。既刊6巻(2019年)以降の新刊が確認できないためstatusをhiatusとした。niniによるコミカライズ、テレビアニメは2023年放送。第5回ネット小説大賞の受賞年は回次から2016年と推定。イラストレーター「藻」は同名表記の既存IDを流用しており同一人物かは未確認。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "shin-no-nakama-ja-nai-to-slow-life",
+    "title": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
+    "titleKana": "しんのなかまじゃないとゆうしゃのぱーてぃーをおいだされたのでへんきょうですろーらいふすることにしました",
+    "authorIds": [
+      "zappon"
+    ],
+    "illustratorIds": [
+      "yasumo"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "tsuihou",
+      "slow-life",
+      "romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 16,
+    "status": "completed",
+    "synopsis": "「導き手」の加護を持つギデオンは、勇者である妹とともに魔王軍との戦いに身を投じてきた。だが伸び悩む戦闘力を理由に、賢者から真の仲間ではないと断じられパーティーを追われる。辺境の町ゾルタンでレッドと名を変えた彼は、薬草店を開いて穏やかな日々を始める。やがて訪ねてきたかつての冒険者リットとの暮らしは、彼が本当に望んでいたものを静かに照らし出していく。",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2019,
+        "result": "2019 文庫部門 1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+    },
+    "sourceNote": "Wikipedia日本語版「真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました」を参照し独自に要約(2026年8月時点)。2017年10月より「小説家になろう」連載、角川スニーカー文庫より2018年刊行開始、本編15巻+前日譚1巻の全16巻で2025年7月完結。コミカライズ・ドラマCD・ゲーム化あり、テレビアニメは第1期・第2期が制作された。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "kujibiki-tokushou-musou-harem-ken",
+    "title": "くじ引き特賞:無双ハーレム権",
+    "titleKana": "くじびきとくしょうむそうはーれむけん",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "runaria"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "harem",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "商店街のくじ引きで一等を引き当てた少年カケルは、その景品として異世界へ送り込まれる。与えられた特典は、あらゆる能力が七七七倍になるという桁外れの恩恵だった。腕力も魔力も常識を軽々と超え、彼はどんな強敵の前でも揺るがない。行く先々で助けた少女たちが次々と彼のもとに集まり、最強と幸運を同時に手にした少年の、遠慮のない異世界暮らしが繰り広げられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "GA文庫(SBクリエイティブ)公式情報・BOOK☆WALKER/ブックライブ書誌を参照し独自に要約(2026年8月時点)。「小説家になろう」発。GA文庫より2016年4月刊行開始、第13巻(2020年)が最終巻として刊行されておりstatusをcompletedとした。長谷見亮によるコミカライズ、ドラマCDあり。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru",
+    "title": "この勇者が俺TUEEEくせに慎重すぎる",
+    "titleKana": "このゆうしゃがおれつえーくせにしんちょうすぎる",
+    "authorIds": [
+      "tsuchihi-raito"
+    ],
+    "illustratorIds": [
+      "toyota-saori"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "comedy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "救済難度S級の異世界を任された新米女神リスタルテは、召喚した勇者の能力値を見て歓喜する。ところが呼び出された竜宮院聖哉は、スライム一匹を相手にするにも入念な準備と全力の一撃を惜しまない、度を越した慎重派だった。強すぎるのに石橋を叩き割る勇者と、振り回されっぱなしの女神。噛み合わない二人の道行きは、やがてこの世界の残酷な真実へと近づいていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この勇者が俺TUEEEくせに慎重すぎる"
+    },
+    "sourceNote": "Wikipedia日本語版「この勇者が俺TUEEEくせに慎重すぎる」を参照し独自に要約(2026年8月時点)。2016年6月よりカクヨム連載、カドカワBOOKSより2017年2月刊行開始、2022年11月時点で既刊7巻。こゆきによるコミカライズ(全6巻)、テレビアニメは2019年10月〜12月放送(WHITE FOX制作)。Anime Trending Awardsの受賞はアニメ版のみが対象のためawardResultsには含めていない。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    }
+  },
+  {
+    "id": "shokei-sareta-kenja-wa-lich-ni-tensei",
+    "title": "処刑された賢者はリッチに転生して侵略戦争を始める",
+    "titleKana": "しょけいされたけんじゃはりっちにてんせいしてしんりゃくせんそうをはじめる",
+    "authorIds": [
+      "yuuki-karakuri"
+    ],
+    "illustratorIds": [
+      "pairan"
+    ],
+    "publisherId": "gagaga-books",
+    "themeIds": [
+      "monster-reincarnation",
+      "dark-fantasy",
+      "fukushuu",
+      "senki"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "hiatus",
+    "synopsis": "勇者とともに魔王を倒した賢者は、次の魔王になると疑われて死者の谷へ投げ落とされ、命を落とす。だが十年後、彼は肉体を失った不死者として意識を取り戻していた。谷に淀む瘴気を喰らい続けた身は、かつての魔王すら凌ぐ力を宿している。無数のアンデッドを従えた元賢者は、自分を裏切った地上へ軍を向ける。真の平和を掲げる、歪んだ理想のための侵略が始まる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "ガガガブックス(小学館)書誌・BOOK☆WALKERシリーズページ・小説家になろう作品ページを参照し独自に要約(2026年8月時点)。書籍第1巻は2019年11月刊で全2巻、以降の新刊が確認できないためstatusをhiatusとした。國友翔太郎によるコミカライズあり。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "jishou-heibon-mazoku-no-eiyuu-life",
+    "title": "自称!平凡魔族の英雄ライフ 〜B級魔族なのにチートダンジョンを作ってしまった結果〜",
+    "titleKana": "じしょうへいぼんまぞくのえいゆうらいふびーきゅうまぞくなのにちーとだんじょんをつくってしまったけっか",
+    "authorIds": [
+      "amaui-hakuichi"
+    ],
+    "illustratorIds": [
+      "tamago-no-kimi"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "mahou-gakuen",
+      "dungeon-unei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "hiatus",
+    "synopsis": "自分は田舎育ちのごく平凡なB級魔族だと信じて疑わない少年クロノ。ところが魔族の学園で行われた実力判定の試験で、彼は魔王級と評される四百階層の大迷宮を無自覚に作り上げてしまう。桁外れの魔力に加え、竜さえ素手で沈める体術。本人の自己申告と周囲の評価がまるで噛み合わないまま、クロノは学園中の注目を一身に集める存在になっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "講談社Kラノベブックス公式書誌・BOOK☆WALKERシリーズページ・小説家になろう作品ページを参照し独自に要約(2026年8月時点)。書籍第1巻は2017年6月刊で既刊4巻、第5巻の刊行予定が未定のためstatusをhiatusとした。こねこねこによるコミカライズが月刊少年シリウスで連載。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "s-rank-boukensha-no-musumetachi-fazacon",
+    "title": "Sランク冒険者である俺の娘たちは重度のファザコンでした",
+    "titleKana": "えすらんくぼうけんしゃであるおれのむすめたちはじゅうどのふぁざこんでした",
+    "authorIds": [
+      "tomohashi-kametsu"
+    ],
+    "illustratorIds": [
+      "kibou-tsubame"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "kazoku-ikuji",
+      "isekai-fantasy",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "かつて天才と呼ばれた冒険者カイゼルは、行き倒れの赤子たちを拾ったことで剣を置き、田舎で三人の娘を育て上げた。年月が過ぎ、娘たちはそれぞれ剣聖、ギルドマスター、宮廷魔術師として王都に名を轟かせている。呼び寄せられて再会した父を待っていたのは、成長してなお衰えるどころか増すばかりの、遠慮のない愛情表現だった。最強一家の賑やかな暮らしが始まる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "オーバーラップ公式サイト・BOOK☆WALKER書誌・アニメ公式サイト(sfather-anime.com)を参照し独自に要約(2026年8月時点)。2019年6月より「小説家になろう」連載、オーバーラップ文庫より2020年6月刊行開始、既刊7巻。しゅにちによるコミカライズがコミックガルドで連載。TVアニメ化は2026年7月に発表され放送時期は未確認だがanimeをtrueとした。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "genkai-level-1-kara-no-nariagari",
+    "title": "限界レベル1からの成り上がり 〜最弱レベルの俺が異世界最強になるまで〜",
+    "titleKana": "げんかいれべるいちからのなりあがりさいじゃくれべるのおれがいせかいさいきょうになるまで",
+    "authorIds": [
+      "miraijin-a"
+    ],
+    "illustratorIds": [
+      "amaichi-esora"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "fuguushoku-kakushi-skill",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "hiatus",
+    "synopsis": "仕事帰りに異世界へ召喚された高橋哲也が告げられたのは、到達できる上限が1という最低の限界レベルだった。その世界で限界レベルの低い者は欠陥品として処分される。廃棄同然に捨てられた彼が唯一持っていたのは、倒した相手の亡骸を取り込むという不気味なスキル。忌み嫌われる力を積み重ねることでしか生き残れない少年の、泥にまみれた成り上がりが始まる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "MFブックス公式書誌・BOOK☆WALKER書誌・カクヨム/小説家になろう作品ページを参照し独自に要約(2026年8月時点)。書籍第1巻は2019年9月刊、第2巻は2021年刊で以降の新刊が確認できないためstatusをhiatusとした。上向だいによるコミカライズあり。アニメ化は確認できず。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
+  },
+  {
+    "id": "isekai-de-mofumofu-nadenade",
+    "title": "異世界でもふもふなでなでするためにがんばってます。",
+    "titleKana": "いせかいでもふもふなでなでするためにがんばってます",
+    "authorIds": [
+      "himawari"
+    ],
+    "illustratorIds": [
+      "suzume-kirouran"
+    ],
+    "publisherId": "m-novels-f",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "ajin-mamono-musume",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 20,
+    "status": "ongoing",
+    "synopsis": "働きづめの末に命を落とした二十七歳の女性は、神から「人ならざるものに好かれる」加護を授かり、異世界の貴族家の末娘ネマとして生まれ直す。前世で叶わなかった、もふもふした生き物を思う存分なでるという願いを胸に、彼女は白虎や竜の子とも臆せず触れ合っていく。だが無垢な行動は、亜人や魔物が虐げられているこの世界の歪みを、少しずつ表に引きずり出していく。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2015,
+        "result": "第4回 受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界でもふもふなでなでするためにがんばってます。"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界でもふもふなでなでするためにがんばってます。」を参照し独自に要約(2026年8月時点)。2012年11月より「小説家になろう」連載、Mノベルスf(双葉社)より2016年7月刊行開始、2026年1月時点で既刊20巻。高上優里子によるコミカライズ、テレビアニメは2024年1月〜3月放送(EMTスクエアード制作)。第4回ネット小説大賞の受賞年は回次から2015年と推定。",
+    "updatedAt": "2026-08-04",
+    "webNovelSource": {
+      "platform": "narou"
+    }
   }
 ]
