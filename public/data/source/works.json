@@ -30516,5 +30516,707 @@
     },
     "sourceNote": "Wikipedia日本語版「西の善き魔女」で荻原規子著・C★NOVELSファンタジアより1997年9月〜2003年5月に本編5巻+外伝3巻の全8巻を確認(2026年8月)。C★NOVELSファンタジア初版の挿絵は1〜4巻が牛島慶子、5巻がきがわ琳、外伝が朝比奈凉子。新装版は桃川春日子、中央公論新社ハードカバー版は佐竹美保、角川文庫版は小林系。2004〜2007年に『月刊コミックブレイド』でコミカライズ、2006年4〜6月にテレビアニメ『西の善き魔女 Astraea Testament』全13話。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kimi-to-boku-no-saigo-no-senjou",
+    "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+    "titleKana": "きみとぼくのさいごのせんじょうあるいはせかいがはじまるせいせん",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "nekonabe-ao"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "mahou",
+      "battle-action",
+      "senki",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 19,
+    "status": "ongoing",
+    "synopsis": "科学技術で栄える帝国と、星霊術を操る魔女たちの国ネビュリス皇庁は、百年に及ぶ戦争を続けている。帝国最年少の使徒聖イスカと、皇庁最強の純血種アリスリーゼは戦場で剣を交えるが、互いの強さと、戦争を終わらせたいという同じ願いに気づいてしまう。敵同士でありながら惹かれ合う二人は、それぞれの陣営を背負ったまま何度も刃を重ねていく。",
+    "awardResults": [
+      {
+        "awardId": "bookwalker-shinsaku-ranobe-sousenkyo",
+        "year": 2018,
+        "result": "3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+    },
+    "sourceNote": "Wikipedia日本語版「キミと僕の最後の戦場、あるいは世界が始まる聖戦」で細音啓著・猫鍋蒼イラスト・富士見ファンタジア文庫より2017年5月刊行開始、2024年10月時点で本編16巻+短編集3巻の計19巻を確認(2026年8月時点)。テレビアニメはSeason I(2020年10〜12月)、Season II(2024年7月〜2025年6月)。コミカライズは白泉社『ヤングアニマル』にて2018〜2021年連載・全7巻。「次のヒット作はこれだ!新作ラノベ総選挙2018」3位。最新巻数は2024年10月時点の値で、それ以降の刊行状況は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sekai-no-owari-no-sekairoku",
+    "title": "世界の終わりの世界録",
+    "titleKana": "せかいのおわりのせかいろく",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "fuyuno-shunjuu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 10,
+    "status": "completed",
+    "synopsis": "世界を滅ぼしかけた大戦を、英雄エルレインと三人の姫が終わらせてから三百年。学院に通う少年レンは、その英雄と瓜二つの容姿を持つことに気づかないまま日々を送っていた。やがて伝説の姫の一人が目の前に現れ、レンは英雄が遺したという手記「世界録」を追う旅へと巻き込まれていく。過去の真実と現在の危機が重なり合う、剣と魔法の冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界の終わりの世界録"
+    },
+    "sourceNote": "Wikipedia日本語版「世界の終わりの世界録」で細音啓著・ふゆの春秋イラスト・MF文庫Jより2014年7月31日〜2017年5月31日に全10巻を確認(2026年8月時点)。コミカライズあり。テレビアニメ化は確認できずfalse。シリーズ累計は2025年8月時点で120万部超。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyouketsu-kyoukai-no-eden",
+    "title": "氷結鏡界のエデン",
+    "titleKana": "ひょうけつきょうかいのえでん",
+    "authorIds": [
+      "sazane-kei"
+    ],
+    "illustratorIds": [
+      "kasukabe-akira"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "浮遊大陸の上で暮らす人々は、地上に満ちる呪いから結界によって守られていた。剣士見習いの少年シェルティスは呪われた地上へ落下して行方を絶ち、一年後、正体不明の笛を携えて何事もなかったかのように生還する。異物として扱われながらも彼は再び守り手の任に就き、結界を維持する巫女たちとともに、世界の外側から迫る脅威との果てしない戦いに身を投じていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/氷結鏡界のエデン"
+    },
+    "sourceNote": "Wikipedia日本語版「氷結鏡界のエデン」で細音啓著・カスカベアキライラスト・富士見ファンタジア文庫より2009年9月〜2014年3月に全13巻を確認(2026年8月時点)。コミカライズは講談社『月刊少年シリウス』2012年8月号より連載(作画:木村勇貴)、既刊3巻。ドラマCDあり。テレビアニメ化はなし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "last-embryo",
+    "title": "ラストエンブリオ",
+    "titleKana": "らすとえんぶりお",
+    "authorIds": [
+      "tatsunoko-tarou"
+    ],
+    "illustratorIds": [
+      "momoko-illustrator"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "death-game",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 8,
+    "status": "hiatus",
+    "synopsis": "『問題児たちが異世界から来るそうですよ?』の続編にあたる第二部。神格や恩恵を賭けて競う「ギフトゲーム」の世界へ、新たな問題児たちが呼び寄せられる。前作から続く箱庭の勢力争いは規模を増し、失われた仲間や積み残された謎をめぐって物語が動き出す。前作主人公らの行方も絡み、少年少女たちは強大な相手に無茶な勝負を挑んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式およびBOOK☆WALKERの書誌情報で竜ノ湖太郎著・ももこイラスト・角川スニーカー文庫より2015年6月1日刊行開始、既刊8巻(2020年7月の第8巻『追想の問題児』が最新)を確認(2026年8月時点)。既登録『問題児たちが異世界から来るそうですよ?』の第二部。第8巻以降の新刊が確認できないためstatusはhiatus。第二部単独のテレビアニメ化は確認できずfalse(第一部は2013年にアニメ化済み)。コミカライズは第二部も展開されているが連載状況の詳細は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "titania",
+    "title": "タイタニア",
+    "titleKana": "たいたにあ",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "michihara-katsumi"
+    ],
+    "publisherId": "tokuma-novels",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "senki",
+      "naisei"
+    ],
+    "firstPublishedYear": 1988,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "宇宙へ広がった人類の星間国家群は、その大半がタイタニア一族の支配下に置かれていた。星暦四四六年、都市国家エウリヤはタイタニア軍の攻撃を退けるが、その勝利は圧倒的な権力への挑戦を意味していた。指揮官ファン・ヒューリックは追われる身となり、一族内部の権謀と後継争いが絡み合うなか、強大な支配体制に抗う小さな戦力を率いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイタニア"
+    },
+    "sourceNote": "Wikipedia日本語版「タイタニア」で田中芳樹著・1988年よりトクマ・ノベルズ(徳間書店)から刊行、後に講談社ノベルス／講談社文庫へ移り2015年2月の第5巻で完結を確認(2026年8月時点)。挿絵は徳間版が道原かつみ(表紙)・笠原彰(本文)、講談社文庫版は杉光登。テレビアニメは2008〜2009年NHK-BS2、コミカライズは『月刊少年シリウス』2008〜2011年。既登録の『銀河英雄伝説』に合わせ、初出レーベルのトクマ・ノベルズをpublisherIdとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mavar-nendaiki",
+    "title": "マヴァール年代記",
+    "titleKana": "まゔぁーるねんだいき",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "amano-yoshitaka"
+    ],
+    "publisherId": "kadokawa-novels",
+    "themeIds": [
+      "senki",
+      "naisei",
+      "adventure",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 1988,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "架空の国家マヴァール帝国を舞台に、身分も立場も異なる三人の若者――カルマーン、ヴェンツェル、レドヴァン――の三年間を追う歴史絵巻。皇帝の座をめぐる継承争いと近隣諸国との戦火が国土を覆うなか、彼らはそれぞれの野心と信義を抱えて渦中へ飛び込んでいく。友情と敵対が反転しつつ、権力の座が誰の手に落ちるかが描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マヴァール年代記"
+    },
+    "sourceNote": "Wikipedia日本語版「マヴァール年代記」で田中芳樹著・『小説野性時代』1988〜1989年連載、角川ノベルズ／角川文庫で全3巻・完結を確認(2026年8月時点)。挿絵は連載時が末弥純、角川版が天野喜孝、創元推理文庫版が山田章博。アニメ化・コミカライズの記載は確認できずいずれもfalse。既登録の『アルスラーン戦記』(角川)に合わせ角川ノベルズをpublisherIdとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nanatoshi-monogatari",
+    "title": "七都市物語",
+    "titleKana": "ななとしものがたり",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "illustratorIds": [
+      "kobayashi-tomomi"
+    ],
+    "publisherId": "tokuma-novels",
+    "themeIds": [
+      "sf",
+      "post-apocalypse",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "二二世紀、地軸の大移動「大転倒」によって文明は崩壊し、生き延びた人類は月へ避難した。やがて再建された地球には七つの都市国家が置かれるが、月からの管理システムによって航空戦力の保有を禁じられている。空を奪われた地上では、地表と海だけを使った戦争が繰り返される。均衡が崩れはじめた二二世紀末、七都市の指揮官たちが繰り広げる連作戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七都市物語"
+    },
+    "sourceNote": "Wikipedia日本語版「七都市物語」で田中芳樹著・1990年3月に徳間書店より刊行、挿画は小林智美、2017年11月にハヤカワ文庫JAから増補新版が出たことを確認(2026年8月時点)。連作短編を収めた単巻作品のためvolumeCountは1。OVA『七都市物語 北極海戦線』が1994年に発売、コミカライズは『ヤングマガジンサード』2017〜2019年(作画:フクダイクミ)全5巻。他作家によるシェアードワールド作品集も刊行されている。既登録の『銀河英雄伝説』に合わせ徳間書店(トクマ・ノベルズ)をpublisherIdとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ookami-to-youhishi",
+    "title": "狼と羊皮紙",
+    "titleKana": "おおかみとようひし",
+    "authorIds": [
+      "hasekura-isuna"
+    ],
+    "illustratorIds": [
+      "ayakura-juu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "adventure",
+      "romance",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "『狼と香辛料』から十数年後の世界を描く続編。教会の腐敗を正そうとする王国に力を貸すため旅立った少年トート・コルと、こっそり後を追ってきた狼の耳と尾を持つ少女ミューリ。二人は聖典の俗語翻訳という危険な仕事を通じて、王国と教会、そして各地の思惑が絡む三つ巴の争いに巻き込まれていく。前作の夫婦の娘が主役を務める旅の物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狼と羊皮紙"
+    },
+    "sourceNote": "Wikipedia日本語版「狼と羊皮紙」で支倉凍砂著・文倉十イラスト・電撃文庫より2016年9月10日刊行開始、2025年11月8日発売の第13巻で完結を確認(2026年8月時点)。正式タイトルは『新説 狼と香辛料 狼と羊皮紙』。既登録『狼と香辛料』の続編シリーズとして独立登録。コミカライズは『電撃マオウ』2019年5月号より(作画:日鳥)。本シリーズ単独のテレビアニメ化は確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuusha-kei-ni-shosu",
+    "title": "勇者刑に処す 懲罰勇者9004隊刑務記録",
+    "titleKana": "ゆうしゃけいにしょすちょうばつゆうしゃきゅうせんよんたいけいむきろく",
+    "authorIds": [
+      "rocket-shoukai"
+    ],
+    "illustratorIds": [
+      "mephisto"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "senki",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "死ぬこと以上に重い刑罰として、罪人を何度でも蘇生させながら魔王軍との最前線に投入する「勇者刑」。無実の罪で聖騎士団長の座を追われたザイロは、性根の腐った犯罪者ばかりを集めた懲罰勇者部隊の一員となる。同行するのは軍神の末裔を名乗る少女テオリッタ。理不尽な命令と絶望的な戦況のなか、彼らは死と再生を繰り返しながら戦場を渡っていく。",
+    "awardResults": [
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2021,
+        "result": "総合部門2位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "単行本部門3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者刑に処す"
+    },
+    "sourceNote": "Wikipedia日本語版「勇者刑に処す」でロケット商会著・めふぃすとイラスト・電撃の新文芸より2021年9月17日刊行開始、2026年1月時点で既刊8巻を確認(2026年8月時点)。カクヨム発。コミカライズは2022年3月より、テレビアニメ第1期は2026年1〜3月放送で第2期制作決定。「次にくるライトノベル大賞2021」総合部門2位、『このライトノベルがすごい!』2023年度版単行本部門3位。カクヨムアワード2020ユーザー推薦部門受賞は既存の賞idに該当がないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koujo-denka-no-kateikyoushi",
+    "title": "公女殿下の家庭教師",
+    "titleKana": "こうじょでんかのかていきょうし",
+    "authorIds": [
+      "nanano-riku"
+    ],
+    "illustratorIds": [
+      "cura"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "ken-to-mahou",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 23,
+    "status": "ongoing",
+    "synopsis": "卓越した魔法技術を持ちながら自己評価の低い青年アレンは、「魔法が使えない」と言われる公女ティナの家庭教師を引き受ける。丁寧な指導によってティナは急速に力を伸ばし、王立学校入学という目標へ近づいていく。やがてアレンの下には彼を慕う少女たちが集まり、その指導と人柄が王国を揺るがす大きな陰謀にも関わっていくことになる。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2018,
+        "result": "第3回 異世界ファンタジー部門 大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/公女殿下の家庭教師"
+    },
+    "sourceNote": "Wikipedia日本語版「公女殿下の家庭教師」で七野りく著・curaイラスト・富士見ファンタジア文庫より2018年12月刊行開始、2026年4月17日時点で既刊23巻を確認(2026年8月時点)。カクヨムで2017年10月より連載、第3回カクヨムWeb小説コンテスト異世界ファンタジー部門大賞受賞。コミカライズは『少年エースplus』(作画:無糖党)、テレビアニメは2025年7〜9月放送。同著者『辺境都市の育成者』と設定を共有。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "henkyou-toshi-no-ikuseisha",
+    "title": "辺境都市の育成者",
+    "titleKana": "へんきょうとしのいくせいしゃ",
+    "authorIds": [
+      "nanano-riku"
+    ],
+    "illustratorIds": [
+      "fuku-kitsune"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "adventure",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "二年前に王都を飛び出した少女レベッカは、辺境都市ユキハナで冒険者として活動しているものの、力の伸び悩みに焦りを募らせていた。そんな彼女の前に現れたのは、自らを「育成者」と名乗る飄々とした青年ハル。その正体不明の指導を受け入れた日から、レベッカと仲間たちは着実に強くなっていく。師と教え子の関係を軸にした辺境の物語。",
+    "awardResults": [
+      {
+        "awardId": "kakuyomu-contest",
+        "year": 2018,
+        "result": "第3回 異世界ファンタジー部門 特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/辺境都市の育成者"
+    },
+    "sourceNote": "Wikipedia日本語版「辺境都市の育成者」で七野りく著・福きつねイラスト・富士見ファンタジア文庫より2020年7月17日刊行開始、2022年7月20日の第6巻で完結を確認(2026年8月時点)。第3回カクヨムWeb小説コンテスト異世界ファンタジー部門特別賞。コミカライズは『カドコミ』にて2021年3月より連載。テレビアニメ化はなし。同著者『公女殿下の家庭教師』と世界観を共有。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurogane-no-mamon-shuufukushi",
+    "title": "黒鋼の魔紋修復士",
+    "titleKana": "くろがねのまもんしゅうふくし",
+    "authorIds": [
+      "ureshino-akihiko"
+    ],
+    "illustratorIds": [
+      "miyuki-ruria"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "肌に刻んだ紋章から魔力を引き出す「魔紋」が世界を支える大陸。神聖同盟の最高位神巫に任じられた少女ヴァレリアと、口が悪く責任感だけは人一倍強い紋章官ディミタールは、いびつな相棒関係のまま各地を巡ることになる。損なわれた魔紋を修復する仕事の先には、「贖いの主」と呼ばれる存在をめぐる大きな戦いが待ち受けていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよびKADOKAWA公式(合本版ページ)で嬉野秋彦著・ミユキルリアイラスト・ファミ通文庫より2013年1月30日刊行開始、全13巻で完結を確認(2026年8月時点)。Wikipedia単独記事は確認できず。アニメ化・コミカライズは確認できずいずれもfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+    "title": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する",
+    "titleKana": "さいきょうでがらしおうじのあんやくていいあらそいむのうをえんじるえすえすらんくおうじはこういけいしょうせんをかげからしはいする",
+    "authorIds": [
+      "tanba"
+    ],
+    "illustratorIds": [
+      "yuu-nagi"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "naisei",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 17,
+    "status": "ongoing",
+    "synopsis": "アードラシア帝国の第七皇子アルノルトは、周囲から「出涸らし」と侮られる怠け者。だがその正体は、古代魔法を操り仮面の冒険者「シルバー」として活動する帝国最強の存在だった。皇帝の座をめぐる争いが激しさを増すなか、彼は自らが玉座に就くことを避け、優秀な双子の弟レオナルトを帝位へ押し上げるべく暗躍を続けていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最強出涸らし皇子の暗躍帝位争い_無能を演じるSSランク皇子は皇位継承戦を影から支配する"
+    },
+    "sourceNote": "Wikipedia日本語版「最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する」でタンバ著・夕薙イラスト・角川スニーカー文庫より2019年9月1日刊行開始、2026年7月時点で既刊17巻を確認(2026年8月時点)。「小説家になろう」にて2019年2月〜2024年2月連載(Web版完結)。コミカライズは『ヤングエースUP』(作画:天海雪乃)既刊10巻、テレビアニメは2026年7月放送開始。書籍版は継続中のためstatusはongoing。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "vampire-summertime",
+    "title": "ヴァンパイア・サマータイム",
+    "titleKana": "ゔぁんぱいあさまーたいむ",
+    "authorIds": [
+      "ishikawa-hiroshina"
+    ],
+    "illustratorIds": [
+      "kippu"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "昼は人間が、夜は吸血鬼が活動する二交代制の街。同じ校舎を昼と夜で分け合う二つの学校の生徒は、本来なら顔を合わせることがない。ところがある出来事をきっかけに、昼の少年と夜の少女が出会ってしまう。種族の違いという決定的な壁を抱えたまま、二人は校内で起きる騒動を一緒に片付けながら距離を縮めていく。一冊で完結する青春ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式(ファミ通文庫)およびBOOK☆WALKER・Amazonの書誌情報で石川博品著・切符イラスト・ファミ通文庫より2013年刊行、続巻のない単巻作品であることを確認(2026年8月時点)。Wikipedia単独記事は確認できず。アニメ化・コミカライズは確認できずいずれもfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yagate-maken-no-alicebell",
+    "title": "やがて魔剱のアリスベル",
+    "titleKana": "やがてまけんのありすべる",
+    "authorIds": [
+      "akamatsu-chuugaku"
+    ],
+    "illustratorIds": [
+      "uruu-gekka"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "urashakai",
+      "mahou"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "現代日本の裏側には「異能」と呼ばれる力を持つ者たちが潜んでいる。そうした少年少女を集めて秘密裏に隔離教育する高校・居鳳校へ送り込まれた静刃は、そこで黒髪ツインテールの優等生アリスベルと出会う。魔女クラスに属する彼女と手を組んだ静刃は、学校を舞台に渦巻く思惑と戦いに巻き込まれていく。同じ著者の『緋弾のアリア』と世界観を共有する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/やがて魔剱のアリスベル"
+    },
+    "sourceNote": "電撃文庫公式およびBOOK☆WALKER・Wikipedia日本語版「やがて魔剱のアリスベル」で赤松中学著・閏月戈イラスト・電撃文庫より2012年9月〜2016年1月に全6巻・完結を確認(2026年8月時点)。既登録『緋弾のアリア』と世界観を共有。依頼時の著者名は「川原礫」とされていたが、実際の著者は赤松中学であることを確認したため訂正した。テレビアニメ化はなし。コミカライズは確定情報が得られずfalseとした(電撃ノベコミ+に同名ページあり、要確認)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "psycome",
+    "title": "サイコメ",
+    "titleKana": "さいこめ",
+    "authorIds": [
+      "mizushiro-mizushiro"
+    ],
+    "illustratorIds": [
+      "namanie"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "psycho-suspense",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "未成年の殺人犯だけを収容する更生施設、プルガトリウム更生学院。ごく普通の高校生だった神谷京輔は、十二人殺しという身に覚えのない罪を着せられ、この学院へ強制入学させられてしまう。冤罪であるにもかかわらず「最凶の殺人鬼」として一目置かれた彼のもとには、危険な同級生たちが次々と近づいてくる。殺人鬼だらけの学園で繰り広げられるブラックなラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "enterbrain-entame-taisho",
+        "year": 2012,
+        "result": "第14回 小説部門 優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サイコメ"
+    },
+    "sourceNote": "Wikipedia日本語版「サイコメ」で水城水城著・生煮えイラスト・ファミ通文庫より2013年2月28日〜2014年11月29日に全7巻を確認(2026年8月時点)。第14回エンターブレインえんため大賞小説部門優秀賞受賞(応募時タイトル『サイコメ―PSYCHO&LOVE COMEDY―』)。2016年3月に舞台『サイコメ;ステージ』上演。テレビアニメ化・コミカライズは確認できずいずれもfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shintouki-theogonia",
+    "title": "神統記(テオゴニア)",
+    "titleKana": "しんとうきておごにあ",
+    "authorIds": [
+      "tanimai-tsukasa"
+    ],
+    "illustratorIds": [
+      "kouno-kouichirou"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "battle-action",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "人族と亜人種が絶えず殺し合う過酷な世界。辺境の村で育った少年カイは、亜人との戦いの最中に前世の記憶を取り戻し、自分が生き延びるために戦うしかない立場だと悟る。やがて土地神の加護を受けて守護者となった彼は、敵であったはずの亜人たちをも受け入れながら、谷を拠点に独自の共同体を築いていく。血なまぐさい戦闘と部族間の政治が交錯する、骨太な異世界戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神統記（テオゴニア）"
+    },
+    "sourceNote": "Wikipedia日本語版「神統記(テオゴニア)」および主婦と生活社公式で谷舞司著・河野紘一郎イラスト・PASH!ブックス(主婦と生活社)より2018年3月30日刊行開始、2026年4月時点で新装版含め既刊5巻を確認(2026年8月時点)。「小説家になろう」にて2017年8月より連載。コミカライズは『コミックPASH!neo』(作画:青山俊介)、テレビアニメは2025年4〜6月放送全12話。文庫版はPASH!文庫より刊行。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "madoushi-wa-heibon-wo-nozomu",
+    "title": "魔導師は平凡を望む",
+    "titleKana": "まどうしはへいぼんをのぞむ",
+    "authorIds": [
+      "hirose-ren"
+    ],
+    "illustratorIds": [
+      "toichi"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "mahou",
+      "otaku-shumi"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 34,
+    "status": "ongoing",
+    "synopsis": "ゲーム好きの社会人だった香坂御月は、ある日突然異世界へ放り込まれる。平凡な暮らしを望みながらも、飛び抜けた魔法の才能と行動力のせいで、彼女は否応なく各国の面倒事に首を突っ込むことになる。現代日本で培ったオタク知識と身も蓋もない発想を武器に、御月は魔導師として次々と難題を片付けていく。三十巻を超えて続く長寿シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔導師は平凡を望む"
+    },
+    "sourceNote": "Wikipedia日本語版「魔導師は平凡を望む」で広瀬煉著・⑪イラスト・アリアンローズ(フロンティアワークス)より2013年10月刊行開始、2025年8月時点で既刊34巻を確認(2026年8月時点)。「小説家になろう」にて2012年2月より連載。コミカライズは2017年11月〜2019年11月にRenta!で連載・全3巻(作画:太平洋海)。ドラマCD・朗読劇あり。テレビアニメ化は確認できずfalse。イラストの⑪は既存id「toichi」(⑪(トイチ))と同一人物と判断し再利用した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fate-prototype-sougin-no-fragments",
+    "title": "Fate/Prototype 蒼銀のフラグメンツ",
+    "titleKana": "ふぇいとぷろとたいぷそうぎんのふらぐめんつ",
+    "authorIds": [
+      "sakurai-hikaru"
+    ],
+    "illustratorIds": [
+      "nakahara"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "TYPE-MOONの『Fate/Prototype』の前日譚にあたる外伝小説。本編より八年前、一九九一年に行われた聖杯戦争を主軸に据え、少女・沙条愛歌とセイバーが契約を交わすまでの経緯が語られる。巻ごとに異なるマスターとサーヴァントへ焦点を当てながら、通常とは異なる形で進行したこの戦争の全体像と、その果てに待つ結末が明かされていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/Prototype"
+    },
+    "sourceNote": "Wikipedia日本語版「Fate/Prototype」およびTYPE-MOON公式サイトの書誌情報で、桜井光著・中原イラスト・TYPE-MOON原作、『コンプティーク』2013年8月号〜2016年10月号連載、単行本は角川書店より2014年9月10日〜2017年4月に全5巻を確認(2026年8月時点)。2024年に角川文庫版が刊行。コミカライズは『TYPE-MOONコミックエース』2023年7月より連載(作画:鈴木ツタ)。本作単独のアニメ化はなくfalse。単行本の発行元が「角川書店」名義でレーベル名を持たないため、publisherIdとして角川書店を新規作成した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "majo-to-youhei",
+    "title": "魔女と傭兵",
+    "titleKana": "まじょとようへい",
+    "authorIds": [
+      "chouhoukiteki-kaeru"
+    ],
+    "illustratorIds": [
+      "kanase-benchi"
+    ],
+    "publisherId": "gcn-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "mercenary",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "魔獣も魔術も失われて久しい大陸で、唯一「魔女」と呼ばれる存在の討伐依頼を受けた傭兵ジグ。だが対峙した相手の素顔を見た彼は、討伐を放棄して護衛役を引き受けてしまう。魔術がまだ息づく未知の大陸へ渡ることを望むシアーシャに付き従い、ジグは剣一本で戦い続ける。淡々と依頼をこなす傭兵と、世間知らずな魔女の旅路を描くハードボイルドなハイファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2023,
+        "result": "文庫部門5位"
+      },
+      {
+        "awardId": "tsugi-ni-kuru-light-novel-taisho",
+        "year": 2024,
+        "result": "文庫部門2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔女と傭兵"
+    },
+    "sourceNote": "Wikipedia日本語版「魔女と傭兵」およびGCノベルズ公式で超法規的かえる著・叶世べんちイラスト・GCN文庫(マイクロマガジン社)より2023年5月19日刊行開始、2026年1月時点で既刊8巻を確認(2026年8月時点)。「小説家になろう」にて2021年6月より連載。コミカライズは講談社『マガジンポケット』2024年1月より連載。テレビアニメは2027年に日本テレビ系で放送予定(制作:エイトビット)と発表済みのためanimeはtrue。「次にくるライトノベル大賞」文庫部門で2023年5位・2024年2位。",
+    "updatedAt": "2026-08-04"
   }
 ]

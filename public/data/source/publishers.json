@@ -1039,5 +1039,16 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「悪霊シリーズ」で同レーベルからの刊行を確認(2026年8月時点)。創刊年は1987年。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadokawa-shoten",
+    "name": "角川書店",
+    "nameKana": "かどかわしょてん",
+    "parentCompany": "KADOKAWA",
+    "description": "KADOKAWAの中核ブランドのひとつ。文庫レーベルとは別に、『コンプティーク』連載作品などの単行本を自社ブランド名義で刊行している。",
+    "foundedYear": 1945,
+    "externalLinks": {},
+    "sourceNote": "TYPE-MOON公式サイトの『Fate/Prototype 蒼銀のフラグメンツ』書誌に「発行元:角川書店」と明記されているのを確認(2026年8月時点)。同作単行本はレーベル名を持たない角川書店刊のため本エントリを作成。",
+    "updatedAt": "2026-08-04"
   }
 ]

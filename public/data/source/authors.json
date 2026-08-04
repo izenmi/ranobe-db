@@ -7228,5 +7228,100 @@
     },
     "sourceNote": "Wikipedia日本語版「西の善き魔女」を参照(2026年8月時点)。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ishikawa-hiroshina",
+    "name": "石川博品",
+    "nameKana": "いしかわひろしな",
+    "description": "2011年に『耳刈ネルリ』シリーズでデビューしたライトノベル作家。独特の造語感覚と密度の高い文体で、風変わりな世界を舞台にした青春小説を書き続けている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石川博品"
+    },
+    "sourceNote": "KADOKAWA公式およびBOOK☆WALKERの『ヴァンパイア・サマータイム』著者情報で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nanano-riku",
+    "name": "七野りく",
+    "nameKana": "ななのりく",
+    "description": "カクヨム発の異世界ファンタジー作家。『公女殿下の家庭教師』『辺境都市の育成者』など、優秀すぎる指導者が教え子を育てる師弟ものを得意とし、両作は世界観を共有している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/公女殿下の家庭教師"
+    },
+    "sourceNote": "Wikipedia日本語版「公女殿下の家庭教師」「辺境都市の育成者」およびKADOKAWA公式で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rocket-shoukai",
+    "name": "ロケット商会",
+    "nameKana": "ろけっとしょうかい",
+    "description": "カクヨム出身の小説家。『勇者刑に処す 懲罰勇者9004隊刑務記録』で電撃の新文芸からデビューし、各種ランキングで上位を獲得した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勇者刑に処す"
+    },
+    "sourceNote": "Wikipedia日本語版「勇者刑に処す」で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ureshino-akihiko",
+    "name": "嬉野秋彦",
+    "nameKana": "うれしのあきひこ",
+    "description": "ファミ通文庫を中心に活動するライトノベル作家。全13巻の長編ファンタジー『黒鋼の魔紋修復士』などを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよびKADOKAWA公式の『黒鋼の魔紋修復士』書誌情報で確認(2026年8月時点)。Wikipedia単独記事は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tanimai-tsukasa",
+    "name": "谷舞司",
+    "nameKana": "たにまいつかさ",
+    "description": "「小説家になろう」発の作家。人族と亜人種が争う骨太な異世界戦記『神統記(テオゴニア)』で書籍デビューし、同作はアニメ化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神統記（テオゴニア）"
+    },
+    "sourceNote": "Wikipedia日本語版「神統記(テオゴニア)」および主婦と生活社公式で確認(2026年8月時点)。読みは書誌表記の「Tsukasa Tanimai」に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hirose-ren",
+    "name": "広瀬煉",
+    "nameKana": "ひろせれん",
+    "description": "「小説家になろう」出身の作家。2012年連載開始の『魔導師は平凡を望む』を長期にわたり書き継ぎ、書籍版は30巻を超える大型シリーズとなっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔導師は平凡を望む"
+    },
+    "sourceNote": "Wikipedia日本語版「魔導師は平凡を望む」およびアリアンローズ公式で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chouhoukiteki-kaeru",
+    "name": "超法規的かえる",
+    "nameKana": "ちょうほうきてきかえる",
+    "description": "「小説家になろう」発のファンタジー作家。傭兵と魔女の旅を渋く描く『魔女と傭兵』が累計150万部を超えるヒットとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔女と傭兵"
+    },
+    "sourceNote": "Wikipedia日本語版「魔女と傭兵」およびGCノベルズ公式で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tanba",
+    "name": "タンバ",
+    "nameKana": "たんば",
+    "description": "「小説家になろう」出身の作家。無能を装う皇子が影から帝位継承戦を操る『最強出涸らし皇子の暗躍帝位争い』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最強出涸らし皇子の暗躍帝位争い_無能を演じるSSランク皇子は皇位継承戦を影から支配する"
+    },
+    "sourceNote": "Wikipedia日本語版「最強出涸らし皇子の暗躍帝位争い」およびKADOKAWA公式で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sakurai-hikaru",
+    "name": "桜井光",
+    "nameKana": "さくらいひかる",
+    "description": "小説家・シナリオライター。TYPE-MOON作品の外伝小説『Fate/Prototype 蒼銀のフラグメンツ』の執筆で知られる。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「Fate/Prototype」およびTYPE-MOON公式サイトの書誌情報で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
   }
 ]
