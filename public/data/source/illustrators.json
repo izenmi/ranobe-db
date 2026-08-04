@@ -5702,5 +5702,77 @@
     "externalLinks": {},
     "sourceNote": "GCN文庫公式特設サイトおよびAmazonの書誌情報で確認。読みは推定。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shaa",
+    "name": "しゃあ",
+    "nameKana": "しゃあ",
+    "description": "同人サークル出身のイラストレーター・漫画家。『乃木坂春香の秘密』の挿絵と、同作のコミカライズ版の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「乃木坂春香の秘密」でイラスト担当と漫画版作画を確認(2026年8月)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koyama-hirokazu",
+    "name": "こやまひろかず",
+    "nameKana": "こやまひろかず",
+    "description": "TYPE-MOON作品のキャラクターデザインなどで知られるイラストレーター。奈須きのこの小説『DDD』の挿絵を担当。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「DDD (小説)」でイラスト担当を確認(2026年8月)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "carnelian",
+    "name": "CARNELIAN",
+    "nameKana": "カーネリアン",
+    "description": "美少女ゲームの原画家として活動し、ライトノベルの挿絵も手がけるイラストレーター。『シュヴァルツェスマーケン』のイラストを担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「シュヴァルツェスマーケン」でイラスト担当を確認(2026年8月)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "noco",
+    "name": "NOCO",
+    "nameKana": "ノコ",
+    "description": "『デート・ア・ライブ フラグメント デート・ア・バレット』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA・BOOK☆WALKER等の書誌情報でイラスト担当を確認(2026年8月)。読みは推定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "munyuu",
+    "name": "むにゅう",
+    "nameKana": "むにゅう",
+    "description": "電撃文庫『れでぃ×ばと!』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「れでぃ×ばと!」でイラスト担当を確認(2026年8月)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saboten",
+    "name": "仙人掌",
+    "nameKana": "さぼてん",
+    "description": "富士見ファンタジア文庫『ゲーマーズ!』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ゲーマーズ!」でイラスト担当を確認(2026年8月)。読みは通称に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tajima-ryuushi",
+    "name": "タジマ粒子",
+    "nameKana": "たじまりゅうし",
+    "description": "ガガガ文庫『僕を成り上がらせようとする最強女師匠たちが育成方針を巡って修羅場』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「赤城大空」および書誌情報でイラスト担当を確認(2026年8月)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "a-chiki",
+    "name": "Aちき",
+    "nameKana": "エーちき",
+    "description": "ガガガ文庫『塩対応の佐藤さんが俺にだけ甘い』の挿絵を担当したイラストレーター。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「塩対応の佐藤さんが俺にだけ甘い」でイラスト担当を確認(2026年8月)。読みは推定。",
+    "updatedAt": "2026-08-04"
   }
 ]

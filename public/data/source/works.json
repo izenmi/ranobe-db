@@ -29331,5 +29331,575 @@
     },
     "sourceNote": "Wikipedia日本語版「魔石グルメ 魔物の力を食べたオレは最強!」を参照し独自に要約(2026年8月時点)。小説は全9巻(2018-2021)、Web版は小説家になろうで本編完結後もアフターストーリーを更新。コミカライズは菅原健二作画。ボイスコミックはあるがTVアニメ化は未確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "girly-air-force",
+    "title": "ガーリー・エアフォース",
+    "titleKana": "がーりーえあふぉーす",
+    "authorIds": [
+      "natsumi-kouji"
+    ],
+    "illustratorIds": [
+      "tousaka-asagi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "koukuu-kuusen",
+      "sf",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "正体不明の飛行物体「ザイ」に制空権を奪われた世界で、人類は鹵獲技術から生まれた戦闘機「ドーター」と、それを操る少女型人格「アニマ」を戦力として投入する。上海からの脱出中にアニマのグリペンに救われた少年・慧は、彼女の専属操縦士候補として部隊に身を置くことになる。苛烈な空戦と、兵器でありながら人間らしさを育てていくアニマたちとの日常を重ねて描く航空SFアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガーリー・エアフォース"
+    },
+    "sourceNote": "Wikipedia日本語版「ガーリー・エアフォース」および電撃文庫公式・書誌情報で著者・イラスト・刊行期間(2014年9月〜2019年6月・全12巻)を確認(2026年8月)。本編は11巻で完結、12巻は短編集で以後の新刊なしのためcompletedとした。2019年1〜3月TVアニメ化、月刊少年エースでコミカライズ(全2巻)。著者は『葉桜が来た夏』で第14回電撃小説大賞選考委員奨励賞を受賞しているが本作の受賞ではない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "taimadou-gakuen-35-shiken-shoutai",
+    "title": "対魔導学園35試験小隊",
+    "titleKana": "たいまどうがくえんさんじゅうごしけんしょうたい",
+    "authorIds": [
+      "yanagimi-fuyuki"
+    ],
+    "illustratorIds": [
+      "kippu"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "mahou-gakuen",
+      "battle-action",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 15,
+    "status": "completed",
+    "synopsis": "魔法を悪用する者を狩る「異端審問官」を養成する対魔導学園。落ちこぼれと侮られる第35試験小隊を率いる草薙タケルは、対魔銃を扱えず刀一本で戦う剣士だった。そこへ実力者だが問題を抱えた少女が転入し、小隊は解散の危機と学園を巻き込む陰謀に立ち向かうことになる。剣戟と魔導バトルに隊員それぞれの過去と絆を絡めた学園異能アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/対魔導学園35試験小隊"
+    },
+    "sourceNote": "Wikipedia日本語版「対魔導学園35試験小隊」で著者・イラスト・刊行期間(2012年5月〜2016年7月・本編13巻+短編集2巻の全15巻)を確認(2026年8月)。2015年10〜12月にSILVER LINK.制作でTVアニメ化、月刊ドラゴンエイジ版・月刊コミックアライブ版の2種のコミカライズあり。作品自体の受賞は確認できず(著者は第19回ファンタジア長編小説大賞の最終選考通過でデビュー)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shio-taiou-no-satou-san-ga-ore-ni-dake-amai",
+    "title": "塩対応の佐藤さんが俺にだけ甘い",
+    "titleKana": "しおたいおうのさとうさんがおれにだけあまい",
+    "authorIds": [
+      "sawatari-kazami"
+    ],
+    "illustratorIds": [
+      "a-chiki"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 13,
+    "status": "ongoing",
+    "synopsis": "誰に対しても素っ気ない「塩対応」で知られる学校一の美少女・佐藤さんは、ある出来事をきっかけに押尾颯太にだけは砂糖のように甘く接するようになる。互いに好意を自覚しながらも決定的な一歩を踏み出せない二人が、家族や友人を巻き込みながら少しずつ距離を縮めていく。甘さと焦れったさを行き来する等身大の青春ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "ranobe-zuki-shoten-in-taisho",
+        "year": 2020,
+        "result": "文庫部門8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/塩対応の佐藤さんが俺にだけ甘い"
+    },
+    "sourceNote": "Wikipedia日本語版「塩対応の佐藤さんが俺にだけ甘い」で著者・イラスト・第1巻(2019年12月)・既刊13巻(2026年3月現在)を確認(2026年8月)。『マンガワン』『裏サンデー』で鉄山かや作画のコミカライズ連載中、TVアニメは2026年10月放送予定のためanime:trueとした。漫画版が受けた『みんなが選ぶ!!電子コミック大賞2022』男性部門賞は小説の受賞ではないため未記載。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nogizaka-haruka-no-himitsu",
+    "title": "乃木坂春香の秘密",
+    "titleKana": "のぎざかはるかのひみつ",
+    "authorIds": [
+      "igarashi-yuusaku"
+    ],
+    "illustratorIds": [
+      "shaa"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "otaku-shumi",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 16,
+    "status": "completed",
+    "synopsis": "才色兼備の優等生として全校の憧れを集める乃木坂春香には、重度のアニメ・漫画好きという誰にも言えない秘密があった。偶然それを知ってしまった平凡な同級生・綾瀬裕人は、秘密の共犯者として彼女を支えるうちに惹かれ合っていく。莫大な資産を持つ乃木坂家の人々や個性的な使用人たちを巻き込みながら、隠しごとと初恋が絡み合っていく学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乃木坂春香の秘密"
+    },
+    "sourceNote": "Wikipedia日本語版「乃木坂春香の秘密」で著者・イラスト・刊行期間(2004年10月〜2012年7月・全16巻)を確認(2026年8月)。2008〜2009年に2期TVアニメ化、2012年にOVA全4巻、しゃあ自身によるコミカライズ全4巻、ゲーム化もあり。受賞歴は当該記事に記載なし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "essa-oohashi-series",
+    "title": "越佐大橋シリーズ",
+    "titleKana": "えっさおおはししりーず",
+    "authorIds": [
+      "narita-ryougo"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "urashakai",
+      "gendai-drama",
+      "psycho-suspense",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "新潟と佐渡を結ぶはずだった巨大橋と人工島は、計画の頓挫によって法の届かない無法地帯と化した。そこには犯罪者や行き場を失った者たちが吹き溜まり、番犬・猟犬・狂犬と呼ばれる面々が島の主導権を巡って思惑をぶつけ合う。多数の視点人物が交錯する群像劇として、無法の島に渦巻く暴力と歪んだ人間関係を描くサスペンス連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/越佐大橋シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「越佐大橋シリーズ」で著者・イラスト・刊行期間(2003年12月〜2008年11月・外伝含む全5巻)を確認(2026年8月)。作者は同じ世界観の新作を書く可能性に言及しているが新刊なしのためcompletedとした。アニメ化・コミカライズの記載はなし。受賞歴も記載なし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ddd",
+    "title": "DDD",
+    "titleKana": "でぃーでぃーでぃー",
+    "authorIds": [
+      "kinoko-nasu"
+    ],
+    "illustratorIds": [
+      "koyama-hirokazu"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "dark-fantasy",
+      "urashakai",
+      "psycho-suspense",
+      "battle-action",
+      "mystery"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 2,
+    "status": "hiatus",
+    "synopsis": "身体が異形へと変貌していく奇病「亜種現実感染症」が広がる現代を舞台にした伝奇小説。片腕を失った青年と義肢の少女が、その症例が引き起こす事件に関わり、独自のやり方で「悪魔憑き」に決着をつけていく。加害者と被害者の境界が溶けた事件を、乾いた語り口と幻想的な設定で描くダークファンタジー。当初の全4巻構想に対し刊行は第2巻で長く止まっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DDD_(小説)"
+    },
+    "sourceNote": "Wikipedia日本語版「DDD (小説)」で著者・イラスト・講談社BOXから第1巻/第2巻とも2007年刊行・既刊2巻を確認(2026年8月)。『ファウスト』での連載開始は2004年7月だが、単行本初刊年の2007年をfirstPublishedYearとした。全4巻予定だが続巻情報がないためstatusはhiatus。榎本俊二による漫画版あり。アニメ化なし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "toaru-hikuushi-e-no-koiuta",
+    "title": "とある飛空士への恋歌",
+    "titleKana": "とあるひくうしへのこいうた",
+    "authorIds": [
+      "inumura-kouroku"
+    ],
+    "illustratorIds": [
+      "morisawa-haruyuki"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "koukuu-kuusen",
+      "romance",
+      "senki",
+      "adventure"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "革命によって国を追われた元皇子カルエルは、身分を隠して空飛ぶ島イスラの飛行科へ入る。そこで出会った気位の高い少女は、彼の一族を滅ぼした革命の当事者だった。互いの正体を伏せたまま芽生えていく想いと、「空の果て」を目指す航海の途上で襲いかかる敵国の襲撃。かつての立場も忘れられない過去も抱えたまま、少年少女は操縦桿を握って空へ上がる。恋と戦争が同じ空で交錯する航空戦記ロマン。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とある飛空士への恋歌"
+    },
+    "sourceNote": "Wikipedia日本語版「とある飛空士への恋歌」で著者・イラスト・刊行期間(2009年〜2011年・全5巻)を確認(2026年8月)。2014年に全13話でTVアニメ化、2014〜2015年にコミカライズ全4巻。同シリーズの『とある飛空士への追憶』は別作品として登録済み。作品自体の受賞は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "schwarzesmarken",
+    "title": "シュヴァルツェスマーケン",
+    "titleKana": "しゅばるつぇすまーけん",
+    "authorIds": [
+      "uchida-hiroki"
+    ],
+    "illustratorIds": [
+      "carnelian"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "senki",
+      "alternate-history",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 11,
+    "status": "completed",
+    "synopsis": "異星起源種BETAの侵攻を受ける1983年の東ドイツ。前線を支える精鋭戦術機中隊「黒の宣告」に配属されたテオドールは、シュタージによる監視と密告が支配する体制の中で、人類の敵だけでなく味方であるはずの権力とも戦うことを強いられる。『マブラヴ オルタネイティヴ』本編より18年前の欧州を舞台に、国家に翻弄される若い衛士たちの生き様を描く戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シュヴァルツェスマーケン"
+    },
+    "sourceNote": "Wikipedia日本語版「シュヴァルツェスマーケン」で著者(内田弘樹)・原案(吉宗鋼紀)・イラスト(CARNELIAN)・ファミ通文庫から2011年5月〜2016年1月に本編7巻+短編集2巻+外伝2巻の全11巻を確認(2026年8月)。既存ゲームのノベライズではなく『マブラヴ オルタネイティヴ』世界観の書き下ろしスピンオフ小説(ゲーム版は小説より後の2015〜2016年発売)のため採用。2016年に全12話でTVアニメ化、コミカライズあり。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "date-a-bullet",
+    "title": "デート・ア・ライブ フラグメント デート・ア・バレット",
+    "titleKana": "でーとあらいぶふらぐめんとでーとあばれっと",
+    "authorIds": [
+      "higashide-yuuichirou"
+    ],
+    "illustratorIds": [
+      "noco"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "sf",
+      "mystery"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "精霊の少女・時崎狂三がたどり着いたのは、死者に似た存在「準精霊」たちが集う隣界だった。記憶を失った少女エンプティは狂三と出会い、彼女に付き従って各領域を渡り歩く。そこでは準精霊同士が力を奪い合う殺し合いが繰り広げられていた。『デート・ア・ライブ』本編では語られなかった狂三の目的を、原作者監修のもとで描くスピンオフ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA・BOOK☆WALKER等の書誌情報とWikipedia日本語版「東出祐一郎」で、著者・イラスト(NOCO)・原案監修(橘公司)・富士見ファンタジア文庫から2017年3月〜2022年1月に全8巻を確認(2026年8月)。2020〜2021年に劇場公開/OVA『デート・ア・バレット』としてアニメ化。コミカライズは確認できずcomic:falseとした。本編『デート・ア・ライブ』は別作品として登録済み。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lillia-to-treize",
+    "title": "リリアとトレイズ",
+    "titleKana": "りりあととれいず",
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "adventure",
+      "romance",
+      "comedy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "長く争ってきた二つの国が和平へ向かう大陸を舞台に、女学生リリアと王族の血を引く少年トレイズが、旅先で次々に事件へ巻き込まれていく連作。『アリソン』の主人公たちの子世代が主役となり、飛行機や秘宝、王家の秘密が絡む騒動を軽妙な会話と伏線で描く。恋愛未満の距離を保ったままの二人の関係も物語の軸となる冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一つの大陸の物語シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「一つの大陸の物語シリーズ」で著者・イラスト・刊行期間(2005年3月〜2007年4月・全6巻)を確認(2026年8月)。『アリソン』と共にTVアニメ『アリソンとリリア』の原作となり、コミカライズもあり。作品自体の受賞は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "meg-to-seron",
+    "title": "メグとセロン",
+    "titleKana": "めぐとせろん",
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "bunka-club",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "『リリアとトレイズ』と同じ大陸を舞台に、時代を並行して進む学園編。第四上級学校の新聞部に集まった寮生セロンと、彼を慕う少女メグをはじめとする六人の部員が、学内の小さな謎から村を舞台にした連続殺人事件まで、さまざまな騒動へ首を突っ込んでいく。日常と事件を往復しながら少年少女の学生時代を描く青春ミステリ連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一つの大陸の物語シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「一つの大陸の物語シリーズ」で著者・イラスト・刊行期間(2008年3月〜2012年5月・全7巻)を確認(2026年8月)。アニメ化・コミカライズはいずれもなし。作品自体の受賞は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gakuen-kino",
+    "title": "学園キノ",
+    "titleKana": "がくえんきの",
+    "authorIds": [
+      "shigusawa-keiichi"
+    ],
+    "illustratorIds": [
+      "kuroboshi-kouhaku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "『キノの旅』の作者自身によるセルフパロディ作品。旅人だったキノは私立学園に通う女子中学生となり、相棒のモトラド・エルメスは喋る携帯電話へ姿を変えている。彼女は世界の平和を守る魔法少女「魔法少女キノ」として、パースエイダーを片手に理不尽な敵と戦う。本編の寓話性を裏返した過剰なギャグと楽屋落ちで綴られる不定期刊行のコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKER等の書誌情報で著者・イラスト・第1巻2006年7月・既刊7巻(第7巻は2019年9月)を確認(2026年8月)。完結宣言はなく不定期刊行のためstatusはongoing。本編『キノの旅 -the Beautiful World-』は別作品として登録済み。アニメ化・コミカライズは確認できず両方false(要再確認)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lady-x-butler",
+    "title": "れでぃ×ばと!",
+    "titleKana": "れでぃばと",
+    "authorIds": [
+      "kouzuki-tsukasa"
+    ],
+    "illustratorIds": [
+      "munyuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "butler-maid",
+      "gakuen",
+      "seishun-lovecome",
+      "mibunsa-romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "両親を事故で失った少年は、執事を養成する名門学園の使用人育成コースへ入学する。目つきが鋭く不良にしか見えない外見とは裏腹に、家事万能で面倒見のよい彼は、上流階級の令嬢が集う本科生や同期の執事見習いたちと衝突しながら学園生活を送っていく。誤解されやすい主人公と個性豊かな令嬢たちが織りなす執事学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/れでぃ×ばと!"
+    },
+    "sourceNote": "Wikipedia日本語版「れでぃ×ばと!」で著者・イラスト・刊行期間(2006年9月〜2012年3月・全13巻)を確認(2026年8月)。2010年にXEBEC制作で全12話TVアニメ化、2008年より猫屋敷ねこ丸によるコミカライズ、2009年ドラマCD化。受賞歴は記載なし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gamers",
+    "title": "ゲーマーズ!",
+    "titleKana": "げーまーず",
+    "authorIds": [
+      "aoi-sekina"
+    ],
+    "illustratorIds": [
+      "saboten"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "bunka-club",
+      "otaku-shumi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "一人で気ままにゲームを遊ぶだけの高校生・雨野景太は、学園一の美少女でゲーム部部長の天道花憐から入部を誘われるが、ゲームへの向き合い方の違いを理由に断ってしまう。そこから始まった勘違いと行き違いは連鎖し、五人のゲーマーたちの人間関係は際限なくこじれていく。誤解が誤解を呼び続ける、すれ違い型の青春ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "作品部門7位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "作品部門8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲーマーズ!"
+    },
+    "sourceNote": "Wikipedia日本語版「ゲーマーズ!」で著者・イラスト・刊行期間(2015年3月〜2019年10月・本編12巻+DLC3巻)を確認(2026年8月)。volumeCountは本編12巻を採用。2017年にTVアニメ化、2016〜2019年にコミカライズ連載。『このライトノベルがすごい!』作品部門2017年7位・2018年8位。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "overwrite",
+    "title": "オーバーライト",
+    "titleKana": "おーばーらいと",
+    "authorIds": [
+      "ikeda-akiya"
+    ],
+    "illustratorIds": [
+      "mirea"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "graffiti-street-art",
+      "gendai-drama",
+      "mystery",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "英国ブリストルへ留学した大学生ヨシは、バイト先の壁に描かれた落書きの謎をきっかけに、かつて名を馳せたグラフィティライターの少女ブーディシアと出会う。街の壁を舞台に繰り広げられるアートの応酬は、やがて街全体を巻き込む陰謀へとつながっていく。ストリートアートの文化と描き手のプライドを軸に据えた、異国が舞台の青春ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2019,
+        "result": "第26回 選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "電撃文庫公式サイト・BOOK☆WALKER等の書誌情報で著者・イラスト(みれあ)・全3巻(1巻2020年4月〜3巻2021年7月)を確認(2026年8月)。第1巻『オーバーライト――ブリストルのゴースト』が第26回電撃小説大賞〈選考委員奨励賞〉受賞。アニメ化・コミカライズは確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "enkan-shoujo",
+    "title": "円環少女",
+    "titleKana": "えんかんしょうじょ",
+    "authorIds": [
+      "hasegawa-toshiji"
+    ],
+    "illustratorIds": [
+      "miyou"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mahou",
+      "battle-action",
+      "urashakai",
+      "dark-fantasy",
+      "sf"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "地球は魔法を観測すると打ち消してしまう特異な世界であり、異界から流入した魔法犯罪者は非公式の公務員によって狩られている。監視役を任された青年は、圧倒的な力を持つ異界の魔法使いの少女メイゼルと組み、次々に現れる敵と対峙することになる。緻密な魔法設定と重い代償を伴う戦いを積み上げていく、現代を舞台にした伝奇バトルファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2012,
+        "result": "作品部門4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/円環少女"
+    },
+    "sourceNote": "Wikipedia日本語版「円環少女」で著者・イラスト・刊行期間(2005年8月〜2011年2月・全13巻)と『このライトノベルがすごい!2012』作品部門4位を確認(2026年8月)。アニメ化・コミカライズの記載はなし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saikyou-onna-shishou-tachi-shuraba",
+    "title": "僕を成り上がらせようとする最強女師匠たちが育成方針を巡って修羅場",
+    "titleKana": "ぼくをなりあがらせようとするさいきょうおんなししょうたちがいくせいほうしんをめぐってしゅらば",
+    "authorIds": [
+      "akagi-taikuu"
+    ],
+    "illustratorIds": [
+      "tajima-ryuushi"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "harem",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "才能に恵まれない少年クロスは、それでも憧れの冒険者を目指して黙々と鍛錬を続けていた。その姿に心を動かされた最強クラスの女性冒険者たちが次々と押しかけ、彼を弟子に取ろうと名乗りを上げる。剣士に魔導士に盗賊と、流派も指導方針もばらばらな師匠たちは事あるごとに衝突し、修行は毎回とんでもない事態へ発展していく異世界育成コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「赤城大空」・小学館公式サイト・書誌情報で著者・イラスト(タジマ粒子)・ガガガ文庫・2020年7月刊行開始・既刊7巻を確認(2026年8月)。2021年9月より『裏サンデー』でコミカライズ連載。アニメ化は確認できずfalse。著者は『下ネタという概念が存在しない退屈な世界』で第6回小学館ライトノベル大賞優秀賞を受賞しているが本作の受賞ではない。",
+    "updatedAt": "2026-08-04"
   }
 ]

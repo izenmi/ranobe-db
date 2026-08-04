@@ -19,7 +19,7 @@ from pathlib import Path
 SRC = Path(__file__).resolve().parent.parent / "public" / "data" / "source"
 
 TRIM_SUFFIX = re.compile(r"(シリーズ)$")
-DROP_CHARS = re.compile(r"[\s　ー～〜~\-−–—・,、.。!！?？:：;；'\"’”“‘()（）\[\]【】〈〉《》「」『』/／\\|]")
+DROP_CHARS = re.compile(r"[\s　ー～〜~\-−–—・,、.。!！?？:：;；'\"’”“‘()（）\[\]【】<>〈〉《》「」『』/／\\|]")
 
 
 def norm(s: str) -> str:
