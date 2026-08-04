@@ -1017,5 +1017,27 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKERの出版社情報で『異世界のんびり素材採取生活』の版元として確認。宝島社文庫とは別枠の単行本レーベル扱い。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadokawa-novels",
+    "name": "カドカワノベルズ",
+    "nameKana": "かどかわのべるず",
+    "parentCompany": "角川書店",
+    "description": "角川書店が展開したノベルス判(新書判)の叢書。伝奇・ホラー・SFの長編シリーズを多く抱え、『魔界水滸伝』などで1980年代の伝奇ブームを牽引した。",
+    "foundedYear": 1982,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「魔界水滸伝」でカドカワノベルズ刊行を確認(2026年8月時点)。創刊年1982年は概略値で要確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kodansha-x-teens-heart",
+    "name": "講談社X文庫ティーンズハート",
+    "nameKana": "こうだんしゃえっくすぶんこてぃーんずはーと",
+    "parentCompany": "講談社",
+    "description": "1987年創刊の10代女性向け小説レーベル。恋愛小説を中心に一大ブームを築き、小野不由美『悪霊シリーズ』などホラー・ミステリー系の人気シリーズも輩出した。",
+    "foundedYear": 1987,
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「悪霊シリーズ」で同レーベルからの刊行を確認(2026年8月時点)。創刊年は1987年。",
+    "updatedAt": "2026-08-04"
   }
 ]

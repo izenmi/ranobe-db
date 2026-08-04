@@ -7118,5 +7118,115 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「塩対応の佐藤さんが俺にだけ甘い」で著者名を確認(2026年8月)。生年等は未確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "arai-motoko",
+    "name": "新井素子",
+    "nameKana": "あらいもとこ",
+    "description": "1977年に高校在学中デビューした小説家。話し言葉に近い一人称の文体で少女向けSFの新しい形を切り開き、後年のライトノベルの文体に大きな影響を与えた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新井素子"
+    },
+    "sourceNote": "Wikipedia日本語版「星へ行く船」および著者記事を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ouryouji-shizuka",
+    "name": "王領寺静",
+    "nameKana": "おうりょうじしずか",
+    "description": "作家・藤本ひとみがジュブナイル/ファンタジー作品で用いた別名義。角川スニーカー文庫の『異次元騎士カズマ』シリーズで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤本ひとみ"
+    },
+    "sourceNote": "Wikipedia日本語版「藤本ひとみ」で王領寺静名義および『異次元騎士カズマ』の刊行情報を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tomono-shou",
+    "name": "友野詳",
+    "nameKana": "とものしょう",
+    "description": "グループSNE所属の作家・ゲームデザイナー。TRPGのリプレイや世界設定を土台にした小説を数多く手がけ、『ルナル・サーガ』などで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/友野詳"
+    },
+    "sourceNote": "Wikipedia日本語版「ルナル・サーガ」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamamoto-hiroshi",
+    "name": "山本弘",
+    "nameKana": "やまもとひろし",
+    "description": "グループSNE所属だった作家・ゲームデザイナー。SFと怪奇を融合させた作風で知られ、シェアード・ワールド企画『妖魔夜行』の中心作家を務めた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本弘_(作家)"
+    },
+    "sourceNote": "Wikipedia日本語版「妖魔夜行」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rokugo-maruni",
+    "name": "ろくごまるに",
+    "nameKana": "ろくごまるに",
+    "description": "富士見ファンタジア文庫を中心に活動する作家。独特の語り口と会話劇で支持を集め、代表作に『封仙娘娘追宝録』がある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ろくごまるに"
+    },
+    "sourceNote": "Wikipedia日本語版「封仙娘娘追宝録」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuwashima-yuuichi",
+    "name": "桑島由一",
+    "nameKana": "くわしまゆういち",
+    "description": "MF文庫J創刊期から活動する作家。家族や日常を描いたラブコメを得意とし、『神様家族』でアニメ化を果たした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桑島由一"
+    },
+    "sourceNote": "Wikipedia日本語版「神様家族」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "achi-tarou",
+    "name": "阿智太郎",
+    "nameKana": "あちたろう",
+    "description": "電撃文庫『僕の血を吸わないで』でデビューした作家。テンポの良いギャグと軽妙な会話を持ち味とし、『陰からマモル!』などを手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/阿智太郎"
+    },
+    "sourceNote": "Wikipedia日本語版「陰からマモル!」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "iwata-hiroki",
+    "name": "岩田洋季",
+    "nameKana": "いわたひろき",
+    "description": "2002年に『灰色のアイリス』で電撃文庫よりデビューした作家。学園を舞台にした異能ラブコメ『護くんに女神の祝福を!』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岩田洋季"
+    },
+    "sourceNote": "Wikipedia日本語版「岩田洋季」でデビュー作と刊行歴を確認(2026年8月時点)。受賞歴の記載はなし。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "iwamoto-takao",
+    "name": "岩本隆雄",
+    "nameKana": "いわもとたかお",
+    "description": "1990年に『星虫』で作家デビュー。宇宙と少年少女の憧れを真っすぐに描くジュブナイルSFを得意とし、ソノラマ文庫での復刊を機に活動を再開した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岩本隆雄"
+    },
+    "sourceNote": "Wikipedia日本語版「岩本隆雄」「星虫」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ogihara-noriko",
+    "name": "荻原規子",
+    "nameKana": "おぎわらのりこ",
+    "description": "『空色勾玉』などの勾玉三部作で知られる児童文学・ファンタジー作家。少女の成長と世界の秘密を重ねる長編を得意とし、『西の善き魔女』も手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荻原規子"
+    },
+    "sourceNote": "Wikipedia日本語版「西の善き魔女」を参照(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
   }
 ]

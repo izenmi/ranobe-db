@@ -29901,5 +29901,620 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「赤城大空」・小学館公式サイト・書誌情報で著者・イラスト(タジマ粒子)・ガガガ文庫・2020年7月刊行開始・既刊7巻を確認(2026年8月)。2021年9月より『裏サンデー』でコミカライズ連載。アニメ化は確認できずfalse。著者は『下ネタという概念が存在しない退屈な世界』で第6回小学館ライトノベル大賞優秀賞を受賞しているが本作の受賞ではない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bakuretsu-hunter",
+    "title": "爆れつハンター",
+    "titleKana": "ばくれつはんたー",
+    "authorIds": [
+      "akahori-satoru"
+    ],
+    "illustratorIds": [
+      "omishi-rei"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "ken-to-mahou",
+      "battle-action",
+      "comedy",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 1993,
+    "volumeCount": 6,
+    "status": "hiatus",
+    "synopsis": "魔法使いが特権階級として君臨し、民を虐げる世界。教会に仕えるソーサラー・ハンターたちは、悪しき魔法使いを狩るために各地へ送り出される。キャロット、マロン、ティラらの一行は、依頼をこなすうちに滅びの神の復活をもくろむ陰謀と、キャロット自身に眠る獣の力の秘密に近づいていく。下ネタ混じりのギャグと熱いバトルを行き来する、1990年代を代表する痛快ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/爆れつハンター"
+    },
+    "sourceNote": "Wikipedia日本語版「爆れつハンター」で小説版『ソーサラー狩り 爆れつハンター』が電撃文庫より1993〜1996年に全6巻(事実上の打ち切り・未完)、著者あかほりさとる/挿絵臣士れいであることを確認(2026年8月)。刊行当時の電撃文庫は主婦の友社発行。別冊のSpecialが3巻ある。臣士れい作画の漫画版・テレビアニメ版が存在する。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ijigen-kishi-kazuma",
+    "title": "異次元騎士カズマ",
+    "titleKana": "いじげんきしかずま",
+    "authorIds": [
+      "ouryouji-shizuka"
+    ],
+    "illustratorIds": [
+      "yasuhiko-yoshikazu"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1988,
+    "volumeCount": 10,
+    "status": "hiatus",
+    "synopsis": "現代の日本から異世界へ放り込まれた少年カズマが、剣と馬の世界で騎士としての作法と戦いを身につけていく冒険譚。黄金の拍車を目指す修行の日々から始まり、海賊船に囚われての航海、剣闘士として闘技場に立つ日々へと舞台を移しながら、彼は異郷で生き抜く力と仲間を得ていく。中世西洋の風俗を丹念に描き込んだ、80年代スニーカー文庫を代表する長編シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤本ひとみ"
+    },
+    "sourceNote": "Wikipedia日本語版「藤本ひとみ」で王領寺静名義・角川スニーカー文庫・1988年3月刊行開始を確認(2026年8月)。『黄金拍車』全5巻(1988-1989)、『骸骨旗トラベル』全3巻(1990-1991)、『剣奴王ウォーズ』既刊2巻で未完(1991-1992)の計10巻。挿絵は主に安彦良和(『黄金拍車』1巻のみ小島康治)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hoshi-e-iku-fune",
+    "title": "星へ行く船",
+    "titleKana": "ほしへいくふね",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "illustratorIds": [
+      "takemiya-keiko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "sf",
+      "adventure",
+      "tantei",
+      "romance"
+    ],
+    "firstPublishedYear": 1981,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "人類が当たり前のように宇宙で暮らすようになった未来。十九歳の森村あゆみは、家出同然で地球を飛び出し火星行きの船に乗り込む。行き着いた先の水沢総務課で働き始めた彼女は、風変わりな同僚たちに囲まれながら、持ち込まれる事件の数々に首を突っ込んでいく。やがて自分の中に眠る不思議な力にも気づいていく、軽やかな語り口の少女向けSF連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星へ行く船"
+    },
+    "sourceNote": "Wikipedia日本語版「星へ行く船」で新井素子著・竹宮惠子挿絵・集英社文庫コバルトシリーズ(コバルト文庫)より1981年3月刊行開始・本編全5巻を確認(2026年8月)。1980年『高一コース』連載が初出。1984年に『週刊マーガレット』でコミカライズ、1982年・1986年にラジオドラマ化。2016〜2017年に出版芸術社より新装・完全版。アニメ化は確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gin-no-umi-kin-no-daichi",
+    "title": "銀の海 金の大地",
+    "titleKana": "ぎんのうみきんのだいち",
+    "authorIds": [
+      "himuro-saeko"
+    ],
+    "illustratorIds": [
+      "iida-haruko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "romance",
+      "youkai-ayakashi",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1992,
+    "volumeCount": 11,
+    "status": "hiatus",
+    "synopsis": "ヤマト王権が版図を広げつつあった古代。近江の地で奴婢の娘として育った十四歳の真秀は、自分が滅ぼされた狭穂一族の血を引くことを知る。土地に根づく神々と、征服者としてやってきた新しい王権。二つの世界のあいだで、真秀は己の出自と不思議な力に翻弄されながら、愛憎渦巻く政争の渦中へ引きずり込まれていく。氷室冴子が晩年に取り組んだ古代和風の大河ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀の海_金の大地"
+    },
+    "sourceNote": "Wikipedia日本語版「銀の海 金の大地」で氷室冴子著・飯田晴子イラスト・コバルト文庫より1992年3月〜1996年1月に全11巻、1991年10月〜1995年4月連載を確認(2026年8月)。「真秀編」11巻までで著者急逝(2008年)により未完のためstatusはhiatus。2025年に集英社オレンジ文庫より復刊。アニメ・コミカライズは確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "za-change",
+    "title": "ざ・ちぇんじ!",
+    "titleKana": "ざちぇんじ",
+    "authorIds": [
+      "himuro-saeko"
+    ],
+    "illustratorIds": [
+      "minemura-ryouko"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "danso-josou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1983,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "平安の昔、権大納言家に生まれた姉弟は、勝ち気な姉が男として、内気な弟が女として育てられた。やがて姉の綺羅君は男装のまま宮中に出仕し、弟は女房として東宮に仕えることになる。とりかへばや物語を下敷きに、入れ替わった二人が恋と出世と秘密の露見に振り回されるさまを、現代的な軽妙さで描く。氷室冴子の平安もの少女小説の代表作のひとつ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ざ・ちぇんじ!"
+    },
+    "sourceNote": "Wikipedia日本語版「ざ・ちぇんじ!」で氷室冴子著・峯村良子挿絵(初版)・コバルト文庫より1983〜1985年に全2巻を確認(2026年8月)。古典『とりかへばや物語』の翻案。1987〜1988年に山内直実作画で『花とゆめ』にてコミカライズ(全4巻、1999年に白泉社より全2巻で再刊)。アニメ化は確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "makai-suikoden",
+    "title": "魔界水滸伝",
+    "titleKana": "まかいすいこでん",
+    "authorIds": [
+      "kurimoto-kaoru"
+    ],
+    "illustratorIds": [
+      "nagai-gou"
+    ],
+    "publisherId": "kadokawa-novels",
+    "themeIds": [
+      "horror",
+      "youkai-ayakashi",
+      "sf",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1982,
+    "volumeCount": 20,
+    "status": "completed",
+    "synopsis": "日本の山野に潜んでいた魔物たちと、宇宙の彼方から地球を狙う邪神の眷属。両者の激突に、ごく普通の人々が否応なく巻き込まれていく。クトゥルー神話の異形の神々を日本古来の妖怪伝承と接続し、人類存亡を賭けた戦いを二十巻にわたって描ききった伝奇SF大河。日本にクトゥルー神話ブームをもたらした先駆的作品として知られる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界水滸伝"
+    },
+    "sourceNote": "Wikipedia日本語版「魔界水滸伝」で栗本薫著・カドカワノベルズ刊・挿絵永井豪(角川版)・本編全20巻(1991年6月完結)・外伝4巻を確認(2026年8月)。1981年9月『野性時代』連載開始で、書籍化はカドカワノベルズ。firstPublishedYearは書籍刊行開始年として1982年としたが要確認。続編『新・魔界水滸伝』は著者逝去により未完。1987年にイメージアルバム・ゲームブックあり。アニメ化・コミカライズは確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lunal-saga",
+    "title": "ルナル・サーガ",
+    "titleKana": "るなるさーが",
+    "authorIds": [
+      "tomono-shou"
+    ],
+    "illustratorIds": [
+      "sadamoto-yoshiyuki",
+      "nishimura-hiroyuki"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "ken-to-mahou",
+      "isekai-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "七つの月が空にかかる世界ルナル。人はどの月の神を信仰するかによって性質も授かる力も変わり、月ごとの信徒が入り交じって暮らしている。そんな地を旅する一行が、赤い瀑布の異変をきっかけに世界を揺るがす陰謀へと踏み込んでいく。TRPGのリプレイと設定資料から立ち上がった緻密な世界観を、小説として一本の物語に編み上げた本格ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルナル・サーガ"
+    },
+    "sourceNote": "Wikipedia日本語版「ルナル・サーガ」で友野詳著・角川書店(角川スニーカー文庫)・1992年8月刊行開始・本編全6巻を確認(2026年8月)。『GURPSルナル』を土台としたTRPG由来の世界観で、外伝・カルツィファード編等の派生シリーズあり。挿絵は版により貞本義行・本田雄・西村博之・佐々木亮ら複数で、新装版(2014年〜)は西村博之描き下ろし。漫画版は連載途中で未完、ドラマCDあり。アニメ化は確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "youma-yakou",
+    "title": "妖魔夜行",
+    "titleKana": "ようまやこう",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "illustratorIds": [
+      "aoki-kunio"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "youkai-ayakashi",
+      "horror",
+      "gendai-drama",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1993,
+    "volumeCount": 19,
+    "status": "completed",
+    "synopsis": "現代の東京には、人の恐れや憧れといった想いが形を得て生まれた妖怪たちが、人に紛れて暮らしている。彼らは互いに争い、時に手を結び、人間社会の片隅で自分なりの居場所を探していく。ホラーを土台にしながら、アクション、パロディ、SF、人間ドラマまで作風の異なる短編が並ぶシェアード・ワールド企画で、グループSNEの作家陣が同じ世界を共有して書き継いだ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖魔夜行"
+    },
+    "sourceNote": "Wikipedia日本語版「妖魔夜行」でグループSNE(山本弘ほか複数作家)著・青木邦夫イラスト・角川スニーカー文庫より1993年9月刊行開始を確認(2026年8月)。2011年9月時点で全19巻。1993〜2000年に刊行後、2011年に山本弘の新作で復活。続編『百鬼夜翔』(2000-2005)あり。1994年よりTRPGルールブックが刊行されたシェアード・ワールド企画。authorIdsには中心作家の山本弘のみを登録。アニメ化・コミカライズは確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ghost-hunt",
+    "title": "ゴーストハント",
+    "titleKana": "ごーすとはんと",
+    "authorIds": [
+      "ono-fuyumi"
+    ],
+    "illustratorIds": [
+      "nakamura-sachio"
+    ],
+    "publisherId": "kodansha-x-teens-heart",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "gakuen",
+      "youkai-ayakashi",
+      "onmyoushi-taimashi"
+    ],
+    "firstPublishedYear": 1989,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "ごく普通の女子高生・谷山麻衣は、旧校舎で起きた事故をきっかけに、渋谷サイキックリサーチという心霊現象の調査事務所でアルバイトをすることになる。所長のナルをはじめ、巫女や僧侶、霊媒師といった曲者ぞろいの面々とともに、麻衣は呪われた学校や旧家の屋敷を訪ね歩く。怪異の背後に隠された人間の因縁を、調査と推理で解きほぐしていく本格心霊ミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪霊シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「悪霊シリーズ」で小野不由美著・中村幸緒挿絵・講談社X文庫ティーンズハートより1989〜1992年に全8巻(旧題『悪霊シリーズ』)を確認(2026年8月)。続編『悪夢の棲む家』全2巻(1994年)。2010〜2011年にメディアファクトリーより『ゴーストハント』として改稿・改題再刊、2021年時点で角川文庫全7巻。1998〜2016年にいなだ詩穂によるコミカライズ、2006〜2007年にテレビアニメ全25話。1997年ラジオドラマ化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fuusen-nyannyan-tsuihouroku",
+    "title": "封仙娘娘追宝録",
+    "titleKana": "ふうせんにゃんにゃんついほうろく",
+    "authorIds": [
+      "rokugo-maruni"
+    ],
+    "illustratorIds": [
+      "hisaichi-yoshiki"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "chuuka-fantasy",
+      "adventure",
+      "comedy",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1995,
+    "volumeCount": 16,
+    "status": "completed",
+    "synopsis": "仙人の見習い和穂は、昇級試験の場でしくじり、封じられていた七百二十七個の欠陥宝貝を人間界にばらまいてしまう。責任を取るため、彼女は仙術の大半を封印されたまま地上へ降り、宝貝の回収の旅に出る。頼りになるのかならないのか分からない相棒の宝貝たちと、癖の強い人間や妖仙に振り回されながらの珍道中。軽妙な語り口が持ち味の中華風ファンタジー長期シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/封仙娘娘追宝録"
+    },
+    "sourceNote": "Wikipedia日本語版「封仙娘娘追宝録」でろくごまるに著・ひさいちよしきイラスト・富士見ファンタジア文庫より1995年8月〜2009年2月刊行・全16巻(本編11巻+短編集5巻)・完結を確認(2026年8月)。アニメ化・コミカライズは確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kamisama-kazoku",
+    "title": "神様家族",
+    "titleKana": "かみさまかぞく",
+    "authorIds": [
+      "kuwashima-yuuichi"
+    ],
+    "illustratorIds": [
+      "yasuda-suzuhito"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "comedy",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 9,
+    "status": "completed",
+    "synopsis": "神様の父と女神の母、修行中の姉と妹に囲まれて、次期神様候補の少年サマタは人間を学ぶため東京の世田谷で暮らしている。願えば何でも叶えられる立場でありながら、彼は転校生の少女への恋だけは自分の力で実らせたいと願う。ところが彼を見守るために遣わされた守護天使の心も揺れ始め、家族と神様の都合が絡んだ賑やかな三角関係が転がり出す。家族愛とラブコメを両立させた青春作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様家族"
+    },
+    "sourceNote": "Wikipedia日本語版「神様家族」で桑島由一著・ヤスダスズヒトイラスト・MF文庫Jより2003年6月〜2008年1月刊行・全9巻(本編8巻+短編集1巻)・完結を確認(2026年8月)。『月刊コミックフラッパー』でコミカライズ全5巻、2006年5〜8月に東映アニメーション制作の全13話テレビアニメ、2006年9月にPS2用ゲーム。書評家・谷口基一による2005年ライトノベル注目作2位の言及があるが賞ではないためawardResultsは空。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "d-crackers",
+    "title": "Dクラッカーズ",
+    "titleKana": "でぃーくらっかーず",
+    "authorIds": [
+      "azano-kouhei"
+    ],
+    "illustratorIds": [
+      "murasaki-hisato"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "battle-action",
+      "gakuen",
+      "urashakai",
+      "horror",
+      "romance"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 10,
+    "status": "completed",
+    "synopsis": "服用した者に悪魔の力を宿すという禁断の薬「カプセル」。それを巡る裏社会の抗争に、高校生の物部景と姫木梓が巻き込まれていく。薬がもたらす異能は代償として使用者の心と身体を蝕み、街では欲望に呑まれた者たちが次々と怪物へと変わっていく。傷を抱えた二人が距離を縮めながら泥沼の戦いに身を投じる、疾走感あふれるネオ・アクションサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dクラッカーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「Dクラッカーズ」であざの耕平著・村崎久都イラスト・富士見ミステリー文庫より2000年11月〜2004年1月に全10巻(本編8巻+短編集2巻)・完結を確認(2026年8月)。2007年5〜12月に富士見ファンタジア文庫より再刊(全10巻)。『このライトノベルがすごい!2005』男性キャラクター部門で主人公が6位に入っているがキャラ人気投票のためawardResultsには含めない。アニメ化・コミカライズは確認できずfalse。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kage-kara-mamoru",
+    "title": "陰からマモル!",
+    "titleKana": "かげからまもる",
+    "authorIds": [
+      "achi-tarou"
+    ],
+    "illustratorIds": [
+      "madarasai"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "ninja",
+      "seishun-lovecome",
+      "comedy",
+      "gakuen",
+      "osananajimi"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "隣に住むドジな幼馴染の唯を、高校生の守は誰にも知られず陰から守り続けている。四百年前、こんにゃく職人の一族を護衛せよと命じられた忍者の家系に生まれたためだ。転んでも階段から落ちても本人に気づかれてはならないという掟のもと、守は今日も超人的な忍術で日常の危機をなかったことにする。そこへ他家の忍者たちまで押しかけてきて、平穏な学園生活はますます遠のいていく忍者ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰からマモル!"
+    },
+    "sourceNote": "Wikipedia日本語版「陰からマモル!」で阿智太郎著・まだらさいイラスト・メディアファクトリー MF文庫Jより2003年7月〜2008年3月に全12巻・完結を確認(2026年8月)。続編シリーズあり。2005〜2022年にコミカライズ(全8巻)、2006年1〜3月にグループ・タック制作のテレビアニメ全12話をテレビ東京・テレビ大阪で放送。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mamoru-kun-ni-megami-no-shukufuku-wo",
+    "title": "護くんに女神の祝福を!",
+    "titleKana": "まもるくんにめがみのしゅくふくを",
+    "authorIds": [
+      "iwata-hiroki"
+    ],
+    "illustratorIds": [
+      "satou-toshiyuki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 16,
+    "status": "completed",
+    "synopsis": "人の想いに応えて奇跡を起こす物質ベアトリスの使い手を育てる学園に、吉村護は転入する。幼い日に見た奇跡が忘れられなかったからだ。そこで彼を待っていたのは、世界三指に数えられる才能を持ちながら人を寄せつけない少女・高須葉子。冷たい態度とは裏腹に、彼女は初日に護へ想いを告げる。強大な力を持つ恋人と平凡な少年が、周囲の思惑や襲いくる試練を二人で乗り越えていく学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/護くんに女神の祝福を!"
+    },
+    "sourceNote": "Wikipedia日本語版「護くんに女神の祝福を!」で岩田洋季著・佐藤利幸イラスト・電撃文庫より2003年9月〜2009年3月に本編12巻+外伝4巻の全16巻・完結を確認(2026年8月)。『電撃hp』『電撃マ王』で作画者の異なる2種のコミカライズ、2006〜2007年にWOWOWでテレビアニメ全24話。著者のデビュー作は2002年の『灰色のアイリス』(電撃文庫)。本作の新人賞受賞歴はWikipedia上で確認できなかったためawardResultsは空とした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "asura-cryin",
+    "title": "アスラクライン",
+    "titleKana": "あすらくらいん",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "wari-nao"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "robot-mecha",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 14,
+    "status": "completed",
+    "synopsis": "兄が失踪し、高校生の夏目智春は空き家となった家で一人暮らしを始める。だがそこには幼馴染の幽霊・美空が居座り、さらに謎めいたトランクが持ち込まれたことで、彼は機甲魔導兵アスラマキーナを巡る戦いに引きずり込まれていく。魔法と機械が交錯する戦闘の裏には並行世界の秘密が隠されており、いま生きているこの世界そのものの成り立ちが揺らいでいく学園伝奇アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アスラクライン"
+    },
+    "sourceNote": "Wikipedia日本語版「アスラクライン」で三雲岳斗著・和狸ナオイラスト・電撃文庫より2005年7月〜2010年2月に全14巻・完結を確認(2026年8月)。2008〜2010年にあきづきりょう作画でコミカライズ、2009年に2期計26話のテレビアニメ。2015年10月時点でシリーズ累計約150万部。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hoshimushi",
+    "title": "星虫",
+    "titleKana": "ほしむし",
+    "authorIds": [
+      "iwamoto-takao"
+    ],
+    "illustratorIds": [
+      "michihara-katsumi",
+      "suzuki-masahisa"
+    ],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "sf",
+      "gakuen",
+      "adventure",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1990,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "地球外生命の存在が確かめられた近未来の日本に、宇宙から飛来した謎の生物が人々の額に貼りつく。星虫と名づけられたそれは、宿主の身体能力を高める代わりに少しずつ成長し、社会に混乱をもたらしていく。宇宙飛行士を夢見る高校生の氷室伴美と、落ちこぼれを装った天才の根太郎は、星虫を切り離さずに共に生きる道を選ぶ。やがて二人は星虫を宇宙へ還す決意を固める、まっすぐなジュブナイルSF。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星虫"
+    },
+    "sourceNote": "Wikipedia日本語版「星虫」「岩本隆雄」で1990年7月に新潮社(新潮文庫ファンタジーノベル・シリーズ)より刊行、本文イラストは道原かつみ、のち2000年にソノラマ文庫より加筆改稿版が刊行され本文イラストは鈴木雅久であることを確認(2026年8月)。第1回日本ファンタジーノベル大賞最終候補作だが受賞ではないためawardResultsは空。1992年にNHK-FM『青春アドベンチャー』でラジオドラマ化。アニメ映画化は企画のみで実現せず。publisherIdは復刊レーベルであるソノラマ文庫を採用。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "seikai-no-senki",
+    "title": "星界の戦旗",
+    "titleKana": "せいかいのせんき",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "illustratorIds": [
+      "akai-takami"
+    ],
+    "publisherId": "hayakawa-bunko-ja",
+    "themeIds": [
+      "space-opera",
+      "sf",
+      "senki",
+      "romance"
+    ],
+    "firstPublishedYear": 1996,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "『星界の紋章』に続く続編シリーズ。人類の大半を版図に収めたアーヴによる人類帝国と、それに対抗する諸国連合との全面戦争が始まる。士族の身分を得た地上人のジントと、帝国の皇女ラフィールは、それぞれ士官として艦隊に身を置き、平面宇宙を舞台にした苛烈な航路争奪戦へ加わっていく。戦火のなかで生まれと文化の異なる二人が信頼を深めていく、日本を代表するスペースオペラ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星界シリーズ"
+    },
+    "sourceNote": "Wikipedia日本語版「星界シリーズ」で森岡浩之著・赤井孝美イラスト・ハヤカワ文庫JAより『星界の戦旗』が1996年より刊行、既刊6巻で継続中であることを確認(2026年8月)。既登録の『星界の紋章』(全3巻)の続編シリーズとして独立登録。第28回星雲賞日本長編部門受賞は『星界の紋章』に対するもので本シリーズの受賞ではないためawardResultsは空。1999〜2005年にWOWOWでテレビアニメ、コミカライズ・ゲーム・ドラマCDあり。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tabasa-no-bouken",
+    "title": "ゼロの使い魔外伝 タバサの冒険",
+    "titleKana": "ぜろのつかいまがいでんたばさのぼうけん",
+    "authorIds": [
+      "yamaguchi-noboru"
+    ],
+    "illustratorIds": [
+      "usaduka-eiji"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure",
+      "spy-assassin"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 3,
+    "status": "hiatus",
+    "synopsis": "『ゼロの使い魔』の登場人物であるトリステイン魔法学院の生徒シャルロット、通称タバサを主人公に据えた外伝シリーズ。無口な少女の裏の顔は、ガリア王家に仕える騎士として危険な任務をこなす存在だった。母を奪われた過去と王家への複雑な思いを抱えながら、彼女は風韻竜シルフィードとともに他国へ潜入し、剣と魔法の入り交じる戦場を渡り歩く。本編では語られない彼女の戦いを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよびKADOKAWA公式の書誌情報で、ヤマグチノボル著・兎塚エイジイラスト・MF文庫Jより2007年より刊行、シリーズ3冊であることを確認(2026年8月)。既登録の『ゼロの使い魔』の外伝。著者の逝去(2013年)により未完のためstatusはhiatus。外伝単独のアニメ化・コミカライズは確認できずfalse(本編『ゼロの使い魔』はアニメ化済み)。Wikipedia単独記事は確認できず。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nishi-no-yoki-majo",
+    "title": "西の善き魔女",
+    "titleKana": "にしのよきまじょ",
+    "authorIds": [
+      "ogihara-noriko"
+    ],
+    "illustratorIds": [
+      "ushijima-keiko"
+    ],
+    "publisherId": "chuokoron-cnovels-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "romance",
+      "adventure",
+      "sf"
+    ],
+    "firstPublishedYear": 1997,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "北の辺境セラフィールドで天文学者の父と暮らす十五歳のフィリエルは、初めての舞踏会の日、幼馴染のルーンから青い石のペンダントを託される。それは亡き母の形見であり、王家の血を証す品でもあった。素性を知られた彼女は王位継承争いの渦中へ引き込まれ、女王候補として都へ向かうことになる。少女の成長と初恋を軸に、やがて世界そのものの成り立ちの秘密へと踏み込んでいく長編ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西の善き魔女"
+    },
+    "sourceNote": "Wikipedia日本語版「西の善き魔女」で荻原規子著・C★NOVELSファンタジアより1997年9月〜2003年5月に本編5巻+外伝3巻の全8巻を確認(2026年8月)。C★NOVELSファンタジア初版の挿絵は1〜4巻が牛島慶子、5巻がきがわ琳、外伝が朝比奈凉子。新装版は桃川春日子、中央公論新社ハードカバー版は佐竹美保、角川文庫版は小林系。2004〜2007年に『月刊コミックブレイド』でコミカライズ、2006年4〜6月にテレビアニメ『西の善き魔女 Astraea Testament』全13話。",
+    "updatedAt": "2026-08-04"
   }
 ]

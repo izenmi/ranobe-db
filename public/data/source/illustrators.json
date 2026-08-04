@@ -5774,5 +5774,141 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「塩対応の佐藤さんが俺にだけ甘い」でイラスト担当を確認(2026年8月)。読みは推定。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "omishi-rei",
+    "name": "臣士れい",
+    "nameKana": "おみしれい",
+    "description": "『爆れつハンター』の作画・挿絵で知られる漫画家・イラストレーター。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/臣士れい"
+    },
+    "sourceNote": "Wikipedia日本語版「爆れつハンター」を参照(2026年8月時点)。読みは「おみしれい」。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takemiya-keiko",
+    "name": "竹宮惠子",
+    "nameKana": "たけみやけいこ",
+    "description": "『風と木の詩』『地球へ…』で知られる少女漫画家。少女小説の装画・挿絵も数多く手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹宮惠子"
+    },
+    "sourceNote": "Wikipedia日本語版「星へ行く船」で挿絵担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "iida-haruko",
+    "name": "飯田晴子",
+    "nameKana": "いいだはるこ",
+    "description": "漫画家・イラストレーター。繊細な線で古代和風の意匠を描き、『銀の海 金の大地』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「銀の海 金の大地」でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-gou",
+    "name": "永井豪",
+    "nameKana": "ながいごう",
+    "description": "『デビルマン』『マジンガーZ』で知られる漫画家。カドカワノベルズ版『魔界水滸伝』の挿絵を担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/永井豪"
+    },
+    "sourceNote": "Wikipedia日本語版「魔界水滸伝」で挿絵担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sadamoto-yoshiyuki",
+    "name": "貞本義行",
+    "nameKana": "さだもとよしゆき",
+    "description": "アニメーター・漫画家。キャラクターデザイナーとして知られ、『ルナル・サーガ』でも世界観のビジュアル面を担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貞本義行"
+    },
+    "sourceNote": "Wikipedia日本語版「ルナル・サーガ」でイラスト担当者の一人として確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nishimura-hiroyuki",
+    "name": "西村博之",
+    "nameKana": "にしむらひろゆき",
+    "description": "アニメーター・イラストレーター。『ルナル・サーガ』新装版のイラストを描き下ろした。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「ルナル・サーガ」および新装版の書誌情報で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aoki-kunio",
+    "name": "青木邦夫",
+    "nameKana": "あおきくにお",
+    "description": "イラストレーター。シェアード・ワールド企画『妖魔夜行』の挿絵を長く担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「妖魔夜行」でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakamura-sachio",
+    "name": "中村幸緒",
+    "nameKana": "なかむらさちお",
+    "description": "イラストレーター。講談社X文庫ティーンズハート版『悪霊シリーズ』(のちのゴーストハント)の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「悪霊シリーズ」および同レーベル既刊の書誌情報で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hisaichi-yoshiki",
+    "name": "ひさいちよしき",
+    "nameKana": "ひさいちよしき",
+    "description": "イラストレーター。『封仙娘娘追宝録』の挿絵を全巻にわたり担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「封仙娘娘追宝録」でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "murasaki-hisato",
+    "name": "村崎久都",
+    "nameKana": "むらさきひさと",
+    "description": "イラストレーター。『Dクラッカーズ』の挿絵を担当し、あざの耕平作品の初期を支えた。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「Dクラッカーズ」および電子書籍ストアの書誌情報で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "madarasai",
+    "name": "まだらさい",
+    "nameKana": "まだらさい",
+    "description": "イラストレーター。MF文庫J『陰からマモル!』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「陰からマモル!」でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "satou-toshiyuki",
+    "name": "佐藤利幸",
+    "nameKana": "さとうとしゆき",
+    "description": "イラストレーター。電撃文庫『護くんに女神の祝福を!』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「護くんに女神の祝福を!」でイラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "michihara-katsumi",
+    "name": "道原かつみ",
+    "nameKana": "みちはらかつみ",
+    "description": "漫画家・イラストレーター。『銀河英雄伝説』の漫画版などで知られ、新潮文庫版『星虫』の挿絵も手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/道原かつみ"
+    },
+    "sourceNote": "Wikipedia日本語版「岩本隆雄」で新潮文庫版『星虫』の本文イラスト担当を確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ushijima-keiko",
+    "name": "牛島慶子",
+    "nameKana": "うしじまけいこ",
+    "description": "イラストレーター。C★NOVELSファンタジア版『西の善き魔女』1〜4巻の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版「西の善き魔女」の各版イラスト一覧で確認(2026年8月時点)。",
+    "updatedAt": "2026-08-04"
   }
 ]
