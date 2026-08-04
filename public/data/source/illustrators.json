@@ -5630,5 +5630,77 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版・本人サイトのドメイン表記(kirouran)から読みを推定(2026年8月時点)。確定した読み仮名は未確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "toichi",
+    "name": "⑪(トイチ)",
+    "nameKana": "といち",
+    "description": "イラストレーター。レジーナブックス『異世界でカフェを開店しました。』の挿絵を全巻にわたり担当した。",
+    "externalLinks": {},
+    "sourceNote": "レジーナブックス(アルファポリス)およびBOOK☆WALKERの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koruse",
+    "name": "こるせ",
+    "nameKana": "こるせ",
+    "description": "イラストレーター。GAノベル『モンスターがあふれる世界になったので、好きに生きたいと思います』の挿絵を担当している。",
+    "externalLinks": {},
+    "sourceNote": "GAノベル公式特設サイトの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shigaraki-akira",
+    "name": "しがらき旭",
+    "nameKana": "しがらきあきら",
+    "description": "イラストレーター。アルファポリス『最強の職業は勇者でも賢者でもなく鑑定士(仮)らしいですよ?』のキャラクターデザイン・挿絵を担当している。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよびアルファポリスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kondou-kokon",
+    "name": "紺藤ココン",
+    "nameKana": "こんどうここん",
+    "description": "イラストレーター。アルファポリス『魔力ゼロの出来損ない貴族、四大精霊王に溺愛される』の挿絵を担当している。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERおよびブックライブの書誌情報で確認。読みは推定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gochou",
+    "name": "伍長",
+    "nameKana": "ごちょう",
+    "description": "イラストレーター。モンスター文庫『神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・キミラノの書誌情報で確認。読みは推定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kodama-tori",
+    "name": "児玉酉",
+    "nameKana": "こだまとり",
+    "description": "イラストレーター。BKブックス『悪徳領主の息子に転生!?』の挿絵を担当した。",
+    "externalLinks": {},
+    "sourceNote": "ブックライブのBKブックス書誌情報で確認。読みは推定。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ritter",
+    "name": "リッター",
+    "nameKana": "りったー",
+    "description": "イラストレーター。宝島社『異世界のんびり素材採取生活』の挿絵を担当している。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shiba",
+    "name": "芝",
+    "nameKana": "しば",
+    "description": "イラストレーター。GCN文庫『モンスターの肉を食っていたら王位に就いた件』のキャラクターデザイン・挿絵を担当している。",
+    "externalLinks": {},
+    "sourceNote": "GCN文庫公式特設サイトおよびAmazonの書誌情報で確認。読みは推定。",
+    "updatedAt": "2026-08-04"
   }
 ]

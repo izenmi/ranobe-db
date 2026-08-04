@@ -28635,5 +28635,701 @@
     "webNovelSource": {
       "platform": "narou"
     }
+  },
+  {
+    "id": "musou-kouro",
+    "title": "無双航路 転生して宇宙戦艦のAIになりました",
+    "titleKana": "むそうこうろ てんせいしてうちゅうせんかんのえーあいになりました",
+    "authorIds": [
+      "matsuya-daisuki"
+    ],
+    "illustratorIds": [
+      "kurogane"
+    ],
+    "publisherId": "legend-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "sf",
+      "space-opera",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ごく普通の高校生だった阿佐ヶ谷真は、目覚めると見知らぬ宇宙で帝国艦隊の戦艦「カプリコン」を制御するAIになっていた。人としての思考を残したまま艦そのものとなった彼は、圧倒的に不利な戦況のなか、機械の演算力と人間らしい発想を組み合わせた奇策で戦場を切り抜けていく。艦隊戦の駆け引きと、人ならざる身になった主人公の内面を並行して描く宇宙戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう書報ページ、講談社レジェンドノベルスおよびBOOK☆WALKER/ブックライブの書誌情報で著者・レーベル・刊行状況を確認(2026年8月時点)。イラストは黒銀(DIGS)。コミカライズは石口十作画で『月刊少年シリウス』に連載。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "next-life",
+    "title": "ネクストライフ",
+    "titleKana": "ねくすとらいふ",
+    "authorIds": [
+      "aino-hitoshi"
+    ],
+    "illustratorIds": [
+      "ukai-saki",
+      "manyako"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "mahou",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 17,
+    "status": "completed",
+    "synopsis": "高校生の山田竜二は雪山で遭難し、目を覚ますと自分がかつて遊んだオンラインゲームによく似た異世界に立っていた。あらゆる魔法を操れる賢者の力を得た彼はマリウスと名を変え、魔物使いの少女アネットら仲間とともに旅を始める。強大な力を持ちながらも人助けを重ねる主人公が、少しずつ世界の秘密に近づいていく長編異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ネクストライフ"
+    },
+    "sourceNote": "Wikipedia日本語版「ネクストライフ」を参照し独自に要約(2026年8月時点)。挿絵は1〜2巻が鵜飼沙樹、3〜17巻がマニャ子。コミカライズは市倉とかげ作画で『月刊少年エース』連載。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "isekai-tensei-soudouki",
+    "title": "異世界転生騒動記",
+    "titleKana": "いせかいてんせいそうどうき",
+    "authorIds": [
+      "takami-ryousen"
+    ],
+    "illustratorIds": [
+      "ririnra"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "naisei",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "貴族の子として生まれたバルドの内には、戦国の世を生きた武将と現代日本のオタク青年という二つの魂が同居していた。三者三様の知識と経験を持ち寄った彼は、剣を振るう戦場でも、領地を切り盛りする政の場でも常識外れの手腕を発揮していく。周辺諸国の思惑が絡み合うなか、風変わりな三位一体の主人公が成り上がっていく異世界戦記ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "alphapolis-fantasy-shousetsu-taisho",
+        "year": 2013,
+        "result": "第6回 大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界転生騒動記"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界転生騒動記」「高見梁川」を参照し独自に要約(2026年8月時点)。コミカライズはほのじ作画で2015年連載開始。TVアニメ化が2026年3月に発表され主人公バルド役は小林裕介(放送時期は未確認)。小説の既刊数は資料により表記が揺れるためvolumeCountは記載しない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "isekai-teni-shitanode-cheat-mahou-kenshi",
+    "title": "異世界転移したのでチートを生かして魔法剣士やることにする",
+    "titleKana": "いせかいてんいしたのでちーとをいかしてまほうけんしやることにする",
+    "authorIds": [
+      "shinkou-shotou"
+    ],
+    "illustratorIds": [
+      "tomozo"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure",
+      "battle-action",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "オンラインゲームを遊びながら眠りについた大学生・涼宮楓は、目覚めると剣と魔法の異世界にいた。ゲームで培った知識と規格外の能力を携えた彼は「カエデ」と名乗って冒険者となり、魔力を生み出せない代わりに卓越した魔力操作を持つエルフの少女リアと出会う。凸凹な二人が依頼をこなしながら実力を伸ばしていく、痛快な異世界冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界転移したのでチートを生かして魔法剣士やることにする"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界転移したのでチートを生かして魔法剣士やることにする」を参照し独自に要約(2026年8月時点)。小説は全5巻(2015-2017)。コミカライズはなのら作画で『マンガUP!』に2020年から連載中。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "isekai-de-cafe-wo-kaiten-shimashita",
+    "title": "異世界でカフェを開店しました。",
+    "titleKana": "いせかいでかふぇをかいてんしました",
+    "authorIds": [
+      "amasawa-ringo"
+    ],
+    "illustratorIds": [
+      "toichi"
+    ],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "shigoto",
+      "romance",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 13,
+    "status": "completed",
+    "synopsis": "異世界に飛ばされた黒川理沙は、その世界の料理があまりに味気ないことに驚く。魔法は発達しているのに調理技術が育っていないと知った彼女は、故郷の味を広めようと食堂「おむすび」を開く。貴族家の養女という立場を得て店を軌道に乗せ、やがて料理学校の教壇にも立つ理沙。元騎士の弟子ジークとの距離も縮まり、その料理は隣国をも動かしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異世界でカフェを開店しました。"
+    },
+    "sourceNote": "Wikipedia日本語版「異世界でカフェを開店しました。」およびレジーナブックス公式サイトを参照し独自に要約(2026年8月時点)。小説は全13巻で2021年4月完結、後に文庫版も刊行。コミカライズは野口芽衣作画。Web版はアルファポリス投稿のためwebNovelSourceは記載しない(なろう/カクヨム以外)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "monster-ga-afureru-sekai-ni-natta-node",
+    "title": "モンスターがあふれる世界になったので、好きに生きたいと思います",
+    "titleKana": "もんすたーがあふれるせかいになったのですきにいきたいとおもいます",
+    "authorIds": [
+      "yosshaa"
+    ],
+    "illustratorIds": [
+      "koruse"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "post-apocalypse",
+      "survival",
+      "battle-action",
+      "gendai-drama",
+      "skill-drop-collection"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "残業帰りの会社員・和人は、路上で襲いかかってきた巨大な犬を偶然倒す。するとゲームのような経験値とスキルの通知が頭に響き、翌朝目を覚ますと世界はモンスターがあふれるサバイバルの舞台へと変貌していた。ステータスや職業といったゲームの理が支配する現代を、いち早く力を得た主人公が誰にも縛られず自分の望むままに生き抜いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "GAノベル公式特設サイト、BOOK☆WALKERの書誌情報、小説家になろう掲載ページで確認し独自に要約(2026年8月時点)。第1巻は2018年6月、第7巻は2024年3月刊。コミカライズはラルサン作画で『ガンガンONLINE』連載。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saikyou-no-shokugyou-wa-kanteishi",
+    "title": "最強の職業は勇者でも賢者でもなく鑑定士(仮)らしいですよ?",
+    "titleKana": "さいきょうのしょくぎょうはゆうしゃでもけんじゃでもなくかんていしかりらしいですよ",
+    "authorIds": [
+      "atekichi"
+    ],
+    "illustratorIds": [
+      "shigaraki-akira"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "fuguushoku-kakushi-skill",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "異世界に召喚された高校生ヒビキが授かったのは、戦いの役に立たない「鑑定士(仮)」という職業だった。落胆されながらも彼は、あらゆる物と人の情報を見抜くその力を工夫して使いこなし、仲間の危機を救い、難攻不落のダンジョンにも道を開いていく。エルフの少女エマリアらと出会い、外れ職とされた能力が最強へと化けていく異世界成り上がりファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "alphapolis-fantasy-shousetsu-taisho",
+        "year": 2016,
+        "result": "第9回 優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "アルファポリス、BOOK☆WALKER(第1巻2017年3月・既刊9巻)、アニメイトタイムズのアニメ化報道を参照し独自に要約(2026年8月時点)。TVアニメは2026年4月放送。コミカライズは武田充司作画。受賞回次は第9回で確定、開催年は他回(第6回2013年・第12回2019年)からの推定。Web版はアルファポリス投稿のためwebNovelSourceは記載しない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maryoku-zero-no-dekisokonai-kizoku",
+    "title": "魔力ゼロの出来損ない貴族、四大精霊王に溺愛される",
+    "titleKana": "まりょくぜろのできそこないきぞくよんだいせいれいおうにできあいされる",
+    "authorIds": [
+      "hinokage-sora"
+    ],
+    "illustratorIds": [
+      "kondou-kokon"
+    ],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "mahou",
+      "akuyaku-kizoku",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "魔力も感情も持たずに生まれた少年アスクは、貴族の家で出来損ないと蔑まれて育つ。だがその「空っぽ」は欠陥ではなく、莫大な力を注ぎ込める器としての才能だった。四大精霊の王たちに見出され、惜しみない寵愛とともに力を託されたアスクは、自分を切り捨てた者たちの前で真価を示していく。虐げられた少年の逆転を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式書誌、BOOK☆WALKER/ブックライブ、ラノベニュースオンラインのコミカライズ報道で確認し独自に要約(2026年8月時点)。第1巻2023年12月、第3巻2025年2月刊。コミカライズは蒼樹未鈴作画。依頼時の仮題「無能と呼ばれた俺、四大精霊に溺愛される」に該当する作品として同定。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "douyara-watashi-no-karada-wa-kanzen-muteki",
+    "title": "どうやら私の身体は完全無敵のようですね",
+    "titleKana": "どうやらわたしのからだはかんぜんむてきのようですね",
+    "authorIds": [
+      "chatsufusa"
+    ],
+    "illustratorIds": [
+      "fuumi"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "isekai-fantasy",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "病弱なまま短い生涯を終えた少女は、神に「丈夫な身体がほしい」と願って異世界へ転生する。ところが与えられたのは物理も魔法もいっさい通じない完全無敵の肉体だった。公爵令嬢メアリィとして生まれ直した彼女は力を隠して静かに暮らそうとするが、行く先々で起きる騒動をうっかり解決してしまい、騎士として聖女として祭り上げられていく。",
+    "awardResults": [
+      {
+        "awardId": "net-shousetsu-taisho",
+        "year": 2016,
+        "result": "第5回 受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/どうやら私の身体は完全無敵のようですね"
+    },
+    "sourceNote": "Wikipedia日本語版「どうやら私の身体は完全無敵のようですね」を参照し独自に要約(2026年8月時点)。小説は全8巻(2017-2025)。コミカライズはさばねこ作画。第5回ネット小説大賞の開催年は既存データ(第5回=2016年)に合わせた。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ossan-yuusha-to-maou-wo-hirou",
+    "title": "おっさん、勇者と魔王を拾う",
+    "titleKana": "おっさんゆうしゃとまおうをひろう",
+    "authorIds": [
+      "choko-curry"
+    ],
+    "illustratorIds": [
+      "miyo-n"
+    ],
+    "publisherId": "to-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "chuunen-ossan-shujinkou",
+      "kazoku-ikuji",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "hiatus",
+    "synopsis": "「万能の冒険者」と称えられた熟練のアレンも、寄る年波には勝てず冒険者ギルドから戦力外を言い渡される。失意のまま帰路につく彼は、捨てられていた二人の赤ん坊を見つけて連れ帰るが、その身にはそれぞれ勇者と魔王の紋章に似た痣があった。八年をかけて娘たちを慈しんで育てたおっさんが、二人に降りかかる過酷な運命に真正面から立ち向かう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "TOブックス公式サイトの書誌情報およびBOOK☆WALKERを参照し独自に要約(2026年8月時点)。小説は第1巻2018年7月・第2巻2019年8月の2巻刊行後、新刊が確認できないためstatusはhiatusとした(完結の明記は未確認)。コミカライズは白川祐作画で全6巻。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "monster-no-niku-wo-kutteitara-oui-ni-tsuita-ken",
+    "title": "モンスターの肉を食っていたら王位に就いた件",
+    "titleKana": "もんすたーのにくをくっていたらおういについたけん",
+    "authorIds": [
+      "daken"
+    ],
+    "illustratorIds": [
+      "shiba"
+    ],
+    "publisherId": "gcn-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "naisei",
+      "battle-action",
+      "senki"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "ファルーン王国の第一王子マルスは、十二歳にして毒殺の恐怖に怯える日々を送っていた。城の食事は信用できず、彼は森でモンスターを狩ってその肉で腹を満たす。ある夜、大剣を担いだ赤髪の美女が現れ「見込みがある、私の弟子になれ」と告げる。たった一つの勘違いから始まった修行が、望んでもいなかった最強の王への道を少年に歩ませていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "GCN文庫公式特設サイト、Amazon/ブックライブの書誌情報、小説家になろう掲載ページを参照し独自に要約(2026年8月時点)。第1巻2023年9月、既刊6巻。コミカライズは鈴羅木かりん作画で『ヤングアニマルZERO』連載。依頼時の仮題「モンスターの肉を食べていたら王女に恋をした」に該当する作品として同定。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kami-skill-kokyuu-suru-dake-de-level-up",
+    "title": "神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。",
+    "titleKana": "かみすきるこきゅうするだけでれべるあっぷするぼくはかみがみのだんじょんへいどむ",
+    "authorIds": [
+      "senoo-shippo"
+    ],
+    "illustratorIds": [
+      "gochou"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dungeon",
+      "fuguushoku-kakushi-skill",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 5,
+    "status": "hiatus",
+    "synopsis": "十五歳になると女王からスキルを授かる世界で、少年ラルナが手にしたのは何の役にも立たないと笑われた【呼吸】だった。それでも彼は、魔女の呪いに苦しむ妹メアリーを救うため、幼なじみのプリンとともにダンジョンへ潜る。実はその力は息をするだけで際限なく成長する神スキルであり、誰にも気づかれぬまま少年は神々の領域へと近づいていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "小説家になろう書報ページ、BOOK☆WALKER/キミラノの書誌情報を参照し独自に要約(2026年8月時点)。第1巻2018年2月、既刊5巻で以降の新刊が確認できないためstatusはhiatus(完結の明記は未確認)。コミカライズはぶたばら作画で全7巻。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mahoutsukai-de-hikikomori",
+    "title": "魔法使いで引きこもり? ～モフモフ以外とも心を通わせよう物語～",
+    "titleKana": "まほうつかいでひきこもりもふもふいがいともこころをかよわせようものがたり",
+    "authorIds": [
+      "kotoriya-emu"
+    ],
+    "illustratorIds": [
+      "tobe-atsushi"
+    ],
+    "publisherId": "kadokawa-shinbungei",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "mahou",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "老いて死んだ男が、優しい女神に「健康な身体がほしい」とだけ願って異世界へ転生する。少年シウとして生まれ変わった彼が与えられたのは、丈夫な身体に加えて持て余すほどの魔力だった。目立つのを嫌う彼は森の奥でモフモフたちと静かに暮らそうとするが、規格外の力はどうしても隠しきれず、人との縁が少しずつ広がっていく。ゆるやかな異世界スローライフ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式書誌(新文芸、第1巻2018年2月)、BOOK☆WALKER、カクヨム掲載ページを参照し独自に要約(2026年8月時点)。第一部・第二部にまたがりスピンオフも含むため既刊数の内訳が確定できずvolumeCountは記載しない。コミカライズはYUI作画。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koushaku-reijou-no-tashinami",
+    "title": "公爵令嬢の嗜み",
+    "titleKana": "こうしゃくれいじょうのたしなみ",
+    "authorIds": [
+      "reia"
+    ],
+    "illustratorIds": [
+      "futaba-hazuki"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "naisei",
+      "isekai-tensei",
+      "merchant"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "婚約者のエドワード王子とその取り巻きに取り押さえられた瞬間、公爵令嬢アイリスは前世の記憶を取り戻す。ここは乙女ゲームの世界で、自分は断罪される悪役令嬢だと悟った彼女は、修道院送りという筋書きを拒み、父に直談判して領地の代理経営者の座を勝ち取る。前世の知識を武器に事業を興し人材を育て、傾いた領地を立て直していく令嬢の奮闘記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/公爵令嬢の嗜み"
+    },
+    "sourceNote": "Wikipedia日本語版「公爵令嬢の嗜み」およびカドカワBOOKS公式サイトを参照し独自に要約(2026年8月時点)。小説は全8巻(2015年11月-2018年12月)で完結、最終巻は副題『公爵夫人の嗜み』。コミカライズは梅宮スキ作画で『ヤングエースUP』連載。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "renkinjutsushi-desu-jichou-wa-gomibako-ni",
+    "title": "錬金術師です。自重はゴミ箱に捨ててきました。",
+    "titleKana": "れんきんじゅつしですじちょうはごみばこにすててきました",
+    "authorIds": [
+      "natsuki-ryou"
+    ],
+    "illustratorIds": [
+      "hidzuki-miya"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "craft-artisan",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "腕は確かだが加減という言葉を知らない錬金術師レイゼは、王都に出て自分の工房を構えようと動き出す。常識外れの品を平然と作り出す彼の周りには、Sランク冒険者のラフィやその妹シルヴィアら濃い面々が次々と集まってくる。自重を放り捨てた錬金術が騒動を呼び、それでも本人はどこ吹く風。軽やかなノリで進む異世界ものづくりコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA(MFブックス)公式書誌、BOOK☆WALKER、小説家になろう掲載ページを参照し独自に要約(2026年8月時点)。第1巻2018年9月、小説は全4巻。コミカライズは徒楽耀作画で全6巻(2022年完結)。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akutoku-ryoushu-no-musuko-ni-tensei",
+    "title": "悪徳領主の息子に転生!? ～楽しく魔法を学んでいたら、汚名を返上してました～",
+    "titleKana": "あくとくりょうしゅのむすこにてんせいたのしくまほうをまなんでいたらおめいをへんじょうしてました",
+    "authorIds": [
+      "yonezu"
+    ],
+    "illustratorIds": [
+      "kodama-tori"
+    ],
+    "publisherId": "bk-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "mahou",
+      "naisei",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "日本の会社員だった男が転生した先は、領民に嫌われる悪徳領主の息子オーウェン・ペッパーだった。父も自分も評判は最悪。それならばと彼は、まず自分にできることとして魔法の鍛錬に打ち込む。楽しみながら腕を磨くうちに学術的な評価を得て、魔物討伐でも成果を上げ、いつしか一家の汚名は薄れていく。前向きな主人公が周囲の評価を覆していく異世界転生譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "ブックライブ(ぶんか社BKブックス、第1巻2020年11月・既刊3巻)、小説家になろう掲載ページ、ラノベニュースオンラインのコミカライズ報道を参照し独自に要約(2026年8月時点)。完結の明記は未確認のためstatusはongoing。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "boukensha-license-wo-hakudatsu-sareta-ossan",
+    "title": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する",
+    "titleKana": "ぼうけんしゃらいせんすをはくだつされたおっさんだけどまなむすめができたのでのんびりじんせいをおうかする",
+    "authorIds": [
+      "ononada-manimani"
+    ],
+    "illustratorIds": [
+      "fuji-choko"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "chuunen-ossan-shujinkou",
+      "isekai-fantasy",
+      "tsuihou",
+      "kazoku-ikuji",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "伝説の強化魔術師として名を馳せたダグラスも、齢を重ねて力は衰え、最大HPが減り続ける奇病にまで蝕まれていた。勇者パーティを追われ、ギルドからは冒険者ライセンスまで取り上げられる。すべてを失って当てもなくさまよう彼が出会ったのは、呪いを負った少女ラヴィだった。父娘のように寄り添う二人の、静かで温かな第二の人生が始まる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "GAノベルの書誌情報(第1巻2018年)、小説家になろうの著者マイページ、コミカライズ(唯浦史作画・ガンガンコミックスUP!)の情報を参照し独自に要約(2026年8月時点)。小説の総巻数が確定できないためvolumeCountは記載しない。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inaka-no-home-center-otoko",
+    "title": "田舎のホームセンター男の自由な異世界生活",
+    "titleKana": "いなかのほーむせんたーおとこのじゆうないせかいせいかつ",
+    "authorIds": [
+      "usapyon"
+    ],
+    "illustratorIds": [
+      "ichimaru-kisuke"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "slow-life",
+      "chuunen-ossan-shujinkou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "田舎のホームセンターで働く三十六歳独身の鳴海勝は、神々の賭けの担保にされて異世界へ飛ばされてしまう。詫びとして授かったのは基本的な生産スキルと身体強化という地味な力だけ。それでも彼には、店で培ったDIYの知識と工具への愛がある。手持ちの道具と工夫で暮らしを組み立て、誰にも縛られず自由に生きると決めた男の異世界開拓生活。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA(MFブックス)公式書誌(第1巻2017年10月)、BOOK☆WALKER、コミックシーモアのシリーズ情報を参照し独自に要約(2026年8月時点)。小説は全6巻で完結。コミカライズは古来歩作画。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "isekai-nonbiri-sozai-saishu-seikatsu",
+    "title": "異世界のんびり素材採取生活",
+    "titleKana": "いせかいのんびりそざいさいしゅせいかつ",
+    "authorIds": [
+      "renkinou"
+    ],
+    "illustratorIds": [
+      "ritter"
+    ],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "adventure",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "神の手違いで異世界へ送られた青年は、詫びとして素材採取に関する破格の恩恵を授かる。強さを競うでも国を興すでもなく、彼が選んだのは気の向くままに山や海を巡り、珍しい素材を集めて回る暮らしだった。採った素材は仲間や職人の手を経て思わぬ形になり、旅先では未踏の神殿や海中の遺跡にも行き当たる。のんびりと世界を味わう採取ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "kakuyomu"
+    },
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER(宝島社、第1巻2020年8月・既刊4巻・累計30万部)、カクヨムおよび小説家になろうの掲載ページ、コミカライズ(ユミサキ作画)情報を参照し独自に要約(2026年8月時点)。宝島社の単行本レーベル名の表記は確認できず、出版社名で登録。Wikipedia記事は未作成。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maseki-gourmet",
+    "title": "魔石グルメ 魔物の力を食べたオレは最強!",
+    "titleKana": "ませきぐるめまものちからをたべたおれはさいきょう",
+    "authorIds": [
+      "yuuki-ryou"
+    ],
+    "illustratorIds": [
+      "naruse-chisato"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "battle-action",
+      "adventure",
+      "mahou"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 9,
+    "status": "completed",
+    "synopsis": "魔物の体内に宿る魔石を食べると、その力を我が身に取り込める――そんな特異な体質を持って生まれた少年の物語。周囲から侮られていた彼は、口にした魔石の数だけ強さを積み上げ、やがて誰も届かない領域へ至る。血筋や家柄をめぐる思惑に翻弄されながらも、自らの力で立ち位置を切り拓いていく主人公の姿を描く、成り上がり型の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "webNovelSource": {
+      "platform": "narou"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔石グルメ_魔物の力を食べたオレは最強!"
+    },
+    "sourceNote": "Wikipedia日本語版「魔石グルメ 魔物の力を食べたオレは最強!」を参照し独自に要約(2026年8月時点)。小説は全9巻(2018-2021)、Web版は小説家になろうで本編完結後もアフターストーリーを更新。コミカライズは菅原健二作画。ボイスコミックはあるがTVアニメ化は未確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

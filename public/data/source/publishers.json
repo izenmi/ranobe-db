@@ -995,5 +995,27 @@
     "externalLinks": {},
     "sourceNote": "双葉社公式サイト・Wikipedia日本語版「京都寺町三条のホームズ」で刊行レーベルを確認(2026年8月時点)。創刊年は未確認のため省略。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "legend-novels",
+    "name": "レジェンドノベルス",
+    "nameKana": "レジェンドノベルス",
+    "parentCompany": "講談社",
+    "description": "講談社が2018年に創刊した新文芸系ノベルレーベル。Web小説発の長編エンターテインメント作品を単行本サイズで刊行している。",
+    "foundedYear": 2018,
+    "externalLinks": {},
+    "sourceNote": "講談社公式サイトおよびBOOK☆WALKERのレーベル情報で確認。創刊年は『無双航路』第1巻(2018年10月)等の刊行開始時期から確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takarajimasha",
+    "name": "宝島社",
+    "nameKana": "タカラジマシャ",
+    "parentCompany": "宝島社",
+    "description": "東京の出版社。雑誌・実用書のほか『このライトノベルがすごい!』を刊行し、近年はWeb小説発の異世界ファンタジーを単行本として展開している。",
+    "foundedYear": 1971,
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKERの出版社情報で『異世界のんびり素材採取生活』の版元として確認。宝島社文庫とは別枠の単行本レーベル扱い。",
+    "updatedAt": "2026-08-04"
   }
 ]
