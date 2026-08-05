@@ -18,7 +18,7 @@
 - **出典は日本語版Wikipediaを基本とするが必須ではない**(2026-08-01にユーザーが明言、方針緩和)。Wikipediaに記事がない作品も登録してよく、その場合は出版社公式サイト・BOOK☆WALKER等の書誌情報・信頼できる他の情報源を使ってよい。ユーザーが口頭で伝えるタイトル・著者名・レーベル名・巻数等はしばしば誤っているので、書き込む前に必ず何らかの情報源で裏取りする。矛盾があれば訂正し、`sourceNote`に何を確認したか・どの情報源を使ったか・何が未確認かを明記する
 - **あらすじはコピペ禁止**。Wikipediaの文章表現をそのまま転記せず、150〜250字程度で必ず自分の言葉で要約する(事実自体は著作権保護対象外だが、文章表現はCC BY-SA 4.0の対象になりうるため)
 - **表紙画像は`covers-cache.json`にあれば実画像、なければプレースホルダー**。`scripts/fetch-covers.mjs`(`npm run fetch-covers`、要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`)が楽天ブックス書籍検索APIでシリーズごとのISBN・表紙URLを解決し`public/data/source/covers-cache.json`に**コミットする**(ビルド時には叩かない)。`WorkCover`コンポーネントは`coverUrl`があれば`<img>`、なければタイトル文字列のハッシュ値からパステルカラーのプレースホルダーを生成(画像404時もプレースホルダーにフォールバック)。openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用(2026-08-01検証)。直リンクの画像URL(`m.media-amazon.com/images/I/...`等)を推測・ハードコードすることはしない
-- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンク(ASIN指定の`/dp/<ASIN>`等)は使わない。理由: 直リンクには巻ごとのISBN/ASINデータが必要だが、`works.json`はシリーズ単位のデータしか持っておらず、収集コストに見合わないとユーザーと合意済み(2026-08-01)。`amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成する
+- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンク(ASIN指定の`/dp/<ASIN>`等)は使わない。理由: 直リンクには巻ごとのISBN/ASINデータが必要だが、`works.json`はシリーズ単位のデータしか持っておらず、収集コストに見合わないとユーザーと合意済み(2026-08-01)。`amazonSearchUrl(title)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成する
 - **Web小説サイトへのリンクは検索URLパターンのみ**使う(`小説家になろう`: `https://yomou.syosetu.com/search.php?word=<encoded>`、`カクヨム`: `https://kakuyomu.jp/search?q=<encoded>`)。個別作品のパーマリンクは推測しない
 - 新規idを追加する前に既存の`authors.json`/`illustrators.json`/`publishers.json`を確認し、同一人物・レーベルの重複登録を避ける(既存作の著者が新規作にも登場するケースが多い)
 
@@ -85,7 +85,7 @@ npm run preview
   - openBDは版元ドットコム非加盟のKADOKAWA系レーベルの書影をほぼ持たず実測カバー率0%だったため不採用と判断済み(再検討不要)
   - **NDLサーチ書影API・Google Books APIも検証済み・不採用(2026-08-03、再検討不要)**: NDLサーチのOpenSearch API(`ndlsearch.ndl.go.jp/api/opensearch`)自体は書誌検索に使えるが、書影CDN(`ndlsearch.ndl.go.jp/thumbnail/<isbn>.jpg`)がこのsandboxからのリクエストをCloudFrontで403ブロックするため、書影の実在確認ができず採用できない。Google Books APIは匿名アクセスの日次クォータが0に設定されており429が返る(APIキー発行が前提になるため見送り)
   - **手動フォールバック(honto.jp、2026-08-02にユーザー承認)**: 楽天ブックス・Koboどちらにも書誌がない場合、Amazon.co.jpは商品ページがJS依存でWebFetchでは実際の画像URLを確実に抽出できない(ページが長すぎて途中で切れる)ため実務上使えないと判明。代わりにhonto.jp(`https://honto.jp/netstore/search_10.html?k=<キーワード>`で検索→商品ページの`<img>`タグから`https://img.honto.jp/item/...`形式の画像URLを取得)を使う。**直リンクURLのパターン推測は禁止のまま**(このルールの本質は「推測」の禁止であって、実在確認済みの実URLを目視で拾うこと自体は許容される)。適用時は必ず(1)著者名が一致するか、(2)ジャンル表記が「コミック」ではなく「小説」「ライトノベル」になっているか(同名の漫画化・別作品が誤ヒットしやすい、2026-08-02に3件のコミック誤マッチを検出・除外した実績あり)、(3)`curl -s -o /dev/null -w "%{http_code}"`で200が返るか、の3点を確認してから`covers-cache.json`に`source: "honto"`で書き込む。honto.jpの`netstore/search_10.html`は主に電子書籍を対象としており、1990年代〜2000年代の絶版作品や電子化されていないマイナー作品は依然としてヒットしない(2026-08-02時点で35件の未解決作品のうち10件のみ解決、残り25件は電子版が存在しない可能性が高い)。
-- **購入リンク**: `amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「1巻をAmazonで探す」「シリーズ全体を探す」の2リンクを表示
+- **購入リンク**: `amazonSearchUrl(title)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`付きの検索URLを生成。作品詳細ページに「Amazonで購入」の1リンクを表示(2026-08-05にユーザー指示で「1巻をAmazonで探す」を廃止し、シリーズ全体検索の1本に統一。姉妹サイト3サイト共通)
 
 ## メディアミックス(アニメ化/コミカライズ)フィルター(2026-08-01実装)
 
