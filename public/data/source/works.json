@@ -276,7 +276,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/re-zero"
   },
   {
     "id": "konosuba",
@@ -314,7 +315,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kono-subarashii-sekai-ni-shukufuku-wo"
   },
   {
     "id": "mahouka-koukou-no-rettousei",
@@ -392,7 +394,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/gosick"
   },
   {
     "id": "date-a-live",
@@ -580,7 +583,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kumo-desu-ga-nani-ka"
   },
   {
     "id": "tate-no-yuusha-no-nariagari",
@@ -615,7 +619,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/tate-no-yuusha-no-narikagari"
   },
   {
     "id": "tensei-shitara-slime-datta-ken",
@@ -658,7 +663,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/tensei-shitara-slime-datta-ken"
   },
   {
     "id": "toradora",
@@ -742,7 +748,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/shakugan-no-shana"
   },
   {
     "id": "kino-no-tabi",
@@ -1319,7 +1326,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/honzuki-no-gekokujou"
   },
   {
     "id": "youjo-senki",
@@ -1359,7 +1367,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/youjo-senki"
   },
   {
     "id": "overlord",
@@ -1558,7 +1567,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kenja-no-mago"
   },
   {
     "id": "isekai-shokudou",
@@ -1624,7 +1634,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/arifureta"
   },
   {
     "id": "tensei-shitara-ken-deshita",
@@ -1667,7 +1678,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/tensei-shitara-ken-deshita"
   },
   {
     "id": "mushoku-tensei",
@@ -1710,7 +1722,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/mushoku-tensei"
   },
   {
     "id": "isekai-wa-smartphone",
@@ -1851,7 +1864,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/re-monster"
   },
   {
     "id": "shinmai-renkinjutsushi-no-tenpo-keiei",
@@ -1971,7 +1985,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/death-march-kara-hajimaru-isekai-kyousoukyoku"
   },
   {
     "id": "itai-no-wa-iya-nanode-bogyoryoku",
@@ -2417,7 +2432,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/hamefura"
   },
   {
     "id": "chiyu-mahou-no-machigatta-tsukaikata",
@@ -3028,7 +3044,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/mahou-shoujo-ikusei-keikaku"
   },
   {
     "id": "sabikui-bisco",
@@ -3544,7 +3561,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/goblin-slayer"
   },
   {
     "id": "tenkyou-no-alderamin",
@@ -4827,7 +4845,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/seiyuu-radio-no-ura-omote"
   },
   {
     "id": "konya-sekai-kara-kono-koi-ga-kietemo",
@@ -6657,7 +6676,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/juni-taisen"
   },
   {
     "id": "death-need-round",
@@ -6810,7 +6830,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/ousama-game"
   },
   {
     "id": "dungeon-battle-royale",
@@ -6900,7 +6921,8 @@
     "mediaMix": {
       "anime": false,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/jinrou-game"
   },
   {
     "id": "hyouka",
@@ -7036,7 +7058,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/adachi-to-shimamura"
   },
   {
     "id": "saiunkoku-monogatari",
@@ -7270,7 +7293,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kusuriya-no-hitorigoto"
   },
   {
     "id": "log-horizon",
@@ -10471,7 +10495,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/slime-taoshite-300-nen"
   },
   {
     "id": "hachinan-tte-sore-wa-naideshou",
@@ -10507,7 +10532,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/hachinan-tte-sore-wa-nai-deshou"
   },
   {
     "id": "kuma-kuma-kuma-bear",
@@ -10543,7 +10569,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kuma-kuma-kuma-bear"
   },
   {
     "id": "kamitachi-ni-hirowareta-otoko",
@@ -20775,7 +20802,8 @@
     "mediaMix": {
       "anime": false,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/koukoku-no-shugosha"
   },
   {
     "id": "haken-no-koki-artina",
@@ -26952,7 +26980,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に"
     },
     "sourceNote": "原作は竜騎士07によるサウンドノベル(同人ゲーム)だが、本エントリは講談社BOXより刊行された、竜騎士07自身による全面改稿の独立した小説版(出題編7巻・解答編9巻・礼1巻)を指す。日本語版Wikipediaにてイラスト(ともひ)・刊行期間・アニメ化/漫画化の情報を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/higurashi-no-naku-koro-ni"
   },
   {
     "id": "umineko-no-naku-koro-ni-shousetsu",
@@ -26983,7 +27012,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/うみねこのなく頃に"
     },
     "sourceNote": "原作は竜騎士07によるサウンドノベル(同人ゲーム)だが、本エントリは講談社BOXより刊行された、竜騎士07自身による全面改稿の独立した小説版(出題編8巻・展開編7巻)を指す。日本語版Wikipediaにて刊行期間(2009年7月〜2018年9月)・「赤き真実」等の色文字システムの再現・アニメ化/漫画化の情報を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/umineko-no-naku-koro-ni"
   },
   {
     "id": "liar-liar",
@@ -30192,7 +30222,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪霊シリーズ"
     },
     "sourceNote": "Wikipedia日本語版「悪霊シリーズ」で小野不由美著・中村幸緒挿絵・講談社X文庫ティーンズハートより1989〜1992年に全8巻(旧題『悪霊シリーズ』)を確認(2026年8月)。続編『悪夢の棲む家』全2巻(1994年)。2010〜2011年にメディアファクトリーより『ゴーストハント』として改稿・改題再刊、2021年時点で角川文庫全7巻。1998〜2016年にいなだ詩穂によるコミカライズ、2006〜2007年にテレビアニメ全25話。1997年ラジオドラマ化。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/ghost-hunt"
   },
   {
     "id": "fuusen-nyannyan-tsuihouroku",

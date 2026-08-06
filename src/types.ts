@@ -33,6 +33,9 @@ export interface WorkSource {
    *  published in print. We link to a site search rather than a specific story URL since we
    *  don't have verified per-work story IDs. */
   webNovelSource?: { platform: WebNovelPlatform };
+  /** 姉妹サイト まんがDB の同一原作コミック作品ページへの相互リンク。
+   *  manga-db の scripts/link-sister-works.mjs が3リポジトリ分まとめて書き込む(手動実行)。 */
+  relatedComicUrl?: string;
   /** Media mix status (TV anime / manga adaptation), verified against the work's Wikipedia
    *  article. `true`/`false` are both written explicitly once confirmed either way. */
   mediaMix?: { anime?: boolean; comic?: boolean };
