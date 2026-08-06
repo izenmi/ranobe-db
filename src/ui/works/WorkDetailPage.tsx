@@ -1,7 +1,9 @@
+import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getWork } from "../../data/manifest";
+import { getWork, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
+import { WorkCard } from "../common/WorkCard";
 import { WorkCover, amazonSearchUrl, webNovelSearch } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { WorkGenerated } from "../../types";
@@ -44,6 +46,17 @@ export function WorkDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getWork(id!), [id]);
   const work = state.status === "ready" ? state.data : undefined;
+
+  // getWorks() resolves from the same cached works.json that getWork() above already pulled,
+  // so this costs no extra request.
+  const worksState = useAsyncData(getWorks, []);
+  const relatedWorks = useMemo(() => {
+    if (worksState.status !== "ready" || !work?.relatedWorkIds) return [];
+    const byId = new Map(worksState.data.map((w) => [w.id, w]));
+    return work.relatedWorkIds
+      .map((relatedId) => byId.get(relatedId))
+      .filter((w): w is WorkGenerated => Boolean(w));
+  }, [worksState, work]);
 
   useSeo({
     title: work?.title,
@@ -144,6 +157,17 @@ export function WorkDetailPage() {
                 );
               })()}
           </p>
+
+          {relatedWorks.length > 0 && (
+            <div className="home-section">
+              <h2 className="home-section__heading font-display">この作品が好きなら</h2>
+              <div className="work-grid">
+                {relatedWorks.map((related) => (
+                  <WorkCard key={related.id} work={related} />
+                ))}
+              </div>
+            </div>
+          )}
 
           <p className="source-note">{state.data.sourceNote}</p>
         </>

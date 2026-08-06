@@ -71,9 +71,84 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
+// ---- related works ("この作品が好きなら") ----
+// Cosine similarity over IDF-weighted theme tags, plus a bonus for sharing an author or
+// illustrator. IDF matters because the tag vocabulary is deliberately small and reused
+// (see CLAUDE.md「テーマタグの方針」): a tag like 異世界転生 is on hundreds of works and says
+// almost nothing about similarity, while a rare tag is highly informative. Weighting every
+// shared tag equally would just surface the most generic works on every page.
+const RELATED_COUNT = 6;
+const SAME_AUTHOR_BONUS = 0.15;
+const SAME_ILLUSTRATOR_BONUS = 0.05;
+
+const worksById = new Map(works.map((w) => [w.id, w]));
+
+const themeDocFreq = new Map();
+for (const w of works) {
+  for (const t of w.themeIds) themeDocFreq.set(t, (themeDocFreq.get(t) ?? 0) + 1);
+}
+// A tag carried by every work gets idf 0 and drops out of the scoring entirely.
+const themeIdf = new Map([...themeDocFreq].map(([t, df]) => [t, Math.log(works.length / df)]));
+
+const themeNorm = new Map(
+  works.map((w) => {
+    let sumSquares = 0;
+    for (const t of w.themeIds) sumSquares += themeIdf.get(t) ** 2;
+    return [w.id, Math.sqrt(sumSquares)];
+  }),
+);
+
+const themeToWorks = new Map();
+for (const w of works) {
+  for (const t of w.themeIds) {
+    if (!themeToWorks.has(t)) themeToWorks.set(t, []);
+    themeToWorks.get(t).push(w);
+  }
+}
+
+function relatedIdsFor(work) {
+  // Accumulate the dot product only over works that share at least one tag, rather than
+  // scanning all N works for each of N works.
+  const dotProducts = new Map();
+  for (const t of work.themeIds) {
+    const weight = themeIdf.get(t) ** 2;
+    if (weight === 0) continue;
+    for (const other of themeToWorks.get(t)) {
+      if (other.id === work.id) continue;
+      dotProducts.set(other.id, (dotProducts.get(other.id) ?? 0) + weight);
+    }
+  }
+
+  const ownAuthors = new Set(work.authorIds);
+  const ownIllustrators = new Set(work.illustratorIds);
+  // Same-author works are a strong recommendation even with no tag overlap, so seed them in.
+  for (const other of works) {
+    if (other.id === work.id || dotProducts.has(other.id)) continue;
+    if (other.authorIds.some((id) => ownAuthors.has(id))) dotProducts.set(other.id, 0);
+  }
+
+  const ownNorm = themeNorm.get(work.id);
+  const scored = [];
+  for (const [otherId, dot] of dotProducts) {
+    const other = worksById.get(otherId);
+    const otherNorm = themeNorm.get(otherId);
+    let score = ownNorm > 0 && otherNorm > 0 ? dot / (ownNorm * otherNorm) : 0;
+    if (other.authorIds.some((id) => ownAuthors.has(id))) score += SAME_AUTHOR_BONUS;
+    if (other.illustratorIds.some((id) => ownIllustrators.has(id))) score += SAME_ILLUSTRATOR_BONUS;
+    if (score > 0) scored.push({ id: otherId, score });
+  }
+
+  // Tie-break by id so the output (and therefore the prerendered HTML) is stable across builds.
+  scored.sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  return scored.slice(0, RELATED_COUNT).map((s) => s.id);
+}
+
+const relatedByWorkId = new Map(works.map((w) => [w.id, relatedIdsFor(w)]));
+
 // ---- generated/works.json ----
 const worksGenerated = works.map((w) => ({
   ...w,
+  relatedWorkIds: relatedByWorkId.get(w.id),
   authorNames: w.authorIds.map((id) => authorsById.get(id).name),
   illustratorNames: w.illustratorIds.map((id) => illustratorsById.get(id).name),
   publisherName: publishersById.get(w.publisherId).name,
@@ -93,7 +168,11 @@ const worksGenerated = works.map((w) => ({
 const worksGeneratedById = new Map(worksGenerated.map((w) => [w.id, w]));
 
 function fullWork(w) {
-  return worksGeneratedById.get(w.id);
+  // Only the work detail page renders related works, and each work is embedded in roughly eight
+  // of these cross-reference lists, so keeping relatedWorkIds out of the embedded copies avoids
+  // about a megabyte of duplicated ids across generated/.
+  const { relatedWorkIds, ...rest } = worksGeneratedById.get(w.id);
+  return rest;
 }
 
 // ---- generated/{authors,illustrators,publishers}.json ----
