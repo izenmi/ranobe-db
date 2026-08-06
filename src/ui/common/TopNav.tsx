@@ -7,6 +7,7 @@ const LINKS = [
   { to: "/illustrators", label: "イラストレーター" },
   { to: "/publishers", label: "出版社" },
   { to: "/awards", label: "アワード" },
+  { to: "/timeline", label: "年表" },
 ];
 
 export function TopNav() {

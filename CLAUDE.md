@@ -148,6 +148,22 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
   生成JSONが大きく膨らむ。詳細ページは`getWorks()`(取得済みキャッシュ)から解決するので追加の通信は発生しない
 - チューニング用の定数は`generate-manifest.mjs`冒頭の`RELATED_COUNT`と各ボーナス値
 
+## 年表ページ `/timeline`(2026-08-06実装)
+
+`firstPublishedYear`(刊行年)で作品を年代→年の順にグルーピングして一覧する。姉妹サイト4サイトすべてに同一パターンで実装済み。
+
+- `src/ui/timeline/TimelinePage.tsx`。データはビルド時に何も足しておらず、`getWorks()`(取得済みキャッシュ)を
+  クライアント側でグルーピングするだけなので、`generate-manifest.mjs`側の変更は不要
+- **年ラベルは既存の`.winner-year`ピルを流用**しているので、年ごとの色ローテーションはアワード系ページと一致する。
+  `colorForYear()`(`src/ui/common/yearColor.ts`)をそのまま使う
+- 年代ジャンプは素の`<a href="#decade-1990">`。React Routerは介在せずブラウザがハッシュ移動するだけなので、
+  `ScrollToTop`(pathname監視)とは競合しない。固定ヘッダーに隠れないよう`.timeline-decade`に`scroll-margin-top`を置いている
+- 並び順は既定が古い順、`useState`のトグルで新しい順に切り替わる(URLには持たせていない)
+- **年内の並びはタイトルの五十音順。works.jsonが刊行年しか持たないため、それ以上細かくは並べられない**
+- ルート追加時に触る必要があるのは4箇所: `src/App.tsx`(Route)、`src/ui/common/TopNav.tsx`(ナビ)、
+  `scripts/prerender.mjs`の`routes`配列、`scripts/generate-manifest.mjs`の`sitemapEntries`。
+  **プリレンダーとsitemapは手書きの配列なので、新しい静的ルートを足したら必ず両方に追記すること**
+
 ## 既知の未着手事項
 
 - **新人賞 / それ以外の賞でのフィルター**: 受賞歴を「新人賞(デビュー契機の公募賞)」と「それ以外(このラノすごい!等の人気投票・ランキング)」に区別してフィルターできるようにする。awards.jsonに賞の種別を表すフィールドの追加が必要
