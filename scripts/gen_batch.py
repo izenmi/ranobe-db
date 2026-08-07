@@ -176,6 +176,7 @@ def main():
                     raw = "／".join(rest)
             for part in re.split(r"[、,／/・]|\s+", raw):
                 part = re.sub(r"[（(].*?[）)]", "", part).strip()
+                part = re.sub(r"[\s　]+", "", part)
                 if part and part not in i_names:
                     i_names.append(part)
         illust_ids = []

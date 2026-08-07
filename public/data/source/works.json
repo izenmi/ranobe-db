@@ -51414,5 +51414,1236 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "honteddo",
+    "title": "ホーンテッド！",
+    "titleKana": "ほーんてっど",
+    "authorIds": [
+      "hirasaka-yomi"
+    ],
+    "illustratorIds": [
+      "katase-yuu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "danso-josou"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "女であることを隠して暮らす高校生の久遠悠紀が、幼馴染から告白されてしまう。性別を偽ったままの関係に幽霊まで絡む、著者のデビュー作となったラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2004,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-saidai-no-kobito",
+    "title": "世界最大のこびと",
+    "titleKana": "せかいさいだいのこびと",
+    "authorIds": [
+      "hanedanaoko"
+    ],
+    "illustratorIds": [
+      "p-607785",
+      "p-196302"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "高校生の一弥は、変わり者の妹の部屋から話し声が聞こえることに気づく。覗いてみると、そこには妹と小さな人形の姿があった。ささやかな不思議と家族を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2004,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aoba-kun-to-uchuu-jin",
+    "title": "青葉くんとウチュウ・ジン",
+    "titleKana": "あおばくんとうちゅうじん",
+    "authorIds": [
+      "p-519792"
+    ],
+    "illustratorIds": [
+      "matsunoakinari",
+      "chouniku"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "sf",
+      "romance"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ある日、青葉優作の前に美しい少女ミリアが降り立った。宇宙人の紹介で観光旅行に来たという彼女に振り回される、賑やかなSFラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nekura-shoujo-wa-kuromahou-de-koi-o-suru",
+    "title": "ネクラ少女は黒魔法で恋をする",
+    "titleKana": "ねくらしょうじょわくろまほうでこいおする",
+    "authorIds": [
+      "kumagaimasato"
+    ],
+    "illustratorIds": [
+      "eretto"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "学校では無口でおとなしいが、家では毒舌の妹思い。黒魔法を趣味とするネクラ少女・空口真帆が、妹を実験台に新しい魔法を試したことから騒動が始まる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goremu-garuzu",
+    "title": "ゴーレム×ガールズ",
+    "titleKana": "ごーれむがーるず",
+    "authorIds": [
+      "ookubotomokazu"
+    ],
+    "illustratorIds": [
+      "kei-musume"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "mahou"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "いじめを避けて遠くの進学校を受験した森田友二。合格発表の場で、片想いの相手と思いがけず再会する。ゴーレムを題材にした学園ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mushi-to-medama-to-tedibea",
+    "title": "蟲と眼球とテディベア",
+    "titleKana": "むしとめだまとてでぃべあ",
+    "authorIds": [
+      "hihihi"
+    ],
+    "illustratorIds": [
+      "mausu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "romance"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "ごく普通の女子高生・宇佐川鈴音は、恋人とともに幸せな日々を送っていた。だが恋人の身に起きた異変から、蟲と眼球をめぐる幻想的で残酷な物語が動き出す。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "編集長特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahou-kagishi-karuna-no-bouken",
+    "title": "魔法鍵師カルナの冒険",
+    "titleKana": "まほうかぎしかるなのぼうけん",
+    "authorIds": [
+      "tsukimisouhei"
+    ],
+    "illustratorIds": [
+      "p-610246"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "adventure",
+      "isekai-fantasy",
+      "mahou"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "あらゆる鍵を開ける特殊職業「魔法鍵師」。祖父の跡を継ぐべく修行中の15歳の少女カルナが、大陸一と名高い師匠のもとで腕を磨いていく冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurisumasu-joutou",
+    "title": "クリスマス上等。",
+    "titleKana": "くりすますじょうとう",
+    "authorIds": [
+      "miura-isao"
+    ],
+    "illustratorIds": [
+      "rona-illustrator"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "雪の降り始めたイブの夜、異世界から来た者にサンタクロース役を押しつけられた青年。クリスマスをめぐる一夜のドタバタを描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurayami-ni-yagi-o-sagashite",
+    "title": "暗闇にヤギを探して",
+    "titleKana": "くらやみにやぎおさがして",
+    "authorIds": [
+      "hoshigamasaya"
+    ],
+    "illustratorIds": [
+      "sikorsky"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "真面目だがぼんやりして見られがちな高校生・草加合人が、机の中のノートに挟まれた一枚の便箋を見つける。そこから始まる学園の謎解き。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2006,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuukyuu-tenboudai-no-kai",
+    "title": "悠久展望台のカイ",
+    "titleKana": "ゆうきゅうてんぼうだいのかい",
+    "authorIds": [
+      "p-805387"
+    ],
+    "illustratorIds": [
+      "p-50721",
+      "katsuya",
+      "yasu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "sf"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "告白に振られて落ち込む響依泉子。ブルーな一日から動き出す、展望台を舞台にした青春ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2006,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asutoro-noto",
+    "title": "アストロノト!",
+    "titleKana": "あすとろのと",
+    "authorIds": [
+      "akamatsu-chuugaku"
+    ],
+    "illustratorIds": [
+      "kiurian"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sf",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "遥か未来の地球。現代の科学は「旧文明」として忘れ去られ、魔法と科学が融合した技術体系が築かれていた。その世界を旅する者たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2007,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "majo-rumika-no-akai-ito",
+    "title": "魔女ルミカの赤い糸",
+    "titleKana": "まじょるみかのあかいいと",
+    "authorIds": [
+      "taguchi-hajime"
+    ],
+    "illustratorIds": [
+      "kazuoki"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "試験勉強を口実に琴也の部屋へ押しかけてくる留美華。魔女と赤い糸をめぐる、賑やかな学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hitokakera",
+    "title": "ヒトカケラ",
+    "titleKana": "ひとかけら",
+    "authorIds": [
+      "hoshiienako"
+    ],
+    "illustratorIds": [
+      "p-991334",
+      "p-400962"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "sf"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "学園屈指の美少女に片想いする平凡な高校生に、突然チャンスが訪れる。ひとかけらの奇跡を描く一巻完結の学園もの。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chi-o-kakeru-niji",
+    "title": "地を駆ける虹",
+    "titleKana": "ちおかけるにじ",
+    "authorIds": [
+      "nanairenichi"
+    ],
+    "illustratorIds": [
+      "p-121667",
+      "rui"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "senki"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "英雄に憧れながら失意の底に落ちたネイブが、紹介状を手に国境近くの危険地帯へ向かう。挫折からの再起を描くファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "benezuera-bita-mai-suwito",
+    "title": "ベネズエラ・ビター・マイ・スウィート",
+    "titleKana": "べねずえらびたーまいすうぃーと",
+    "authorIds": [
+      "morita-kisetsu"
+    ],
+    "illustratorIds": [
+      "p-434906",
+      "p-399174"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gendai-drama",
+      "psycho-suspense",
+      "mystery"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "「僕、女の子を殺したんだ」——思いがけない人物からの電話が、満たされない日々を送る高校生の明海を巻き込んでいく。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gomibako-kara-shitsureiitashimasu",
+    "title": "ゴミ箱から失礼いたします",
+    "titleKana": "ごみばこからしつれいいたします",
+    "authorIds": [
+      "iwanamiryou"
+    ],
+    "illustratorIds": [
+      "ishiki"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "ごく普通の高校二年生だったはずの小山萌太は、ある日ゴミ箱に心を奪われてしまう。神々しく美しいゴミ箱に恋する男子のナンセンスコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gokupen",
+    "title": "ごくペン！",
+    "titleKana": "ごくぺん",
+    "authorIds": [
+      "mihara-mitsuki"
+    ],
+    "illustratorIds": [
+      "ushio"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "偏差値70超えの学力を持つ五十嵐真太郎。東大へ一緒に行こうと約束した幼馴染をめぐって、学園生活が思わぬ方向へ転がっていく。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otoko-o-miseteyo-kurata-kun",
+    "title": "オトコを見せてよ倉田くん！",
+    "titleKana": "おとこおみせてよくらたくん",
+    "authorIds": [
+      "saitoushinya"
+    ],
+    "illustratorIds": [
+      "fumio"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "三度の飯より年上好きの高校二年生・倉田優樹は、近所に住む年下の中学生に毎朝たたき起こされている。年齢差だらけのラブコメディ。全7巻。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ryuuoujo-wa-ten-ni-mau-one-seventh-dragon-prince",
+    "title": "竜王女は天に舞う",
+    "titleKana": "りゅうおうじょわてんにまう",
+    "authorIds": [
+      "kitamotoakino"
+    ],
+    "illustratorIds": [
+      "p-59187",
+      "p-389112"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "飛行船事件からひと月。新しい担任を迎えたシグたちの日常に、交流戦の季節が近づく。竜の王女を軸に据えたファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pushuke-purinsesu",
+    "title": "プシュケープリンセス",
+    "titleKana": "ぷしゅけーぷりんせす",
+    "authorIds": [
+      "karinomikata"
+    ],
+    "illustratorIds": [
+      "p-402497"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sf",
+      "gendai-drama",
+      "mystery"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "柊火ノ見には幼いころ確かに妹がいた。しかしある日を境に、その存在は世界から「なかったこと」にされてしまう。喪失の記憶をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "raguna-kuraun",
+    "title": "ラグナ・クラウン",
+    "titleKana": "らぐなくらうん",
+    "authorIds": [
+      "mikadotetsurou"
+    ],
+    "illustratorIds": [
+      "hakutafutoshi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "battle-action",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "第5回MF文庫Jライトノベル新人賞受賞作。MF文庫Jより2009年から刊行され全3巻。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahou-shoujo-karimenkyo",
+    "title": "魔法少女☆仮免許",
+    "titleKana": "まほうしょうじょかりめんきょ",
+    "authorIds": [
+      "fuyukifuyuki"
+    ],
+    "illustratorIds": [
+      "eichitsuesuofo"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou",
+      "comedy",
+      "harem"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "波乱の末、二人の仮免許中魔法少女の使い魔になってしまった貴樹和貴。魔法少女たちに振り回される日常を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2010,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fokkusu-teiru",
+    "title": "ふぉっくすている？",
+    "titleKana": "ふぉっくすている",
+    "authorIds": [
+      "fuyukifuyuki"
+    ],
+    "illustratorIds": [
+      "p-382113",
+      "an"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "「普通の高校生」をやっているつもりの清原凪の正体は九尾の狐。迂闊なせいで幼狐に正体を見抜かれてしまい、慌ただしい日々が始まる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2010,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shakaiteki-niwa-shindemo-kimi-o",
+    "title": "社会的には死んでも君を！",
+    "titleKana": "しゃかいてきにわしんでもきみお",
+    "authorIds": [
+      "ichinichisenji"
+    ],
+    "illustratorIds": [
+      "p-618931",
+      "kagayo"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "薩摩八平にかかった呪いの名は『ラブコメ現象』。祝福にしか見えないその現象に振り回される主人公を描く学園ラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2010,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seihoshu-no-shinohara-san",
+    "title": "正捕手の篠原さん",
+    "titleKana": "せいほしゅのしのはらさん",
+    "authorIds": [
+      "senbakamome"
+    ],
+    "illustratorIds": [
+      "yaegashi-minami"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "「希望ポジションは正捕手です！」——野球部でキャッチャーを務める篠原守と相棒の日々を、部活の季節とともに描く学園スポーツもの。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2011,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakugin-no-zesutomagu",
+    "title": "白銀の救世機",
+    "titleKana": "はくぎんのぜすとまーぐ",
+    "authorIds": [
+      "amanotoukei"
+    ],
+    "illustratorIds": [
+      "kurogane"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "新種のXENOを撃退した際に発生した強力なイデアが、要塞都市アカツキにも影響を及ぼす。人型兵器をめぐる近未来バトル。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shippai-kinshi-kanojo-no-himitsu-wa-morasanai",
+    "title": "失敗禁止！ 彼女のヒミツはもらさない！",
+    "titleKana": "しっぱいきんし",
+    "authorIds": [
+      "masakimasamune"
+    ],
+    "illustratorIds": [
+      "sayori"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "osananajimi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "「やっと会えたよ」と転校生としてやってきたのは幼馴染だった。秘密を抱えたヒロインとの学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suripingu-sutorega-tennyuu-shoujo-no-majutsu-sen",
+    "title": "スリーピング・ストレーガ 転入少女の魔術戦略",
+    "titleKana": "すりーぴんぐすとれーが",
+    "authorIds": [
+      "manomao"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "転入してきた少女の魔術戦略をめぐる学園ファンタジー。MF文庫Jより2012年に刊行。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ruriiro-ni-boketa-nichijou",
+    "title": "瑠璃色にボケた日常",
+    "titleKana": "るりいろにぼけたにちじょう",
+    "authorIds": [
+      "date-yasushi"
+    ],
+    "illustratorIds": [
+      "eretto"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "youkai-ayakashi",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "紺野孝巳は、中学時代の野球部仲間の幽霊に悩まされている。除霊を試みては失敗する日々を描く、脱力系の学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onegai-dakara-ato-gofun",
+    "title": "お願いだから、あと五分！",
+    "titleKana": "おねがいだからあとごふん",
+    "authorIds": [
+      "sakaikyousuke"
+    ],
+    "illustratorIds": [
+      "kimishima",
+      "p-534685"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "romance",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "図書室で出会った少女が探していたのは「枕」だという。噛み合わない会話から始まる、ゆるやかな学園ラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "omunia-o-suberu-mono",
+    "title": "を統べる者",
+    "titleKana": "おむにあおすべるもの",
+    "authorIds": [
+      "mizukisatori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "万物創造の力をめぐる異世界ファンタジー。MF文庫Jより2012年から刊行され全4巻。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sutoraipu-za-pantsa",
+    "title": "ストライプ・ザ・パンツァー",
+    "titleKana": "すとらいぷざぱんつぁー",
+    "authorIds": [
+      "tamezou"
+    ],
+    "illustratorIds": [
+      "kimuradaisuke"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "robot-mecha",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "相棒のストライプとのコンビも板についてきた響子。兄である彼を元の姿に戻すため、彼の所属する組織に関わっていく。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2013,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kegare-seija-no-eku-se-resuta",
+    "title": "穢れ聖者のエク・セ・レスタ",
+    "titleKana": "けがれせいじゃのえくせれすた",
+    "authorIds": [
+      "niimi-sei"
+    ],
+    "illustratorIds": [
+      "minoa"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "天より与えられた無双の兵器「輅機」の力で世界征服を目論むフィガロ魔皇国。その武力の前に祖国を滅ぼされた者たちの戦いを描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2013,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daisu-makaburu-difinishonaru-randamu-firudo",
+    "title": "ダイス・マカブル 〜definitional random field〜",
+    "titleKana": "だいすまかぶる",
+    "authorIds": [
+      "kusakinokusari"
+    ],
+    "illustratorIds": [
+      "fushimi"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "神に課せられた悪魔の呪い《神呪》。生まれつき「否運」の神呪を背負った主人公のもとに、探し物の依頼が持ち込まれる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2013,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kasou-ryouiki-no-eryushion",
+    "title": "仮想領域のエリュシオン",
+    "titleKana": "かそうりょういきのえりゅしおん",
+    "authorIds": [
+      "jouchikazuma"
+    ],
+    "illustratorIds": [
+      "nauribon"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "vrmmo",
+      "sf",
+      "futago"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "運動神経に秀でた兄と、プログラミングの才を持つ妹。八年ぶりに一緒に暮らすことになった兄妹が仮想領域へ足を踏み入れる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2013,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のMF文庫Jライトノベル新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]

@@ -21,6 +21,7 @@ def pick(cell, part):
         # 『隙間女（幅広）』のような括弧付きタイトルが壊れる)
         if len(x) > 1 and x[0] in "（(" and x[-1] in "）)":
             x = x[1:-1].strip()
+        x = x.strip("『』「」〈〉")
         if x:
             xs.append(x)
     if not xs:
@@ -63,7 +64,7 @@ def main():
         year = m.group(0) if m else ""
         t = pick(title, args.title_part)
         a = pick(author, 1)
-        if not t or not a:
+        if not t or not a or not year:
             continue
         out.append((t, a, prize.replace(" / ", "").strip(), year, args.award_id, pub.strip()))
 

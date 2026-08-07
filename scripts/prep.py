@@ -28,6 +28,8 @@ from pathlib import Path
 SRC = Path(__file__).resolve().parent.parent / "public" / "data" / "source"
 NDL = "https://ndlsearch.ndl.go.jp/api/opensearch"
 RAKUTEN = "https://openapi.rakuten.co.jp/services/api/BooksBook/Search/20170404"
+# 紙の書誌が絶版で拾えない作品でも、電子書籍(Kobo)側には紹介文が残っていることが多い
+KOBO = "https://openapi.rakuten.co.jp/services/api/Kobo/EbookSearch/20170426"
 NS = {"dc": "http://purl.org/dc/elements/1.1/", "dcndl": "http://ndl.go.jp/dcndl/terms/",
       "dcterms": "http://purl.org/dc/terms/"}
 
@@ -211,6 +213,40 @@ def ndl_lookup(title, author, sleep):
         "volumes": max(vols) if vols else len(hits),
         "editions": len(hits), "isbn": base["isbn"],
     }
+
+
+def kobo_lookup(title, author, app_id, key, sleep):
+    if not app_id:
+        return None
+    # Kobo APIは title ではなく keyword で引く(title を渡すと wrong_parameter になる)
+    p = {"applicationId": app_id, "accessKey": key, "format": "json", "keyword": title, "hits": 20}
+    body = get(KOBO + "?" + urllib.parse.urlencode(p), sleep=sleep)
+    if not body:
+        return None
+    try:
+        items = [i["Item"] for i in json.loads(body).get("Items", [])]
+    except Exception:
+        return None
+    key_n = norm(title)
+    best = None
+    for it in items:
+        nt = norm(it.get("title", ""))
+        if not nt:
+            continue
+        if not (nt == key_n or (len(key_n) >= 6 and key_n in nt) or (len(nt) >= 6 and nt in key_n)):
+            continue
+        if author and author not in (it.get("author") or "").replace("　", "").replace(" ", ""):
+            continue
+        cap = re.sub(r"<[^>]+>", "", it.get("itemCaption") or "")
+        cap = re.sub(r"\s+", " ", cap).strip()
+        if best is None or len(cap) > len(best[1]):
+            best = (it, cap)
+    if not best:
+        return None
+    it, cap = best
+    return {"rakutenTitle": it.get("title", ""), "author": it.get("author", ""),
+            "publisher": it.get("publisherName", ""), "size": "kobo",
+            "sales": it.get("salesDate", ""), "caption": cap}
 
 
 def rakuten_lookup(title, author, app_id, key, sleep):
@@ -427,6 +463,11 @@ def main():
                 time.sleep(args.sleep)
                 if not (rk or {}).get("caption"):
                     rk = rakuten_lookup(short, "", app_id, key, args.sleep) or rk
+                    time.sleep(args.sleep)
+                if not (rk or {}).get("caption"):
+                    surname = re.split(r"[ 　]", r["author"])[0]
+                    rk = (kobo_lookup(short, surname, app_id, key, args.sleep)
+                          or kobo_lookup(short, "", app_id, key, args.sleep) or rk)
                     time.sleep(args.sleep)
                 if rk and rk.get("caption"):
                     r["rakuten"] = rk
