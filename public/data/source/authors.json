@@ -7452,5 +7452,230 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版「時給三〇〇円の死神」および国立国会図書館サーチで著者名・刊行情報を確認(2026年8月時点)。生年・経歴は未確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ujita-yusuke",
+    "name": "氏田雄介",
+    "nameKana": "うじたゆうすけ",
+    "description": "54字の物語シリーズなど、極端に短い掌編小説を手がける作家・企画者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nurita-kazuho",
+    "name": "塗田一帆",
+    "nameKana": "ぬりたかずほ",
+    "description": "ガガガ文庫でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goya-daisuke",
+    "name": "豪屋大介",
+    "nameKana": "ごうやだいすけ",
+    "description": "富士見ファンタジア文庫の『A君(17)の戦争』などで知られる小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakurai-haruki",
+    "name": "櫻井春輝",
+    "nameKana": "さくらいはるき",
+    "description": "小説投稿サイト発の作品を中心に発表している小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "natsutsuge-rao",
+    "name": "夏柘楽緒",
+    "nameKana": "なつつげらお",
+    "description": "ファミ通文庫でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yukito-zakku",
+    "name": "雪兎ざっく",
+    "nameKana": "ゆきとざっく",
+    "description": "アルファポリス発の女性向け異世界ファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "marusei",
+    "name": "まるせい",
+    "nameKana": "まるせい",
+    "description": "小説投稿サイト発の異世界ファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kokuku-ina",
+    "name": "黒九いな",
+    "nameKana": "こくくいな",
+    "description": "ファミ通文庫でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "diamond-author",
+    "name": "ダイヤモンド",
+    "nameKana": "だいやもんど",
+    "description": "小説投稿サイト発の異世界ファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "k-ing",
+    "name": "k-ing",
+    "nameKana": "けーいんぐ",
+    "description": "小説投稿サイト発のVRMMO・転生ものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "la-gun",
+    "name": "LA軍",
+    "nameKana": "えるえーぐん",
+    "description": "小説投稿サイト発の異世界ファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "satou-ln",
+    "name": "さとう",
+    "nameKana": "さとう",
+    "description": "小説投稿サイト発の異世界ファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tokuyama-ginjiro",
+    "name": "徳山銀次郎",
+    "nameKana": "とくやまぎんじろう",
+    "description": "GA文庫などで異世界ものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "first-author",
+    "name": "ファースト",
+    "nameKana": "ふぁーすと",
+    "description": "VRMMOものを中心に手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamiya-ln",
+    "name": "かみや",
+    "nameKana": "かみや",
+    "description": "HJ文庫でデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nekomata-nuko",
+    "name": "猫又ぬこ",
+    "nameKana": "ねこまたぬこ",
+    "description": "HJ文庫などで異世界ハーレムものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oda-maki",
+    "name": "小田マキ",
+    "nameKana": "おだまき",
+    "description": "レジーナブックスなどで女性向けファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "io-bi",
+    "name": "伊尾微",
+    "nameKana": "いおび",
+    "description": "GA文庫大賞を受賞してデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kawada-ryogo",
+    "name": "川田両悟",
+    "nameKana": "かわだりょうご",
+    "description": "MF文庫Jでデビューした小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "iko-author",
+    "name": "イコ",
+    "nameKana": "いこ",
+    "description": "カクヨム発の悪役令息ものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sukutomo-tamaki",
+    "name": "助供珠樹",
+    "nameKana": "すくともたまき",
+    "description": "ゲーム原作のノベライズなどを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fujisaki-jiro",
+    "name": "藤崎次郎",
+    "nameKana": "ふじさきじろう",
+    "description": "ネット小説大賞グランプリを受賞した小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanna-fumu",
+    "name": "神無フム",
+    "nameKana": "かんなふむ",
+    "description": "HJ文庫でVRMMOものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "penguin-author",
+    "name": "ぺんぎん",
+    "nameKana": "ぺんぎん",
+    "description": "小説投稿サイト発の生産職ものを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gacchi",
+    "name": "gacchi",
+    "nameKana": "がっち",
+    "description": "レジーナブックスなどで女性向けファンタジーを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチ・楽天ブックスの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
