@@ -50854,5 +50854,565 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goddo-kuraishisu",
+    "title": "ゴッド・クライシス",
+    "titleKana": "ごっどくらいしす",
+    "authorIds": [
+      "nanaoakira"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "ken-to-mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第1回スニーカー大賞金賞受賞作。角川スニーカー文庫より1996年に刊行された鬼神譚。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1996,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuroi-kisetsu",
+    "title": "黒い季節",
+    "titleKana": "くろいきせつ",
+    "authorIds": [
+      "ubukata-tou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "sf",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1996,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "未来を望まぬ男と、未来の鍵となる少年。縁で結ばれた二組の男女がそろったとき、世界は様相を変え始める。のちに『マルドゥック・スクランブル』で知られる著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1996,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jenosaido-enjeru-hangyaku-no-kamigami",
+    "title": "ジェノサイド・エンジェル 叛逆の神々",
+    "titleKana": "じぇのさいどえんじぇる",
+    "authorIds": [
+      "yoshida-sunao"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1997,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "神々への叛逆を描くダークファンタジー。第2回スニーカー大賞大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1997,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ragunaroku-kuroki-kemono",
+    "title": "ラグナロク 黒き獣",
+    "titleKana": "らぐなろく",
+    "authorIds": [
+      "yasuikentarou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1998,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "黒き獣と呼ばれる存在をめぐるダークファンタジー。第3回スニーカー大賞大賞受賞作で、長期シリーズへと展開した。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1998,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dark-days",
+    "title": "DARKDAYS",
+    "titleKana": "Darkdays",
+    "authorIds": [
+      "tachibanakyousuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dark-fantasy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 1998,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第3回スニーカー大賞金賞受賞作。角川書店より1998年に刊行された。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1998,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "torisumegitosu-hikari-no-rerikusu",
+    "title": "トリスメギトス 光の神遺物",
+    "titleKana": "とりすめぎとす",
+    "authorIds": [
+      "p-34264"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "ken-to-mahou",
+      "adventure",
+      "mahou"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "古代の神遺物をめぐる冒険を描くファンタジー。第4回スニーカー大賞優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1999,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seresutiaru-fosu-tengoku-kara-kita-tokushu-butai",
+    "title": "セレスティアル・フォース",
+    "titleKana": "せれすてぃあるふぉーす",
+    "authorIds": [
+      "nakagawakeiji"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "mercenary"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "「天国から来た特殊部隊」の副題を持つ、軍事色の強いアクション。第4回スニーカー大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 1999,
+        "result": "奨励賞読者賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-kara-hajimeyo-senkou-no-ganbureibu",
+    "title": "ゼロから始めよ 閃光のガンブレイヴ",
+    "titleKana": "ぜろからはじめよ",
+    "authorIds": [
+      "shiibashuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "閃光のガンブレイヴを名乗る者たちの戦いを描くアクション。第5回スニーカー大賞優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2000,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ue-o-mukouyo-kakutou-shoujo-suzu",
+    "title": "上を向こうよ 格闘少女スズ",
+    "titleKana": "うえおむこうよ",
+    "authorIds": [
+      "shiraishikaoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "sports",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "格闘技に打ち込む少女スズを主人公にした学園もの。第5回スニーカー大賞奨励賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2000,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asu-ribasu",
+    "title": "アース・リバース",
+    "titleKana": "あーすりばーす",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "sf",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "地球規模の変動を題材にしたSF。第5回スニーカー大賞特別賞受賞作で、著者は『コールド・ゲヘナ』の三雲岳斗。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2000,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asu-no-yoake",
+    "title": "明日の夜明け",
+    "titleKana": "あすのよあけ",
+    "authorIds": [
+      "tokinashiyutaka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gendai-drama",
+      "sf"
+    ],
+    "firstPublishedYear": 2001,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第6回スニーカー大賞優秀賞受賞作。角川スニーカー文庫より2001年に刊行された。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2001,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "materiaru-kuraishisu-mission-shippo-to-terorisut",
+    "title": "マテリアル・クライシス",
+    "titleKana": "まてりあるくらいしす",
+    "authorIds": [
+      "nikitakeshi"
+    ],
+    "illustratorIds": [
+      "kosumiyuuchi"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "mahou",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "科学の発展とともに誰でもちょっとした魔法を使えるようになった近未来の日本。魔術捜査官と新人がコンビを組み、特殊テロ犯罪に立ち向かう。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2002,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tamarase-kanojo-wa-kyutona-bokusatsuma",
+    "title": "タマラセ",
+    "titleKana": "たまらせ",
+    "authorIds": [
+      "mutsuzukaakira"
+    ],
+    "illustratorIds": [
+      "himukaiyuuji"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "「彼女はキュートな撲殺魔」の副題どおり、物騒なヒロインが暴れ回る学園コメディ。全6巻。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2004,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tajuushin-sekai-shinfonikku-hatsu",
+    "title": "多重心世界シンフォニックハーツ",
+    "titleKana": "たじゅうしんせかいしんふぉにっくはーつ",
+    "authorIds": [
+      "nagamoriyuuya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "sf",
+      "gakuen",
+      "heikou-sekai"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "複数の心が重なり合う「多重心世界」を題材にしたSF。第10回スニーカー大賞受賞作で全2巻。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2005,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ichigoiro-kinku",
+    "title": "イチゴ色禁区",
+    "titleKana": "いちごいろきんく",
+    "authorIds": [
+      "rin"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "いちご色に染まる禁区を舞台にした学園ラブコメ。全3巻。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2005,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gajetto",
+    "title": "ガジェット",
+    "titleKana": "がじぇっと",
+    "authorIds": [
+      "kokonoeichiki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "第14回スニーカー大賞受賞作。角川スニーカー文庫より2009年から刊行され全5巻。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2008,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mirion-kuraun",
+    "title": "ミリオン・クラウン",
+    "titleKana": "みりおんくらうん",
+    "authorIds": [
+      "tatsunoko-tarou"
+    ],
+    "illustratorIds": [
+      "kogecha"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "post-apocalypse",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "新暦307年、環境制御塔の暴走による全世界規模の災害から300年余り。陸地の多くが海に沈み、人類が霊長の座を追われた世界を描くSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "sneaker-taisho",
+        "year": 2009,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のスニーカー大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]

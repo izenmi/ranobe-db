@@ -69,6 +69,9 @@ def kana_lookup(name, cache):
 def main():
     prep_path, anno_path, out_path = sys.argv[1:4]
     award_name = sys.argv[4] if len(sys.argv) > 4 else "各賞"
+    # NDLのシリーズ名が実際のレーベルと違うことがある(角川スニーカー文庫→「角川文庫」等)ので
+    # バッチ既定のレーベルを指定できるようにする
+    default_pub = sys.argv[5] if len(sys.argv) > 5 else ""
     prep = {r["n"]: r for r in json.load(open(prep_path, encoding="utf-8"))}
 
     authors, illustrators = load("authors"), load("illustrators")
@@ -192,7 +195,7 @@ def main():
             illust_ids.append(pid)
 
         # レーベル
-        pub_id = ov.get("pub", "")
+        pub_id = ov.get("pub", "") or default_pub
         if not pub_id:
             series = re.sub(r"\s*[;；].*$", "", nd.get("series", "") or "")
             # NDLは「電撃文庫 = DENGEKI BUNKO」のように欧文併記を入れることがある
