@@ -53970,5 +53970,1530 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のGA文庫大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "keitai-denwa-ore",
+    "title": "携帯電話俺",
+    "titleKana": "けいたいでんわおれ",
+    "authorIds": [
+      "mizuichikei"
+    ],
+    "illustratorIds": [
+      "naporu"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "comedy",
+      "sf",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "11月のある朝、目覚めると俺の体は携帯電話になっていた。しかし人間の俺も変わらず存在している。二人に分かれた自分をめぐる奇妙なコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "re-alive-sensou-no-shikata",
+    "title": "Re:ALIVE 〜戦争のシカタ〜",
+    "titleKana": "Realive",
+    "authorIds": [
+      "itsukiryuuichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "senki",
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "戦争のあり方を問う第1回小学館ライトノベル大賞受賞作。ガガガ文庫より2007年に刊行。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "karaburu-warudo-midori-no-yami",
+    "title": "カラブルワールド",
+    "titleKana": "からぶるわーるど",
+    "authorIds": [
+      "kazukisaeko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mahou",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "恋と魔術を求めて、大量殺戮事件の起きたジャングルの奥地へ。第1回小学館ライトノベル大賞期待賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "期待賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "right-light-karappo-no-tejinashi-to-hantoumeina",
+    "title": "RIGHT×LIGHT",
+    "titleKana": "Rightlight",
+    "authorIds": [
+      "tsukasa"
+    ],
+    "illustratorIds": [
+      "konoe-ototsugu"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "海難事故で家族を失った少年は、その時以来、右手で握ったものを跡形もなく消してしまう体質になっていた。呪いのような力を抱えた少年と少女の物語。全12巻。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "期待賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sachi-no-sekai-wa-shinde-mo-mawaru",
+    "title": "さちの世界は死んでも廻る",
+    "titleKana": "さちのせかいわしんでもまわる",
+    "authorIds": [
+      "mikazuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "horror",
+      "gakuen",
+      "youkai-ayakashi"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "「あなたが既死者のさちさん……ですか」——夏休み間近に転校してきた少女を護ると誓う者の視点から描かれる、死と再生の物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "期待賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "7-7-no-ichiro-to-hoshikui-zonbizu-sagashiya-kuro",
+    "title": "\"探し屋\"クロニクル",
+    "titleKana": "77のいちろとほしくいぞんびーず",
+    "authorIds": [
+      "hanetaniyuusuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "psycho-suspense",
+      "gendai-drama",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "六つの人格を内に持つイチロと、不登校ぎみの女子高生イコ。都市に潜む「探し屋」の仕事を描くダークな青春譚。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "期待賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "misutikku-ai",
+    "title": "みすてぃっく・あい",
+    "titleKana": "みすてぃっくあい",
+    "authorIds": [
+      "ichiyanaginagi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "yuri",
+      "horror",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "冬休みの女子寮に残った四人。ピクニックや入浴を楽しむ穏やかな時間は、やがて危うい遊びへと変わっていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2006,
+        "result": "期待賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-ga-nametai-no-wa-kimi",
+    "title": "僕がなめたいのは、君っ！",
+    "titleKana": "ぼくがなめたいのわきみっ",
+    "authorIds": [
+      "sakurakou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "海辺の別荘に羽を伸ばしに来た男女。「早くわたしを満足させるのよ」という無茶ぶりから始まる、際どくも軽快なラブコメディ。全5巻。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2007,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kopi-feisu-to-kaunta-garu",
+    "title": "コピーフェイスとカウンターガール",
+    "titleKana": "こぴーふぇいすとかうんたーがーる",
+    "authorIds": [
+      "are"
+    ],
+    "illustratorIds": [
+      "p-539239"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "bunka-club",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "天体観測部の高校生・平良良平は、部の先輩に振り回されながら日々を過ごしている。コピーフェイスと呼ばれる存在をめぐる学園もの。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanatose-miiku-to-kyokou-no-ou",
+    "title": "七歳美郁と虚構の王",
+    "titleKana": "ななとせみいくときょこうのおう",
+    "authorIds": [
+      "kugabonchou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sf",
+      "psycho-suspense",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "1999人が犠牲となったテロから数年。99人分の記憶を持つ少年をめぐる物語。第2回小学館ライトノベル大賞佳作受賞作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dorobou-no-meijin",
+    "title": "どろぼうの名人",
+    "titleKana": "どろぼうのめいじん",
+    "authorIds": [
+      "nakazatomitsuru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "yuri",
+      "mibunsa-romance",
+      "romance"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "独立国・千葉王国の若き国王に仕える「わたし」。きわどく美しく切ない百合物語として書かれた一作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2007,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sono-hi-kare-wa-shinazuni-sumuka",
+    "title": "その日彼は死なずにすむか？",
+    "titleKana": "そのひかれわしなずにすむか",
+    "authorIds": [
+      "kogikimito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "time-leap",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "爆死したはずが人生をやり直すことになった僕と、「あなたが死んだら私も死ぬ」と告げる彼女。奇跡の欠片をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2008,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuikku-sebu-rodo",
+    "title": "クイックセーブ&ロード",
+    "titleKana": "くいっくせーぶ&ろーど",
+    "authorIds": [
+      "ayukawaayumu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "time-leap",
+      "death-game",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "自殺を繰り返して世界を救う少年。真夜中の闇のなかで彼が目にした異様な光景から、やり直しの物語が動き出す。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2008,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanaka-san-wa-genjitsu",
+    "title": "ななかさんは現実",
+    "titleKana": "ななかさんわげんじつ",
+    "authorIds": [
+      "samejimakurage"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電車で居眠りしていた俺の前に現れたのは、ラブコメ漫画のヒロインそのものの少女だった。第4回小学館ライトノベル大賞ガガガ賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2009,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shi-masuto-dai",
+    "title": "シー・マスト・ダイ",
+    "titleKana": "しーますとだい",
+    "authorIds": [
+      "ishikawaamane"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sf",
+      "gakuen-ianou",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "平成大震災以降、超能力を持つ子どもが爆発的に増えた東京。「世界のために彼女は死ななければならない」という命題から始まる物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2009,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ibara-no-majinaishi",
+    "title": "いばらの呪い師",
+    "titleKana": "いばらのまじないし",
+    "authorIds": [
+      "ootanihisa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "battle-action",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "帝都を舞台に、知恵と暴力が激突する異能バトル。第4回小学館ライトノベル大賞審査員特別賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2009,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koushite-kare-wa-okujou-o-moyasu-koto-ni-shita",
+    "title": "こうして彼は屋上を燃やすことにした",
+    "titleKana": "こうしてかれわおくじょうおもやすことにした",
+    "authorIds": [
+      "kamitsukireini"
+    ],
+    "illustratorIds": [
+      "ayakura-juu"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "失恋して飛び降りようと屋上へ向かった三浦加奈。そこには先客がいた——生きづらさを抱えた高校生たちの物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2010,
+        "result": "ガガガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kisei-kanojo-sana",
+    "title": "寄生彼女サナ",
+    "titleKana": "きせいかのじょさな",
+    "authorIds": [
+      "sunagiizumo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "comedy",
+      "idol-geinokai"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "ある日突然、お腹の中に寄生されてしまった少年。初恋と寄生虫とアイドル対決が入り乱れる異色コメディ。全5巻。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2010,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kariringu-haginomori-koukou-shuryou-senmon-katei",
+    "title": "狩りりんぐ！",
+    "titleKana": "かりりんぐ",
+    "authorIds": [
+      "p-628679"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "狩猟専門課程を擁する高校を舞台にした学園もの。ガガガ文庫より2012年に刊行。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2011,
+        "result": "ガガガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kowareta-hitobito",
+    "title": "こわれた人々",
+    "titleKana": "こわれたひとびと",
+    "authorIds": [
+      "takaokasuginari"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "誰とも会話せず目も合わせない、ひとりぼっちの男子高校生。不安定な彼を少女は救えるのか。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2011,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "neko-niwa-narenai-goshokugyou",
+    "title": "猫にはなれないご職業",
+    "titleKana": "ねこにわなれないごしょくぎょう",
+    "authorIds": [
+      "takebayashinanakusa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "凄腕の陰陽師だった春子が寿命で亡くなり、残されたのは猫又だった。「吾輩は猫又である。化け猫と一緒にするな」——和風あやかしコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2011,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kakuriyo-no-mijikai-uta",
+    "title": "カクリヨの短い歌",
+    "titleKana": "かくりよのみじかいうた",
+    "authorIds": [
+      "ookuwayashiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "music",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "歌の家に生まれ、双子の兄よりも才能に恵まれた者の宿命。脅迫状をきっかけに歌典寮をめぐる争いが動き出す。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2012,
+        "result": "ガガガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ningyouzukai",
+    "title": "人形遣い",
+    "titleKana": "にんぎょうずかい",
+    "authorIds": [
+      "saimewashichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "psycho-suspense",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "「世界はわたしを中心に回っているのです」と言い切る少女・坂上神楽。人形遣いを名乗る者をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2012,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ouji-kourin",
+    "title": "王子降臨",
+    "titleKana": "おうじこうりん",
+    "authorIds": [
+      "teshirogishoutarou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "alternate-history",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "戦国の荒野に「王子」が降臨する。限られた者だけが持つ無限の力「美気」をめぐる戦国異聞。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2012,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koi-ni-hensuru-oba-raito",
+    "title": "恋に変する魔改上書",
+    "titleKana": "こいにへんするおーばーらいと",
+    "authorIds": [
+      "kimuramogusa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "現実を上書きして「強制ラブコメ」を発動させる力。ラブコメを愛する主人公が、その力に振り回される。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2012,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nonomeme-hato-bureiku",
+    "title": "ノノメメ、ハートブレイク",
+    "titleKana": "ののめめはーとぶれいく",
+    "authorIds": [
+      "konomuraeiichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "不幸数値の高さから神々に「千年に一人の逸材」と評された少年のもとに、天の国から使者がやってくる。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2012,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suchimu-hebun-furikusu",
+    "title": "スチームヘヴン・フリークス",
+    "titleKana": "すちーむへゔんふりーくす",
+    "authorIds": [
+      "izakikyousuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "steampunk-invention",
+      "battle-action",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "1961年のアメリカ。正体不明の霧ミアズマによって発展した街ビザーバーグを舞台にした、蒸気と怪人のダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2013,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chishio-no-iro-ni-saku-hana-wa",
+    "title": "血潮の色に咲く花は",
+    "titleKana": "ちしおのいろにさくはなわ",
+    "authorIds": [
+      "kirisakisuzume"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "いつしかこの世に現れた、人に寄生する妖花。花に寄生された「宿主」を救うことが、青年にとっての贖罪だった。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2013,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saitamaken-shintou-keifu",
+    "title": "埼玉県神統系譜",
+    "titleKana": "さいたまけんしんとうけいふ",
+    "authorIds": [
+      "nakamuratomoki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "shigoto",
+      "youkai-ayakashi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "倒産目前の神社を立て直す、高校二年生と一柱の神の物語。進路調査票をきっかけに始まるご当地ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2014,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gekisen-mahoushi",
+    "title": "撃戦魔法士",
+    "titleKana": "げきせんまほうし",
+    "authorIds": [
+      "ochishizuku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mahou",
+      "battle-action",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "全人口が魔術師で構成される魔導都市フルホシュタット。魔導バトルアクションの決定版と銘打たれた一作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2014,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ano-natsu-saigo-ni-mita-uchiage-hanabi-wa",
+    "title": "あの夏、最後に見た打ち上げ花火は",
+    "titleKana": "あのなつさいごにみたうちあげはなびわ",
+    "authorIds": [
+      "sukutomo-tamaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "何もないのどかな田舎町に暮らす中学二年生の眞田寛樹と、幼なじみとの夏。忘れたくない日々を描く青春小説。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2014,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurosu-warudo-arukemika",
+    "title": "クロスワールド・アルケミカ",
+    "titleKana": "くろすわーるどあるけみか",
+    "authorIds": [
+      "ikamikazuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "現世と異世界、そして錬金術師たちの抗争。再び開いた異世界の門の先に、少女ルナの帰還はあるのか。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2014,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akunaki-yoku-no-sakuramento",
+    "title": "飽くなき欲の秘蹟",
+    "titleKana": "あくなきよくのさくらめんと",
+    "authorIds": [
+      "oyamakyouhei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gakuen-ianou",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "「もしかしてお姉さん、異能持ちですか？」——意識の低いアルバイト青年が、異能をめぐる出来事に巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2014,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hanashima-san",
+    "title": "ハナシマさん",
+    "titleKana": "はなしまさん",
+    "authorIds": [
+      "amamiyaisa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "horror",
+      "mystery",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "平和な町で起きた猟奇殺人事件。遺体の状態にベテラン刑事が驚愕する。「境界」の向こうにいる何かを追う物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2015,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hiiragi-eiku",
+    "title": "ヒイラギエイク",
+    "titleKana": "ひいらぎえいく",
+    "authorIds": [
+      "kaizuyutaka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "中学二年の夏休み、あの村で僕は彼女と出会った。走って行かなければならない夏を描く青春小説。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fuayu",
+    "title": "|ふあゆ",
+    "titleKana": "ふあゆ",
+    "authorIds": [
+      "imajimujina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "psycho-suspense",
+      "youkai-ayakashi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "他人の顔を誤認識してしまう心因性相貌誤認症を抱えた少年を主人公にした、新時代の怪異譚。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuusha-ni-kitai-shita-boku-ga-baka-deshita",
+    "title": "勇者に期待した僕がバカでした",
+    "titleKana": "ゆうしゃにきたいしたぼくがばかでした",
+    "authorIds": [
+      "hamakazushi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "maou-mazoku-shiten",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "「正直、勇者より魔王軍の方が大変そうだよね」——勇者に期待した者たちの苦労を描く異世界コメディ。全3巻。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2015,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hiraura-famirizumu",
+    "title": "平浦ファミリズム",
+    "titleKana": "ひらうらふぁみりずむ",
+    "authorIds": [
+      "amaneryuuichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "kazoku-ikuji",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "五年前にベンチャー企業社長の母を亡くした平浦一慶に残されたのは、喧嘩っ早い妹たちだった。家族の再生を描く物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2016,
+        "result": "ガガガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hikikomorihime-o-utawasetai",
+    "title": "|ひきこもり姫を歌わせたいっ！",
+    "titleKana": "ひきこもりひめおうたわせたいっ",
+    "authorIds": [
+      "misakafutekigou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "music",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "ロックバンドの甲子園で優勝することを夢見る高校三年生が、ひきこもりの少女に歌わせようと奮闘する青春音楽もの。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2016,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sukuru-jakku-gansumoku",
+    "title": "スクールジャック＝ガンスモーク",
+    "titleKana": "すくーるじゃっくがんすもーく",
+    "authorIds": [
+      "p-160182"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "機巧外骨格と呼ばれる二足歩行兵器。学校を占拠したテロリストと、元少年兵が対峙する。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2016,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-no-owari-ni-tou-sanka",
+    "title": "世界の終わりに問う賛歌",
+    "titleKana": "せかいのおわりにとうさんか",
+    "authorIds": [
+      "shirakabamihyaeru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mahou",
+      "sf",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "魔導が衰退し科学技術が発達した世界。稀少な存在となった魔導師をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2016,
+        "result": "審査員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahou-shoujo-sandaime",
+    "title": "魔法少女、さんだいめっ☆",
+    "titleKana": "まほうしょうじょさんだいめっ",
+    "authorIds": [
+      "kurinoharasousuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mahou",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "「魔法少女なんて、だいっっっきらいだ！」と叫ぶ少女が、それでも魔法少女になろうとする三代目の物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2017,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rokunin-no-akazukin-wa-konya-taberareru",
+    "title": "六人の赤ずきんは今夜食べられる",
+    "titleKana": "ろくにんのあかずきんわこんやたべられる",
+    "authorIds": [
+      "koorimomoamayuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mystery",
+      "death-game",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "名声のために罪を犯した過去を恥じ、猟師として各地を旅する主人公。六人の赤ずきんをめぐる戦慄のパニックミステリ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2017,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pinpon-raba",
+    "title": "|ピンポンラバー",
+    "titleKana": "ぴんぽんらばー",
+    "authorIds": [
+      "taniyamasouta"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "怪我で卓球界から姿を消した、かつての天才卓球少年。エリートが集う学園で再び頂点を目指す。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2017,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurasumeito-ga-tsukaima-ni-narimashite",
+    "title": "クラスメイトが使い魔になりまして",
+    "titleKana": "くらすめいとがつかいまになりまして",
+    "authorIds": [
+      "kakujouazuma1989"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "mahou",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "落ちこぼれの俺には、藤原千影という分不相応な使い魔がいる。言葉にできない想いを行動で示す学園ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2018,
+        "result": "ガガガ賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ribenjazu-hai",
+    "title": "リベンジャーズ・ハイ",
+    "titleKana": "りべんじゃーずはい",
+    "authorIds": [
+      "rokaikuo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "sf",
+      "fukushuu",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "砂塵という有害物質に覆われた近未来を舞台にしたスタイリッシュな復讐譚。第13回小学館ライトノベル大賞優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-light-novel-taisho",
+        "year": 2018,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
