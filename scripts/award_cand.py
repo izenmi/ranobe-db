@@ -16,7 +16,7 @@ import sys
 def pick(cell, part):
     xs = []
     for x in cell.split(" / "):
-        x = x.strip()
+        x = x.strip().strip("/").strip()
         # 「（刊行時表題）」のように全体が括弧で囲まれている場合だけ外す(末尾だけ落とすと
         # 『隙間女（幅広）』のような括弧付きタイトルが壊れる)
         if len(x) > 1 and x[0] in "（(" and x[-1] in "）)":
@@ -46,10 +46,15 @@ def main():
         if ln.startswith("###") or ln.startswith("--") or not ln.strip():
             continue
         f = ln.split("\t")
-        if len(f) < 5:
+        if len(f) < 4:
             continue
-        _, ycell, prize, title, author = f[0], f[1], f[2], f[3], f[4]
-        pub = f[5] if len(f) > 5 else ""
+        if len(f) == 4:
+            # 賞の区分列が無いページ(GA文庫大賞など)
+            _, ycell, title, author = f
+            prize, pub = "", ""
+        else:
+            _, ycell, prize, title, author = f[0], f[1], f[2], f[3], f[4]
+            pub = f[5] if len(f) > 5 else ""
         if "タイトル" in title or "回" in ycell and "第" not in ycell:
             continue
         if args.require_pub and not re.search(r"(19|20)\d{2}年", pub):

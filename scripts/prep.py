@@ -113,6 +113,8 @@ def get(url, tries=4, sleep=2.0):
             req = urllib.request.Request(url, headers={
                 "User-Agent": "ranobe-db-prep/1.0",
                 "Referer": "https://izenmi.github.io/ranobe-db/",
+                # 楽天APIは Referer だけでなく Origin も一致していないと403を返す(実際に踏んだ)
+                "Origin": "https://izenmi.github.io",
             })
             with urllib.request.urlopen(req, timeout=60) as r:
                 return r.read().decode("utf-8")
@@ -226,9 +228,25 @@ def rakuten_lookup(title, author, app_id, key, sleep):
     except Exception:
         return None
     items = [i["Item"] for i in data.get("Items", [])]
-    if not items:
+    # タイトルが一致しない商品(『空の彼方』に対する『大空の彼方へ』など)を拾わないよう照合する
+    key = norm(title)
+    cands = []
+    for it in items:
+        nt = norm(it.get("title", ""))
+        if not nt:
+            continue
+        # 短いタイトルの部分一致は別作品を拾いやすい(『空の彼方』→『大空の彼方へ』)ので
+        # 完全一致か、6文字以上での包含に限る
+        ok = nt == key or (len(key) >= 6 and key in nt) or (len(nt) >= 6 and nt in key)
+        if not ok:
+            continue
+        if author and author not in (it.get("author") or "").replace("　", "").replace(" ", ""):
+            continue
+        cands.append(it)
+    if not cands:
         return None
-    it = items[0]
+    # 紹介文が入っている巻を優先する(1巻は空でも続巻に入っていることがある)
+    it = max(cands, key=lambda x: len(x.get("itemCaption") or ""))
     cap = re.sub(r"<[^>]+>", "", it.get("itemCaption") or "")
     cap = re.sub(r"\s+", " ", cap).strip()
     return {"rakutenTitle": it.get("title", ""), "author": it.get("author", ""),
@@ -343,6 +361,7 @@ def main():
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--sleep", type=float, default=2.0)
     ap.add_argument("--chars", type=int, default=200)
+    ap.add_argument("--force-rakuten", action="store_true", help="refill時に楽天を引き直す")
     ap.add_argument("--force-wiki", action="store_true", help="refill時にWikipediaを引き直す")
     ap.add_argument("--refill", action="store_true", help="既存のout.jsonの欠損だけを逐次で引き直す")
     args = ap.parse_args()
@@ -402,10 +421,13 @@ def main():
                         r["titleKana"] = hiragana(nd["kana"]).replace(" ", "")
                         r["persons"] = [{"name": nm, "kana": hiragana(tr).replace(" ", ""), "id": romaji(tr)}
                                         for nm, tr in zip(nd["creators"], nd["trans"])]
-            if not (r.get("rakuten") or {}).get("caption"):
+            if args.force_rakuten or not (r.get("rakuten") or {}).get("caption"):
                 short = re.split(r"[:：\-–—~〜～]", r["title"])[0].strip()
                 rk = rakuten_lookup(short, re.split(r"[ 　]", r["author"])[0], app_id, key, args.sleep)
                 time.sleep(args.sleep)
+                if not (rk or {}).get("caption"):
+                    rk = rakuten_lookup(short, "", app_id, key, args.sleep) or rk
+                    time.sleep(args.sleep)
                 if rk and rk.get("caption"):
                     r["rakuten"] = rk
         emit(results, args)

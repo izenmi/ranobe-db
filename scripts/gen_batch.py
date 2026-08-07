@@ -164,6 +164,13 @@ def main():
                 pt, tt = norm(wk.get("pageTitle", "")), norm(title)
                 if pt and (pt in tt or tt in pt):
                     raw = wk["illust"]
+            if not raw:
+                # Wikipediaに無ければ楽天の著者欄「著者/イラストレーター」の後半を使う
+                ra = (r.get("rakuten") or {}).get("author", "")
+                if ra and "/" in ra:
+                    a_key = norm(re.sub(r"（.*?）", "", a_names[0]))
+                    rest = [x for x in ra.split("/") if norm(x) != a_key]
+                    raw = "／".join(rest)
             for part in re.split(r"[、,／/・]|\s+", raw):
                 part = re.sub(r"[（(].*?[）)]", "", part).strip()
                 if part and part not in i_names:
@@ -188,6 +195,8 @@ def main():
         pub_id = ov.get("pub", "")
         if not pub_id:
             series = re.sub(r"\s*[;；].*$", "", nd.get("series", "") or "")
+            # NDLは「電撃文庫 = DENGEKI BUNKO」のように欧文併記を入れることがある
+            series = re.sub(r"\s*=.*$", "", series).strip()
             pub_id = pub_by_name.get(norm(series), "")
         if not pub_id:
             problems.append(f"n={n} {title}: レーベル未解決 (NDL series='{nd.get('series')}')")

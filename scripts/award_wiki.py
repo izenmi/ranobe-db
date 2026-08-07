@@ -57,8 +57,11 @@ def clean_cell(s: str) -> str:
 def split_cells(line: str):
     """1行から (content, rowspan) のリストを取り出す。"""
     line = line.lstrip()
-    line = line[1:] if line[:1] in "|!" else line
-    parts = re.split(r"\|\||!!", line)
+    head = line[:1]
+    line = line[1:] if head in "|!" else line
+    # 「!!」でのセル分割はヘッダ行だけ。本文行で分けると『青春ラリアット!!』のような
+    # タイトルが途中で切れる(実際に踏んだ)
+    parts = re.split(r"\|\||!!", line) if head == "!" else line.split("||")
     out = []
     for p in parts:
         rowspan = 1

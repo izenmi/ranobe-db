@@ -455,5 +455,53 @@
     "externalLinks": {},
     "sourceNote": "KADOKAWA公式(カドブン)の賞ページおよび文学賞データベース「文学賞の世界」で創設年・主催・第6回結果を確認(2026年8月時点)。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "overlap-bunko-taisho",
+    "name": "オーバーラップ文庫大賞",
+    "organizer": "オーバーラップ",
+    "description": "オーバーラップ文庫が主催する新人賞。金賞・銀賞などの部門があり、Web小説出身作家の受け皿としても機能している。",
+    "firstYear": 2013,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ文庫大賞"
+    },
+    "sourceNote": "Wikipedia日本語版「オーバーラップ文庫大賞」の受賞作一覧を参照(2026-08-07照会)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kodansha-ranobe-shinjinshou",
+    "name": "講談社ラノベ文庫新人賞",
+    "organizer": "講談社",
+    "description": "講談社ラノベ文庫が主催する新人賞。大賞・優秀賞などの部門を設けている。",
+    "firstYear": 2012,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社ラノベ文庫新人賞"
+    },
+    "sourceNote": "Wikipedia日本語版「講談社ラノベ文庫新人賞」の受賞作一覧を参照(2026-08-07照会)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hj-bunko-taisho",
+    "name": "HJ文庫大賞",
+    "organizer": "ホビージャパン",
+    "description": "HJ文庫が主催する新人賞。大賞・金賞・銀賞などの部門がある。",
+    "firstYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HJ文庫大賞"
+    },
+    "sourceNote": "Wikipedia日本語版「HJ文庫大賞」の受賞作一覧を参照(2026-08-07照会)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fujimi-young-mystery-taisho",
+    "name": "富士見ヤングミステリー大賞",
+    "organizer": "KADOKAWA(富士見書房)",
+    "description": "富士見ミステリー文庫が主催した新人賞。ライトノベルとミステリの中間領域を担った。",
+    "firstYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富士見ヤングミステリー大賞"
+    },
+    "sourceNote": "Wikipedia日本語版「富士見ヤングミステリー大賞」の受賞作一覧を参照(2026-08-07照会)。",
+    "updatedAt": "2026-08-07"
   }
 ]
