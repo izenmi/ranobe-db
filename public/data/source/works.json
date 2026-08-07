@@ -46412,5 +46412,1362 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goryou-toushi-okiden",
+    "title": "五霊闘士オーキ伝",
+    "titleKana": "ごりょうとうしおーきでん",
+    "authorIds": [
+      "domonhiroyuki"
+    ],
+    "illustratorIds": [
+      "yoshimiru"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 1994,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "非日常に憧れる高校生が事故で命を落とすが、異星人の手で蘇生され、五霊と呼ばれるサイボーグたちを率いる立場に据えられる。異星人同士の争いに巻き込まれた少年の戦いを描くSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1994,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurisu-kurosu",
+    "title": "クリス・クロス 混沌の魔王",
+    "titleKana": "くりすくろす",
+    "authorIds": [
+      "takahata-kyouichirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "vrmmo",
+      "sf",
+      "adventure"
+    ],
+    "firstPublishedYear": 1994,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "超高性能電子頭脳が生み出した256人同時接続のゲーム『ダンジョントライアル』。その一般試写に集まった人々を待っていたのは、ただの遊びでは済まない事態だった。仮想世界ものの先駆的作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1994,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bouken-shounin-amurafi",
+    "title": "冒険商人アムラフィ",
+    "titleKana": "ぼうけんしょうにんあむらふぃ",
+    "authorIds": [
+      "nakazatoyuuji"
+    ],
+    "illustratorIds": [
+      "meimu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "merchant",
+      "adventure",
+      "kaiyou-bouken"
+    ],
+    "firstPublishedYear": 1994,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "自由商業都市を拠点とする冒険商人アムラフィが、父の遺した航海日誌を手がかりに、創造神ドラムの秘宝を求めて葡萄海へ乗り出す冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1994,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pantsa-porisu-senkyuuhyaku-sanjuugo",
+    "title": "パンツァーポリス1935",
+    "titleKana": "ぱんつぁーぽりすせんきゅうひゃくさんじゅうご",
+    "authorIds": [
+      "kawakami-minoru"
+    ],
+    "illustratorIds": [
+      "shirooono",
+      "satoyasu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "alternate-history",
+      "steampunk-invention",
+      "senki"
+    ],
+    "firstPublishedYear": 1997,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "著者の代表作「都市世界」シリーズの第1作。1935年の伯林(ベルリン)を思わせる機甲都市を舞台に、機械と戦争の時代を描く。のちに『機甲都市 伯林』として再刊された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1996,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naniwa-soushinki",
+    "title": "NANIWA捜神記",
+    "titleKana": "なにわそうしんき",
+    "authorIds": [
+      "kurifujirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 1997,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃文庫から刊行された、電撃ゲーム小説大賞の受賞作。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1996,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nekomegari",
+    "title": "猫目狩り",
+    "titleKana": "ねこめがり",
+    "authorIds": [
+      "hashimoto-tsumugu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 1998,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "1997年の電撃ゲーム小説大賞金賞を受賞し、著者のデビュー作となった作品。電撃文庫より刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1997,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-no-chi-o-suwanaide",
+    "title": "僕の血を吸わないで",
+    "titleKana": "ぼくのちおすわないで",
+    "authorIds": [
+      "achi-tarou"
+    ],
+    "illustratorIds": [
+      "miyasumi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "kyuuketsuki-fushi",
+      "gakuen"
+    ],
+    "firstPublishedYear": 1998,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "能天気でお人好しな高校生の部屋に、美少女吸血鬼のジルが文字どおり飛び込んでくる。血を吸う吸わないをめぐって騒動が続く、賑やかな学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1997,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gakuen-bugeichou-tsuki-ni-naku",
+    "title": "学園武芸帳「月に笑く」",
+    "titleKana": "がくえんぶげいちょうつきになく",
+    "authorIds": [
+      "shirainobutaka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第5回電撃ゲーム小説大賞金賞を受賞し、1999年に電撃文庫から刊行された学園もの。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1998,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "korudo-gehena",
+    "title": "コールド・ゲヘナ",
+    "titleKana": "こーるどげへな",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "kigawarin"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "魔獣と龍族が君臨する荒涼たる砂漠の惑星ゲヘナ。人類が対抗しうる唯一の手段をめぐって、少年少女たちが戦いに身を投じる。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1998,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsuki-to-anata-ni-hanataba-o",
+    "title": "月と貴女に花束を",
+    "titleKana": "つきとあなたにはなたばお",
+    "authorIds": [
+      "shimurakazuya"
+    ],
+    "illustratorIds": [
+      "shiina-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "ijuzoku-koi"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "変身できない狼男の大学生がある朝目を覚ますと、見知らぬ美少女が「妻」を名乗って現れていた。人ならざる者と人が同居する、和のテイストをまとったラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1998,
+        "result": "選考委員特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ringu-teiru-kachiikusa-no-kimi",
+    "title": "リングテイル 勝ち戦の君",
+    "titleKana": "りんぐている",
+    "authorIds": [
+      "maruyamamuku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2000,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1999,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wakakusa-yakyuubu-kyousoukyoku",
+    "title": "若草野球部狂想曲",
+    "titleKana": "わかくさやきゅうぶきょうそうきょく",
+    "authorIds": [
+      "isshikiginga"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sports",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "野球部を舞台にした学園もの。第7回電撃ゲーム小説大賞を受賞し、全3巻が刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 1999,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tengoku-ni-namida-wa-iranai",
+    "title": "天国に涙はいらない",
+    "titleKana": "てんごくになみだわいらない",
+    "authorIds": [
+      "satoukei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2001,
+    "volumeCount": 11,
+    "status": "completed",
+    "synopsis": "2001年から2011年にかけて全11巻以上が刊行された、佐藤ケイの長期シリーズ。電撃小説大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2000,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tenken-ouki",
+    "title": "天剣王器 Dual Lord, Reversion",
+    "titleKana": "てんけんおうき",
+    "authorIds": [
+      "miwachoushirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2001,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2000,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daitou-fuuunki-rakuyou-no-shoujo",
+    "title": "大唐風雲記 洛陽の少女",
+    "titleKana": "だいとうふううんき",
+    "authorIds": [
+      "tamuratousei"
+    ],
+    "illustratorIds": [
+      "minoru"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "adventure",
+      "mahou"
+    ],
+    "firstPublishedYear": 2002,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "長安の見習い方士・履児は未熟で頼りないが、幼なじみの少女とともに旅に出て少しずつ成長していく。唐代の中国を舞台にした中華風ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2001,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "infiniti-zero-fuyu-white-snow",
+    "title": "インフィニティ・ゼロ 冬〜white snow",
+    "titleKana": "いんふぃにてぃぜろ",
+    "authorIds": [
+      "arisawa-mamizu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2002,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として2002年に電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2001,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "a-b-ekusutorimu-case314-enpera",
+    "title": "A/Bエクストリーム CASE-314［エンペラー］",
+    "titleKana": "ABえくすとりーむ",
+    "authorIds": [
+      "takahashi-yaichirou"
+    ],
+    "illustratorIds": [
+      "kanedaeiji",
+      "p-5090"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2002,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "人類が発見した次元内の広大な空間〈ゾーン〉。そこに巣食う怪物グレムリンの駆除を生業とする二人組アンディとボギーの戦いを描くSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2001,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shapu-ejji",
+    "title": "シャープ・エッジ stand on the edge",
+    "titleKana": "しゃーぷえっじ",
+    "authorIds": [
+      "sakairishinichi"
+    ],
+    "illustratorIds": [
+      "p-5090"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2003,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第9回電撃小説大賞の受賞作として2003年に電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2002,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shirufi-naito",
+    "title": "シルフィ・ナイト",
+    "titleKana": "しるふぃないと",
+    "authorIds": [
+      "kaminojunichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2003,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として2003年に電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2002,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kekkaishi-no-fuga",
+    "title": "結界師のフーガ",
+    "titleKana": "けっかいしのふーが",
+    "authorIds": [
+      "minasehazuki"
+    ],
+    "illustratorIds": [
+      "narusehirofumi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "youkai-ayakashi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "腕は超一流だが性格は豪快な結界師の絵馬が、助手とともに「逃がし屋」を営む。妖怪たちと交渉し、時に戦い、時に友情を育んでいく現代異能もの。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2003,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shupuru-no-ohanashi",
+    "title": "シュプルのおはなし Grandpa's Treasure Box",
+    "titleKana": "しゅぷるのおはなし",
+    "authorIds": [
+      "amamiyaryou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2004,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として2004年から刊行され、全3巻を数えた作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2003,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ruka-rakuen-no-torawarebitotachi",
+    "title": "ルカ -楽園の囚われ人たち-",
+    "titleKana": "るか",
+    "authorIds": [
+      "nanaehirotaka"
+    ],
+    "illustratorIds": [
+      "hiroshi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "高度な疑似人格が開発され、人類が宇宙へ進出しつつある時代。富士山の地下深くに極秘裏に建設された政府要人用の恒久退避施設をめぐって物語が動き出すSF。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2004,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hikari-no-machi",
+    "title": "ひかりのまち nerim's note",
+    "titleKana": "ひかりのまち",
+    "authorIds": [
+      "hasegawamasashi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2005,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "電撃小説大賞の受賞作として2005年に電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2004,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kiseki-no-hyougen",
+    "title": "奇蹟の表現",
+    "titleKana": "きせきのひょうげん",
+    "authorIds": [
+      "yuukimitsutaka"
+    ],
+    "illustratorIds": [
+      "kei-musume"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2005,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "第11回電撃小説大賞銀賞受賞作。電撃文庫より2005年から刊行され、全3巻を数えた。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2004,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiriasu-reiji",
+    "title": "シリアスレイジ",
+    "titleKana": "しりあすれいじ",
+    "authorIds": [
+      "shirakawatoshiyuki"
+    ],
+    "illustratorIds": [
+      "yasuyuki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "変異種採集者(レイスハンター)を目指す少年の歩みを描くアクション。全7巻の長編シリーズとなった。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2004,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "orusu-banshi",
+    "title": "お留守バンシー",
+    "titleKana": "おるすばんしー",
+    "authorIds": [
+      "ogawamasatake"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2006,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "第12回電撃小説大賞受賞作。電撃文庫より2006年から2007年にかけて全4巻が刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2005,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanashimi-kimera",
+    "title": "哀しみキメラ",
+    "titleKana": "かなしみきめら",
+    "authorIds": [
+      "rairakurei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2006,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "第12回電撃小説大賞受賞作。電撃文庫より2006年から2007年にかけて全4巻が刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2005,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hime-no-miko",
+    "title": "火目の巫女",
+    "titleKana": "ひめのみこ",
+    "authorIds": [
+      "sugii-hikaru"
+    ],
+    "illustratorIds": [
+      "kawagishikeitarou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "火目を目指していた少年が、化生と戦う火護衆の一員となる。火の神をその身に宿すことになった少年の戦いを描く和風ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2005,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-heiwa-wa-ikka-danran-no-ato-ni",
+    "title": "世界平和は一家団欒のあとに",
+    "titleKana": "せかいへいわわいっかだんらんのあとに",
+    "authorIds": [
+      "hashimotokazuya"
+    ],
+    "illustratorIds": [
+      "samedakoban"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 10,
+    "status": "completed",
+    "synopsis": "魔王率いる魔族との戦いのさなか、人間たちは異世界から勇者を召喚した——その顛末が現代の一家の団欒に降りかかる。第13回電撃小説大賞金賞受賞作で全10巻の人気シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2006,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tobira-no-soto",
+    "title": "扉の外",
+    "titleKana": "とびらのそと",
+    "authorIds": [
+      "dobashishinjirou"
+    ],
+    "illustratorIds": [
+      "shiromizakana"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "death-game",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "修学旅行に向かっていたはずの少年が、気づくとクラスメイトとともに見知らぬ一室に閉じ込められていた。人工知能ソフィアが課すルールのもと、生徒たちの疑心暗鬼が加速する心理サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2006,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-no-tameno-monogatari",
+    "title": "君のための物語",
+    "titleKana": "きみのためのものがたり",
+    "authorIds": [
+      "mikagamimarehito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2008,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第14回電撃小説大賞受賞作として2008年に電撃文庫から刊行された作品。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2007,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "under-ikai-nosutarujia",
+    "title": "under 異界ノスタルジア",
+    "titleKana": "Under",
+    "authorIds": [
+      "senakazuaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2008,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "投稿時タイトル『異界ノスタルジア』で第14回電撃小説大賞銀賞を受賞し、改稿・改題のうえ2008年に電撃文庫から刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2007,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toudouke-wa-kamigakari",
+    "title": "藤堂家はカミガカリ",
+    "titleKana": "とうどうけわかみがかり",
+    "authorIds": [
+      "takatoohyousuke"
+    ],
+    "illustratorIds": [
+      "p-451294"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "異世界ハテシナから人間界にやってきた二人が、いじめられっ子の少年を護衛するため正体を隠して周囲に紛れ込む。全3巻の学園異能コメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2007,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hazakura-ga-kita-natsu",
+    "title": "葉桜が来た夏",
+    "titleKana": "はざくらがきたなつ",
+    "authorIds": [
+      "natsumi-kouji"
+    ],
+    "illustratorIds": [
+      "morii-shizuki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "ijuzoku-koi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "宇宙から飛来した移民船の異星種族アポストリと人類は、衝突ののち停戦から19年、共存の道を探り続けていた。その狭間に立つ者たちを描くSF。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2007,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pararaba",
+    "title": "パララバ -Parallel lovers-",
+    "titleKana": "ぱららば",
+    "authorIds": [
+      "shizukitooka"
+    ],
+    "illustratorIds": [
+      "koshima-hagu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "通話を通じて交流を深めていた相手が事故で急死する。現実を受け入れられない少女の携帯電話に届いたものとは——喪失と再生を描く恋愛小説。第15回電撃小説大賞金賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toukyou-vanpaia-fainansu",
+    "title": "東京ヴァンパイア・ファイナンス",
+    "titleKana": "とうきょうゔぁんぱいあふぁいなんす",
+    "authorIds": [
+      "shindoujunjou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "第15回電撃小説大賞受賞作として2009年に電撃文庫から刊行された作品。著者はのちに直木賞を受賞した真藤順丈。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kami-no-manimani-kagutsuchi-sama-no-kamishibai",
+    "title": "神のまにまに!〜カグツチ様の神芝居〜",
+    "titleKana": "かみのまにまに",
+    "authorIds": [
+      "yamaguchi-kouzaburou"
+    ],
+    "illustratorIds": [
+      "amakusatobari"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "youkai-ayakashi"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "頭に小さな神が憑いたせいで女性に好かれない日々を送る青年のもとに、行方をくらませた八百万の神々を捜すよう政府から依頼が舞い込む。神々に振り回される現代コメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "選考委員奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sukima-onna-habahiro",
+    "title": "隙間女（幅広）",
+    "titleKana": "すきまおんなはばひろ",
+    "authorIds": [
+      "maruyamahideto"
+    ],
+    "illustratorIds": [
+      "miyasurisa"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "youkai-ayakashi",
+      "horror"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "ある日、部屋のタンスと壁の隙間に居着いてしまった「隙間女」。人間と同じ物を食べ続けた結果、隙間女にあるまじき幅広の体型になってしまった彼女との同居生活を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2008,
+        "result": "電撃文庫MAGAZINE賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bakumatsu-mahoushi-mage-revolution",
+    "title": "幕末魔法士 -Mage Revolution-",
+    "titleKana": "ばくまつまほうし",
+    "authorIds": [
+      "tanabesouji"
+    ],
+    "illustratorIds": [
+      "kuramotokaya"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "alternate-history",
+      "mahou",
+      "senki"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "エルフやドワーフが人間より先に存在した世界の、明治維新前夜の日本。大坂適塾で学ぶ蘭学者にして魔法士の青年を主人公に据えた、幕末を舞台とする歴史ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2009,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vandaru-garougai-no-kiseki",
+    "title": "ヴァンダル画廊街の奇跡",
+    "titleKana": "ゔぁんだるがろうがいのきせき",
+    "authorIds": [
+      "minagawamamoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "第16回電撃小説大賞受賞作。電撃文庫より2010年から刊行され、全3巻を数えた。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2009,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goshujinsan-meidosama-tousan-kaasan-uchi-no-meid",
+    "title": "ご主人さん&メイドさま 父さん母さん、ウチのメイドは頭が高いと怒ります",
+    "titleKana": "ごしゅじんさん&めいどさま",
+    "authorIds": [
+      "enokizumudai"
+    ],
+    "illustratorIds": [
+      "p-450511"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "butler-maid",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "メイド好きが高じた高校生が帰宅すると、メイド服の少女が待ち構えていた。10年前の約束を盾に押しかけてきた「メイドさま」との賑やかな日常を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2009,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taiyou-no-akubi",
+    "title": "太陽のあくび",
+    "titleKana": "たいようのあくび",
+    "authorIds": [
+      "arimakaoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "メディアワークス文庫の創刊期を飾った一冊。第16回電撃小説大賞の受賞作として2009年に刊行された。",
+    "awardResults": [
+      {
+        "awardId": "dengeki-novel-taisho",
+        "year": 2009,
+        "result": "メディアワークス文庫賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の電撃小説大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
   }
 ]
