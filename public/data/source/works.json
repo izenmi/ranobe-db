@@ -55495,5 +55495,1308 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の小学館ライトノベル大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kiniro-karutetto",
+    "title": "きんいろカルテット！",
+    "titleKana": "きんいろかるてっと",
+    "authorIds": [
+      "yuuhoniimu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "music",
+      "bunka-club",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ユーフォニアム奏者の少女が「このみんなでずっと吹きたかった」と願う。楽器と仲間をめぐる青春音楽もの。全3巻。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2012,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiroki-kououhime-to-chito-fosu",
+    "title": "白き煌王姫と異能魔導小隊＜チート・フォース＞",
+    "titleKana": "しろきこうおうひめとちーとふぉーす",
+    "authorIds": [
+      "kiryuukyousuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "通称「無能魔導小隊」の隊長に就任したエイルたちに与えられた次の任務は、討伐不能とされる超特級災害獣の相手だった。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2012,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "senkou-no-daburu-ikusu",
+    "title": "閃虹の機巧美神＜ダブルイクス＞",
+    "titleKana": "せんこうのだぶるいくす",
+    "authorIds": [
+      "kurusuniku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "sf",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "海上都市ユーテラスを舞台に、人型兵器ダブルイクスに乗れる少女と乗れない少年を描くSFアクション。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2012,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "furu-bureido-igunisshon",
+    "title": "フルブレイド・イグニッション",
+    "titleKana": "ふるぶれいどいぐにっしょん",
+    "authorIds": [
+      "gira"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "星の暦八九四年、オルデア共和国。万能資源《星屑粒子》をめぐって世界は再び戦争へと突入する。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2013,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuyaku-hajimemashita",
+    "title": "悪役、はじめました",
+    "titleKana": "あくやくはじめました",
+    "authorIds": [
+      "chigirakouyou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "isekai-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "悪役を演じることを選んだ主人公の異世界譚。オーバーラップ文庫大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2013,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikyou-gema-isekai-nite-jikkyou-pureichuu",
+    "title": "最強ゲーマー、異世界にて実況プレイ中",
+    "titleKana": "さいきょうげーまーいせかいにてじっきょうぷれいちゅう",
+    "authorIds": [
+      "yuukishinobu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "あらゆるゲームをやり込んだ高坂葵が、「ゲームが得意な方を優遇」という求人をきっかけに異世界へ。実況しながら攻略していく。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2014,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "senka-no-maihime-senka-no-himegimi-wa-kegarenai",
+    "title": "戦華の舞姫 戦華ノ姫君ハ汚レナイ",
+    "titleKana": "せんかのまいひめ",
+    "authorIds": [
+      "kishine-kouka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "senki",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "かつて世界は戦女神に救われた。戦場に咲く華にたとえられたその姿をめぐる戦記ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2014,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ganzu-basuto-onrain",
+    "title": "ガンズバースト・オンライン",
+    "titleKana": "がんずばーすとおんらいん",
+    "authorIds": [
+      "hoshizakiazusa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "vrmmo",
+      "battle-action",
+      "sf"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "仮想世界に侵入した電子生命体との戦いから3か月。正式稼働したゲーム世界で、ゲーマーたちの戦いが再び始まる。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2014,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikyou-seikishi-no-chito-nashi-gendai-seikatsu",
+    "title": "最強聖騎士のチート無し現代生活",
+    "titleKana": "さいきょうせいきしのちーとなしげんだいせいかつ",
+    "authorIds": [
+      "obatakyouto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gyaku-isekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "「俺の名はユウキ・グレン・オーガス、ラバールの聖騎士である！」——宿敵との決戦の果てに現代日本へ落ちてきた聖騎士の日常。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2015,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuria-kaesaru-no-ketsudan-garia-senki",
+    "title": "ユリア・カエサルの決断",
+    "titleKana": "ゆりあかえさるのけつだん",
+    "authorIds": [
+      "endouryou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "nihonshi-tensei",
+      "alternate-history",
+      "senki"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "古代ローマを愛し、カエサルを尊敬する高校生が歴史の只中へ。ガリア戦記を下敷きにした歴史ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2015,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "airesu-no-shisho",
+    "title": "アイレスの死書",
+    "titleKana": "あいれすのししょ",
+    "authorIds": [
+      "p-357522"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "世界最大の情報機関「大図書館」には、人に取り憑く「死書」を扱う史書記がいる。彼らの使命を描くダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2015,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hiyoku-yuusha-no-no-moa-ekusukariba",
+    "title": "比翼勇者のノー・モア・エクスカリバー",
+    "titleKana": "ひよくゆうしゃののーもあえくすかりばー",
+    "authorIds": [
+      "p-638342"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "battle-action",
+      "sf",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "地球外生命体「ギフト」と戦う人類の希望「勇者」。旧帝国支部の聖剣授与式から物語が動き出す。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2016,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mononoke-sureibu",
+    "title": "もののけスレイブ！",
+    "titleKana": "もののけすれいぶ",
+    "authorIds": [
+      "yamaguchiitsuka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "霊感が強いだけの普通の男子高校生・暮井竜太が、転校先でもののけたちと関わることになる学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2016,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amadeusu-no-nokoribi-muyoku-no-fushisha-to-taiku",
+    "title": "アマデウスの残り灯 無欲の不死者と退屈な悪神",
+    "titleKana": "あまでうすののこりび",
+    "authorIds": [
+      "shigaryuusuke"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "kyuuketsuki-fushi",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "旧世界パンタシアが崩壊し、ゆるやかに滅びゆく世界。不死の心臓を持つ少年カインと神をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2016,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "choppiri-ecchi-de-hentai-na-ohimesama-wa-suki-de",
+    "title": "ちょっぴりエッチで変態なお姫さまは好きですか？",
+    "titleKana": "ちょっぴりえっちでへんたいなおひめさまわすきですか",
+    "authorIds": [
+      "osakana1gou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "maou-mazoku-shiten",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "圧倒的なチート能力を得て異世界に転生したものの、少し特殊な性癖を抱えてしまった新魔王の物語。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2017,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jakushou-soshagebu-no-bokura-ga-kamige-o-tsukuru",
+    "title": "弱小ソシャゲ部の僕らが神ゲーを作るまで",
+    "titleKana": "じゃくしょうそしゃげぶのぼくらがかみげーおつくるまで",
+    "authorIds": [
+      "p-348452"
+    ],
+    "illustratorIds": [
+      "p-348452-2",
+      "p-979796",
+      "p-222628",
+      "p-78199",
+      "p-215340",
+      "azuri"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "bunka-club",
+      "gakuen",
+      "otaku-shumi"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 3,
+    "status": "unknown",
+    "synopsis": "ソーシャルゲームは遊ぶだけでなく作るもの——恋と青春とゲーム開発が交錯する部活もの。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2018,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikopasu-garu-in-yakuza-rando",
+    "title": "サイコパスガール イン ヤクザランド",
+    "titleKana": "さいこぱすがーるいんやくざらんど",
+    "authorIds": [
+      "mokushitsu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "urashakai",
+      "psycho-suspense",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "ヤクザが恐怖で支配する街・蘭戸市で頻発する「連続ヤクザ襲撃事件」。誰もが怯えるその中心にいる少女を描く。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2018,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hoshiyomi-no-mahoutsukai",
+    "title": "星詠みの魔法使い",
+    "titleKana": "ほしよみのまほうつかい",
+    "authorIds": [
+      "rikumi-tokiha"
+    ],
+    "illustratorIds": [
+      "yusano"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "代々誇り高き魔術剣士を輩出するレ・ノール家の少女エヴァリーナが、魔術剣の才を開花させていく学園ファンタジー。全3巻。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2019,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ri-arui-tenseisha-o-korosu-mono",
+    "title": "Re:RE-リ：アールイー-",
+    "titleKana": "りあーるいー",
+    "authorIds": [
+      "nakajimaryuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "fukushuu",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "転生者を殺す者を軸に据えた異世界ファンタジー。オーバーラップ文庫より全2巻。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2019,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "superu-ando-raifuzu-koibito-ga-kirifuda-no-shoun",
+    "title": "スペル&ライフズ 恋人が切り札の少年はシスコン姉妹を救うそうです",
+    "titleKana": "すぺるあんどらいふず",
+    "authorIds": [
+      "juuri-hare"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "mahou"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "恋人を切り札とする少年が、姉妹を救おうとする異能バトル。オーバーラップ文庫大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2021,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ochikobore-kara-hajimeru-hakugin-no-eiyuutan",
+    "title": "落ちこぼれから始める白銀の英雄譚",
+    "titleKana": "おちこぼれからはじめるはくぎんのえいゆうたん",
+    "authorIds": [
+      "kamoyamakeisuke"
+    ],
+    "illustratorIds": [
+      "p-737922",
+      "p-950094"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "monster-taming",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "セイラムシティに巣くう巨悪を退け、操獣者としての第一歩を踏み出した主人公。水鱗王の謎に挑む冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2021,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikyou-shugosha-to-eichi-no-madouhime",
+    "title": "最強守護者と叡智の魔導姫 死神の力をもつ少年はすべてを葬り去る",
+    "titleKana": "さいきょうしゅごしゃとえいちのまどうひめ",
+    "authorIds": [
+      "aguikou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "死神の力を持つ少年と叡智の魔導姫を描くダークファンタジー。オーバーラップ文庫より全2巻。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2022,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahou-keisatsu-fanshi-maririn-shouko-ga-nakutemo",
+    "title": "魔法警察ファンシー☆マリリン 〜証拠がなくても即逮捕！〜",
+    "titleKana": "まほうけいさつふぁんしーまりりん",
+    "authorIds": [
+      "yamasuyama"
+    ],
+    "illustratorIds": [
+      "samateru"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "mystery",
+      "mahou",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "高校生探偵として数々の事件を解決してきた主人公が、可愛すぎる「魔法警察」の秘密に迫る。第10回オーバーラップ文庫大賞銀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2022,
+        "result": "銀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "feari-meido",
+    "title": "フェアリーメイド 傷だらけの妖精職人と壊れかけの人工妖精",
+    "titleKana": "ふぇありーめいど",
+    "authorIds": [
+      "sawamatsunahako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "butler-maid",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "妖精のメイドをめぐる異世界ファンタジー。オーバーラップ文庫より2025年に刊行。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2023,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ikai-soumetsu-no-soruja-meido",
+    "title": "異界掃滅のソルジャーメイド 死にぞこないの天才と異端の決死兵",
+    "titleKana": "いかいそうめつのそるじゃーめいど",
+    "authorIds": [
+      "kawanabekashima"
+    ],
+    "illustratorIds": [],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "butler-maid",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "異界の脅威を掃滅するメイドたちを描くアクション。オーバーラップ文庫より2025年に刊行。",
+    "awardResults": [
+      {
+        "awardId": "overlap-bunko-taisho",
+        "year": 2023,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahoutsukai-nara-miso-o-kue",
+    "title": "魔法使いなら味噌を喰え!",
+    "titleKana": "まほうつかいならみそおくえ",
+    "authorIds": [
+      "sumimori-sai"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "mahou"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "王女セレスに仕える少女をめぐる騒動が一段落したある日、味噌をめぐる新たな騒ぎが持ち上がる。異世界食文化コメディ。全4巻。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2011,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mao-nin",
+    "title": "まお×にん!",
+    "titleKana": "まおにん",
+    "authorIds": [
+      "yamasuyukitaka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "ninja",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "魔王と忍者を掛け合わせた学園コメディ。講談社ラノベ文庫より全3巻。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2011,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-subarashiku-fukou-de-shiawasena-sekai-to-bo",
+    "title": "この素晴らしく不幸で幸せな世界と僕と!",
+    "titleKana": "このすばらしくふこうでしあわせなせかいとぼくと",
+    "authorIds": [
+      "mizukihiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "春休みは、みんなで星野さんちの南の島へ。仲良くなったイケメン転校生も加わって、賑やかな休みが始まる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2011,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamisama-no-oshigoto",
+    "title": "神様のお仕事",
+    "titleKana": "かみさまのおしごと",
+    "authorIds": [
+      "motoki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "shigoto",
+      "youkai-ayakashi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ただの高校生・真人が突然神になった。現れた黒須神社の巫女に「我が神社の神となってください」と頼まれる和風コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2012,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kare-to-kanojo-no-feitaru-era",
+    "title": "彼と彼女の不都合な真実",
+    "titleKana": "かれとかのじょのふぇいたるえらー",
+    "authorIds": [
+      "nashinominori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "sf",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "大きなカバンを服のように着た不思議な少女トトリと出会った御鷹一。二人の行動は思わぬ事態へと転がっていく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2012,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mobukyara-na-ore-ga-hiroin-ni-kouryaku-shite-to",
+    "title": "モブキャラな俺がヒロインに攻略してと頼まれました",
+    "titleKana": "もぶきゃらなおれがひろいんにこうりゃくしてとたのまれました",
+    "authorIds": [
+      "asakuramawaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "otome-game-sekai",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "モブキャラとして静かに学校生活を送っていた冬也の趣味はゲーム。そんな彼がヒロインから「攻略してほしい」と頼まれる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2012,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oretachi-no-chuunibyou-wa-mada-hajimatta-bakari",
+    "title": "俺達の中二病はまだ始まったばかりだ!",
+    "titleKana": "おれたちのちゅうにびょうわまだはじまったばかりだ",
+    "authorIds": [
+      "sakusakamakoto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "gakuen-ianou"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "邪気眼系中二病の美少女・蒼田結緋と〈悪魔〉として契約中の佐多見拓馬。ゴールデンウィーク目前の誘いから騒動が始まる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2012,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sabisu-ando-batora",
+    "title": "サービス&バトラー",
+    "titleKana": "さーびすあんどばとらー",
+    "authorIds": [
+      "mochizukitadahito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "butler-maid",
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "お嬢様の執事に就いて三か月。執事兼コーチとして働く主人公の奮闘を描くコメディ。全3巻。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2013,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seigeki-no-aoi-maken",
+    "title": "星撃の蒼い魔剣",
+    "titleKana": "せいげきのあおいまけん",
+    "authorIds": [
+      "shiizukiasami"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "battle-action",
+      "mahou",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "聖騎士の魂を宿した四人が〈零の扉〉を破壊し、世界の終わりを阻止してから一か月。新たな戦いが始まる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2013,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamisuki-tooru-no-kegare-naki-sekai",
+    "title": "紙透トオルの汚れなき世界",
+    "titleKana": "かみすきとおるのけがれなきせかい",
+    "authorIds": [
+      "ishikawanoboroo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "「ちょっと世界を滅ぼしに行ってくる」と魔装服に身を包んで出かけた兄を見送った数時間後——弟の視点から描く異能コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2014,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "afuta-burakku",
+    "title": "アフターブラック",
+    "titleKana": "あふたーぶらっく",
+    "authorIds": [
+      "kawatagikyoku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "gakuen-ianou",
+      "osananajimi"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "ライトノベルのような非日常に憧れつつ、幼馴染とともに平凡な高校生活を送る少年。その日常が崩れ始める。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2014,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ran-oba",
+    "title": "ラン・オーバー",
+    "titleKana": "らんおーばー",
+    "authorIds": [
+      "p-171102"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "psycho-suspense",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "転校してきた湊里香によってクラスが一変する。いじめの標的にされても動じない彼女が、主人公に告げた言葉とは。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2014,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "danjon-joukamachi-uneiki",
+    "title": "ダンジョン城下町運営記",
+    "titleKana": "だんじょんじょうかまちうんえいき",
+    "authorIds": [
+      "mimi"
+    ],
+    "illustratorIds": [
+      "nueco"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "nation-building",
+      "dungeon-unei",
+      "naisei"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "若くして財産を築いた高校生社長が、ダンジョンを抱える城下町の運営に関わることになる。経営を軸にした異世界もの。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "omae-o-iwatte-yarouka",
+    "title": "お前を、祝ってやろうか!? 1.ラッキースケベの呪いを解いてくれ!",
+    "titleKana": "おまえおいわってやろうか",
+    "authorIds": [
+      "mimoriichiru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "comedy",
+      "battle-action",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "銀髪の魔女に口の中へ銃口を突っ込まれている俺——なぜこうなったのかを語る、テンポの速いコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-ranobe-shinjinshou",
+        "year": 2015,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のオーバーラップ文庫大賞・講談社ラノベ文庫新人賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
