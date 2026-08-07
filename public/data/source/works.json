@@ -137,7 +137,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/ookami-to-koushinryou"
   },
   {
     "id": "toaru-majutsu-no-index",
@@ -182,7 +183,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/toaru-majutsu-no-index"
   },
   {
     "id": "full-metal-panic",
@@ -540,7 +542,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/oregairu"
   },
   {
     "id": "kumo-desu-ga-nanika",
@@ -827,7 +830,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/zero-no-tsukaima"
   },
   {
     "id": "accel-world",
@@ -907,7 +911,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/danmachi"
   },
   {
     "id": "ore-no-imouto",
@@ -1201,7 +1206,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/tantei-wa-mou-shindeiru"
   },
   {
     "id": "kage-no-jitsuryokusha-ni-naritakute",
@@ -1254,7 +1260,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kage-no-jitsuryokusha"
   },
   {
     "id": "watashi-nouryoku-wa-heikinchi",
@@ -1598,7 +1605,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/isekai-shokudo"
   },
   {
     "id": "arifureta-shokugyou-de-sekai-saikyou",
@@ -2681,7 +2689,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/baka-to-test"
   },
   {
     "id": "hitsugihime-no-chaika",
@@ -2972,7 +2981,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/hataraku-maousama"
   },
   {
     "id": "madan-no-ou-to-vanadis",
@@ -3817,7 +3827,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/baccano-manga"
   },
   {
     "id": "kieli",
@@ -4054,7 +4065,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/durarara-manga"
   },
   {
     "id": "iriya-no-sora-ufo-no-natsu",
@@ -4806,7 +4818,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/buta-no-liver"
   },
   {
     "id": "seiyuu-radio-no-uraomote",
@@ -5319,7 +5332,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/last-dungeon-mae-no-mura"
   },
   {
     "id": "double-brid",
@@ -5817,7 +5831,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/ryuo-no-oshigoto"
   },
   {
     "id": "nanatsu-no-maken-ga-shihai-suru",
@@ -5954,7 +5969,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/youkoso-jitsuryoku-shijou"
   },
   {
     "id": "sasaki-to-pi-chan",
@@ -7699,7 +7715,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/rakudai-kishi"
   },
   {
     "id": "infinite-dendrogram",
@@ -7981,7 +7998,8 @@
     "mediaMix": {
       "anime": false,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/okitegami-kyoko"
   },
   {
     "id": "kyouran-kazoku-nikki",
@@ -8042,7 +8060,8 @@
     "mediaMix": {
       "anime": true,
       "comic": false
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kamisama-no-memochou"
   },
   {
     "id": "lord-el-melloi-ii-sei-no-jikenbo",
@@ -8272,7 +8291,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/bakemonogatari-manga"
   },
   {
     "id": "knights-and-magic",
@@ -8394,7 +8414,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/tondemo-skill"
   },
   {
     "id": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi",
@@ -10423,7 +10444,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/genjitsushugi-yuusha"
   },
   {
     "id": "tensei-kenja-no-isekai-life",
@@ -11242,7 +11264,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/isekai-izakaya-nobu"
   },
   {
     "id": "fukushokushi-lucia-wa-akiramenai",
@@ -12621,7 +12644,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kakuriyo-no-yadomeshi"
   },
   {
     "id": "matsurika-kanriden",
@@ -15612,7 +15636,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/hazurewaku"
   },
   {
     "id": "teihen-ryoushu-no-kanchigai-eiyuutan",
@@ -27471,7 +27496,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/天久鷹央の推理カルテ"
     },
     "sourceNote": "Wikipedia日本語版「天久鷹央の推理カルテ」を参照し独自に要約(2026年8月時点)。巻数はシリーズ全体(2026年4月時点で21巻)。後年は実業之日本社文庫でも刊行されているが初出レーベルの新潮文庫nexを採用。2025年にTVアニメ化・実写ドラマ化、複数社でコミカライズ。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/amakusu-takao"
   },
   {
     "id": "sakurako-san-no-ashimoto-niwa-shitai-ga-umatteiru",
@@ -27509,7 +27535,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/櫻子さんの足下には死体が埋まっている"
     },
     "sourceNote": "Wikipedia日本語版「櫻子さんの足下には死体が埋まっている」を参照し独自に要約(2026年8月時点)。巻数は本編17巻+スピンオフ1巻の計18冊。E★エブリスタ発だが対応プラットフォーム値がないためwebNovelSourceは省略。2015年TVアニメ化、2017年実写ドラマ化、2015〜2017年コミカライズ。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/sakurako-san"
   },
   {
     "id": "junkyouju-takatsuki-akira-no-suisatsu",
@@ -27541,7 +27568,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/准教授・高槻彰良の推察"
     },
     "sourceNote": "Wikipedia日本語版「准教授・高槻彰良の推察」を参照し独自に要約(2026年8月時点)。巻数は本編10巻+番外編2巻(2024年8月時点)。実写ドラマ化・コミカライズあり。アニメ化は確認できず。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/takatsuki-akira"
   },
   {
     "id": "asakusa-oniyome-nikki",
@@ -28237,7 +28265,8 @@
     "updatedAt": "2026-08-04",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/sokushi-cheat"
   },
   {
     "id": "fushisha-no-deshi",
@@ -28340,7 +28369,8 @@
     "updatedAt": "2026-08-04",
     "webNovelSource": {
       "platform": "narou"
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/riso-no-himo-seikatsu"
   },
   {
     "id": "tensei-kizoku-no-isekai-boukenroku",
