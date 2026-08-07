@@ -38731,5 +38731,2579 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "level99-ryouchi-keiei",
+    "title": "レベル99冒険者によるはじめての領地経営",
+    "titleKana": "れべるきゅうじゅうきゅうぼうけんしゃによるはじめてのりょうちけいえい",
+    "authorIds": [
+      "pakupaku"
+    ],
+    "illustratorIds": [
+      "fujisaki-illust"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "地球へ帰る手段を探す最強冒険者が、成り行きで領地の経営に取り組む異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "world-insurance",
+    "title": "ワールド・インシュランス",
+    "titleKana": "わーるどいんしゅらんす",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "illustratorIds": [
+      "shion"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "sf",
+      "battle-action",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "巨額の保険をかけられた対象を守り抜く任務を描くSFアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isshuku-ippan-no-ongi",
+    "title": "一宿一飯の恩義で竜伯爵様に抱かれたら、なぜか監禁されちゃいました!",
+    "titleKana": "いっしゅくいっぱんのおんぎでりゅうはくしゃくさまにだかれたら",
+    "authorIds": [
+      "touma-tsukina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "romance",
+      "mibunsa-romance",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "恩義から一夜を共にした相手に囲われることになる、女性向けの異世界ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ikkyoku-shohou-shimasu",
+    "title": "一曲処方します。",
+    "titleKana": "いっきょくしょほうします",
+    "authorIds": [
+      "sawaki-tsuma"
+    ],
+    "illustratorIds": [],
+    "publisherId": "to-books",
+    "themeIds": [
+      "music",
+      "gendai-drama",
+      "iryou"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "音楽で患者の心を癒す診療所を舞台にした連作。曲が処方箋になる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ichiryuu-kekkaishi",
+    "title": "一流『結界師』は世界を救う",
+    "titleKana": "いちりゅうけっかいしはせかいをすくう",
+    "authorIds": [
+      "kakei-chisato"
+    ],
+    "illustratorIds": [
+      "nijima-aruku"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "魔物のうごめく境界を守る結界師を主人公にした異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isshou-hatarakitakunai-ore",
+    "title": "一生働きたくない俺が、クラスメイトの大人気アイドルに懐かれたら",
+    "titleKana": "いっしょうはたらきたくないおれが",
+    "authorIds": [
+      "kishimoto-kazuha"
+    ],
+    "illustratorIds": [
+      "miwabe-sakura"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "gakuen",
+      "idol-geinokai",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "働きたくないと公言する少年が、人気アイドルの同級生に懐かれる学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "issho-ni-netai-n-desu-yo-ne",
+    "title": "「一緒に寝たいんですよね、せんぱい?」と甘くささやかれて今夜も眠れない",
+    "titleKana": "いっしょにねたいんですよねせんぱい",
+    "authorIds": [
+      "wi-mori-kiren"
+    ],
+    "illustratorIds": [
+      "muninshiki"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "距離を詰めてくる後輩に振り回される先輩を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ippanjin-no-ore-o-geinouka",
+    "title": "一般人の俺を芸能科女子達が逃がしてくれない件。",
+    "titleKana": "いっぱんじんのおれをげいのうかじょしたちがにがしてくれないけん",
+    "authorIds": [
+      "zeze-zeze"
+    ],
+    "illustratorIds": [
+      "cut-illust"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "idol-geinokai",
+      "harem"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "芸能科の少女たちに囲まれた一般生徒の学園生活を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ippan-heishi-mugen-saisei",
+    "title": "一般兵士が転生特典に『無限再生』を貰った結果、数多の美女に狙われた",
+    "titleKana": "いっぱんへいしがてんせいとくてんにむげんさいせいをもらったけっか",
+    "authorIds": [
+      "aozora"
+    ],
+    "illustratorIds": [],
+    "publisherId": "to-books",
+    "themeIds": [
+      "isekai-tensei",
+      "harem",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "無限に再生する力を得た兵士が、その体質ゆえに注目を集めてしまう異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isshuukango-anata-o-koroshimasu",
+    "title": "一週間後、あなたを殺します",
+    "titleKana": "いっしゅうかんごあなたをころします",
+    "authorIds": [
+      "youda-hiro"
+    ],
+    "illustratorIds": [
+      "altera"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "psycho-suspense",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "殺害予告から始まる関係を描くサスペンス寄りの物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanaseiken-to-maken-no-hime",
+    "title": "七聖剣と魔剣の姫",
+    "titleKana": "ななせいけんとまけんのひめ",
+    "authorIds": [
+      "eternal-14"
+    ],
+    "illustratorIds": [
+      "mikoshiba-nana"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "聖剣と魔剣をめぐる争いを描く異世界バトルファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kakyuu-miko",
+    "title": "下級巫女、行き遅れたら能力上がって聖女並みになりました",
+    "titleKana": "かきゅうみこいきおくれたらのうりょくあがってせいじょなみになりました",
+    "authorIds": [
+      "risuno"
+    ],
+    "illustratorIds": [
+      "fuji-tomato"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "二十歳を過ぎて力が伸びた下級巫女を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoyo-to-umi-kun",
+    "title": "世々と海くんの図書館デート",
+    "titleKana": "よよとうみくんのとしょかんでーと",
+    "authorIds": [
+      "nomura-mizuki"
+    ],
+    "illustratorIds": [
+      "u35"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "toshokan-shisho",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "きつねの少女と少年が図書館で過ごす日々を描く連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-o-sukuu-made",
+    "title": "世界を救うまで俺は種族を変えても甦る",
+    "titleKana": "せかいをすくうまでおれはしゅぞくをかえてもよみがえる",
+    "authorIds": [
+      "hatsu-neko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-reincarnation",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "死ぬたびに別の種族として蘇る主人公が、世界を救うまで戦い続ける異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-saikyou-no-job-lender",
+    "title": "世界最強のジョブ・レンダー",
+    "titleKana": "せかいさいきょうのじょぶれんだー",
+    "authorIds": [
+      "tsukumo-nishiki"
+    ],
+    "illustratorIds": [
+      "kuwashima-rein"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "他人に職業を貸し与える力を持つ少年を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chuuboss-reijou",
+    "title": "中ボス令嬢は、退場後の人生を謳歌する〈予定〉。",
+    "titleKana": "ちゅうぼすれいじょうはたいじょうごのじんせいをおうかするよてい",
+    "authorIds": [
+      "koru"
+    ],
+    "illustratorIds": [
+      "shabon"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "物語の途中で退場する役どころの令嬢が、その後の人生を楽しもうとする転生もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nakano-broadway-kaidan",
+    "title": "中野ブロードウェイ怪談",
+    "titleKana": "なかのぶろーどうぇいかいだん",
+    "authorIds": [
+      "watanabe-kouji"
+    ],
+    "illustratorIds": [
+      "pasoputi"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "horror",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "実在の商業ビルを舞台にした怪談集。ほとんど本当の話だと銘打たれている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shujinkou-ni-wa-narenai",
+    "title": "主人公にはなれない僕らの妥協から始める恋人生活",
+    "titleKana": "しゅじんこうにはなれないぼくらのだきょうからはじめるこいびとせいかつ",
+    "authorIds": [
+      "kamono-udon"
+    ],
+    "illustratorIds": [
+      "kafuka"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "妥協から始まった交際が本物になっていく過程を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otomege-no-hard-mode",
+    "title": "乙女ゲームのハードモードで生きています",
+    "titleKana": "おとめげーむのはーどもーどでいきています",
+    "authorIds": [
+      "akano-yousuke"
+    ],
+    "illustratorIds": [
+      "shibaishi-hirame"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "難易度の高い設定の乙女ゲーム世界に転生した主人公の奮闘を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otomege-no-akuyaku-nante",
+    "title": "乙女ゲームの悪役なんてどこかで聞いた話ですが",
+    "titleKana": "おとめげーむのあくやくなんてどこかできいたはなしですが",
+    "authorIds": [
+      "kashiwa-ten"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 10,
+    "status": "completed",
+    "synopsis": "前世の記憶を取り戻した令嬢が、悪役の役回りを引き受けつつ抜け道を探す物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otomege-no-kouryaku-taishousha",
+    "title": "乙女ゲームの攻略対象者筆頭に溺愛されています。",
+    "titleKana": "おとめげーむのこうりゃくたいしょうしゃひっとうにできあいされています",
+    "authorIds": [
+      "tana-kara-genama"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "romance",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "攻略対象の筆頭に想いを向けられる主人公を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otomege-wa-shuuryou-shimashita",
+    "title": "乙女ゲームは終了しました",
+    "titleKana": "おとめげーむはしゅうりょうしました",
+    "authorIds": [
+      "yuuto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "学園のパーティで筋書きが終わった後の世界を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuu-no-seijo",
+    "title": "亜空の聖女",
+    "titleKana": "あくうのせいじょ",
+    "authorIds": [
+      "yoshizawa-yuusuke"
+    ],
+    "illustratorIds": [
+      "rachimu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "魔術の才に恵まれた少女の歩みを描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyoto-fushimi-suijin",
+    "title": "京都伏見は水神さまのいたはるところ",
+    "titleKana": "きょうとふしみはすいじんさまのいたはるところ",
+    "authorIds": [
+      "aikawa-shin"
+    ],
+    "illustratorIds": [
+      "shiratani-yuu"
+    ],
+    "publisherId": "shueisha-orange-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "京都・伏見を舞台に、水神と関わる少女の日々を描く連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ningen-dakedo-maou-gun",
+    "title": "人間だけど魔王軍四天王に育てられた俺は、魔王の娘に愛され支配属性の権能を与えられました。",
+    "titleKana": "にんげんだけどまおうぐんしてんのうにそだてられたおれは",
+    "authorIds": [
+      "hidari-ryuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "maou-mazoku-shiten",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "魔王軍に育てられた人間の少年を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ningen-fushin-no-boukensha",
+    "title": "人間不信の冒険者たちが世界を救うようです",
+    "titleKana": "にんげんふしんのぼうけんしゃたちがせかいをすくうようです",
+    "authorIds": [
+      "fuji-shinta"
+    ],
+    "illustratorIds": [
+      "kuroi-susumu"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "互いを信用しない冒険者たちが、それでも組んで世界の危機に向かう異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "imasara-desu-ga-osananajimi",
+    "title": "今さらですが、幼なじみを好きになってしまいました",
+    "titleKana": "いまさらですがおさななじみをすきになってしまいました",
+    "authorIds": [
+      "marudo-fumiaki"
+    ],
+    "illustratorIds": [
+      "yomu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "十年来の幼馴染への感情に今さら気づいてしまう青春ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ima-made-baka-ni-sareteita",
+    "title": "今まで馬鹿にされていた気弱令嬢に転生したら、とんでもない事になった話、聞く?",
+    "titleKana": "いままでばかにされていたきよわれいじょうにてんせいしたら",
+    "authorIds": [
+      "yakiimo-hokuhoku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "isekai-tensei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "侮られていた令嬢に転生した主人公が、周囲の評価をひっくり返していく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyou-kara-ayakashi-chouchou",
+    "title": "今日から、あやかし町長です。",
+    "titleKana": "きょうからあやかしちょうちょうです",
+    "authorIds": [
+      "itomori-tamaki"
+    ],
+    "illustratorIds": [
+      "futatsuya-asu"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "あやかしたちの町の長を任された主人公を描く和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyou-kara-kanojo-desu-kedo",
+    "title": "今日から彼女ですけど、なにか?",
+    "titleKana": "きょうからかのじょですけどなにか",
+    "authorIds": [
+      "mitsuya-land"
+    ],
+    "illustratorIds": [
+      "shio-kazunoko"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "形だけの交際から始まる学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyou-mo-ikitete-erai",
+    "title": "今日も生きててえらい!",
+    "titleKana": "きょうもいきててえらい",
+    "authorIds": [
+      "kishimoto-kazuha"
+    ],
+    "illustratorIds": [
+      "azuki-yui"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "特別な関係になった二人の日常を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "imasara-koukai-shitemo",
+    "title": "今更後悔しても追放したのはあなたです",
+    "titleKana": "いまさらこうかいしてもついほうしたのはあなたです",
+    "authorIds": [
+      "sakura-iori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "tsuihou",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "追放された聖女が、後悔する相手を前に自分の道を選ぶ女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaiwa-mo-shinai-tsurego",
+    "title": "会話もしない連れ子の妹が、長年一緒にバカやってきたネトゲのフレだった",
+    "titleKana": "かいわもしないつれごのいもうとが",
+    "authorIds": [
+      "hibariyu"
+    ],
+    "illustratorIds": [
+      "jimmy"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "imouto",
+      "vrmmo",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "口をきかない義妹が、ゲームでの気安い友人だったと知る学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "izon-shitagaru-kanojo",
+    "title": "依存したがる彼女は僕の部屋に入り浸る",
+    "titleKana": "いぞんしたがるかのじょはぼくのへやにいりびたる",
+    "authorIds": [
+      "yorozuya-kyubei"
+    ],
+    "illustratorIds": [
+      "eba-mashiro"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "大学近くの部屋に入り浸る相手との、寄りかかり合う関係を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koushaku-reijou-no-yomeiri",
+    "title": "侯爵令嬢の嫁入り",
+    "titleKana": "こうしゃくれいじょうのよめいり",
+    "authorIds": [
+      "nanasawa-yukino"
+    ],
+    "illustratorIds": [
+      "haruno-shigehisa"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "両親と財産を失った令嬢の嫁入りを描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-ga-shift-no-toki-dake",
+    "title": "俺がシフトの時だけバイト先の喫茶店に来る、クラスの美少女モデル様",
+    "titleKana": "おれがしふとのときだけばいとさきのきっさてんにくる",
+    "authorIds": [
+      "kishimoto-kazuha"
+    ],
+    "illustratorIds": [
+      "miwabe-sakura"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "idol-geinokai"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "自分の勤務時間にだけ現れる同級生との距離を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-ga-yuusha-ja-sukuenai",
+    "title": "俺が勇者じゃ救えない!?",
+    "titleKana": "おれがゆうしゃじゃすくえない",
+    "authorIds": [
+      "kokuto"
+    ],
+    "illustratorIds": [
+      "kitaguma"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "dungeon",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "魔物を喰らって強くなる少年を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-ga-kokuhaku-sarete-kara",
+    "title": "俺が告白されてから、お嬢の様子がおかしい。",
+    "titleKana": "おれがこくはくされてからおじょうのようすがおかしい",
+    "authorIds": [
+      "hidari-ryuu"
+    ],
+    "illustratorIds": [
+      "takehana-note"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "butler-maid"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "恋愛だけが不得手なお嬢様と、その従者の関係を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-dake-level-ga-agaru",
+    "title": "俺だけレベルが上がる世界で悪徳領主になっていた",
+    "titleKana": "おれだけれべるがあがるせかいであくとくりょうしゅになっていた",
+    "authorIds": [
+      "warui-otoko"
+    ],
+    "illustratorIds": [
+      "raken"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "akuyaku-kizoku"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "自分だけが成長する世界で、悪辣な領主として振る舞う主人公を描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-dake-kaereru-class-teni",
+    "title": "俺だけ帰れるクラス転移",
+    "titleKana": "おれだけかえれるくらすてんい",
+    "authorIds": [
+      "aneko-yusagi"
+    ],
+    "illustratorIds": [
+      "yuukyuu-ponzu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "クラス転移の中で唯一帰還できる能力を得た主人公を描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oretachi-wa-kuuki-ga-yomenai",
+    "title": "俺たちは空気が読めない",
+    "titleKana": "おれたちはくうきがよめない",
+    "authorIds": [
+      "kagami-ginpachi"
+    ],
+    "illustratorIds": [
+      "hisama-kumako"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "理不尽な教室を生き抜く生徒たちを描く学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-to-aitsu-wa-tomodachi-ja-nai",
+    "title": "俺とアイツは友達じゃない。",
+    "titleKana": "おれとあいつはともだちじゃない",
+    "authorIds": [
+      "saito-niko"
+    ],
+    "illustratorIds": [
+      "misumi"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "友人も恋愛経験もない二人の距離を描く学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-ni-dake-tsumetai-tomori-san",
+    "title": "俺にだけ冷たい友利さんに裏アカ知ってると言ったら?",
+    "titleKana": "おれにだけつめたいともりさんにうらあかしってるといったら",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [
+      "kagachisaku"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "vtuber-streamer"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "素っ気ない同級生の隠された一面を知ってしまう学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-ni-trauma-o-ataeta-joshitachi",
+    "title": "俺にトラウマを与えた女子達がチラチラ見てくるけど、残念ですが手遅れです",
+    "titleKana": "おれにとらうまをあたえたじょしたちが",
+    "authorIds": [
+      "mido-yuragi"
+    ],
+    "illustratorIds": [
+      "wata-illust"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "過去に傷を負わせた相手からの好意を受け流す主人公を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-niwa-kono-kuragari-ga",
+    "title": "俺にはこの暗がりが心地よかった",
+    "titleKana": "おれにはこのくらがりがここちよかった",
+    "authorIds": [
+      "hoshizaki-kon"
+    ],
+    "illustratorIds": [
+      "nitheta"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "選ばれて異世界に送られた者たちの中で、暗がりを選ぶ主人公を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-oyomesan-hentai",
+    "title": "俺のお嫁さん、変態かもしれない",
+    "titleKana": "おれのおよめさんへんたいかもしれない",
+    "authorIds": [
+      "kuroi"
+    ],
+    "illustratorIds": [
+      "ayuma-sayu"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "iinazuke-marriage",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "事情があって幼馴染と結婚した高校生を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-class-ni-wakagaetta-motoyome",
+    "title": "俺のクラスに若返った元嫁がいる",
+    "titleKana": "おれのくらすにわかがえったもとよめがいる",
+    "authorIds": [
+      "akn-bou"
+    ],
+    "illustratorIds": [
+      "midorikawa-you"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "time-leap"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "若返って同級生になった元妻との関係を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-koto-o-shinda-to",
+    "title": "俺のことを死んだと勘違いしていた幼なじみの愛が重すぎる",
+    "titleKana": "おれのことをしんだとかんちがいしていたおさななじみのあいがおもすぎる",
+    "authorIds": [
+      "youda-hiro"
+    ],
+    "illustratorIds": [
+      "parum"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "死んだと思われていた主人公に向けられる、行きすぎた愛情を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-smartphone-ni-kokoro-no-koe",
+    "title": "俺のスマホに心の声が漏れちゃう残念美少女たちが可愛すぎる",
+    "titleKana": "おれのすまほにこころのこえがもれちゃう",
+    "authorIds": [
+      "mizuki-rei"
+    ],
+    "illustratorIds": [
+      "sak"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "harem"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "心の声が聞こえてしまう状況から生まれるすれ違いを描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-full-auto-buff",
+    "title": "俺の『全自動支援』で仲間たちが世界最強",
+    "titleKana": "おれのぜんじどうしえんでなかまたちがせかいさいきょう",
+    "authorIds": [
+      "epina"
+    ],
+    "illustratorIds": [
+      "katakura-hibiki"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "支援に徹する主人公の力で仲間が最強になっていく異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-shoukan-mahou-ga-okashii",
+    "title": "俺の召喚魔法がおかしい",
+    "titleKana": "おれのしょうかんまほうがおかしい",
+    "authorIds": [
+      "kijima-ryuta"
+    ],
+    "illustratorIds": [
+      "suzuho-hotaru"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "harem"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "規格外の召喚魔法で軍団を率いる主人公を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-onnatomodachi",
+    "title": "俺の女友達が最高に可愛い。",
+    "titleKana": "おれのおんなともだちがさいこうにかわいい",
+    "authorIds": [
+      "awamura-akamitsu"
+    ],
+    "illustratorIds": [
+      "mmu"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "趣味を全力で楽しむ高校生と女友達の関係を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-osananajimi-ga-dekkaku",
+    "title": "俺の幼馴染がデッッッッかくなりすぎた",
+    "titleKana": "おれのおさななじみがでっかくなりすぎた",
+    "authorIds": [
+      "origuchi-yoshino"
+    ],
+    "illustratorIds": [
+      "rouka"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "久しぶりに会った幼馴染の変化に戸惑う主人公を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-osananajimi-wa-main-heroine",
+    "title": "俺の幼馴染はメインヒロインらしい。",
+    "titleKana": "おれのおさななじみはめいんひろいんらしい",
+    "authorIds": [
+      "3pu"
+    ],
+    "illustratorIds": [
+      "bcoca"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "物語の主役級とされる幼馴染との日常を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-haitoku-meshi",
+    "title": "俺の背徳メシをおねだりせずにいられない、お隣のトップアイドルさま",
+    "titleKana": "おれのはいとくめしをおねだりせずにいられない",
+    "authorIds": [
+      "oikawa-terumi"
+    ],
+    "illustratorIds": [
+      "higetsuki-higure"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gourmet",
+      "idol-geinokai",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "夜食を通じて隣人のアイドルと縮まる距離を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-no-nounai-sentakushi",
+    "title": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+    "titleKana": "おれののうないせんたくしががくえんらぶこめをぜんりょくでじゃましている",
+    "authorIds": [
+      "kasukabe-takeru"
+    ],
+    "illustratorIds": [
+      "yukio"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 11,
+    "status": "completed",
+    "synopsis": "強制的に現れる選択肢に人生を邪魔される少年を描く学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-sss-rare-tensei-tokuten",
+    "title": "俺はSSSレア転生特典をひた隠す",
+    "titleKana": "おれはとりぷるえすれあてんせいとくてんをひたかくす",
+    "authorIds": [
+      "totsu-shuta"
+    ],
+    "illustratorIds": [
+      "nakanishi-tatsuya"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "規格外の転生特典を隠しながら、影から世界を動かす貴族を描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-mada-honki-o-dashite-inai",
+    "title": "俺はまだ、本気を出していない",
+    "titleKana": "おれはまだほんきをだしていない",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "sakuraneko"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "本気を出していないと言い張る主人公が、無自覚に評価を高めていく異世界コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-guild-no-akutoku-master",
+    "title": "俺は冒険者ギルドの悪徳ギルドマスター",
+    "titleKana": "おれはぼうけんしゃぎるどのあくとくぎるどますたー",
+    "authorIds": [
+      "ibaraki-no"
+    ],
+    "illustratorIds": [
+      "motto"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "悪辣に見えて実は有能なギルド長を描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-gakuen-zunou-battle",
+    "title": "俺は学園頭脳バトルの演出家!",
+    "titleKana": "おれはがくえんずのうばとるのえんしゅつか",
+    "authorIds": [
+      "katanuma-hotori"
+    ],
+    "illustratorIds": [
+      "kagawa-yusaku"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "mystery"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "頭脳戦を演出する側に回った少年を描く学園バトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-seikan-kokka-no-akutoku-ryoushu",
+    "title": "俺は星間国家の悪徳領主!",
+    "titleKana": "おれはせいかんこっかのあくとくりょうしゅ",
+    "authorIds": [
+      "mishima-yomu"
+    ],
+    "illustratorIds": [
+      "takamine-nadare"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "space-opera",
+      "naisei",
+      "sf"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 12,
+    "status": "ongoing",
+    "synopsis": "宇宙の領主として好き勝手に振る舞う主人公を描くスペースオペラ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-shiranai-uchi-ni",
+    "title": "俺は知らないうちに学校一の美少女を口説いていたらしい",
+    "titleKana": "おれはしらないうちにがっこういちのびしょうじょをくどいていたらしい",
+    "authorIds": [
+      "gozen-no-ryokucha"
+    ],
+    "illustratorIds": [
+      "kuzubou-aoru"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "無自覚に距離を詰めていた主人公を描く学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-imouto-ni-uso-o-tsuku",
+    "title": "俺は義妹に噓をつく",
+    "titleKana": "おれはいもうとにうそをつく",
+    "authorIds": [
+      "jouno-shiro"
+    ],
+    "illustratorIds": [
+      "achiki"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "imouto",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "義妹に隠し事を抱えたまま進む関係を描く現代もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-mo-omae-mo-chorosugi",
+    "title": "俺もおまえもちょろすぎないか",
+    "titleKana": "おれもおまえもちょろすぎないか",
+    "authorIds": [
+      "hozumi-kei"
+    ],
+    "illustratorIds": [
+      "suimya"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "勢いで始まった交際を描く学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-boukensha",
+    "title": "俺、冒険者!",
+    "titleKana": "おれぼうけんしゃ",
+    "authorIds": [
+      "fujimoto-ikura"
+    ],
+    "illustratorIds": [
+      "misotakuan"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "adventure",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "異世界に転生したデザイナーが冒険者として身を立てる物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-shiro-o-sodateru",
+    "title": "俺、「城」を育てる",
+    "titleKana": "おれしろをそだてる",
+    "authorIds": [
+      "tomiya-tomia"
+    ],
+    "illustratorIds": [
+      "shibano-kaito"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "nation-building",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "冒険者と城の精霊が力を合わせて拠点を育てる異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-akuyaku-kishidanchou",
+    "title": "俺、悪役騎士団長に転生する。",
+    "titleKana": "おれあくやくきしだんちょうにてんせいする",
+    "authorIds": [
+      "sakamoto-azusa"
+    ],
+    "illustratorIds": [
+      "kodamazon"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "otome-game-sekai",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "悪名高い騎士団長に転生した主人公が、評判を覆していく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "idai-naru-daigensui-no-tenshin",
+    "title": "偉大なる大元帥の転身",
+    "titleKana": "いだいなるだいげんすいのてんしん",
+    "authorIds": [
+      "takeoka-hazuki"
+    ],
+    "illustratorIds": [
+      "tomozo"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "senki",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "平凡な中学生が異世界で軍を率いる立場に立たされる物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kenkou-cheat-de-damage-mukou",
+    "title": "〈健康〉チートでダメージ無効の俺、辺境を開拓しながらのんびりスローライフする",
+    "titleKana": "けんこうちーとでだめーじむこうのおれ",
+    "authorIds": [
+      "bandou-taro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "健康であり続ける力を得た主人公が、辺境で穏やかに暮らす異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gouman-reijou-to-haraguro-kikoushi",
+    "title": "傲慢令嬢と腹黒貴公子の、打算から始まる騙し騙され恋模様",
+    "titleKana": "ごうまんれいじょうとはらぐろきこうしの",
+    "authorIds": [
+      "hone-no-aru-kurage"
+    ],
+    "illustratorIds": [
+      "hachimi-wan"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "打算から始まった関係が変わっていく女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-ga-kotaeru-kimi-no-nazotoki",
+    "title": "僕が答える君の謎解き",
+    "titleKana": "ぼくがこたえるきみのなぞとき",
+    "authorIds": [
+      "kamishiro-kyousuke"
+    ],
+    "illustratorIds": [
+      "hori-io"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "ラブコメとミステリを同時に成立させる構成の学園もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura-wa-eiyuu-ni-nareru-no-darou-ka",
+    "title": "僕らは英雄になれるのだろうか",
+    "titleKana": "ぼくらはえいゆうになれるのだろうか",
+    "authorIds": [
+      "kagami-ginpachi"
+    ],
+    "illustratorIds": [
+      "motto"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "battle-action",
+      "sf",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "特異な能力を持つ者たちが人類の盾となる世界を描くアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hikari-zokusei-bishoujo-asahi-san",
+    "title": "光属性美少女の朝日さんがなぜか毎週末俺の部屋に入り浸るようになった件",
+    "titleKana": "ひかりぞくせいびしょうじょのあさひさんが",
+    "authorIds": [
+      "shinjin"
+    ],
+    "illustratorIds": [
+      "mameda"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "毎週末に部屋へ通ってくる同級生との日常を描くラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "irekawari-no-sono-hate-ni",
+    "title": "入れ代わりのその果てに",
+    "titleKana": "いれかわりのそのはてに",
+    "authorIds": [
+      "yunari"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "isekai-tensei",
+      "romance",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "仕事に追われる会社員が別の人生と入れ替わる女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "irekawari-reijou-wa-kuni-o-sukuu",
+    "title": "入れ替わり令嬢は国を救う",
+    "titleKana": "いれかわりれいじょうはくにをすくう",
+    "authorIds": [
+      "saiki-riko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "isekai-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "規格外の技能を持つ伯爵令嬢が入れ替わりを機に国を救う物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koumuin-nakata-shinobu-no-akutoku",
+    "title": "公務員、中田忍の悪徳",
+    "titleKana": "こうむいんなかたしのぶのあくとく",
+    "authorIds": [
+      "tachikawa-uraura"
+    ],
+    "illustratorIds": [
+      "ryoutou"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gyaku-isekai",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "地方公務員の男が、現れた異世界エルフと同居することになる現代ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koushaku-reijou-wa-wagamichi-o",
+    "title": "公爵令嬢は我が道を場当たり的に行く",
+    "titleKana": "こうしゃくれいじょうはわがみちをばあたりてきにいく",
+    "authorIds": [
+      "poyoko"
+    ],
+    "illustratorIds": [
+      "nimoshi"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "場当たり的に立ち回る公爵令嬢を描く女性向けコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koushakuke-ni-umarete-shonichi",
+    "title": "公爵家に生まれて初日に跡継ぎ失格の烙印を押されましたが今日も元気に生きてます!",
+    "titleKana": "こうしゃくけにうまれてしょにちにあとつぎしっかくの",
+    "authorIds": [
+      "otaku-de-shinto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "生まれた初日に跡継ぎ失格とされた主人公が、気楽に生きていく異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saigen-tsukai-wa-kaeritai",
+    "title": "再現使いは帰りたい",
+    "titleKana": "さいげんつかいはかえりたい",
+    "authorIds": [
+      "akayuki-tona"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "再現する力を持つ主人公が、帰還を目指して迷宮に挑む異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sairin-yuusha-no-fukushuutan",
+    "title": "再臨勇者の復讐譚",
+    "titleKana": "さいりんゆうしゃのふくしゅうたん",
+    "authorIds": [
+      "nitou-kaede"
+    ],
+    "illustratorIds": [
+      "usagi-hanasaki"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "fukushuu",
+      "isekai-fantasy",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "裏切られた勇者が復讐に向かう異世界ダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bonjin-tensei-no-doryoku-musou",
+    "title": "凡人転生の努力無双",
+    "titleKana": "ぼんじんてんせいのどりょくむそう",
+    "authorIds": [
+      "cyclamen"
+    ],
+    "illustratorIds": [
+      "yunagi"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "mahou-gakuen"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "才能のない転生者が努力の積み重ねで強くなる異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyouran-reijou-nia-liston",
+    "title": "凶乱令嬢ニア・リストン",
+    "titleKana": "きょうらんれいじょうにありすとん",
+    "authorIds": [
+      "minamino-kaifu"
+    ],
+    "illustratorIds": [
+      "jishaku"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 11,
+    "status": "ongoing",
+    "synopsis": "病弱な令嬢に転生した英雄が、最強の存在として振る舞う異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dekasegi-reijou-no-konyaku-soudou",
+    "title": "出稼ぎ令嬢の婚約騒動",
+    "titleKana": "でかせぎれいじょうのこんやくそうどう",
+    "authorIds": [
+      "kuroko-kuroko"
+    ],
+    "illustratorIds": [
+      "suz"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 8,
+    "status": "completed",
+    "synopsis": "働きに出た令嬢の婚約をめぐる騒動を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shokyuu-majutsu-magic-arrow",
+    "title": "初級魔術マジックアローを極限まで鍛えたら",
+    "titleKana": "しょきゅうまじゅつまじっくあろーをきょくげんまできたえたら",
+    "authorIds": [
+      "mihara-sanshoku"
+    ],
+    "illustratorIds": [
+      "pemopemo-san"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "初級魔法だけを鍛え抜いた主人公が規格外の力を得る異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zensei-ga-saikyou-madoushi",
+    "title": "前世が最強魔導師だった俺、異世界魔法で無双する!",
+    "titleKana": "ぜんせがさいきょうまどうしだったおれ",
+    "authorIds": [
+      "kimimaro"
+    ],
+    "illustratorIds": [
+      "katana-kanata"
+    ],
+    "publisherId": "futabasha-monster-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "前世の魔法知識で無双する主人公を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ken-to-yumi-to-chokotto-mahou",
+    "title": "剣と弓とちょこっと魔法の転生戦記",
+    "titleKana": "けんとゆみとちょこっとまほうのてんせいせんき",
+    "authorIds": [
+      "uji"
+    ],
+    "illustratorIds": [
+      "tj16"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "戦争の始まった異世界で、剣と弓を軸に戦う転生者を描く戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ken-to-mahou-to-sailor-fuku",
+    "title": "剣と魔法とセーラー服",
+    "titleKana": "けんとまほうとせーらーふく",
+    "authorIds": [
+      "sanjou-tsubame"
+    ],
+    "illustratorIds": [
+      "gore"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gakuen",
+      "yuri"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "友達を作ろうとする少女二人を描く、剣と魔法の学園もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kentei-gakuin-no-magan-kenja",
+    "title": "剣帝学院の魔眼賢者",
+    "titleKana": "けんていがくいんのまがんけんじゃ",
+    "authorIds": [
+      "tsukasa"
+    ],
+    "illustratorIds": [
+      "kisaragi-yuri"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "battle-action",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "特異な目を持つ少女を軸にした学院バトルファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kenseijo-adele-no-yarinaoshi",
+    "title": "剣聖女アデルのやり直し",
+    "titleKana": "けんせいじょあでるのやりなおし",
+    "authorIds": [
+      "hayaken"
+    ],
+    "illustratorIds": [
+      "unapoppo"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "time-leap",
+      "battle-action",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "唯一無二の剣聖女が過去をやり直す英雄譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kago-nashi-reijou-no-chiisana-mura",
+    "title": "加護なし令嬢の小さな村",
+    "titleKana": "かごなしれいじょうのちいさなむら",
+    "authorIds": [
+      "punichan"
+    ],
+    "illustratorIds": [
+      "mo-illust"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "slow-life",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "神々の加護を持たない令嬢が、小さな村を育てていく女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・既刊数を、楽天ブックスの書誌情報で内容を確認(2026-08-07照会)。あらすじは独自要約(コピペなし)。巻数はNDL収録分に基づく概数で、完結状況は未確認のため status は控えめに設定している。",
+    "updatedAt": "2026-08-07"
   }
 ]
