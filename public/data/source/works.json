@@ -62037,5 +62037,1942 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuyaku-no-goreisoku-no-dounika-shitai-nichijou",
+    "title": "悪役のご令息のどうにかしたい日常",
+    "titleKana": "あくやくのごれいそくのどうにかしたいにちじょう",
+    "authorIds": [
+      "umanokoegakikoeru"
+    ],
+    "illustratorIds": [
+      "kouki"
+    ],
+    "publisherId": "ichijinsha-novels",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "isekai-tensei",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 55,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの悪役令息に転生した公爵家三男が、7歳にして「よい子」になろうと奮闘する。魔王を封印し運命を変えたはずが、帝都近くの森で魔物を見つけてしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kokou-na-kanojo-to-kanojo-no-heya-de-shiteru-kot",
+    "title": "孤高なカノジョと、彼女の部屋でシてること",
+    "titleKana": "ここうなかのじょとかのじょのへやでしてること",
+    "authorIds": [
+      "hibariyu"
+    ],
+    "illustratorIds": [
+      "p-950263",
+      "nakaba"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「孤高の氷姫」と呼ばれる小鳥と、陰キャの拓海。教室では交わらない二人が、放課後の部屋では事務的に身体を重ねている。それは小鳥が自分を変えるために作った習慣だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seishunbutayarouhadokutapiggunoyumeominaipurasu",
+    "title": "青春ブタ野郎はドクターピッグの夢を見ない+",
+    "titleKana": "せいしゅんぶたやろうはどくたーぴっぐのゆめをみないぷらす",
+    "authorIds": [
+      "kamoshida-hajime"
+    ],
+    "illustratorIds": [
+      "p-331319",
+      "keji"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "教員採用試験の一次に合格した咲太を、麻衣と翔子が祝う。二次試験に向けた模擬面接をする三人を描く『青春ブタ野郎』シリーズの特別編。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toaru-anbu-no-aitemu",
+    "title": "とある暗部の少女共棲",
+    "titleKana": "とあるあんぶのあいてむ",
+    "authorIds": [
+      "kamachi-kazuma"
+    ],
+    "illustratorIds": [
+      "niritsu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "超能力が一般科学として認知された学園都市。その裏で表沙汰にできない任務を請け負う暗部組織『アイテム』の少女四人を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seitokaichouhakanojojanainoni",
+    "title": "生徒会長はカノジョじゃないのに",
+    "titleKana": "せいとかいちょうはかのじょじゃないのに",
+    "authorIds": [
+      "miuramiu"
+    ],
+    "illustratorIds": [
+      "oryou"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "ギャルの凛々亜と文学女子の雛世との関係を深める朝陽が、生徒会長の詩弦に見つかってしまう。呼び出された生徒会長室で注意を受けるが……。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kao-no-yosugiru-osananajimi-to-kizuitara-asachun",
+    "title": "顔の良すぎる幼馴染と、気づいたら朝チュンしてた件",
+    "titleKana": "かおのよすぎるおさななじみときずいたらあさちゅんしてたけん",
+    "authorIds": [
+      "hoshimitsunene"
+    ],
+    "illustratorIds": [
+      "p-562993",
+      "p-281638"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "目が覚めると隣に幼馴染の美月がいた。学園一の美女で誰も寄せ付けない高嶺の花が、なぜか自分のベッドで微笑んでいる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kangokuyuugi",
+    "title": "監獄遊戯",
+    "titleKana": "かんごくゆうぎ",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "kitsunejirushi"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "勝者は支配者、敗者は奴隷。全百層の神座監獄に収監された囚人たちが、三つの異能を使って序列上位を目指す。冤罪で収監された八城丈佳が知略とブラフで格上に挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jankubadotobenaikarasutosoratobupenginnoshuumats",
+    "title": "ジャンクバード",
+    "titleKana": "じゃんくばーどとべないからすとそらとぶぺんぎんのしゅうまつせかいいち",
+    "authorIds": [
+      "pochikichi"
+    ],
+    "illustratorIds": [
+      "shizuma-yoshinori"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "post-apocalypse",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "蟲憑きハンターとペンギンが、終末を迎えた世界を成り上がっていく冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otakuniochinaigyarunanteinai-kizukaimaruseijitsu",
+    "title": "オタクに堕ちないギャルなんていない!",
+    "titleKana": "おたくにおちないぎゃるなんていない~きづかいまるせいじつさまるいざってときのこうどうりょくにじゅうまるなおたくくんがちょーやばい~",
+    "authorIds": [
+      "hironoyoshito"
+    ],
+    "illustratorIds": [
+      "p-928516",
+      "chisato"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "otaku-shumi"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "オタク趣味の高校生・芦田雅人が憧れるのは地味で一緒に趣味を楽しめる女の子。しかし周りに集まるのは理想と真逆のギャルばかりだった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "konyakushanooujinidokuomoraretanodeaigasamemashi",
+    "title": "婚約者の王子に毒を盛られたので愛が冷めました",
+    "titleKana": "こんやくしゃのおうじにどくをもられたのであいがさめました1",
+    "authorIds": [
+      "asazukiyuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "婚約者の王子に毒を盛られた侯爵令嬢ルエラ。魔女の治療で回復し王都へ戻るが、処罰を逃れたい王子たちが婚約解消の撤回を求めてくる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meijian-kanpani",
+    "title": "続・魔法科高校の劣等生 メイジアン・カンパニー",
+    "titleKana": "めいじあんかんぱにー",
+    "authorIds": [
+      "satou-tsutomu"
+    ],
+    "illustratorIds": [
+      "p-472486",
+      "p-49715"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "battle-action",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 11,
+    "status": "ongoing",
+    "synopsis": "高校生活を終えた司波達也が、魔法適性はあっても実用レベルに至らないメイジアンの人権保護を掲げ、一般社団法人を立ち上げる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "souyaku-toaru-majutsu-no-indekkusu",
+    "title": "創約 とある魔術の禁書目録",
+    "titleKana": "そうやくとあるまじゅつのいんでっくす",
+    "authorIds": [
+      "kamachi-kazuma"
+    ],
+    "illustratorIds": [
+      "haimura",
+      "kiyotaka"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 15,
+    "status": "ongoing",
+    "synopsis": "科学と魔術が混在する学園都市のクリスマス・イヴ。補習に励む上条当麻を、いつもの不幸が待ち受ける。『とある魔術の禁書目録』の新章。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seimeinomusumeshirogitsunehimeoniisamatachinimam",
+    "title": "晴明の娘 白狐姫、お兄様たちに守られる",
+    "titleKana": "せいめいのむすめしろぎつねひめおにいさまたちにまもられる",
+    "authorIds": [
+      "amano-shouko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "popura-bunko-purefull",
+    "themeIds": [
+      "youkai-ayakashi",
+      "onmyoushi-taimashi",
+      "jidai-fantasy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "平安の世。安倍晴明の娘・煌子は「白狐姫」と恐れられる妖怪退治の名手だが、鵺との戦いで力を使い果たし療養することに。二人の兄が妹を守る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuishikanaioumeikontashikaniuketamawarimashita",
+    "title": "悪意しかない王命婚、確かに承りました",
+    "titleKana": "あくいしかないおうめいこん、たしかにうけたまわりました",
+    "authorIds": [
+      "mizume"
+    ],
+    "illustratorIds": [
+      "p-185786",
+      "natsu"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "konyaku-haki-zamaa"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "王妃の悪意で「呪われた第二王子」に嫁がされた侯爵令嬢アメリア。逆境を跳ね返す彼女に、心を閉ざしていた王子が初めての温もりを知る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zunou-to-inou-ni-kinniku-de-shouri-suru-desu-gem",
+    "title": "頭脳と異能に筋肉で勝利するデスゲーム",
+    "titleKana": "ずのうといのうにきんにくでしょうりするですげーむ",
+    "authorIds": [
+      "mochimochi-busshitsu"
+    ],
+    "illustratorIds": [
+      "kuwashima-rein"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "death-game",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "毒入りの首輪で壁に繋がれ、悪魔が主催するデスゲームに放り込まれた。頭脳戦のはずが、主人公は考えるより先に首輪を引きちぎってしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oshihiroinhatenseishitamobunooreohitorijimeshita",
+    "title": "推しヒロインは、転生したモブの俺を独り占めしたいらしい",
+    "titleKana": "おしひろいんはてんせいしたもぶのおれをひとりじめしたいらしいいちしつれんしたひろいんをささえたらじょじょにおもくなっていった",
+    "authorIds": [
+      "shachikubuta"
+    ],
+    "illustratorIds": [
+      "maruro"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "ラブコメ漫画の世界にモブとして転生した富田文学が、失恋して泣いている推しヒロインを支えようとする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahou-ya-inou-ga-sonzai-suru-sekai-no-mobu-no-ha",
+    "title": "魔法や異能が存在する世界のモブのはずが、裏では黒幕扱いされていた話",
+    "titleKana": "まほうやいのうがそんざいするせかいのもぶのはずがうらでわくろまくあつかいされていたはなし",
+    "authorIds": [
+      "kangaeruhito"
+    ],
+    "illustratorIds": [
+      "karasubitike"
+    ],
+    "publisherId": "overlap-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "限られた者だけが魔法や異能の存在を知る世界。異能学園で寄せ集めチームのリーダーになった渡谷雪春が、学園行事のチーム合宿に挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "owarionozomunohatsumikashira-konyakuhakisaretawa",
+    "title": "終わりを望むのは、罪かしら 婚約破棄された私を救ったのは、世界で一番過保護な義兄でした",
+    "titleKana": "おわりをのぞむのは、つみかしらこんやくはきされたわたしをすくったのは、せかいでいちばんかほごなあにでした",
+    "authorIds": [
+      "rabu"
+    ],
+    "illustratorIds": [
+      "tsukito"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "闇魔法を婚約者の生命維持に使われてきた侯爵令嬢エミリアが、義妹を優先する彼に婚約破棄される。居場所を失った彼女を救ったのは過保護な義兄だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yaebuki-kikan-senmanjoutou-touharoku",
+    "title": "ヤエブキ機関 千万丈塔踏破録",
+    "titleKana": "やえぶききかんせんまんじょうとうとうはろく",
+    "authorIds": [
+      "asato-asato"
+    ],
+    "illustratorIds": [
+      "necomi",
+      "p-995762",
+      "p-652472"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dungeon",
+      "battle-action",
+      "jidai-fantasy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "滅びの宿命から世界を救う大儀式・千万丈塔踏破。霊術と歯車が織りなす巨塔の攻略に、皇家直属の特務機関ヤエブキ機関が挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-de-doutei-suteta-kuse-ni",
+    "title": "わたしで童貞捨てたくせに",
+    "titleKana": "わたしでどうていすてたくせに",
+    "authorIds": [
+      "hibariyu"
+    ],
+    "illustratorIds": [
+      "u35"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "作家活動を許された咲良と、それを支える編集者を目指す宏太。恋心が分からずプロットが進まないという悩みを解決しようと、二人はドキドキすることを試していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "houkagogakarinana-ritsueishougakkou",
+    "title": "ほうかごがかり7 立穎小学校",
+    "titleKana": "ほうかごがかりななりつえいしょうがっこう",
+    "authorIds": [
+      "kouda-gakuto"
+    ],
+    "illustratorIds": [
+      "piotegu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "horror",
+      "gakuen",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "県内最古の小学校で、選ばれた七人の小学生が毎週金曜の深夜に「ほうかご」へ呼び出される。七不思議と呼ばれる化け物の世話をするために。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "danjohiittaigonosekaidemofutsuuniikirarerutoomot",
+    "title": "男女比1:5の世界でも普通に生きられると思った?(6)",
+    "titleKana": "だんじょひいったいごのせかいでもふつうにいきられるとおもった?ろく~げきおもかんじょうなかのじょたちがむじかくだんしにほんろうされたら~",
+    "authorIds": [
+      "mifujikoutarou"
+    ],
+    "illustratorIds": [
+      "jimmy"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "harem",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "男女比1対5の世界で、5人全員を大切に思う将人が、答えを保留し続けることの不誠実さに悩む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jakushoukoku-no-oujo-ni-tensei-shite-shimaimashi",
+    "title": "弱小国の王女に転生してしまいましたわ〜!?",
+    "titleKana": "じゃくしょうこくのおうじょにてんせいしてしまいましたわー",
+    "authorIds": [
+      "masaki-tama"
+    ],
+    "illustratorIds": [
+      "wari-nao"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "無駄に良い顔と弱小国の王女という肩書きだけを持つ凡人に転生した。ならばチートな部下を集めて無双してもらおうと考える。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensaimahouotakugatsuihousaretehenkyouryoushunin",
+    "title": "天才魔法オタクが追放されて辺境領主になったら、こうなりました!",
+    "titleKana": "てんさいまほうおたくがついほうされてへんきょうりょうしゅになったら、こうなりました",
+    "authorIds": [
+      "yuukirinrin"
+    ],
+    "illustratorIds": [
+      "kyouka-hatori"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "tsuihou",
+      "mahou",
+      "naisei"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "魔法陣に魅了された「魔法バカ」のアリスが新魔法を完成させるが、褒賞は魔の森だらけの辺境だった。この領地替えの裏に王宮の陰謀を感じ取る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isekaiizakayagensanhaime",
+    "title": "異世界居酒屋「げん」三杯目",
+    "titleKana": "いせかいいざかやげんさんはいめ",
+    "authorIds": [
+      "semikawa-natsuya"
+    ],
+    "illustratorIds": [
+      "p-238023",
+      "tsukasa-2"
+    ],
+    "publisherId": "takarajima-bunko",
+    "themeIds": [
+      "gourmet",
+      "isekai-fantasy",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "異世界に繋がった居酒屋を舞台に、客と料理をめぐる人情を描くシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensai-akujo-wa-uso-o-miyaburu",
+    "title": "天才悪女は嘘を見破る",
+    "titleKana": "てんさいあくじょわうそおみやぶる",
+    "authorIds": [
+      "satomiakira"
+    ],
+    "illustratorIds": [
+      "p-124926"
+    ],
+    "publisherId": "ichijinsha-iris-neo",
+    "themeIds": [
+      "akujo",
+      "akuyaku-reijou",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "両親を亡くし伯父一家に侯爵家を乗っ取られた令嬢アマリリス。悪女の評判に便乗して追放され自由になろうと決めたのに、なぜか王城へ連行される。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "majingoroshi-no-kikan-yuusha-gendai-danjon-demo",
+    "title": "魔神殺しの帰還勇者、現代ダンジョンでも無双する",
+    "titleKana": "まじんごろしのきかんゆうしゃげんだいだんじょんでもむそうする",
+    "authorIds": [
+      "kaburagiharuka"
+    ],
+    "illustratorIds": [
+      "tomozero"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界で魔王とその裏の魔神を倒した勇者が帰還すると、日本各地にダンジョンが発生していた。死亡扱いで無一文だが、異世界での経験とステータスは残っていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuzuresu-oburijuroku-juuhachikingesekainokuzuaku",
+    "title": "クズレス・オブリージュ6 18禁ゲー世界のクズ悪役に転生してしまった俺は、原作知識の力でどうしてもモブ人生をつかみ取りたい",
+    "titleKana": "くずれす・おぶりーじゅろくじゅうはちきんげーせかいのくずあくやくにてんせいしてしまったおれは、げんさくちしきのちからでどうしてももぶじんせいをつかみとりたい",
+    "authorIds": [
+      "abataro"
+    ],
+    "illustratorIds": [
+      "kodamazon"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "otome-game-sekai",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "18禁ゲーの悪役に転生した主人公が、原作知識を武器に破滅を回避しようとする。魔神の力の暴走以来、束縛気味になった友人に手を焼く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "munouyobawarisaretanodehachinenkannokoiosutemasu",
+    "title": "無能呼ばわりされたので八年間の恋を捨てます",
+    "titleKana": "むのうよばわりされたのではちねんかんのこいをすてます",
+    "authorIds": [
+      "aban"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "八年間、婚約者の不誠実さに耐えて彼の事業を支えてきた伯爵令嬢ルージュ。不貞と「思い通りになる無能」という言葉を耳にし、離縁を決意する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chabannihatsukiatteiraremasen",
+    "title": "茶番には付き合っていられません",
+    "titleKana": "ちゃばんにはつきあっていられません",
+    "authorIds": [
+      "warabimochi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "regina-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "comedy",
+      "konyaku-haki-zamaa"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "王太子の傍にはいつも侍女のヘレンがいる。目の前でいちゃつく二人に、婚約者である公爵令嬢ミシェルは傷つく――どころか、まったく動じていなかった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "danjonhadoryokushikakatan2-takanenohanadattakens",
+    "title": "ダンジョンは努力しか勝たん2 高嶺の花だった剣聖の師匠とクーデターをして世直しする",
+    "titleKana": "だんじょんはどりょくしかかたん2たかねのはなだったけんせいのししょうとくーでたーをしてよなおしする",
+    "authorIds": [
+      "reonarudi"
+    ],
+    "illustratorIds": [
+      "akieda"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "dungeon",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "剣の才能がないと師に告げられた龍一が、ダンジョンでその師と不穏な再会を果たす。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bakemonoshokudourakukikou",
+    "title": "ばけもの食道楽紀行",
+    "titleKana": "ばけものしょくどうらくきこう",
+    "authorIds": [
+      "kusamoriyuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "dark-fantasy",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "恐怖や悔恨を抱く人間を食うばけもの・不知火と、村を滅ぼされながら心が揺らがず見逃された青年。青年は自ら餌になると決め、ともに旅に出る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isekaidenekonitenseishitaoresaikyouyouheidannihi",
+    "title": "異世界で猫に転生したおれ、最凶傭兵団に拾われる",
+    "titleKana": "いせかいでねこにてんせいしたおれ、さいきょうようへいだんにひろわれる1",
+    "authorIds": [
+      "iichikotatsushi"
+    ],
+    "illustratorIds": [
+      "renta"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "monster-reincarnation",
+      "isekai-tensei",
+      "mercenary"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "猫を庇って死んだ佐藤有太が目覚めると猫になっていた。雪林で寒さと空腹に襲われる彼が出会ったのは、屈強な大男ヴァルドだった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daremokonaitoshokannoshishoninattahazuganazekaou",
+    "title": "誰も来ない図書館の司書になったはずが、なぜか王都の英雄たちがひっきりなしに訪ねてくる",
+    "titleKana": "だれもこないとしょかんのししょになったはずが、なぜかおうとのえいゆうたちがひっきりなしにたずねてくる1",
+    "authorIds": [
+      "kitagawanikita"
+    ],
+    "illustratorIds": [
+      "hitokome"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "slow-life",
+      "toshokan-shisho",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "過労死して異世界に転移したジルの望みは、誰にも期待されない怠惰な暮らし。王都で忘れられた図書館のたった一人の司書になったはずが、英雄たちが次々に訪ねてくる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensei-boukensha-bocchi-megami-o-sukuu-mofumofut",
+    "title": "転生冒険者、ボッチ女神を救う",
+    "titleKana": "てんせいぼうけんしゃぼっちめがみおすくう",
+    "authorIds": [
+      "tasogare"
+    ],
+    "illustratorIds": [
+      "penekoaru"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "勇者召喚に巻き込まれて死んだ男が、人々に祈られなくなって弱った女神と出会う。神力を取り戻す手助けをしようと決める。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rabitto-horu",
+    "title": "ラビットホール",
+    "titleKana": "らびっとほーる",
+    "authorIds": [
+      "saitoukenji"
+    ],
+    "illustratorIds": [
+      "omutatsu",
+      "dekonina"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gendai-drama",
+      "psycho-suspense",
+      "music"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "心に穴の空いた少女の前に現れ願いを叶えるという都市伝説『ラビットホール』。その住人である黒いバニーガールと出会った中学生リンネは「破滅」を願う。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ero-mangaka-dakedo-kutte-ikenai-kara-hiyatoi-bai",
+    "title": "エロ漫画家だけど食っていけないから、日雇い探索者でダンジョン行ってくる",
+    "titleKana": "えろまんがかだけどくっていけないからひやといばいとでだんじょんいってくる",
+    "authorIds": [
+      "sekijouhijiri"
+    ],
+    "illustratorIds": [
+      "fukukitsune"
+    ],
+    "publisherId": "gcn-bunko",
+    "themeIds": [
+      "dungeon",
+      "comedy",
+      "otaku-shumi"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "売れないエロ漫画家が日雇いの探索者としてダンジョンに潜る。美少女JK探索者との、ややきわどいダンジョン探索譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okueiyuumonogatarihachi-sontakuretsuden",
+    "title": "オーク英雄物語8 忖度列伝",
+    "titleKana": "おーくえいゆうものがたりはちそんたくれつでん",
+    "authorIds": [
+      "rifujin-na-magonote"
+    ],
+    "illustratorIds": [
+      "asanagi"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "isekai-fantasy",
+      "ajin-mamono-musume",
+      "adventure"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "嫁探しの旅を続けるオーク英雄バッシュ。フェアリーの国で、相棒のゼルがバッシュ好みのヒューマンに化ける魔法を覚えてしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bougyakuhidounogokuakukizokuoenjiterudakenanonin",
+    "title": "暴虐非道の極悪貴族を演じてるだけなのに!2 敵対するはずの貴族令嬢たちがなぜか全肯定でデレてくる",
+    "titleKana": "ぼうぎゃくひどうのごくあくきぞくをえんじてるだけなのに!にてきたいするはずのきぞくれいじょうたちがなぜかぜんこうていででれてくる",
+    "authorIds": [
+      "getou-myoujin"
+    ],
+    "illustratorIds": [
+      "falmaro"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "極悪貴族を演じているだけなのに、なぜか美少女たちに全肯定されてしまう主人公。このままでは本来の主人公が覚醒しない。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jitsuhaippaitaberuharapekogyarugafutamatasaretet",
+    "title": "実はいっぱい食べる腹ペコギャルが二股されてたから、胃袋を掴んでクズ彼氏から略奪することにした",
+    "titleKana": "じつはいっぱいたべるはらぺこぎゃるがふたまたされてたから、いぶくろをつかんでくずかれしからりゃくだつすることにした",
+    "authorIds": [
+      "aoimaru"
+    ],
+    "illustratorIds": [
+      "sakurayuki"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "彼氏に浮気されたギャル・櫛名雫と、その現場を目撃した蘇芳岳斗。大食いな自分を受け入れてくれる岳斗に、雫は特別な感情を抱いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boukunheikanosenzokujijoninarimashite",
+    "title": "暴君陛下の専属侍女になりまして",
+    "titleKana": "ぼうくんへいかのせんぞくじじょになりまして",
+    "authorIds": [
+      "kanon"
+    ],
+    "illustratorIds": [
+      "p-613661",
+      "p-391499"
+    ],
+    "publisherId": "kadokawa-bizlog-bunko",
+    "themeIds": [
+      "mibunsa-romance",
+      "butler-maid",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "お金稼ぎが大好きな子爵令嬢フィオナが、暴君と名高い国王の専属侍女に応募する。だが侍女は建前で、実際は婚約者候補の募集だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "makyou-sodachi-no-oruraunda-wa-isekai-de-sukikat",
+    "title": "魔境育ちの全能冒険者は異世界で好き勝手生きる!!",
+    "titleKana": "まきょうそだちのおーるらうんだーわいせかいですきかっていきる",
+    "authorIds": [
+      "anomarokarisu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "tsuihou",
+      "adventure",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "英雄の一族に生まれ、あらゆる技術を叩き込まれたリュカが、妹が聖女になるための最終試練の護衛を務める。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tenseimae-no-chutoriaru-de-isekai-saikyou-ni-nar",
+    "title": "転生前のチュートリアルで異世界最強になりました。",
+    "titleKana": "てんせいまえのちゅーとりあるでいせかいさいきょうになりました",
+    "authorIds": [
+      "ogawasatoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "adventure"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "ゲームのやりすぎで突然死した33歳が、女神から3か月のチュートリアルを課される。ところが終わったのは15年後で、その間にステータスは最強級になっていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurasu-no-kuru-bishoujo-no-kaji-daikou-o-shitara",
+    "title": "クラスのクール美少女の家事代行をしたら、毎日晩御飯の献立を聞いてくるようになった",
+    "titleKana": "くらすのくーるびしょうじょのかじだいこうおしたらまいにちばんごはんのこんだておきいてくるようになった",
+    "authorIds": [
+      "sakuranomiyaamane"
+    ],
+    "illustratorIds": [
+      "p-727728",
+      "senri"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "家事代行のバイトで訪れた先は、同じクラスのミステリアス美少女・藤咲奏音の汚部屋だった。掃除と晩御飯までこなした湊に、彼女は素直に感謝する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tokui-sukiru-teritorimochi-no-mobu-wa-medachitak",
+    "title": "特異スキル『テリトリー』持ちのモブは目立ちたくない",
+    "titleKana": "とくいすきるてりとりーもちのもぶわめだちたくない",
+    "authorIds": [
+      "chauchau"
+    ],
+    "illustratorIds": [
+      "p-289734",
+      "p-65936"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "mahou"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "中年サラリーマンのマサキが15歳の姿で異世界に転生し、範囲内で敵を倒すと経験値が十倍になるスキルを手に入れる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zoushigaya-no-choushokuya-kitsune-fukkura-oage-n",
+    "title": "雑司ヶ谷の朝食屋 きつね",
+    "titleKana": "ぞうしがやのちょうしょくやきつね",
+    "authorIds": [
+      "asagiito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gourmet",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "祖母の死後、雑司ヶ谷の朝食屋を継いだ悠佑。閑古鳥が鳴く店に、事情を抱えた客が少しずつ集まり始める。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "majutsu-tantei-tokisaki-kurumi-no-shiboutodoke",
+    "title": "魔術探偵・時崎狂三の死亡届",
+    "titleKana": "まじゅつたんていときさきくるみのしぼうとどけ",
+    "authorIds": [
+      "tachibana-koushi"
+    ],
+    "illustratorIds": [
+      "tsunako"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "tantei",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "時崎探偵社に届いた懐中時計と手紙。七つの時計をすべて集めた者に「時を操る力」が与えられるという儀式に、時崎狂三が挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimaira",
+    "title": "キマイラ16 呪殺変",
+    "titleKana": "きまいら",
+    "authorIds": [
+      "yumemakurabaku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "asahi-sonorama-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 16,
+    "status": "ongoing",
+    "synopsis": "伊豆山中で繰り広げられる大鳳吼と九十九三蔵の死闘。ルシフェル教団に加え中国政府の関係者も「キマイラ」の謎を追う伝奇大河シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seijo-to-boushoku",
+    "title": "聖女と暴食",
+    "titleKana": "せいじょとぼうしょく",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "illustratorIds": [
+      "karori"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "軌道上の巨大都市から地上へ逃げてきた少女アナセマは、旧世界を滅ぼした魔導兵器と契約した魔女だった。閉鎖環境都市の生徒ハルは彼女と出会い、エリートの地位を捨てる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hero-waku-sai-no-kawara-de-tsumiishi-o-kuzusu-da",
+    "title": "HELL’o WORK!",
+    "titleKana": "へろーわーく",
+    "authorIds": [
+      "yukihito"
+    ],
+    "illustratorIds": [
+      "kinku"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "comedy",
+      "isekai-tensei",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "ブラック企業に人生を捧げた龍馬が死後に立たされたのは焔魔堂。閻魔王女に地獄行きを言い渡されるが、どうやら人違いらしい。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inshuumura-kuraimakkusu",
+    "title": "因習村クライマックス",
+    "titleKana": "いんしゅうむらくらいまっくす",
+    "authorIds": [
+      "saekiyousuke"
+    ],
+    "illustratorIds": [
+      "inari"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "horror",
+      "youkai-ayakashi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "晩夏の片田舎、山村の原風景。ただし村は大怨霊によって滅びかけていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-wa-tsuyoi-kara-to-suteraremashitaga-renaigi",
+    "title": "君は強いからと捨てられましたが 恋愛嫌いの令嬢が初恋に溺れるまで",
+    "titleKana": "きみわつよいからとすてられましたが",
+    "authorIds": [
+      "shinobumaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "popura-bunko-purefull",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "恋は人を愚かにすると考える恋愛嫌いの男爵令嬢アンナが、王太后から王弟の領地経営を手伝う仕事を任される。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zenchi-zennou-no-ou-okotoba-ga-kanchigai-sareru",
+    "title": "全知全能の王、御言葉が勘違いされる",
+    "titleKana": "ぜんちぜんのうのおうおことばがかんちがいされる",
+    "authorIds": [
+      "shuu"
+    ],
+    "illustratorIds": [
+      "riichu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "長い眠りから目覚めた全知全能の青年クロノが、友達100人を作るために学院へ入学する。だが世界の七割を滅ぼした【虐殺の王】が目覚めたと騒ぎになり……。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "moto-outaishihi-kouho-nanoni-eiyuu-kishisama-no",
+    "title": "元王太子妃候補なのに『英雄騎士様の貞操を守る係』に任命されました!?",
+    "titleKana": "もとおうたいしひこうほなのにえいゆうきしさまのていそうおまもるがかりににんめいされました",
+    "authorIds": [
+      "hiiragi-kazuha"
+    ],
+    "illustratorIds": [
+      "takauchitouka"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "王太子妃教育から解放された公爵令嬢イヴリットに、辺境伯の叔父から「英雄騎士の貞操を守れ」という訳ありの依頼が舞い込む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "reberu-kyuusenkyuuhyakukyuujuukyuu-tenseisha-ni",
+    "title": "レベル9999転生者によるやりすぎ無人島楽園化",
+    "titleKana": "れべるきゅうせんきゅうひゃくきゅうじゅうきゅうてんせいしゃによるやりすぎむじんとうらくえんか",
+    "authorIds": [
+      "kokoneyururi"
+    ],
+    "illustratorIds": [
+      "ringopan"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "mujintou"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "最愛の母と妹を亡くして世を去った五十嵐明人が、理不尽な運命を背負う少女たちを救うため異世界へ転生し、無人島を楽園に開拓していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kiwamete-kenzen-na-bishoujo-reberu-appu",
+    "title": "極めて健全な美少女レベルアップ",
+    "titleKana": "きわめてけんぜんなびしょうじょれべるあっぷ",
+    "authorIds": [
+      "saekinagi"
+    ],
+    "illustratorIds": [
+      "kakao-2"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "dungeon",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ダンジョンが発生した現代。女性はレベル、男性は経験値が発現し、触れると経験値とともに快感が流れ込む。大量の経験値を持つ達哉は誰にも触れられずにいた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kodoku-no-majo-to-hitori-no-shoujo",
+    "title": "孤独の魔女と独りの少女",
+    "titleKana": "こどくのまじょとひとりのしょうじょ",
+    "authorIds": [
+      "tsurezurenarumo"
+    ],
+    "illustratorIds": [
+      "mugetsu"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "mahou",
+      "dark-fantasy",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "災厄に立ち向かい世界を救った八人の魔女。その八千年後、孤独の魔女が独りの少女を弟子にとる。第12回ネット小説大賞受賞作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fuusakan-no-ma",
+    "title": "封鎖館の魔",
+    "titleKana": "ふうさかんのま",
+    "authorIds": [
+      "asukabekatsunori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "horror",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "増改築を繰り返し無数の開かずの間を抱えた封鎖館。かつて芸術家たちが青春を謳歌した館で、令和の世に新たな流血が起きる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yasagure-shoukansha-wa-ugokanai",
+    "title": "やさぐれ召喚者は動かない",
+    "titleKana": "やさぐれしょうかんしゃわうごかない",
+    "authorIds": [
+      "yoshioka-tsuyoshi"
+    ],
+    "illustratorIds": [
+      "kurogiri"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "アドモス王国からの襲撃を退けた最凶の召喚者ケンタ。その力を前に各国の対応が混迷を極めるなか、彼は仲間と一時の平穏を過ごしていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiitagerareta-shuusai-reijou-to-ringoku-no-hara",
+    "title": "虐げられた秀才令嬢と隣国の腹黒研究者様の甘やかな薬草実験室",
+    "titleKana": "しいたげられたしゅうさいれいじょうとりんごくのはらぐろけんきゅうしゃさまのあまやかなやくそうじっけんしつ",
+    "authorIds": [
+      "kotonoha"
+    ],
+    "illustratorIds": [
+      "sando"
+    ],
+    "publisherId": "pash-books",
+    "themeIds": [
+      "alchemist-apothecary",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "結婚式を控えた薬草研究者ライラと婚約者アシュレン。ある島国で流行り病が広がり、二人が調査の協力者に選ばれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensai-reijou-ga-koukyuu-de-mezasu-taida-na-seik",
+    "title": "天才令嬢が後宮で目指す怠惰な生活 後宮では昼寝と読書三昧の日々を堪能します",
+    "titleKana": "てんさいれいじょうがこうきゅうでめざすたいだなせいかつ",
+    "authorIds": [
+      "kaedeneko"
+    ],
+    "illustratorIds": [
+      "urashima"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "koukyuu",
+      "chuuka-fantasy",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "私塾で首席を誇る令嬢リアンが不本意ながら後宮に入る。王妃の座を巡る争いを尻目に、王宮図書館の本を読んで怠惰に過ごすつもりが……。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kouki-na-katagata-wa-heibon-reisoku-o-otomome-no",
+    "title": "高貴な方々は平凡令息をお求めのようです みんなが僕にだけ厄介な秘密を打ち明けてくるのですが",
+    "titleKana": "こうきなかたがたわへいぼんれいそくおおともめのようです",
+    "authorIds": [
+      "tokiedakobato"
+    ],
+    "illustratorIds": [
+      "p-816216",
+      "shinobu"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "otome-game-sekai",
+      "gakuen",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "貧乏男爵家の令息パトリックが、学園随一のエリート貴族たちに目をつけられる。死に戻りの公爵嫡男と自称転生者の侯爵令息の思惑に巻き込まれ、悪役令嬢の死を回避しようとする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "neko-to-ryuu-boukenneko-no-kikan-to-outo-no-nich",
+    "title": "猫と竜 冒険猫の帰還と王都の日常",
+    "titleKana": "ねことりゅうぼうけんねこのきかんとおうとのにちじょう",
+    "authorIds": [
+      "amara"
+    ],
+    "illustratorIds": [
+      "p-164353",
+      "mai"
+    ],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "slow-life",
+      "adventure"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "高名な冒険猫が久しぶりに故郷の森を訪れる話、探偵に憧れる子猫が事務所を手に入れる話など、猫と竜の世界の日常を綴る連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakurairo-sutorenji-garu",
+    "title": "桜色ストレンジガール",
+    "titleKana": "さくらいろすとれんじがーる",
+    "authorIds": [
+      "fuyuhara-patora"
+    ],
+    "illustratorIds": [
+      "usaduka-eiji"
+    ],
+    "publisherId": "hj-novels",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "isekai-tensei"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "スラムで暮らす少女には前世の記憶があった。突然公爵家に迎えられ、そこが前世でプレイした乙女ゲームの世界で、自分が破滅する悪役令嬢だと気づく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nekotoryuuhyakudainokagetsutoryuunokosodate",
+    "title": "猫と竜 百代の過月と竜の子育て",
+    "titleKana": "ねことりゅうひゃくだいのかげつとりゅうのこそだて",
+    "authorIds": [
+      "amara"
+    ],
+    "illustratorIds": [
+      "p-164353",
+      "mai"
+    ],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "slow-life",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "猫と竜と人間が織りなすハートフルファンタジー。子猫たちの巣立ちが近づき、猫竜の子育てにも力が入る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kagenoanyakusoshikiotsukurutamesaikouhounoansats",
+    "title": "陰の暗躍組織を作るため、最高峰の暗殺知識で少女達を育成したら、俺を慕う一大勢力になった",
+    "titleKana": "かげのあんやくそしきをつくるため、さいこうほうのあんさつちしきでしょうじょたちをいくせいしたら、おれをしたういちだいせいりょくになった",
+    "authorIds": [
+      "satsukiao"
+    ],
+    "illustratorIds": [
+      "p-736106",
+      "notsu"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "spy-assassin",
+      "mahou-gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "最高峰の魔術知識を持つ暗殺者レオルが、国に蔓延る悪を粛清するため暗躍組織を結成する。集めたのは魔術学院の落ちこぼれ少女6人だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seirei-gensouki-3",
+    "title": "精霊幻想記 外伝 アマカワ卿の食卓",
+    "titleKana": "せいれいげんそうき",
+    "authorIds": [
+      "kitayama-yuri"
+    ],
+    "illustratorIds": [
+      "riv",
+      "p-457075"
+    ],
+    "publisherId": "hj-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "harem"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "ongoing",
+    "synopsis": "ガルアーク王国の名誉騎士ハルトには知られていない特技がある――料理だ。同居する少女たちのために腕をふるう日常を描く番外編。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
