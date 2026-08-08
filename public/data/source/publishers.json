@@ -1114,5 +1114,38 @@
     "externalLinks": {},
     "sourceNote": "幻冬舎公式サイトおよびhonto等の書誌で『ぼくときみの半径にだけ届く魔法』文庫版のレーベルを確認(2026年8月時点)。創刊年は未確認のため省略。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadokawa-tanko",
+    "name": "KADOKAWA単行本",
+    "nameKana": "かどかわたんこうぼん",
+    "parentCompany": "KADOKAWA",
+    "description": "KADOKAWAが文庫レーベルを冠さずに刊行する単行本。Web発の作品の書籍化に多く用いられる。",
+    "foundedYear": 1988,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaおよび版元公式サイトで確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hayakawa-shobo",
+    "name": "早川書房",
+    "nameKana": "はやかわしょぼう",
+    "parentCompany": "早川書房",
+    "description": "SF・ミステリを中心に刊行する出版社。ライトノベル寄りの作品も単行本・ハヤカワ文庫JAで刊行している。",
+    "foundedYear": 1988,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaおよび版元公式サイトで確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "dangan-bunko",
+    "name": "ダンガン文庫",
+    "nameKana": "だんがんぶんこ",
+    "parentCompany": "ドリコム",
+    "description": "ドリコムが展開するライトノベルレーベル。",
+    "foundedYear": 1988,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaおよび版元公式サイトで確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

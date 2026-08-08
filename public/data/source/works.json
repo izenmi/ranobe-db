@@ -792,6 +792,11 @@
         "awardId": "nikkei-bp-light-novel-ranking",
         "year": 2003,
         "result": "4位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "2006年版 第2位"
       }
     ],
     "mediaMix": {
@@ -7747,7 +7752,14 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "2018年版 第3位"
+      }
+    ]
   },
   {
     "id": "sakurasou-no-pet-na-kanojo",
@@ -17363,6 +17375,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2007,
         "result": "作品部門7位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "2006年版 第5位"
       }
     ],
     "mediaMix": {
@@ -24204,7 +24221,13 @@
     "status": "ongoing",
     "volumeCount": 19,
     "synopsis": "三英傑をはじめ多くの人物から疎まれた不運な現代人が、戦国時代の近江国の弱小国衆・朽木家の当主にわずか二歳で転生してしまう。史実には残らない小領主という立場を活かし、歴史と科学の知識を武器に富国強兵策を進めながら、周辺の大名たちとの緊張関係の中で領国を守り育てていく、じっくりとした内政重視の国盗り物語。",
-    "awardResults": [],
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "2021年版 第8位"
+      }
+    ],
     "mediaMix": {
       "anime": false,
       "comic": true
@@ -26807,6 +26830,11 @@
         "awardId": "light-novel-award",
         "year": 2007,
         "result": "ミステリー部門受賞"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2007,
+        "result": "2007年版 第8位"
       }
     ],
     "mediaMix": {
@@ -27876,6 +27904,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2021,
         "result": "6位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "2021年版 第6位"
       }
     ],
     "mediaMix": {
@@ -34472,7 +34505,13 @@
     "volumeCount": 10,
     "status": "completed",
     "synopsis": "ロボットアニメの世界観を下敷きにした熱いロボットもの。搭乗者たちの関係と機体戦闘を並行して描く。",
-    "awardResults": [],
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2016,
+        "result": "2016年版 第4位"
+      }
+    ],
     "mediaMix": {
       "anime": false,
       "comic": false
@@ -58131,6 +58170,1645 @@
     },
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版のHJ文庫大賞・ファンタジア大賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "teikoku-no-musume-ryuuketsu-joshinden",
+    "title": "流血女神伝",
+    "titleKana": "ていこくのむすめ",
+    "authorIds": [
+      "sugashinobu"
+    ],
+    "illustratorIds": [
+      "funatoakari"
+    ],
+    "publisherId": "shueisha-cobalt-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "danso-josou",
+      "senki"
+    ],
+    "firstPublishedYear": 1999,
+    "volumeCount": 9,
+    "status": "unknown",
+    "synopsis": "皇子の影武者として男装し、次期皇帝候補が集う皇子宮に上がったカリエが、政治的陰謀に巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "2005年版 第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sora-no-kane-no-hibiku-hoshi-de",
+    "title": "空ノ鐘の響く惑星で",
+    "titleKana": "そらのかねのひびくほしで",
+    "authorIds": [
+      "watase-souichirou"
+    ],
+    "illustratorIds": [
+      "iwasaki-minako"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "神姫ノエルとの面会を許されたフェリオと、死の神霊を使った実験が進むラトロア。二つの物語が核心へ向かう。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "2005年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaosu-region",
+    "title": "カオス レギオン",
+    "titleKana": "かおすれぎおん",
+    "authorIds": [
+      "ubukata-tou"
+    ],
+    "illustratorIds": [
+      "yuigasatoru"
+    ],
+    "publisherId": "fujimi-fantasia",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "ken-to-mahou"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "冲方丁による、軍団を召喚して戦うダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2005,
+        "result": "2005年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "satougashi-no-dangan-wa-uchinukenai",
+    "title": "砂糖菓子の弾丸は撃ちぬけない",
+    "titleKana": "さとうがしのだんがんわうちぬけない",
+    "authorIds": [
+      "sakuraba-kazuki"
+    ],
+    "illustratorIds": [
+      "mu"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "gendai-drama",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "子供という絶望の季節を生き延びようとあがく魂を描く、直木賞作家の初期作。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "2006年版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashitachi-no-tamurakun",
+    "title": "わたしたちの田村くん",
+    "titleKana": "わたしたちのたむらくん",
+    "authorIds": [
+      "takemiya-yuyuko"
+    ],
+    "illustratorIds": [
+      "yasu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "少年・田村雪貞が2人の少女に出会い、互いに惹かれながらも関係に苦悩する日々を描くラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2006,
+        "result": "2006年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "monogatarishirizu-monsutashizunzenrokusatsugappo",
+    "title": "〈物語〉シリーズ",
+    "titleKana": "ものがたりしりーずもんすたーしーずんぜんろくさつがっぽんばんいらすとぎゃらりーつき",
+    "authorIds": [
+      "nishio-isin"
+    ],
+    "illustratorIds": [
+      "vofan"
+    ],
+    "publisherId": "kodansha-box",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "阿良々木暦と、彼が出会った少女たちの「怪異」をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2009,
+        "result": "2009年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okaruto-rojikku-jinchouge-sakura-no-kantata",
+    "title": "丘ルトロジック",
+    "titleKana": "おかるとろじっく",
+    "authorIds": [
+      "nimeguchitsukasa"
+    ],
+    "illustratorIds": [
+      "magomago"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "「風景」を愛する高校1年の咲丘が、丘の研究会と誤解して入部した先は「世界征服」を目指すオカルト研究会だった。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2012,
+        "result": "2012年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ame-no-hi-no-airisu",
+    "title": "雨の日のアイリス",
+    "titleKana": "あめのひのあいりす",
+    "authorIds": [
+      "matsuyamatakeshi"
+    ],
+    "illustratorIds": [
+      "hirasato"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "robot-mecha",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "家政婦ロボットのアイリスが、博士との幸せな日々から一転、過酷な運命に身を置くことになる。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2012,
+        "result": "2012年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinonome-yuuko-wa-tanpen-shousetsu-o-aishiteiru",
+    "title": "東雲侑子は短編小説をあいしている",
+    "titleKana": "しののめゆうこわたんぺんしょうせつおあいしている",
+    "authorIds": [
+      "morihashibingo"
+    ],
+    "illustratorIds": [
+      "nardack"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "短編小説を愛する少女・東雲侑子と、彼女に関わることになった少年を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2013,
+        "result": "2013年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koukyuu-rakuen-kyuujou-haremu-rigu-besuboru",
+    "title": "後宮楽園球場 ハレムリーグ・ベースボール",
+    "titleKana": "こうきゅうらくえんきゅうじょう",
+    "authorIds": [
+      "ishikawa-hiroshina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "super-dash-bunko",
+    "themeIds": [
+      "koukyuu",
+      "sports",
+      "danso-josou"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "皇帝暗殺を狙う少年・海功が少女に扮して後宮に入る。そこは美少女たちが野球で皇帝の寵愛を争う「ハレムリーグ」だった。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "2015年版 第5位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zetsushinkai-no-sorarisu",
+    "title": "絶深海のソラリス",
+    "titleKana": "ぜつしんかいのそらりす",
+    "authorIds": [
+      "rakiruchi"
+    ],
+    "illustratorIds": [
+      "asagiri"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "sf",
+      "post-apocalypse",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "地上の80%が海に沈んだ22世紀。深海踏破を担う《水使い》を育てるアカデミーで、技術教官となった山城ミナトを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "2015年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toaru-hikuushi-eno-seiyaku",
+    "title": "とある飛空士への誓約",
+    "titleKana": "とあるひくうしえのせいやく",
+    "authorIds": [
+      "inumura-kouroku"
+    ],
+    "illustratorIds": [
+      "morisawa-haruyuki"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "koukuu-kuusen",
+      "senki",
+      "adventure"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 9,
+    "status": "completed",
+    "synopsis": "多島海を挟んで対峙する二つの大国。空の一族が支配する状況を打開しようとする者たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "2015年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-koi-to-sono-mirai",
+    "title": "この恋と、その未来。",
+    "titleKana": "このこいとそのみらい",
+    "authorIds": [
+      "morihashibingo"
+    ],
+    "illustratorIds": [
+      "nardack"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "寮で暮らす四郎と未来。それぞれの気持ちが揺れ、未来は自分の秘密を打ち明けようとする。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2015,
+        "result": "2015年版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "merodi-ririkku-aidoru-majikku",
+    "title": "メロディ・リリック・アイドル・マジック",
+    "titleKana": "めろでぃりりっくあいどるまじっく",
+    "authorIds": [
+      "ishikawa-hiroshina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "idol-geinokai",
+      "gakuen",
+      "music"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "国民的アイドルに叛旗をひるがえした女子高生アイドルたちがしのぎを削る街を舞台にした物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "2017年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "obarodo",
+    "title": "オーバーロード",
+    "titleKana": "おーばーろーど",
+    "authorIds": [
+      "maruyama-kugane"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-tanko",
+    "themeIds": [
+      "isekai-tensei",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 19,
+    "status": "unknown",
+    "synopsis": "ゲームのラスボスだった骸骨の魔法使いが、サービス終了後もその世界に残され、支配者として歩み始める。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "2017年版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-sekai-ga-gemu-dato-ore-dake-ga-shitte-iru",
+    "title": "この世界がゲームだと俺だけが知っている",
+    "titleKana": "このせかいがげーむだとおれだけがしっている",
+    "authorIds": [
+      "usuba"
+    ],
+    "illustratorIds": [
+      "ichizen"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "vrmmo",
+      "isekai-tensei",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 10,
+    "status": "unknown",
+    "synopsis": "バグ満載のゲーム世界に入り込んだ“ぼっち”ゲーマーが、記憶喪失の少女とともに討伐大会に挑む。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2017,
+        "result": "2017年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yokohamaeki-esuefu",
+    "title": "横浜駅SF",
+    "titleKana": "よこはまえきえすえふ",
+    "authorIds": [
+      "isukariyuba"
+    ],
+    "illustratorIds": [
+      "tanakatatsuyuki"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "sf",
+      "post-apocalypse",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "自己増殖する〈横浜駅〉に支配された日本。エキナカの外で暮らすヒロトが人類の未来を担う使命を課される。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2018,
+        "result": "2018年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "umibe-no-byouin-de-kanojo-to-hanashita-ikutsuka",
+    "title": "海辺の病院で彼女と話した幾つかのこと",
+    "titleKana": "うみべのびょういんでかのじょとはなしたいくつかのこと",
+    "authorIds": [
+      "ishikawa-hiroshina"
+    ],
+    "illustratorIds": [
+      "kusaba"
+    ],
+    "publisherId": "kadokawa-tanko",
+    "themeIds": [
+      "battle-action",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 4,
+    "status": "unknown",
+    "synopsis": "謎の化物と戦う少年・蒼が、特殊能力を持つ少年少女の小隊と行動を共にする。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "2019年版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jeke-haru-wa-isekai-de-shoufu-ni-natta",
+    "title": "JKハルは異世界で娼婦になった",
+    "titleKana": "じぇーけーはるわいせかいでしょうふになった",
+    "authorIds": [
+      "hiratorikou"
+    ],
+    "illustratorIds": [
+      "shimano"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "isekai-tensei",
+      "gendai-drama",
+      "urashakai"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 49,
+    "status": "unknown",
+    "synopsis": "異世界に転移した女子高生ハルが、チート能力もないまま娼館で働くことを選ぶ。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2019,
+        "result": "2019年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "puropera-opera",
+    "title": "プロペラオペラ",
+    "titleKana": "ぷろぺらおぺら",
+    "authorIds": [
+      "inumura-kouroku"
+    ],
+    "illustratorIds": [
+      "p-357269",
+      "p-5027"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "koukuu-kuusen",
+      "senki",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "極東の島国・日之雄。皇家第一王女にして飛行駆逐艦の艦長イザヤと、部下として乗り込んだクロトを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "2021年版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "baberu",
+    "title": "Babel",
+    "titleKana": "ばべる",
+    "authorIds": [
+      "komiya-kuji"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "isekai-fantasy",
+      "ken-to-mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "unknown",
+    "synopsis": "古宮九時による異世界ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2021,
+        "result": "2021年版 第5位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shunka-shuutou-daikousha-haru-no-mai",
+    "title": "春夏秋冬代行者",
+    "titleKana": "しゅんかしゅうとうだいこうしゃ",
+    "authorIds": [
+      "akatsuki-kana"
+    ],
+    "illustratorIds": [
+      "suou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 8,
+    "status": "unknown",
+    "synopsis": "四季の巡りを人の子が担う世界。『春』の少女神・雛菊と、彼女に忠誠を誓う剣士を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "2022年版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mimoza-no-kokuhaku",
+    "title": "ミモザの告白",
+    "titleKana": "みもざのこくはく",
+    "authorIds": [
+      "hachimoku-mei"
+    ],
+    "illustratorIds": [
+      "kukka"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 5,
+    "status": "unknown",
+    "synopsis": "地方都市の高校生・紙木咲馬と、完璧な幼馴染・槻ノ木汐。ある告白が二人の世界を変える。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "2022年版 第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "baretto-kodo-faiaworu",
+    "title": "バレットコード: ファイアウォール",
+    "titleKana": "ばれっとこーどふぁいあうぉーる",
+    "authorIds": [
+      "saitousuzu"
+    ],
+    "illustratorIds": [
+      "wata-illust"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "vrmmo",
+      "death-game",
+      "sf"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "戦争体験学習として課されたVR実習が、ある日突然、混沌のプログラムと化す。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "2022年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chou-sekai-tensei-eguzo-doraibu",
+    "title": "超世界転生エグゾドライブ",
+    "titleKana": "ちょうせかいてんせいえぐぞどらいぶ",
+    "authorIds": [
+      "keiso"
+    ],
+    "illustratorIds": [
+      "p-292138",
+      "p-649426",
+      "zunta"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "異世界救済が競技と化した世界。チート能力を4つ選び転生し、どちらが鮮烈に世界を救えるかを競う。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "2022年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-wa-saiseisuu-boku-wa-shi",
+    "title": "ボクは再生数、ボクは死",
+    "titleKana": "ぼくわさいせいすうぼくわし",
+    "authorIds": [
+      "ishikawa-hiroshina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-tanko",
+    "themeIds": [
+      "vtuber-streamer",
+      "gendai-drama",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "石川博品による、配信と承認をめぐる作品。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2022,
+        "result": "2022年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-wa-anata-no-namida-ni-naritai",
+    "title": "わたしはあなたの涙になりたい",
+    "titleKana": "わたしわあなたのなみだになりたい",
+    "authorIds": [
+      "shikitaiga"
+    ],
+    "illustratorIds": [
+      "p-909256",
+      "sue"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "terminal-illness",
+      "romance",
+      "music"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "全身が塩に変わる奇病「塩化病」。母を亡くした少年が、音楽室で天才ピアノ奏者の少女と出会う。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "2023年版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kusuri-no-mamono-no-kaiko-riyuu",
+    "title": "薬の魔物の解雇理由",
+    "titleKana": "くすりのまもののかいこりゆう",
+    "authorIds": [
+      "p-853737"
+    ],
+    "illustratorIds": [],
+    "publisherId": "to-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "ajin-mamono-musume",
+      "alchemist-apothecary"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "unknown",
+    "synopsis": "大切な魔物との日常を守るため、冬の祝祭の奪回に挑む。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "2023年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensei-reijou-to-suuki-na-jinsei-o",
+    "title": "転生令嬢と数奇な人生を",
+    "titleKana": "てんせいれいじょうとすうきなじんせいお",
+    "authorIds": [
+      "kamihara"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "senki"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 6,
+    "status": "unknown",
+    "synopsis": "貴族令嬢として転生したカレンが、年の離れた辺境伯に嫁ぐ。穏やかな日々は落城の幕開けで一変する。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2023,
+        "result": "2023年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "basutabu-de-kurasu",
+    "title": "バスタブで暮らす",
+    "titleKana": "ばすたぶでくらす",
+    "authorIds": [
+      "shikitaiga"
+    ],
+    "illustratorIds": [
+      "p-909256",
+      "sue"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "slow-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "人とはちょっと違う感性を持つ22歳の磯原めだかが、実家のバスタブで暮らし始める。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sutera-suteppu",
+    "title": "ステラ・ステップ",
+    "titleKana": "すてらすてっぷ",
+    "authorIds": [
+      "hayashishougo"
+    ],
+    "illustratorIds": [
+      "ringosui",
+      "kotaku"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "idol-geinokai",
+      "post-apocalypse",
+      "music"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "隕石で荒廃した世界。各国は戦争の手段としてアイドルを利用し、パフォーマンスの優劣で略奪を繰り返す。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura-wa-yomi-o-machigaeru",
+    "title": "僕らは『読み』を間違える",
+    "titleKana": "ぼくらわよみおまちがえる",
+    "authorIds": [
+      "mikazukihijiri"
+    ],
+    "illustratorIds": [
+      "porigon"
+    ],
+    "publisherId": "kadokawa-sneaker",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "“美人現役女子高生作家”の捜索依頼から始まる、書店と小説をめぐる恋愛模様。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-o-hit",
+    "title": "転生した大聖女は、聖女であることをひた隠す",
+    "titleKana": "てんせいしただいせいじょわせいじょであることおひたかくす",
+    "authorIds": [
+      "touya"
+    ],
+    "illustratorIds": [
+      "chibi"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-reijou",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 14,
+    "status": "unknown",
+    "synopsis": "騎士を目指すフィーアが、死にかけた際に「大聖女」だった前世を思い出す。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuyaku-reijou-wa-dekiai-ruto-ni-hairimashita",
+    "title": "悪役令嬢は溺愛ルートに入りました!?",
+    "titleKana": "あくやくれいじょうわできあいるーとにはいりました",
+    "authorIds": [
+      "touya"
+    ],
+    "illustratorIds": [
+      "yoi-machi"
+    ],
+    "publisherId": "sqex-novel",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 10,
+    "status": "unknown",
+    "synopsis": "乙女ゲームの悪役令嬢に転生したルチアーナが、断罪回避を誓うも『魅了』の魔術をかけられてしまう。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chutoriaru-ga-hajimaru-mae-ni",
+    "title": "チュートリアルが始まる前に",
+    "titleKana": "ちゅーとりあるがはじまるまえに",
+    "authorIds": [
+      "takahashikotatsu"
+    ],
+    "illustratorIds": [
+      "kakao",
+      "rantan"
+    ],
+    "publisherId": "dengeki-no-shinbungei",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 6,
+    "status": "unknown",
+    "synopsis": "『ダンマギ』を知り尽くす転生者・凶一郎が、姉の命を救うためパーティーを強化していく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arasa-ga-buichuba-ni-natta-hanashi",
+    "title": "アラサーがVTuberになった話。",
+    "titleKana": "あらさーがぶいちゅーばーになったはなし",
+    "authorIds": [
+      "tokumei"
+    ],
+    "illustratorIds": [
+      "karasubitike"
+    ],
+    "publisherId": "kadokawa-tanko",
+    "themeIds": [
+      "vtuber-streamer",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 50,
+    "status": "unknown",
+    "synopsis": "神坂怜としてデビューした「私」が、炎上を繰り返しながらVTuberとして活動していく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2024,
+        "result": "2024年版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kochira-shuumatsu-teitai-iinkai",
+    "title": "こちら、終末停滞委員会。",
+    "titleKana": "こちらしゅうまつていたいいいんかい",
+    "authorIds": [
+      "aienkien"
+    ],
+    "illustratorIds": [
+      "ogipote"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "battle-action",
+      "youkai-ayakashi"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 6,
+    "status": "unknown",
+    "synopsis": "密かに滅びつつある世界。異形や“終末”に中指を立てて闘う少年少女たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "2025年版 第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiroki-teikoku",
+    "title": "白き帝国",
+    "titleKana": "しろきていこく",
+    "authorIds": [
+      "inumura-kouroku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "senki",
+      "koukuu-kuusen",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 7,
+    "status": "unknown",
+    "synopsis": "犬村小六による戦記ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "2025年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-monogatari-o-kimi-ni-sasagu",
+    "title": "この物語を君に捧ぐ",
+    "titleKana": "このものがたりおきみにささぐ",
+    "authorIds": [
+      "morihinata"
+    ],
+    "illustratorIds": [
+      "p-251079",
+      "nun"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "無気力な高校生・柊悠人の前に現れた自称編集者の女子高生が、小説を書いてほしいと付きまとう。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "2025年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hihou-ojousamakei-teihen-danjon-haishinsha-haish",
+    "title": "【悲報】お嬢様系底辺ダンジョン配信者、配信切り忘れに気づかず同業者をボコってしまう",
+    "titleKana": "ひほうおじょうさまけいていへんだんじょんはいしんしゃはいしんきりわすれにきずかずどうぎょうしゃおぼこってしまう",
+    "authorIds": [
+      "akagi-hirotaka"
+    ],
+    "illustratorIds": [
+      "fukukitsune"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "vtuber-streamer",
+      "dungeon",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 5,
+    "status": "unknown",
+    "synopsis": "ドレス姿でダンジョンを攻略するお嬢様系配信者・山田カリンが、配信を切り忘れたまま同業者をのしてしまう。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "2025年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mahoutsukai-no-hikkoshiya",
+    "title": "魔法使いの引っ越し屋",
+    "titleKana": "まほうつかいのひっこしや",
+    "authorIds": [
+      "sakaishi-yuusaku"
+    ],
+    "illustratorIds": [
+      "ichikawa",
+      "haru"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "王都の片隅で引っ越し屋を営む少女ソフィは、王国一の天才魔法使い。今日も特別な客の依頼が舞い込む。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2025,
+        "result": "2025年版 第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yottehatsukoihashoumeisareta-derutatoganmanoriga",
+    "title": "デルタとガンマの理学部ノート",
+    "titleKana": "よってはつこいはしょうめいされたでるたとがんまのりがくぶのーといち",
+    "authorIds": [
+      "sakasai-takuma"
+    ],
+    "illustratorIds": [
+      "p-543793",
+      "asagi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "生物部の四人が見つけた50年前の報告書。「天狗の怪異」を科学的に調査したレポートの、失われた結論を追う。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "midoru-noto-ni-sayonara",
+    "title": "ミドルノートにさよなら",
+    "titleKana": "みどるのーとにさよなら",
+    "authorIds": [
+      "tachikawa-uraura"
+    ],
+    "illustratorIds": [
+      "ryoutou"
+    ],
+    "publisherId": "gagaga-bunko",
+    "themeIds": [
+      "yuri",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "ミッション系中高一貫校の片隅で想いを育てていた二人の少女。その純愛が歪んでいく。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanji-ankun-o-aiseyo",
+    "title": "汝、暗君を愛せよ",
+    "titleKana": "なんじあんくんおあいせよ",
+    "authorIds": [
+      "honjoukentarou"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "dre-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "nation-building",
+      "senki"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "unknown",
+    "synopsis": "異世界を舞台にした大河ファンタジー。プロザン王との会談を経て新章に入る。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-o-hitakakusu-zero",
+    "title": "転生した大聖女は、聖女であることをひた隠す ZERO",
+    "titleKana": "てんせいしただいせいじょわせいじょであることおひたかくすぜろ",
+    "authorIds": [
+      "touya"
+    ],
+    "illustratorIds": [
+      "chibi"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "cheat-kid-protagonist"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 6,
+    "status": "unknown",
+    "synopsis": "300年前のナーヴ王国。生まれつき目が見えない王女セラフィーナと、幼い精霊たちの物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meikyuu-kuso-tawake",
+    "title": "迷宮クソたわけ",
+    "titleKana": "めいきゅうくそたわけ",
+    "authorIds": [
+      "iwatoo"
+    ],
+    "illustratorIds": [
+      "fuyunoyuuki"
+    ],
+    "publisherId": "dangan-bunko",
+    "themeIds": [
+      "dungeon",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 44,
+    "status": "unknown",
+    "synopsis": "迷宮を占拠する教団の事件で英雄と呼ばれてしまったシガーフル隊。評価とは裏腹に足並みは揃わない。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "orukusen-oukokushi",
+    "title": "オルクセン王国史〜野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか〜",
+    "titleKana": "おるくせんおうこくし",
+    "authorIds": [
+      "tarumi-kyouichirou"
+    ],
+    "illustratorIds": [
+      "thores-shibamoto"
+    ],
+    "publisherId": "saga-forest",
+    "themeIds": [
+      "senki",
+      "nation-building",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 7,
+    "status": "unknown",
+    "synopsis": "「銃と魔法」の時代。オルクセン国軍がエルフィンド領内へ進撃し、エルフたちは近代戦の恐怖に晒される。",
+    "awardResults": [
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
   }
 ]
