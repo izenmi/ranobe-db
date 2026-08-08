@@ -8972,7 +8972,8 @@
     "mediaMix": {
       "anime": true,
       "comic": true
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/arusuran-senki-daiisshou-ekubatana-no-eiga"
   },
   {
     "id": "eromanga-sensei",
@@ -17987,7 +17988,8 @@
     "sourceNote": "ja.wikipedia.org作品記事より。2020年よりWeb版連載。コミック版が複数のマンガ賞を受賞しているが、小説作品自体の受賞歴には含めていない。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/片田舎のおっさん、剣聖になる"
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/katainaka-no-ossan-kensei-ni-naru-tada-no-inaka"
   },
   {
     "id": "koko-wa-ore-ni-makasete-densetsu-ni-natteita",
@@ -19630,7 +19632,8 @@
     "sourceNote": "Wikipedia日本語版で確認。原作は「小説家になろう」投稿作。2019年1月刊行開始、既刊10巻(2026年3月時点)。『次にくるマンガ大賞2020』8位等はコミカライズ版に対する受賞のため、原作小説の受賞歴としては計上せず。TVアニメ2期(2023・2025年)、実写映画(2023年)、舞台化あり。シリーズ累計900万部超。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/わたしの幸せな結婚"
-    }
+    },
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/watashi-no-shiawasena-kekkon"
   },
   {
     "id": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-deiaisareru",
