@@ -19673,7 +19673,9 @@
       "steampunk-invention",
       "alternate-history",
       "battle-action",
-      "dark-fantasy"
+      "dark-fantasy",
+      "nation-building",
+      "isekai-fantasy"
     ],
     "firstPublishedYear": 2023,
     "latestPublishedYear": 2025,
@@ -19685,6 +19687,11 @@
         "awardId": "tsugi-ni-kuru-light-novel-taisho",
         "year": 2024,
         "result": "単行本部門3位"
+      },
+      {
+        "awardId": "kono-light-novel-ga-sugoi-ranking",
+        "year": 2026,
+        "result": "2026年版 単行本部門 第10位"
       }
     ],
     "mediaMix": {
@@ -19694,7 +19701,8 @@
     "sourceNote": "オルクセン王国史の作品情報・書誌情報を確認。Web連載開始は2021年7月だが単行本刊行は2023年12月から。既刊巻数は2025年11月時点で6巻。イラストレーターTHORES柴本、出版社サーガフォレストは既存IDを再利用。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/オルクセン王国史"
-    }
+    },
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "mahoushi-ni-noranai-ijin",
@@ -60681,41 +60689,6 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2026,
         "result": "2026年版 単行本部門 第8位"
-      }
-    ],
-    "mediaMix": {
-      "anime": false,
-      "comic": true
-    },
-    "externalLinks": {},
-    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "orukusen-oukokushi",
-    "title": "オルクセン王国史〜野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか〜",
-    "titleKana": "おるくせんおうこくし",
-    "authorIds": [
-      "tarumi-kyouichirou"
-    ],
-    "illustratorIds": [
-      "thores-shibamoto"
-    ],
-    "publisherId": "saga-forest",
-    "themeIds": [
-      "senki",
-      "nation-building",
-      "isekai-fantasy"
-    ],
-    "firstPublishedYear": 2023,
-    "volumeCount": 7,
-    "status": "unknown",
-    "synopsis": "「銃と魔法」の時代。オルクセン国軍がエルフィンド領内へ進撃し、エルフたちは近代戦の恐怖に晒される。",
-    "awardResults": [
-      {
-        "awardId": "kono-light-novel-ga-sugoi-ranking",
-        "year": 2026,
-        "result": "2026年版 単行本部門 第10位"
       }
     ],
     "mediaMix": {
