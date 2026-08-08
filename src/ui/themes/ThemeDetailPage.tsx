@@ -4,6 +4,7 @@ import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
+import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 const STATUS_OPTIONS: { value: string; label: string }[] = [
@@ -50,14 +51,25 @@ export function ThemeDetailPage() {
   });
 
   const [params, setParams] = useSearchParams();
+  const q = params.get("q") ?? "";
   const status = params.get("status") ?? "";
+  // このページ自身のテーマは全作品が持っていて絞り込みにならないので選択肢から外す
+  const otherTheme = params.get("theme") ?? "";
   const webNovel = params.get("webNovel") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const sort = params.get("sort") ?? "year-desc";
 
+  const themeOptions = useMemo(
+    () => themeOptionsOf(state.status === "ready" ? state.data?.works : undefined, id),
+    [state, id],
+  );
+
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
+    const keyword = q.trim().toLowerCase();
     return state.data.works.filter((w) => {
+      if (!matchesKeyword(w, keyword)) return false;
+      if (otherTheme && !w.themeIds.includes(otherTheme)) return false;
       if (status && w.status !== status) return false;
       if (webNovel === "none" && w.webNovelSource) return false;
       if ((webNovel === "narou" || webNovel === "kakuyomu") && w.webNovelSource?.platform !== webNovel) return false;
@@ -66,7 +78,7 @@ export function ThemeDetailPage() {
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       return true;
     });
-  }, [state, status, webNovel, mediaMix]);
+  }, [state, q, otherTheme, status, webNovel, mediaMix]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -84,13 +96,13 @@ export function ThemeDetailPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["status", "webNovel", "mediaMix"]) {
+    for (const key of ["q", "theme", "status", "webNovel", "mediaMix"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(status || webNovel || mediaMix);
+  const hasActiveFilters = Boolean(q || otherTheme || status || webNovel || mediaMix);
 
   return (
     <div className="page">
@@ -103,6 +115,23 @@ export function ThemeDetailPage() {
           <p className="page-subtitle">{state.data.workCount}作品</p>
           {state.data.description && <p>{state.data.description}</p>}
           <div className="filter-row">
+            <input
+              type="search"
+              value={q}
+              placeholder="タイトル・作者で絞り込み"
+              aria-label="タイトル・作者で絞り込み"
+              onChange={(e) => updateParam("q", e.target.value)}
+            />
+            {themeOptions.length > 0 && (
+              <select value={otherTheme} onChange={(e) => updateParam("theme", e.target.value)}>
+                <option value="">他のテーマで絞り込み</option>
+                {themeOptions.map((o) => (
+                  <option value={o.value} key={o.value}>
+                    {o.label}
+                  </option>
+                ))}
+              </select>
+            )}
             <select value={status} onChange={(e) => updateParam("status", e.target.value)}>
               <option value="">完結状況で絞り込み</option>
               {STATUS_OPTIONS.map((s) => (
