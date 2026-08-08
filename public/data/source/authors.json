@@ -11180,15 +11180,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "p-628679",
-    "name": "]]",
-    "nameKana": "]]",
-    "description": "ライトノベルを手がける小説家。",
-    "externalLinks": {},
-    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "uzukiyagi",
     "name": "兎月山羊",
     "nameKana": "うずきやぎ",
@@ -13008,12 +12999,12 @@
   },
   {
     "id": "p-348452",
-    "name": "紙木",
-    "nameKana": "紙木",
+    "name": "紙木織々",
+    "nameKana": "かみきおりおり",
     "description": "ライトノベルを手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "mokushitsu",
@@ -13959,5 +13950,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "semikawa-takamaru",
+    "name": "蝉川タカマル",
+    "nameKana": "せみかわたかまる",
+    "description": "小説家。『青春ラリアット!!』で第17回電撃小説大賞金賞を受賞しデビュー。",
+    "externalLinks": {},
+    "sourceNote": "著者名・受賞歴は国立国会図書館サーチの書誌および電撃小説大賞の受賞作一覧で確認(2026-08-08照会)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "moritsuki-asafumi",
+    "name": "森月朝文",
+    "nameKana": "もりつきあさふみ",
+    "description": "小説家。『狩りりんぐ！萩乃森高校狩猟専門課程』で第6回小学館ライトノベル大賞ガガガ大賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "著者名・受賞歴は国立国会図書館サーチの書誌および小学館ライトノベル大賞の受賞作一覧で確認(2026-08-08照会)。",
+    "updatedAt": "2026-08-08"
   }
 ]
