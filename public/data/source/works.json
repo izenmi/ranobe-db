@@ -1257,6 +1257,11 @@
         "awardId": "minna-de-erabu-best-light-novel",
         "year": 2011,
         "result": "コメディ部門8位"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2011,
+        "result": "最優秀賞"
       }
     ],
     "externalLinks": {
@@ -1416,6 +1421,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2024,
         "result": "2024年版 文庫本部門 第10位"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2020,
+        "result": "最優秀賞"
       }
     ],
     "externalLinks": {
@@ -5836,6 +5846,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2019,
         "result": "第11回GA文庫大賞 優秀賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2019,
+        "result": "優秀賞"
       }
     ],
     "externalLinks": {
@@ -6857,6 +6872,11 @@
         "awardId": "kono-light-novel-ga-sugoi-ranking",
         "year": 2024,
         "result": "2024年版 文庫本部門 第2位"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2023,
+        "result": "優秀賞"
       }
     ],
     "externalLinks": {
@@ -19373,6 +19393,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2022,
         "result": "第18回最優秀賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2023,
+        "result": "最優秀賞"
       }
     ],
     "mediaMix": {
@@ -34968,7 +34993,13 @@
     "volumeCount": 2,
     "status": "ongoing",
     "synopsis": "完璧に見える社会人女性が、酔うと見せる別の顔を描くギャップラブコメ。",
-    "awardResults": [],
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2024,
+        "result": "金賞"
+      }
+    ],
     "mediaMix": {
       "anime": false,
       "comic": false
@@ -39718,7 +39749,13 @@
     "volumeCount": 2,
     "status": "ongoing",
     "synopsis": "殺害予告から始まる関係を描くサスペンス寄りの物語。",
-    "awardResults": [],
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2024,
+        "result": "金賞"
+      }
+    ],
     "mediaMix": {
       "anime": false,
       "comic": false
@@ -52168,6 +52205,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2004,
         "result": "優秀賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -52203,6 +52245,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2004,
+        "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2005,
         "result": "佳作"
       }
     ],
@@ -52275,6 +52322,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2005,
         "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2006,
+        "result": "佳作"
       }
     ],
     "mediaMix": {
@@ -52309,6 +52361,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2005,
+        "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2006,
         "result": "佳作"
       }
     ],
@@ -52415,6 +52472,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2005,
         "result": "審査員特別賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2006,
+        "result": "特別賞"
       }
     ],
     "mediaMix": {
@@ -52522,6 +52584,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2007,
         "result": "優秀賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -52556,6 +52623,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2007,
+        "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
         "result": "佳作"
       }
     ],
@@ -52593,6 +52665,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2007,
         "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
+        "result": "佳作"
       }
     ],
     "mediaMix": {
@@ -52628,6 +52705,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2007,
+        "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
         "result": "佳作"
       }
     ],
@@ -52665,6 +52747,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2008,
         "result": "優秀賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2009,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -52699,6 +52786,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2009,
+        "result": "優秀賞"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2010,
         "result": "優秀賞"
       }
     ],
@@ -52841,6 +52933,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2009,
         "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2010,
+        "result": "佳作"
       }
     ],
     "mediaMix": {
@@ -52909,6 +53006,11 @@
       {
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2010,
+        "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2011,
         "result": "佳作"
       }
     ],
@@ -53191,6 +53293,11 @@
         "awardId": "mf-bunko-j-shinjinshou",
         "year": 2012,
         "result": "佳作"
+      },
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2013,
+        "result": "佳作"
       }
     ],
     "mediaMix": {
@@ -53463,6 +53570,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2009,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2010,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -53496,6 +53608,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2009,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2010,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -53529,6 +53646,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2009,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2010,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -53896,6 +54018,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2011,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2012,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -54028,6 +54155,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2012,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2013,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -54390,6 +54522,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2014,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2015,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -54423,6 +54560,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2015,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2016,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -54456,6 +54598,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2015,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2016,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
@@ -54656,6 +54803,11 @@
         "awardId": "ga-bunko-taisho",
         "year": 2016,
         "result": "受賞"
+      },
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2017,
+        "result": "奨励賞"
       }
     ],
     "mediaMix": {
