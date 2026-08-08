@@ -60728,5 +60728,1358 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tatakau-shoujo-to-zankokuna-shounen-burokun-fisu",
+    "title": "戦う少女と残酷な少年",
+    "titleKana": "たたかうしょうじょとざんこくなしょうねん",
+    "authorIds": [
+      "fukamimakoto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "battle-action",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 2002,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "深見真によるアクション作品。第1回富士見ヤングミステリー大賞大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2001,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goutahime",
+    "title": "業多姫",
+    "titleKana": "ごうたひめ",
+    "authorIds": [
+      "tokiumi-yui"
+    ],
+    "illustratorIds": [
+      "p-586513"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "jidai-fantasy",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "500年の昔。異能ゆえに「業多姫」と呼ばれる少女・鳴が、敵であるはずの少年・颯音と心を通わせる。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2002,
+        "result": "準入選"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takutikaru-jajjimento",
+    "title": "タクティカル・ジャッジメント",
+    "titleKana": "たくてぃかるじゃっじめんと",
+    "authorIds": [
+      "shiwasu-tooru"
+    ],
+    "illustratorIds": [
+      "hirokawatomo"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "mystery",
+      "comedy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2003,
+    "volumeCount": 9,
+    "status": "completed",
+    "synopsis": "いくつもの事件を逆転無罪にしてきた弁護士・山鹿善行。だが正義感とモラルを欠いた不良弁護士でもあった。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2002,
+        "result": "準入選"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hirai-gaikotsu-kono-naka-ni-ari",
+    "title": "平井骸惚此中ニ有リ",
+    "titleKana": "ひらいがいこつこのなかにあり",
+    "authorIds": [
+      "tashirohirohiko"
+    ],
+    "illustratorIds": [
+      "mutsukimunku"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "mystery",
+      "jidai-fantasy",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2004,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "大正12年の東京。探偵小説作家に憧れる河上太一が、尊敬する作家・平井骸惚の門を叩き住み込みで働き始める。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2003,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bakuto",
+    "title": "バクト!",
+    "titleKana": "ばくと",
+    "authorIds": [
+      "kaitou-reiji"
+    ],
+    "illustratorIds": [
+      "vanilla"
+    ],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "gambling",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2005,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "伝説の賭博師が残した奥義書『ダランベール黙示録』をめぐり、天才ギャンブラーの兄弟が勝負に挑む。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2004,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "miseinen-gishiki",
+    "title": "未成年儀式",
+    "titleKana": "みせいねんぎしき",
+    "authorIds": [
+      "ayasakamitsuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "fujimi-mystery",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "彩坂美月による作品。第7回富士見ヤングミステリー大賞準入選。",
+    "awardResults": [
+      {
+        "awardId": "fujimi-young-mystery-taisho",
+        "year": 2007,
+        "result": "準入選"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gyarugo-chihou-toshi-densetsu-taizen",
+    "title": "ギャルゴ！！！！！",
+    "titleKana": "ぎゃるご",
+    "authorIds": [
+      "higa-tomoyasu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2007,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "比嘉智康によるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2008,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "buta-wa-tondemo-tada-no-buta",
+    "title": "豚は飛んでもただの豚？",
+    "titleKana": "ぶたわとんでもただのぶた",
+    "authorIds": [
+      "suzukikou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "涼木行によるラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "t-to-pantsu-to-ii-hanashi",
+    "title": "Tとパンツとイイ話",
+    "titleKana": "Tとぱんつといいはなし",
+    "authorIds": [
+      "motomurataishi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "本村大志によるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2012,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "monsuta-deizu",
+    "title": "MONSTER DAYS",
+    "titleKana": "もんすたーでいず",
+    "authorIds": [
+      "ougiyuuta"
+    ],
+    "illustratorIds": [
+      "amano-ei"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "魔物と人類が共存する世界。公安警察「人魔調停局」に勤める若手局員ライルの日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2014,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yogu-no-monshoushi",
+    "title": "Y〈ヨグ〉の紋章師",
+    "titleKana": "よぐのもんしょうし",
+    "authorIds": [
+      "ochifumihiko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "越智文比古によるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2015,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "girudo-shiroki-tate-no-obado",
+    "title": "ギルド〈白き盾〉の夜明譚",
+    "titleKana": "ぎるどしろきたてのおーばーど",
+    "authorIds": [
+      "katabamisaku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "方波見咲によるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2016,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zarusoba-kawaii",
+    "title": "かわいい",
+    "titleKana": "ざるそばかわいい",
+    "authorIds": [
+      "tsuchiseyasohachi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "comedy",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "つちせ八十八によるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2016,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuzukumasan-to-hachimitsu-jeke",
+    "title": "くずクマさんとハチミツJK",
+    "titleKana": "くずくまさんとはちみつじぇーけー",
+    "authorIds": [
+      "karasugawasaika"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "romance",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "方波見咲によるラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2017,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-no-shiranai-rabukome",
+    "title": "僕の知らないラブコメ",
+    "titleKana": "ぼくのしらないらぶこめ",
+    "authorIds": [
+      "kashimototsubame"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "春日部タケルによるラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2018,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doru-bureibu-wa-tachikirenai-ittou-shinmonkan-ga",
+    "title": "は絶ち切れない 一等審問官ガルノーの監視記録",
+    "titleKana": "どーるぶれいぶわたちきれない",
+    "authorIds": [
+      "hayashishougo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "葉月双によるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2019,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seigo-no-outei-to-maken-no-kishihime-sousetsu-no",
+    "title": "聖語の皇弟と魔剣の騎士姫 〜蒼雪のクロニクル〜",
+    "titleKana": "せいごのおうていとまけんのきしひめ",
+    "authorIds": [
+      "harunireharuka"
+    ],
+    "illustratorIds": [
+      "hiten"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou-gakuen",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "〈聖語〉が魔法のように世界を書き換える時代。史上最強の聖語騎士を姉に持つ少年・蒼生カレンを描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2019,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekaiichi-kawaii-musume-ga-ai-ni-kimashitayo",
+    "title": "世界一可愛い娘が会いに来ましたよ！",
+    "titleKana": "せかいいちかわいいむすめがあいにきましたよ",
+    "authorIds": [
+      "tsukimishuusui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "つちせ八十八によるラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2020,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamawaretagari-no-harugasumi-san-tonari-no-seki",
+    "title": "かまわれたがりの春霞さん 隣の席のあの子は俺の嘘が好き",
+    "titleKana": "かまわれたがりのはるがすみさん",
+    "authorIds": [
+      "keiranudon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "袈裟丸淳によるラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2020,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chiyodaku-oukoku-jajjimento-ane-to-ore-tode-isek",
+    "title": "チヨダク王国ジャッジメント 姉と俺とで異世界最高裁判所",
+    "titleKana": "ちよだくおうこくじゃっじめんと",
+    "authorIds": [
+      "kougyokufukurou"
+    ],
+    "illustratorIds": [
+      "hoshieio",
+      "jonsun"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-tensei",
+      "comedy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "unknown",
+    "synopsis": "異世界チヨダク王国に召喚された裁判官の姉と弟が、そこで起きる争いを裁いていく。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2021,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koroshita-garu-to-tasatsu-shigansha",
+    "title": "殺したガールと他殺志願者",
+    "titleKana": "ころしたがーるとたさつしがんしゃ",
+    "authorIds": [
+      "moribayashikozue"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mystery",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "望公太によるミステリ。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2021,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "umidori-tougetsu-no-detarame-na-jijou",
+    "title": "海鳥東月の『でたらめ』な事情",
+    "titleKana": "うみどりとうげつのでたらめなじじょう",
+    "authorIds": [
+      "ryouseiruikaeru"
+    ],
+    "illustratorIds": [
+      "p-541114",
+      "natsuki"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "unknown",
+    "synopsis": "クラスメイトから「鉛筆を盗まれた」と相談を受けた海鳥東月。奇妙奇天烈な事象の始まりだった。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2022,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "warui-ko-no-susume",
+    "title": "悪いコのススメ",
+    "titleKana": "わるいこのすすめ",
+    "authorIds": [
+      "narumisetsuka"
+    ],
+    "illustratorIds": [
+      "arumikku"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "fukushuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "価値観が歪んだ進学校で、後輩の星宮胡桃が「一緒にこの学校に復讐しませんか」と手を差し伸べる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2023,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ao-o-azamuku",
+    "title": "青を欺く",
+    "titleKana": "あおおあざむく",
+    "authorIds": [
+      "mifuneizure"
+    ],
+    "illustratorIds": [
+      "buuta"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "gakuen",
+      "romance",
+      "engeki-butai"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "嘘つきの高校生・城原千太郎が、映画監督を名乗る後輩・霧乃雫に生き方を打ち砕かれる。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2024,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "enbamingu-majikku-mahou-o-korosu-mahou",
+    "title": "エンバーミング・マジック 魔法を殺す魔法",
+    "titleKana": "えんばーみんぐまじっく",
+    "authorIds": [
+      "chakarashi"
+    ],
+    "illustratorIds": [
+      "karasuro"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "mahou",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "目の前で女の子が車に撥ねられ、禁忌と知りながら魔法を使った僕。彼女は助かったが猫になってしまった。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2025,
+        "result": "最優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meguru-fuyu-no-hate-de-kimi-no-namae-o-yobitsuzu",
+    "title": "巡る冬の果てで、君の名前を呼び続けた",
+    "titleKana": "めぐるふゆのはてできみのなまえおよびつずけた",
+    "authorIds": [
+      "kageodori"
+    ],
+    "illustratorIds": [
+      "chooco"
+    ],
+    "publisherId": "mf-bunko-j",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 1,
+    "status": "unknown",
+    "synopsis": "魔王は討たれたが、決戦の魔力の余波が人類を侵し滅びをもたらした。世界を守るために尽くす者たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "mf-bunko-j-shinjinshou",
+        "year": 2025,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "danzai-no-ikushido",
+    "title": "断罪のイクシード -白き魔女は放課後とともに-",
+    "titleKana": "だんざいのいくしーど",
+    "authorIds": [
+      "misora-riku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "mahou"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "葉山透によるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2011,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "soukou-shoujo-wa-osuki-desuka-soudesu-forumu-tok",
+    "title": "装甲少女はお好きですか？ そうです！ フォルムとか最高です！",
+    "titleKana": "そうこうしょうじょわおすきですか",
+    "authorIds": [
+      "arigaichizen"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "明月千里によるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2014,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shounen-kyuumashi-to-koisuru-otome",
+    "title": "乙女） （少年給魔師と恋する乙女",
+    "titleKana": "しょうねんきゅうましとこいするおとめ",
+    "authorIds": [
+      "mikogamirei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "mahou",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "水口敬文による作品。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rojiura-batoru-purinsesu",
+    "title": "路地裏バトルプリンセス",
+    "titleKana": "ろじうらばとるぷりんせす",
+    "authorIds": [
+      "sorauetatsuta"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "battle-action",
+      "gendai-drama",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "相原あきらによるアクション作品。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2015,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "iregyurazu-riberion",
+    "title": "イレギュラーズ・リベリオン",
+    "titleKana": "いれぎゅらーずりべりおん",
+    "authorIds": [
+      "ochishizuku"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "おかざき登によるアクション作品。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2016,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hyakuoku-no-kinka-to-tenseisha",
+    "title": "百億の金貨と転生者",
+    "titleKana": "ひゃくおくのきんかとてんせいしゃ",
+    "authorIds": [
+      "mitakahiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "三上康明による転生ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2016,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "majin-no-shoujo-o-sukuu-mono-gubbai-tu-feito",
+    "title": "魔人の少女を救うもの Goodbye to Fate",
+    "titleKana": "まじんのしょうじょおすくうもの",
+    "authorIds": [
+      "nishinoryou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "仁科朝によるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2018,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "demon-rodo-nyubi-buiaruemuemuo-sekai-no-seisansh",
+    "title": "デーモンロード・ニュービー",
+    "titleKana": "でーもんろーどにゅーびー",
+    "authorIds": [
+      "yamakazutaira"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "山川イブキによるVRMMOもの。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2018,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sukuranburu-iregyura-akumatsukai-to-muttsu-no-er",
+    "title": "スクランブル・イレギュラー 悪魔使いと6つの異常",
+    "titleKana": "すくらんぶるいれぎゅらー",
+    "authorIds": [
+      "tadakimiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 1,
+    "status": "completed",
+    "synopsis": "高橋弥七郎による作品。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2019,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saihate-no-mahoutsukai",
+    "title": "最果ての魔法使い",
+    "titleKana": "さいはてのまほうつかい",
+    "authorIds": [
+      "iwatsukaizuka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "mahou",
+      "isekai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "いとうヒロによるファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2019,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kisakuru-wa-kyuuseishu-ni-haichi-saremashita",
+    "title": "貴サークルは\"救世主\"に配置されました",
+    "titleKana": "きさーくるわきゅうせいしゅにはいちされました",
+    "authorIds": [
+      "odakazufumi"
+    ],
+    "illustratorIds": [
+      "abaraheiki"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "otaku-shumi",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "渾身の一冊を描き上げ魔王復活を阻止したナイトが、その反動でスランプに陥る。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2020,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tada-seifuku-o-kiteru-dake",
+    "title": "ただ制服を着てるだけ",
+    "titleKana": "ただせいふくおきてるだけ",
+    "authorIds": [
+      "kandagyouichirou"
+    ],
+    "illustratorIds": [
+      "shimahara"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "unknown",
+    "synopsis": "社畜・広巳とニセモノJK明莉の同居生活。隠していた関係が従業員にバレてしまう。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2021,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kisekai-torabasu-kyuujoya-yuri-no-meikai-techou",
+    "title": "奇世界トラバース 〜救助屋ユーリの迷界手帳〜",
+    "titleKana": "きせかいとらばーす",
+    "authorIds": [
+      "konnochiaki"
+    ],
+    "illustratorIds": [
+      "ookumamai"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "門の向こうに広がる未知の世界「迷界」。そこで遭難した者を救う救助屋ユーリを描く。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2021,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koisuru-shoujo-ni-sasayaku-ai-wa-misohitomoji-da",
+    "title": "恋する少女にささやく愛は、みそひともじだけあればいい",
+    "titleKana": "こいするしょうじょにささやくあいわみそひともじだけあればいい",
+    "authorIds": [
+      "hatanoraimugi"
+    ],
+    "illustratorIds": [
+      "makihitsuji"
+    ],
+    "publisherId": "ga-bunko",
+    "themeIds": [
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "短歌の道を再び歩むと決めたスクイが、復帰のサイン会で元クラスメイトの白鳥求歌と対峙する。",
+    "awardResults": [
+      {
+        "awardId": "ga-bunko-taisho",
+        "year": 2024,
+        "result": "金賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の各賞受賞作一覧で確認(2026-08-07照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
