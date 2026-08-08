@@ -5846,11 +5846,6 @@
         "awardId": "ga-bunko-taisho",
         "year": 2019,
         "result": "第11回GA文庫大賞 優秀賞"
-      },
-      {
-        "awardId": "ga-bunko-taisho",
-        "year": 2019,
-        "result": "優秀賞"
       }
     ],
     "externalLinks": {
@@ -24148,7 +24143,8 @@
     "awardResults": [
       {
         "awardId": "net-shousetsu-taisho",
-        "result": "第11回ネット小説大賞 小説賞 受賞"
+        "result": "第11回ネット小説大賞 小説賞 受賞",
+        "year": 2019
       }
     ],
     "webNovelSource": {
@@ -24513,7 +24509,8 @@
     "awardResults": [
       {
         "awardId": "dragon-novels-shousetsu-contest",
-        "result": "第6回大賞受賞"
+        "result": "第6回大賞受賞",
+        "year": 2021
       }
     ],
     "webNovelSource": {
