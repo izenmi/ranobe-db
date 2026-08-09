@@ -88508,5 +88508,584 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ore-ga-ojousama-gakkou-ni-shomin-sanpuru-to-shit",
+    "title": "俺がお嬢様学校に「庶民サンプル」として拉致られた件",
+    "titleKana": "おれがおじょうさまがっこうにしょみんさんぷるとしてらちられたけん",
+    "authorIds": [
+      "nanatsuki-takafumi"
+    ],
+    "illustratorIds": [
+      "uruu-gekka"
+    ],
+    "publisherId": "ichijinsha-bunko",
+    "themeIds": [
+      "gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 16,
+    "status": "ongoing",
+    "synopsis": "「あなたは、我が校の《庶民サンプル》に選ばれました」——ごく平凡な高校生が、世間知らずのお嬢様たちに庶民の生活を教えるため、全寮制のお嬢様学校へ半ば拉致される。価値観のずれを笑いに変えた学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koi-to-akuma-to-mokushiroku",
+    "title": "恋と悪魔と黙示録",
+    "titleKana": "こいとあくまともくしろく",
+    "authorIds": [
+      "itomori-tamaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "人と獣の姿を持つ神魔アガルと契約し、《名もなき悪魔》の名を書に記す朔使となった主人公。「恋は魔物を殺すのですね」という問いを軸に、契約と情の間で揺れる者たちを描くダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koutei-heika-no-senzoku-shishohime-kouryaku-tais",
+    "title": "皇帝陛下の専属司書姫",
+    "titleKana": "こうていへいかのせんぞくししょひめ",
+    "authorIds": [
+      "yashirokei"
+    ],
+    "illustratorIds": [
+      "nama"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "toshokan-shisho"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "ゲームの悪役に転生した伯爵令嬢カノンが、バッドエンドを回避するため皇都で司書として働き始める。書物を扱う職能を通じて皇帝の目に留まり、思わぬ立場へ引き上げられていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaimetsu-kishidan-to-toraware-no-otome",
+    "title": "壊滅騎士団と捕らわれの乙女",
+    "titleKana": "かいめつきしだんととらわれのおとめ",
+    "authorIds": [
+      "itsukitowa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "senki"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "黒十字騎士団団長ヴィンセント王子との結婚を控えた田舎貴族の娘フィーリア。ところが彼女を待っていたのは、壊滅的な状況にある騎士団と、囚われの身に等しい立場だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyouhakushaku-to-kawareta-hanayome",
+    "title": "狂伯爵と買われた花嫁",
+    "titleKana": "きょうはくしゃくとかわれたはなよめ",
+    "authorIds": [
+      "risa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "romance",
+      "mibunsa-romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "買われた花嫁として狂伯爵のもとへ嫁いだ主人公。舞踏会以来、旦那様を意識してしまい直視できない——そんな初々しい心情を軸に、危うい噂のある夫との距離が縮まっていく女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginrouou-no-kyuukon",
+    "title": "銀狼王の求婚",
+    "titleKana": "ぎんろうおうのきゅうこん",
+    "authorIds": [
+      "onogami-akeyo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "romance",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "エレンシア姫に求婚してきたのは、忌み神を宿したと恐れられる美しく冷酷な王フレドリクセンだった。恐怖の対象とされる相手の内側に触れていく、獣人ものの宮廷ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouhisama-ga-otoko-dato-kizuita-watashi-ga-zenryo",
+    "title": "王妃様が男だと気づいた私が、全力で隠蔽工作させていただきます!",
+    "titleKana": "おうひさまがおとこだときずいたわたしがぜんりょくでいんぺいこうさくさせていただきます",
+    "authorIds": [
+      "risa"
+    ],
+    "illustratorIds": [
+      "maro"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "danso-josou",
+      "koukyuu",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "王妃様が実は男だと気づいてしまった主人公が、全力で隠蔽工作に走る。秘密を守る側の必死さと、次々に持ち上がる綻びを笑いに変えた宮廷コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayashi-no-koi-raden-no-kimi-to-shunrai-no-monono",
+    "title": "あやしの恋",
+    "titleKana": "あやしのこい",
+    "authorIds": [
+      "muratakekureha"
+    ],
+    "illustratorIds": [
+      "p-190167"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "alternate-history",
+      "youkai-ayakashi",
+      "spy-assassin"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「特命により米田准尉を我が夫とする」——特務機関の草薙桜少佐と市井に潜伏し、付喪神がらみの事件にあたることを命じられた米田。偽装夫婦を軸にした和風伝奇ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "u-wa-uchuu-yabai-no-u-sekai-ga-horobu-gobyoumae",
+    "title": "ウは宇宙ヤバイのウ!",
+    "titleKana": "うわうちゅうやばいのう",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-bunko",
+    "themeIds": [
+      "sf",
+      "space-opera",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "星間諜報組織の敏腕エージェントだったクー・クブリスが、世界線混淆機の影響で厄介な状況に放り込まれる。宇宙規模の設定を勢いよく捌いていく、テンポの速いSFコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outei-denka-to-osouji-jijo-souji-o-shite-itara-o",
+    "title": "王弟殿下とお掃除侍女",
+    "titleKana": "おうていでんかとおそうじじじょ",
+    "authorIds": [
+      "shizuki-eri"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "butler-maid",
+      "romance",
+      "mahou"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "王宮で掃除侍女として働く貧乏子爵家の娘アメリア。廊下に落ちていた黒いモヤまみれの物体をモップでこすったことから、王弟殿下との縁が生まれてしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "omiai-wa-goenryo-shimasu",
+    "title": "お見合いはご遠慮します",
+    "titleKana": "おみあいわごえんりょします",
+    "authorIds": [
+      "satsuki-kanata"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "koukyuu",
+      "romance",
+      "butler-maid"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "仕えている少年王子が大好きすぎる女官サリカ。結婚はしないと公言してきた彼女に、急にお見合いの話が持ち上がる。主君への忠義と自分の幸せの間で揺れる宮廷ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginrei-no-miko",
+    "title": "銀嶺の巫女",
+    "titleKana": "ぎんれいのみこ",
+    "authorIds": [
+      "morisakiasaka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "jidai-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "罪人として追われていた巫女・榧を救ったのは、辺境の国ギンレイの王・焔だった。庇護される立場から始まった関係が、国の事情を巻き込んで変化していく和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kusuri-no-wana-ni-ki-o-tsukete",
+    "title": "薬の罠に気をつけて",
+    "titleKana": "くすりのわなにきおつけて",
+    "authorIds": [
+      "miyanoriu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "koukyuu",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "惚れ薬を飲んだ王弟公爵フィオンが、男爵令嬢コレットを見初めてしまう——王宮を揺るがすその事件の裏側を、薬と陰謀の両面から解きほぐしていく宮廷ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kurousagihakushakunodekiaikyuukonrensaiban007",
+    "title": "黒兎伯爵の溺愛求婚　【連載版】",
+    "titleKana": "くろうさぎはくしゃくのできあいきゅうこんれんさいばん007",
+    "authorIds": [
+      "momokadoisshin"
+    ],
+    "illustratorIds": [
+      "haruganno-kaoru"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "romance",
+      "shigoto",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「今から君は『私の仮婚約者』だ」——恋愛に奥手で、副業の刺繍に打ち込む貧乏子爵令嬢が、黒兎伯爵から仮の婚約を持ちかけられる。仕事と恋を並行して描く女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "genjuu-no-kyuukon-hagureryuu-to-katei-kyoushi",
+    "title": "幻獣の求婚",
+    "titleKana": "げんじゅうのきゅうこん",
+    "authorIds": [
+      "oda-maki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "romance",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "かつて妖精守をしていた葡萄酒醸造家の娘ルルは、神聖な山から水を汲むことを日課にしている。その山で出会った幻獣から求婚され、彼女の日常は静かに変わっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "genjuu-no-sougaku-kishidan-shinitagari-hanayome",
+    "title": "幻獣の奏楽騎士団",
+    "titleKana": "げんじゅうのそうがくきしだん",
+    "authorIds": [
+      "kimurachise"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "music",
+      "maou-mazoku-shiten",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "十五歳にして人生に疲れ、死にたいと願っていた少女・桜璃。真夜中の廃城で魔王を名乗る青年イルセーと出会ったことから、幻獣たちの奏でる音楽の世界に触れていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koakumadomo-ga-ore-no-heya-o-tamariba-ni-shite-i",
+    "title": "小悪魔どもが俺の部屋を溜まり場にしている",
+    "titleKana": "こあくまどもがおれのへやおたまりばにしている",
+    "authorIds": [
+      "murasaki-yukiya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-bunko",
+    "themeIds": [
+      "imouto",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "義妹ができたのはいいものの、学校から帰ると義妹の鈴華とその友人たちが自分の部屋を溜まり場にしている。居場所を侵食されていく主人公の困惑を描く、賑やかな学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koibito-ni-shiyou-to-seito-kaichou-sokkuri-no-on",
+    "title": "恋人にしようと生徒会長そっくりの女の子を錬成してみたら、オレが下僕になっていました",
+    "titleKana": "こいびとにしようとせいとかいちょうそっくりのおんなのこおれんせいしてみたらおれがげぼくになっていました",
+    "authorIds": [
+      "tsukimisouhei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "女性だけがなれる“巫女錬金術師”の養成機関を舞台にした物語。生徒会長そっくりの女の子を錬成してみたところ、なぜか自分のほうが下僕にされてしまう。錬金術を軸にしたラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "goshujinsama-no-omezamegakari",
+    "title": "ご主人様のお目覚め係",
+    "titleKana": "ごしゅじんさまのおめざめがかり",
+    "authorIds": [
+      "orikawaasagi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "butler-maid",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "事情あって公爵邸で侍女として働くことになったジゼル。与えられた仕事は、離れに住む公爵家三男を毎朝起こすというものだった。起床係という奇妙な職務から始まるロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saiyaku-reijou-no-fujouri-na-jijou-konyakusha-ni",
+    "title": "災厄令嬢の不条理な事情",
+    "titleKana": "さいやくれいじょうのふじょうりなじじょう",
+    "authorIds": [
+      "nakamurashuri"
+    ],
+    "illustratorIds": [
+      "torikai-yasuyuki"
+    ],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "akuyaku-reijou",
+      "mahou",
+      "mystery"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "魔法使いであることが判明したリヒトと、疑問だらけのまま状況に流されるマリオン。話し合う間もなく事態は進み、災厄令嬢と呼ばれる立場の不条理が積み上がっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shishi-no-shiro-to-gin-no-izumi",
+    "title": "獅子の城と銀の泉",
+    "titleKana": "ししのしろとぎんのいずみ",
+    "authorIds": [
+      "motomiyakotoha"
+    ],
+    "illustratorIds": [],
+    "publisherId": "ichijinsha-iris",
+    "themeIds": [
+      "danso-josou",
+      "music",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "父の楽譜を探すため、全寮制の男子音楽学院に男装して入学したアティーシャ。学院生活には慣れてきたものの、性別を偽り続けることの危うさは消えない。音楽を軸にした学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
