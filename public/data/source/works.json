@@ -81589,5 +81589,766 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "osewa-ni-natte-orimasu-onmyouka-desu",
+    "title": "お世話になっております。陰陽課です",
+    "titleKana": "おせわになっておりますおんみょうかです",
+    "authorIds": [
+      "minemori-hirokazu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "念願の公務員として京都市役所に採用された火乃宮祈理が配属されたのは、怪異を扱う「陰陽課」だった。行政の枠組みで妖しを処理していくという発想が核にあり、書類仕事と祓いが並行して進む現代和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gunshinnohanayometanwazerozeroichidaiichiwa",
+    "title": "軍神の花嫁",
+    "titleKana": "ぐんしんのはなよめたんわぜろぜろいちだいいちわ",
+    "authorIds": [
+      "suifuyou"
+    ],
+    "illustratorIds": [
+      "sekaimeguru"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "koukyuu",
+      "romance",
+      "senki"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "優秀な長女と美しい三女に挟まれ、目立たず生きてきたオードル家の次女サクラ。「剣は鞘にお前を選んだ」という言葉とともに、軍神と呼ばれる男の花嫁に選ばれる。想いが武器になるという主題を掲げたロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanojo-to-boku-no-denkiteki-gakumon",
+    "title": "彼女と僕の伝奇的学問",
+    "titleKana": "かのじょとぼくのでんきてきがくもん",
+    "authorIds": [
+      "mizusawaakito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "明応大学・民間伝承研究会の面々が、伝承と現実が入り混じる事件に巻き込まれていく。土牢に閉じ込めよという時代がかった宣告から動き出す物語で、学問としての民俗学が謎解きの武器になる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamogawa-kizoku-teitaku-no-sahanji-koisuru-otome",
+    "title": "鴨川貴族邸宅の茶飯事",
+    "titleKana": "かもがわきぞくていたくのさはんじ",
+    "authorIds": [
+      "hannoshuusei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gourmet",
+      "youkai-ayakashi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "京の風情あふれる鴨川沿いに建つ貴族邸宅を舞台にした連作。優雅な仕草の住人たちに迎えられた主人公が、日々の食事とともに彼らの事情を知っていく。京都の街並みと食を絡めたライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyouto-kottou-fushigi-yawa",
+    "title": "京都骨董ふしぎ夜話",
+    "titleKana": "きょうとこっとうふしぎやわ",
+    "authorIds": [
+      "shishishishamo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "京都祇園の路地裏にたたずむ「桃枝骨董店」。三代目店主の未之助と、弟子兼使用人の天草が扱う骨董品には、それぞれ曰くがある。品物にまつわる怪異と人の想いを描く連作ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikenie-no-jirenma",
+    "title": "生贄のジレンマ",
+    "titleKana": "いけにえのじれんま",
+    "authorIds": [
+      "dobashishinjirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "death-game",
+      "psycho-suspense",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「三時間後に全員死にます。ただし生贄を捧げれば生き残れます」——一方的に告げられた条件のもと、集められた者たちの疑心暗鬼が始まる。心理戦を得意とする作者によるデスゲームもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "onmyou-kouchaya-rapusan-onmyouji-no-iru-omise-de",
+    "title": "おんみょう紅茶屋らぷさん",
+    "titleKana": "おんみょうこうちゃやらぷさん",
+    "authorIds": [
+      "furunomahoro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "gourmet",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "悩みを抱えた人々が訪れる不思議な紅茶屋と、そこに関わる陰陽師の物語。持ち込まれる相談に紅茶を供しながら、術と対話で解きほぐしていく。落ち着いた語り口の現代和風ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-tantei-no-oshinagaki",
+    "title": "カミサマ探偵のおしながき",
+    "titleKana": "かみさまたんていのおしながき",
+    "authorIds": [
+      "saharanatsuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "tantei",
+      "gourmet",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "美味しい酒を一献振る舞えば、どんな難事件も解決してくれる——居酒屋「とりい」に居着いた元カミサマを探偵役に据えた連作。酒と肴を挟んだやり取りのなかで真相が見えてくる構成。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aka-to-haiiro-no-sakurifaisu",
+    "title": "赤と灰色のサクリファイス",
+    "titleKana": "あかとはいいろのさくりふぁいす",
+    "authorIds": [
+      "ayasakishun"
+    ],
+    "illustratorIds": [
+      "wakamatsukaori"
+    ],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "北信越に浮かぶ離島、翡翠島。過疎化に悩む小さな島で凶悪な事件が起こり、閉ざされた共同体の関係が軋み始める。色を題名に冠した連作として、複数の視点から同じ事件を描き直していくミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anata-eno-chousenjou",
+    "title": "あなたへの挑戦状",
+    "titleKana": "あなたえのちょうせんじょう",
+    "authorIds": [
+      "atsukawa-tatsumi",
+      "shasendou-yuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "注目を集めるミステリ作家二人が、互いにプライドを賭けて挑戦状を突きつけ合う趣向の作品。奇怪な城の密室をはじめとする難題に、それぞれの流儀で解答が示される。ミステリ愛に貫かれた競作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anata-to-shikigami-osodate-shimasu-kyouto-nishij",
+    "title": "あなたと式神、お育てします。",
+    "titleKana": "あなたとしきがみおそだてします",
+    "authorIds": [
+      "nakamachi-rokue"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "安倍晴明に連なる桔梗家の跡取り息子・晴人が、式神のさんごとともにかんざし店「六花」へ通う日々。式神を育てるという営みを軸に、京都の街で起こる小さな怪異を扱っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-to-obanzai-futago-no-kyouto-youkai-goha",
+    "title": "あやかしとおばんざい",
+    "titleKana": "あやかしとおばんざい",
+    "authorIds": [
+      "nakamachi-rokue"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gourmet",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "京都で暮らす大学生の直史と妹のまどかは、あやかしを語ることで命を与える「語り手」の役目を負っている。おばんざいを囲みながら、彼らに語られたあやかしたちとの縁が結ばれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "izure-keikoku-akujo-to-yobareru-kyuujo-wa-reitei",
+    "title": "いずれ傾国悪女と呼ばれる宮女は、冷帝の愛し妃",
+    "titleKana": "いずれけいこくあくじょとよばれるきゅうじょわれいていのいとしひ",
+    "authorIds": [
+      "makimurakei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "不吉の象徴として忌まれる白髪を持つ、林王朝の公女・紅玉。反乱によって後宮が揺らぐなか、彼女は冷徹と評される皇帝の妃としての立場を得る。傾国と呼ばれる未来を暗示させながら進む中華風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "enjeru-wisupa",
+    "title": "エンジェル・ウィスパー",
+    "titleKana": "えんじぇるうぃすぱー",
+    "authorIds": [
+      "yamashinachiaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「エンジェル・ウィスパー」という謎の言葉を残して弟が失踪する。兄の鷹次が行方を追ううちに、地元の神社に伝わる古い言い伝えへ行き着く。土地の伝承と現代の失踪を結ぶミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "okuriya-shisha-o-okuru-yasashiku-bukiyou-na-hito",
+    "title": "送り屋",
+    "titleKana": "おくりや",
+    "authorIds": [
+      "odouakihiko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "mystery",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "死者の口から事実を聞き取り、事故の有無を調べる調査員「送り屋」。亡き者の想いに耳を傾け、その願いを叶えることを仕事とする彼らの日々を描く。死者との対話を制度化した設定が特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "otonarisan-wa-chiisana-mahoutsukai",
+    "title": "お隣さんは小さな魔法使い",
+    "titleKana": "おとなりさんわちいさなまほうつかい",
+    "authorIds": [
+      "arimakaoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mahou",
+      "seishun-lovecome",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "冴えない大学生・保科優一が住むおんぼろアパートの隣室に、母親と越してきた美しい少女シャル。彼女は小さな魔法使いだった。生活感のある舞台で、日常に紛れ込んだ魔法を静かに描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "onigiridokoro-no-gochisou-sankaku-kazoku-o-musub",
+    "title": "おにぎり処のごちそう三角",
+    "titleKana": "おにぎりどころのごちそうさんかく",
+    "authorIds": [
+      "tsurumiinumaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gourmet",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "愛する妻に先立たれ、思い出の詰まった店を畳んだ元料理人の秋宗。料理から離れて傷心を癒やそうとしていた彼が、おにぎり処と関わることで再び厨房に立つまでを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamikura-ke-no-ayakashi-doukyonin-minarai-kagimo",
+    "title": "上倉家のあやかし同居人",
+    "titleKana": "かみくらけのあやかしどうきょにん",
+    "authorIds": [
+      "umetanimomo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "kazoku-ikuji",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "百年を待たずして魂の宿った“物”たちが棲む蔵。東京から父の田舎へ越してきた少女が、その同居人たちと暮らし始める。付喪神を題材にした、穏やかな和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "karei-naru-ekonjutsushi-no-mendougoto",
+    "title": "華麗なる絵魂術師の面倒事",
+    "titleKana": "かれいなるえこんじゅつしのめんどうごと",
+    "authorIds": [
+      "osakikitsune"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "graffiti-street-art",
+      "youkai-ayakashi",
+      "jidai-fantasy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "各地を巡りながら襖絵や屏風絵を描いて生計を立てる画学生・舟木和豊。彼の筆には不思議な力が宿っており、描いた絵が事件を呼び込んでいく。絵と怪異を結びつけた和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gakugeiin-saimonji-shouma-no-jujutsu-shuushuurok",
+    "title": "学芸員・西紋寺唱真の呪術蒐集録",
+    "titleKana": "がくげいいんさいもんじしょうまのじゅじゅつしゅうしゅうろく",
+    "authorIds": [
+      "minemori-hirokazu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "youkai-ayakashi",
+      "mystery"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "呪いや祟りに悩む人のための窓口が、北鎌倉の博物館にある。学芸員・西紋寺唱真が、持ち込まれた曰く付きの品を蒐集し、来歴を読み解いていく。博物館という場を活かした怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kishi-no-omoi-jijo-no-negai-gunshin-no-hanayome",
+    "title": "騎士の想い侍女の願い",
+    "titleKana": "きしのおもいじじょのねがい",
+    "authorIds": [
+      "suifuyou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "butler-maid",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "主人である騎士への想いを抱えた侍女の視点から描かれる恋愛小説。認めてはいけないと分かっていながら惹かれていく気持ちと、身分の壁との間で揺れる心情を丁寧に追う。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimi-no-chikyuu-ga-taira-ni-narimasu-youni",
+    "title": "君の地球が平らになりますように",
+    "titleKana": "きみのちきゅうがたいらになりますように",
+    "authorIds": [
+      "shasendou-yuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "gakuen",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "久しぶりに再会した憧れの先輩は、陰謀論にのめり込み周囲から腫れ物扱いされていた。それでも彼女を見放せない主人公の視点から、信じることの危うさと優しさを描く現代小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimi-wa-isha-ni-narenai-kougenbyou-naikai-urushi",
+    "title": "君は医者になれない",
+    "titleKana": "きみわいしゃになれない",
+    "authorIds": [
+      "godorishiki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "iryou",
+      "gendai-drama",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "膠原病内科医・漆原光莉のもとで学ぶ医学生の戸島。患者の病だけでなく人生までも診ようとする指導医の姿勢に触れながら、彼は医師になるとはどういうことかを突きつけられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyougokusou-to-hyappiki-no-utaneko-shimogyouku-h",
+    "title": "京極荘と百匹のうた猫",
+    "titleKana": "きょうごくそうとひゃっぴきのうたねこ",
+    "authorIds": [
+      "yunimon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "gourmet",
+      "slow-life",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "京都・花屋梅小路の町屋の一角にある下宿「京極荘」。世話人の絹子が作る朝晩の手料理と、住み着いた猫たちに囲まれて、下宿人たちの日々が過ぎていく。食と猫を軸にした癒し系ライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyou-wa-kokoro-no-osouji-biyori-sunao-ja-nai-sho",
+    "title": "今日は心のおそうじ日和",
+    "titleKana": "きょうわこころのおそうじびより",
+    "authorIds": [
+      "naritanariko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "shigoto",
+      "gendai-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "結婚生活が突然終わり、職務経験もないままに放り出された主人公。唯一得意だった家事を頼りに、掃除の仕事を通して自分の生き方を組み立て直していく。再出発を描く現代小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiji-to-kaibutsu-vikutoriachou-zouki-kitan",
+    "title": "刑事と怪物",
+    "titleKana": "けいじとかいぶつ",
+    "authorIds": [
+      "sanoshinano"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "mystery",
+      "alternate-history",
+      "tantei"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "十九世紀のロンドンでは、怪物と呼ばれる存在が起こす奇妙な事件が世間を騒がせていた。刑事と怪物という相容れないはずの二者が組み、事件の裏側へ踏み込んでいく歴史ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiyaku-fuufu-wa-kyuuchuu-de-itsuwari-o-hodoku-k",
+    "title": "契約夫婦は宮中で偽りをほどく",
+    "titleKana": "けいやくふうふわきゅうちゅうでいつわりおほどく",
+    "authorIds": [
+      "harunoyoi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "mystery"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "後宮に渦巻く事件を解決するため、貧乏宮女の白檀と美丈夫の官吏・芳玉が契約夫婦となる。皇帝直々の依頼を受けて宮中の偽りを暴いていく、中華風の宮廷ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koi-towa-donna-mono-kashira-ateuma-reijou-no-baa",
+    "title": "恋とはどんなものかしら",
+    "titleKana": "こいとわどんなものかしら",
+    "authorIds": [
+      "suzunesaya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mediaworks-bunko",
+    "themeIds": [
+      "romance",
+      "akuyaku-reijou",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "疎遠になったはずの王子が、ヴィクトリアの前に跪き「君がどれだけ僕を想ってくれているか、ようやくわかった」と告げる。すれ違い続けた二人の関係が、ようやく噛み合うまでを描くロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
