@@ -15,6 +15,7 @@ anno.tsv(1行1作品、タブ区切り):
 新規idを採番する(読みはNDLの creatorTranscription、無ければ著者名検索で引く)。
 レーベルはNDLの dcndl:seriesTitle を publishers.json の名前と突き合わせる。
 """
+import datetime
 import json
 import re
 import sys
@@ -28,12 +29,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from prep import NDL, NS, clean_person, get, hiragana, norm, romaji, text  # noqa: E402
 
 SRC = Path(__file__).resolve().parent.parent / "public" / "data" / "source"
-TODAY = "2026-08-07"
+TODAY = datetime.date.today().isoformat()
 KANA_CACHE = Path(__file__).resolve().parent.parent / ".kana-cache.json"
 
 SOURCE_NOTE = ("国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、受賞歴はWikipedia日本語版の"
                "{award}受賞作一覧で確認({date}照会)。あらすじは楽天ブックスの書誌情報およびWikipedia記事を"
                "参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。")
+
+# 受賞作ではなくカタログ列挙(suggest_ndl.py)から拾った作品用。賞に触れない文面にする
+CATALOG_NOTE = ("国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は"
+                "楽天ブックス・楽天Koboの書誌で確認({date}照会)。あらすじは楽天/Koboの紹介文および"
+                "Wikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。")
 
 
 def load(name):
@@ -238,7 +244,8 @@ def main():
             "awardResults": awards_res,
             "mediaMix": {"anime": "a" in flags, "comic": "c" in flags},
             "externalLinks": {},
-            "sourceNote": SOURCE_NOTE.format(award=ov.get("awardname", award_name), date=TODAY)
+            "sourceNote": (CATALOG_NOTE.format(date=TODAY) if award_name == "-"
+                           else SOURCE_NOTE.format(award=ov.get("awardname", award_name), date=TODAY))
             + ("あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。"
                if "n" in flags else ""),
             "updatedAt": TODAY,

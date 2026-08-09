@@ -163,6 +163,12 @@
     "resolvedAt": "2026-08-07T10:31:02.258Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17996198/"
   },
+  "aidoru-boueitai-hamingubado": {
+    "title": "アイドル防衛隊ハミングバード",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-09T03:35:30.904Z"
+  },
   "airesu-no-shisho": {
     "title": "アイレスの死書",
     "isbn": null,
@@ -834,6 +840,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:51:10.549Z"
   },
+  "amado-mameido": {
+    "title": "アーマード・マーメイド",
+    "isbn": null,
+    "matchedTitle": "アーマード・マーメイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6105/2000000196105.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:22.873Z"
+  },
+  "amaete-kuru-toshiue-kyoukan-ni-yashinatte-morau": {
+    "title": "甘えてくる年上教官に養ってもらうのはやり過ぎですか?",
+    "isbn": "9784040731872",
+    "matchedTitle": "甘えてくる年上教官に養ってもらうのはやり過ぎですか？　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1872/9784040731872_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:12.377Z"
+  },
   "amagi-brilliant-park": {
     "title": "甘城ブリリアントパーク",
     "isbn": null,
@@ -841,6 +863,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5717/2000000115717.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T10:13:54.829Z"
+  },
+  "amaku-yasashii-sekai-de-ikiru-niwa": {
+    "title": "甘く優しい世界で生きるには",
+    "isbn": "9784040673585",
+    "matchedTitle": "甘く優しい世界で生きるには　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3585/9784040673585.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:35.668Z"
   },
   "amalgam-hound": {
     "title": "アマルガム・ハウンド",
@@ -1192,6 +1222,14 @@
     "resolvedAt": "2026-08-07T10:18:48.695Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13238918/"
   },
+  "aoi-haru-no-tadashii-nihongo": {
+    "title": "蒼井葉留の正しい日本語",
+    "isbn": null,
+    "matchedTitle": "蒼井葉留の正しい日本語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3751/2000002053751.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:34.472Z"
+  },
   "aozora-shigure": {
     "title": "蒼空時雨",
     "isbn": null,
@@ -1372,6 +1410,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1776/2000000261776.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:35:17.066Z"
+  },
+  "arisutoteresu-no-biburiodasuto": {
+    "title": "アリストテレスの幻想偽典",
+    "isbn": null,
+    "matchedTitle": "アリストテレスの幻想偽典　1.禁忌の八番目",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9770/2000000199770.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:39.184Z"
   },
   "arslan-senki": {
     "title": "アルスラーン戦記",
@@ -3140,6 +3186,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T12:54:26.904Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17784576/"
+  },
+  "eiyuu-toshi-no-bakadomo-oujo-to-fuusa-sareta-eiy": {
+    "title": "英雄都市のバカども",
+    "isbn": "9784040707402",
+    "matchedTitle": "英雄都市のバカども 〜王女と封鎖された英雄都市〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7402/9784040707402.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:19.364Z"
   },
   "eko-to-tooru-to-bukatsu-no-jikan": {
     "title": "エーコと【トオル】と部活の時間。",
@@ -5127,6 +5181,14 @@
     "resolvedAt": "2026-08-07T10:20:06.301Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12355929/"
   },
+  "ikenie-ni-sasagerareta-ore-wa-kami-ni-hiroware-b": {
+    "title": "生贄に捧げられた俺は、神に拾われ武を極める",
+    "isbn": "9784040751016",
+    "matchedTitle": "武神伝 生贄に捧げられた俺は、神に拾われ武を極める",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1016/9784040751016_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:40.359Z"
+  },
   "ikinokori-renkinjutsushi-wa-machi-de-shizuka-ni-kurashitai": {
     "title": "生き残り錬金術師は街で静かに暮らしたい",
     "isbn": "9784047387065",
@@ -5234,6 +5296,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:28:18.863Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17246112/"
+  },
+  "imouto-konpurekkusu-aishi": {
+    "title": "いもうとコンプレックス!",
+    "isbn": null,
+    "matchedTitle": "いもうとコンプレックス！ーICー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4014/2000000234014.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:17.024Z"
   },
   "imouto-life": {
     "title": "いもーとらいふ",
@@ -5408,6 +5478,14 @@
     "resolvedAt": "2026-08-01T12:34:59.872Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16940140/"
   },
+  "inkyara-na-ore-to-ichatsukitai-tte-maji-kayo": {
+    "title": "陰キャラな俺とイチャつきたいってマジかよ",
+    "isbn": "9784040728179",
+    "matchedTitle": "陰キャラな俺とイチャつきたいってマジかよ……",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8179/9784040728179_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:18.192Z"
+  },
   "innocent-red": {
     "title": "イノセントレッド",
     "isbn": null,
@@ -5579,6 +5657,14 @@
     "resolvedAt": "2026-08-03T15:29:40.622Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12367335/"
   },
+  "isekai-chito-sabaibarumeshi-tabete-tsuyoku-natte": {
+    "title": "異世界チートサバイバル飯",
+    "isbn": "9784040726915",
+    "matchedTitle": "異世界チートサバイバル飯2 食べて、強くなって、また食べる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6915/9784040726915_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:09.966Z"
+  },
   "isekai-de-cafe-wo-kaiten-shimashita": {
     "title": "異世界でカフェを開店しました。",
     "isbn": "9784434229992",
@@ -5588,6 +5674,14 @@
     "resolvedAt": "2026-08-04T09:57:56.884Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14705424/"
   },
+  "isekai-de-cheat-nouryoku-o-te-ni-shita-ore": {
+    "title": "異世界でチート能力を手にした俺は、現実世界をも無双する",
+    "isbn": "9784040730233",
+    "matchedTitle": "異世界でチート能力を手にした俺は、現実世界をも無双する 〜レベルアップは人生を変えた〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0233/9784040730233_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:11.179Z"
+  },
   "isekai-de-mofumofu-nadenade": {
     "title": "異世界でもふもふなでなでするためにがんばってます。",
     "isbn": "9784575240092",
@@ -5596,6 +5690,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T09:57:46.308Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14583986/"
+  },
+  "isekai-de-rori-ni-amayakasareru-no-wa-machigatte": {
+    "title": "異世界でロリに甘やかされるのは間違っているだろうか",
+    "isbn": null,
+    "matchedTitle": "異世界でロリに甘やかされるのは間違っているだろうか",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8481/2000007228481.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:43.859Z"
   },
   "isekai-de-slow-life-wo-ganbou": {
     "title": "異世界でスローライフを(願望)",
@@ -5684,6 +5786,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:02.827Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12845349/"
+  },
+  "isekai-musou-no-vara-doragun": {
+    "title": "異世界無双の戦術竜騎士",
+    "isbn": "9784040701974",
+    "matchedTitle": "異世界無双の戦術竜騎士1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1974/9784040701974.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:13.540Z"
+  },
+  "isekai-ninja-musou-ore-no-isekai-tensei-tokuten": {
+    "title": "異世界忍者無双",
+    "isbn": "9784040733081",
+    "matchedTitle": "異世界忍者無双 〜俺の異世界転生特典がどう見ても万能忍者スキルだったので超絶に忍びます〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3081/9784040733081_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T03:35:45.032Z"
   },
   "isekai-no-nonbiri-nouka": {
     "title": "異世界のんびり農家",
@@ -5934,6 +6052,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T01:34:28.140Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16263741/"
+  },
+  "itsuka-sekai-o-sukuu-tame-ni-kuoridia-kodo": {
+    "title": "いつか世界を救うために",
+    "isbn": null,
+    "matchedTitle": "いつか世界を救うために クオリディア・コード",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4372/2000003344372.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:48.518Z"
   },
   "itsuka-tenma-no-kuro-usagi": {
     "title": "いつか天魔の黒ウサギ",
@@ -15529,6 +15655,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T10:28:07.909Z"
   },
+  "uchi-no-kanojo-ga-chuuni-de-komatte-masu": {
+    "title": "ウチの彼女が中二で困ってます。",
+    "isbn": null,
+    "matchedTitle": "ウチの彼女が中二で困ってます。1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7087/2000000177087.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:55.482Z"
+  },
   "uchi-no-kyoryuu-ga-sekai-wo-shouaku-shiteiru": {
     "title": "うちの居候が世界を掌握している!",
     "isbn": null,
@@ -15691,6 +15825,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:20:25.179Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17152798/"
+  },
+  "uso-no-ue-de-tenshi-wa-nansatsu-manga-o-yomeruka": {
+    "title": "嘘の上で天使は何冊マンガを読めるか?",
+    "isbn": null,
+    "matchedTitle": "嘘の上で天使は何冊マンガを読めるか？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5811/2000000185811.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T03:35:52.016Z"
   },
   "uso-uso-uso-demo-aishiteru": {
     "title": "嘘嘘嘘、でも愛してる",
