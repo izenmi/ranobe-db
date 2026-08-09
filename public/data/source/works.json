@@ -77024,5 +77024,1161 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inchiki-no-chikara-de-sengoku-no-yo-o-kakenukeru",
+    "title": "銭(インチキ)の力で、戦国の世を駆け抜ける。",
+    "titleKana": "いんちきのちからでせんごくのよおかけぬける",
+    "authorIds": [
+      "y-a"
+    ],
+    "illustratorIds": [
+      "lack"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "nihonshi-tensei",
+      "senki",
+      "merchant"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "巨大宇宙船のローン返済に追われる零細運輸会社の社長・足利光輝が、戦国時代へ乗り込んでいく。武力ではなく現代の物資と資金力を武器に、群雄割拠の世を渡り歩く。SFと戦国という異質な組み合わせを、金勘定を軸につないだ作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akanbou-no-isekai-haihai-funtouroku",
+    "title": "赤ん坊の異世界ハイハイ奮闘録",
+    "titleKana": "あかんぼうのいせかいはいはいふんとうろく",
+    "authorIds": [
+      "soedashin"
+    ],
+    "illustratorIds": [
+      "fernemo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "kazoku-ikuji",
+      "cheat-kid-protagonist"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "別世界の記憶によって大人並みの意識に目覚めた赤ん坊ルートルフ。まだ這うことしかできない体で、前世の知識と照らし合わせながら周囲を観察していく。赤ん坊視点という制約を最大限に使った、微笑ましい異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aku-no-soshiki-no-kyuujin-koukoku",
+    "title": "悪の組織の求人広告",
+    "titleKana": "あくのそしきのきゅうじんこうこく",
+    "authorIds": [
+      "kiyunatoto"
+    ],
+    "illustratorIds": [
+      "koryuu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "shigoto",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "悪の組織『メタリカ』沖縄支店の係長に就任した小森寧人。精霊戦士ラモーンと謎の海底生物サンタァナが繰り広げる激戦の裏で、彼が担うのは人事と労務という地味な仕事だった。悪の組織を職場として描くコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "einenkoyouhakanoudeshoukabuaisomukuchinamahoutsu",
+    "title": "永年雇用は可能でしょうか",
+    "titleKana": "えいねんこようはかのうでしょうかぶあいそむくちなまほうつかいとはじめるさいしゅうしょくらいふのべるぶんさつばんぜろぜろいち",
+    "authorIds": [
+      "yokuu"
+    ],
+    "illustratorIds": [
+      "karasubaame"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "無愛想で無口な魔法使いのもとで再就職することになった主人公の物語。畑の不作で困窮するオニバス家の危機に実家へ戻るなど、生活の苦労を分かち合いながら、職場としての関係が少しずつ変わっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekaideteniiretaseisansukiruhasaikyoudattayoude",
+    "title": "異世界で手に入れた生産スキルは最強だったようです。",
+    "titleKana": "いせかいでてにいれたせいさんすきるはさいきょうだったようですそうぞうあんどきようのだぶるちーとでむそうするのべるぶんさつばんぜろぜろいち",
+    "authorIds": [
+      "tono-kokonoe"
+    ],
+    "illustratorIds": [
+      "hitokome"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "多忙と加齢のせいで趣味のゲームにも手をつけられなくなっていた社畜が、異世界で「創造」と「器用」という二つの生産スキルを手にする。戦うためではなく作るための能力を突き詰め、生活と商売を組み立てていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kuro-no-seikenzukai-sekai-saikyou-no-mahoutsukai",
+    "title": "黒の星眷使い",
+    "titleKana": "くろのせいけんずかい",
+    "authorIds": [
+      "hidari-ryuu"
+    ],
+    "illustratorIds": [
+      "eihi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "転生者ソウジは、落ちこぼれである上に魔王と同じ黒い魔力を持つがゆえ、生家を追われる。彼を拾ったのは世界最強の魔法使いソフィだった。忌み嫌われる力を鍛え直し、居場所を作っていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-no-misu-de-isekai-ni-poi-to-saremashita",
+    "title": "神様のミスで異世界にポイっとされました",
+    "titleKana": "かみさまのみすでいせかいにぽいっとされました",
+    "authorIds": [
+      "densuke-2"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "mahou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "神様の手違いで異世界に放り出された主人公が、詫びとして与えられた大量の魔法を一つずつ使いこなせるよう練習していく。押しつけられた力を自分のものにしていく過程を、地道な訓練の描写とともに描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shoukansaretakenjahaisekaioikusaikyounanohafuyou",
+    "title": "召喚された賢者は異世界を往く",
+    "titleKana": "しょうかんされたけんじゃはいせかいをいくさいきょうなのはふようざいこのあいてむでしたぶんさつばんぜろななぜろ",
+    "authorIds": [
+      "yashuu"
+    ],
+    "illustratorIds": [
+      "haruinu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "ゲームをしている最中に突然異世界へ召喚されたトウヤが、賢者としての力を得て各地を巡る。ゲームで慣れ親しんだ職業の枠組みが、そのまま現実の力として通用する構図で進む、王道の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arumakubunsatsubanzerozeroichi",
+    "title": "アルマーク",
+    "titleKana": "あるまーくぶんさつばんぜろぜろいち",
+    "authorIds": [
+      "yamadanoboru"
+    ],
+    "illustratorIds": [
+      "demizuposuka"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "mahou-gakuen",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ノルク魔法学院の武術大会は、大勢の観客に加えて王族までが訪れる二大行事の一つ。その舞台に立つ生徒たちの思惑と実力が交錯する。学院を軸にしながら、外の世界の政治にも触れていくファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekaigaeri-no-paradin-wa-saikyou-no-joreishi-to",
+    "title": "異世界帰りのパラディンは、最強の除霊師となる",
+    "titleKana": "いせかいがえりのぱらでぃんわさいきょうのじょれいしとなる",
+    "authorIds": [
+      "y-a"
+    ],
+    "illustratorIds": [
+      "ogata-takeshi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "gyaku-isekai",
+      "onmyoushi-taimashi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界から帰還したパラディンの広瀬裕は、新人C級除霊師として実家の神社を手伝っている。祠の掃除中に触れた異変をきっかけに、異世界で培った力が現代の除霊に転用できると分かっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-teni-batenda-no-kakuteru-poshon",
+    "title": "異世界転移バーテンダーのカクテルポーション",
+    "titleKana": "いせかいてんいばーてんだーのかくてるぽーしょん",
+    "authorIds": [
+      "score"
+    ],
+    "illustratorIds": [
+      "kaguyuzu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "カクテルという概念が存在しない異世界に転移した二十三歳のバーテンダー、夕霧総。酒と技術を武器に店を開き、一杯ごとに客の事情へ寄り添っていく。バーという場を舞台にした、落ち着いた調子の異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-mofumofu-kafe",
+    "title": "異世界もふもふカフェ",
+    "titleKana": "いせかいもふもふかふぇ",
+    "authorIds": [
+      "punichan"
+    ],
+    "illustratorIds": [
+      "tobi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "猫カフェに癒しを求めていた平凡なサラリーマン有馬太一が、猫の姿をした神様を助けた礼として異世界へ招かれる。もふもふした住人たちに囲まれたカフェを営みながら、穏やかな日々を過ごしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wizado-purinsesu",
+    "title": "ウィザードプリンセス",
+    "titleKana": "うぃざーどぷりんせす",
+    "authorIds": [
+      "haniwaseijin"
+    ],
+    "illustratorIds": [
+      "poppukyun"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "mahou",
+      "mercenary"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "精鋭騎士団の元百騎長ユウが、新天地で少女ティファと出会う。彼女は膨大な魔力を持ちながら魔法を使えず、極貧の暮らしを強いられていた。使えない力をどう引き出すかを軸に、二人の生活と戦いが描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outo-no-ikidomari-kafe-kakurega-ukkari-mahoutsuk",
+    "title": "王都の行き止まりカフェ『隠れ家』",
+    "titleKana": "おうとのいきどまりかふぇかくれが",
+    "authorIds": [
+      "moriu"
+    ],
+    "illustratorIds": [
+      "somehirakatsu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "病により二十六年の生涯を終えるはずだった佐々木マイが、王都の行き止まりにある小さなカフェの主として異世界の人生を始める。訪れる客の事情を料理とともに受け止めていく、静かな異世界ライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ore-doubutsu-ya-mamono-to-hanaserundesu",
+    "title": "俺、動物や魔物と話せるんです",
+    "titleKana": "おれどうぶつやまものとはなせるんです",
+    "authorIds": [
+      "renkinou"
+    ],
+    "illustratorIds": [
+      "kochimo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "旅行好きの青年・和藤明が、異世界で動物や魔物と会話できる力を得る。言葉が通じるだけで敵対する必要がなくなるため、彼の周囲には次々と獣たちが集まってくる。対話を軸にしたテイマーものの異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kakei-senki-o-kakageyo",
+    "title": "火刑戦旗を掲げよ!",
+    "titleKana": "かけいせんきおかかげよ",
+    "authorIds": [
+      "kasugamaru"
+    ],
+    "illustratorIds": [
+      "anbe-yoshirou"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "senki",
+      "isekai-fantasy",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "辺境の村に生まれた神童マルコを主人公に据えた戦記ファンタジー。彼と出会った者たちの人生が次々に変わっていき、やがて旗のもとに人が集まっていく。個人の資質が歴史を動かしていく過程を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koorimahou-no-aisuyasan-wa-atsugari-shinkansama",
+    "title": "氷魔法のアイス屋さんは、暑がり神官様のごひいきです。",
+    "titleKana": "こおりまほうのあいすやさんわあつがりしんかんさまのごひいきです",
+    "authorIds": [
+      "amanose"
+    ],
+    "illustratorIds": [
+      "tishibi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "婚約者の浮気現場に遭遇し、そのまま婚約破棄された転生者の少女が、氷魔法を活かしてアイス屋を始める。暑がりの神官に贔屓にされたことをきっかけに、店は思わぬ広がりを見せていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koke-kara-hajimaru-isekai-raifu",
+    "title": "苔から始まる異世界ライフ",
+    "titleKana": "こけからはじまるいせかいらいふ",
+    "authorIds": [
+      "momopapa"
+    ],
+    "illustratorIds": [
+      "muni"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "二十歳の若さで命を落とした工場勤務の青年・天道ひかるが、女神のはからいで異世界に転生する。授かったのは苔を扱う地味な力だったが、その用途を掘り下げていくうちに生活が形になっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arayuru-shudan-o-tsukushite-toppu-pureiya-ni-nar",
+    "title": "あらゆる手段を尽くしてトッププレイヤーになりたい、他人のカネで。そうだ、盗賊しよう。",
+    "titleKana": "あらゆるしゅだんおつくしてとっぷぷれいやーになりたいたにんのかねでそうだとうぞくしよう",
+    "authorIds": [
+      "mike-ranjiro"
+    ],
+    "illustratorIds": [
+      "miya-kazutomo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "vrmmo",
+      "gambling",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "クリア賞金七億円が懸かったVRゲームで、主人公が選んだのは盗賊という職業だった。正面から強くなるのではなく、他人の資産を掠め取ることでトッププレイヤーを目指す。あらゆる手段を許容する立ち回りが読みどころ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-ajito",
+    "title": "異世界アジト",
+    "titleKana": "いせかいあじと",
+    "authorIds": [
+      "aioiaoi"
+    ],
+    "illustratorIds": [
+      "fukukitsune"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "地獄の鍋で出会った巨大な牝山羊をエリザベスと名付け、飼うことにしたボナス一行。獰猛に見えた獣との共同生活を通じて、彼らは自分たちの拠点を整えていく。拠点づくりと生き物との関係を描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-ossan-douchuuki-koyakunin-no-ore-ga-ohime",
+    "title": "異世界おっさん道中記",
+    "titleKana": "いせかいおっさんどうちゅうき",
+    "authorIds": [
+      "bandou-taro"
+    ],
+    "illustratorIds": [
+      "touzai"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "chuunen-ossan-shujinkou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "十八歳で異世界に転移した孫乃悟だったが、チートスキルで一流冒険者として活躍できたのは最初の二年だけだった。落ちぶれてからの長い時間をどう生きるかを描く、中年主人公の異世界道中記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-kuin-meka-wagamama-purinsesu-tono-jugyou",
+    "title": "異世界クイーンメーカー",
+    "titleKana": "いせかいくいーんめーかー",
+    "authorIds": [
+      "hyougetsu"
+    ],
+    "illustratorIds": [
+      "tea-illustrator"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "異世界転移した黒津遥都が、ロイツェン大公に召し抱えられ、その一人娘マリシェ姫の家庭教師に抜擢される。教育を通じて次代の統治者を育てるという立場から、宮廷の権力構造に関わっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-dakara-dareka-ni-shitagau-nowa-yame-ni-su",
+    "title": "異世界だから誰かに従うのはやめにする",
+    "titleKana": "いせかいだからだれかにしたがうのわやめにする",
+    "authorIds": [
+      "kannazukikou"
+    ],
+    "illustratorIds": [
+      "mo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "ある日突然異世界に転移した高校生・榊信也が目覚めさせたのは、誰にも従わずに済むだけの力だった。組織や国に取り込まれることを拒み、自分の判断だけで動くことを選んでいく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-tensei-suramugai-kara-no-nariagari-saishu",
+    "title": "異世界転生スラム街からの成り上がり",
+    "titleKana": "いせかいてんせいすらむがいからのなりあがり",
+    "authorIds": [
+      "takigawaebirou"
+    ],
+    "illustratorIds": [
+      "p-78220"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "adventure"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "異世界に転生したエドが六歳で前世を思い出したとき、自分が暮らしているのがスラム街だと知る。最底辺からの出発という条件で、知恵と度胸だけを頼りに成り上がっていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-kashisoukoya-hajimemashita",
+    "title": "異世界で貸倉庫屋はじめました",
+    "titleKana": "いせかいでかしそうこやはじめました",
+    "authorIds": [
+      "ootorimomo"
+    ],
+    "illustratorIds": [
+      "sakamoto"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "異世界転移に巻き込まれたサラリーマンの太郎が持っていた固有スキルは「トランクルーム」だった。戦闘には向かないその能力を、貸倉庫業という商売に転換して生計を立てていく。職業選択の妙が光る作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-tensai-gaka-ni-natte-mita",
+    "title": "異世界で天才画家になってみた",
+    "titleKana": "いせかいでてんさいがかになってみた",
+    "authorIds": [
+      "hachihana"
+    ],
+    "illustratorIds": [
+      "tamu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "graffiti-street-art",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "イラストレーターの夢を諦めてサラリーマンになった男が、怪しいゲームアプリをきっかけに異世界へ渡る。あちらの世界では彼の絵の技術が破格の価値を持ち、天才画家として遇されていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-himekishi-ni-horerarete-nazeka-infura",
+    "title": "異世界で姫騎士に惚れられて、なぜかインフラ整備と内政で生きていくことになった件",
+    "titleKana": "いせかいでひめきしにほれられてなぜかいんふらせいびとないせいでいきていくことになったけん",
+    "authorIds": [
+      "hirune-suru-bourei"
+    ],
+    "illustratorIds": [
+      "gizan"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "naisei",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界に転移した元サラリーマンの接骨木が、姫騎士に惚れられたのを機に、インフラ整備と内政で国を支える立場に就く。上下水道や道路といった地味な事業の積み重ねが、戦局まで変えていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-ni-itta-node-te-ni-shoku-o-motte-ikinobim",
+    "title": "異世界に行ったので手に職を持って生き延びます",
+    "titleKana": "いせかいにいったのでてにしょくおもっていきのびます",
+    "authorIds": [
+      "hakurosekirei"
+    ],
+    "illustratorIds": [
+      "rino"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "alchemist-apothecary",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "過酷な環境でも生き延びるため、天才薬師の弟子となり冒険者としても活動を始める主人公。手に職をつけることを最優先に据え、地道に技術を積み上げていく。生活の手触りを重視した異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-yataimeshi-enishitei",
+    "title": "異世界屋台めし「えにし亭」",
+    "titleKana": "いせかいやたいめしえにしてい",
+    "authorIds": [
+      "kinojoumiya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界で屋台料理店「えにし亭」を営む主人公と、店を訪れる客たちを描くグルメファンタジー。一品ごとに客の事情がほどけていく構成で、料理の描写と人情話が交互に進む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "orenozenjidoushienfuruotobafudenakamatachigaseka",
+    "title": "俺の『全自動支援(フルオートバフ)』で仲間たちが世界最強",
+    "titleKana": "おれのぜんじどうしえんふるおーとばふでなかまたちがせかいさいきょうそこにいるだけむじかくむそうぶんさつばんぜろいちぜろ",
+    "authorIds": [
+      "epina"
+    ],
+    "illustratorIds": [
+      "katakura-hibiki"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "『全自動支援』という、自分では戦えないが仲間を極限まで強化できるスキルを持つスラッド。有力パーティのリーダーから勧誘を受けたことで、彼の支援能力の異常さが明らかになっていく。裏方特化型の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaiko-sareta-shahongakari-wa-kioku-shita-sukuror",
+    "title": "解雇された写本係は、記憶したスクロールで魔術師を凌駕する",
+    "titleKana": "かいこされたしゃほんがかりわきおくしたすくろーるでまじゅつしおりょうがする",
+    "authorIds": [
+      "arashiyamashisetsu"
+    ],
+    "illustratorIds": [
+      "nemakineruzo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "mahou"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ギルドでダンジョンマップやスクロールを複写していた写本係が、解雇されてしまう。だが彼は複写の過程で内容をすべて記憶しており、その知識量は正規の魔術師を上回っていた。地味な職務が生む逆転を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gyakkou-no-eiyuu-kago-naki-shounen-wa-zetsugi-o",
+    "title": "逆行の英雄",
+    "titleKana": "ぎゃっこうのえいゆう",
+    "authorIds": [
+      "toraumachikin"
+    ],
+    "illustratorIds": [
+      "sanshouuo"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "time-leap",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "田舎の村に住む少年アランは、勇者と呼ばれる少女ステラの幼馴染だった。人々の希望として戦うステラの結末を知る彼が、時を巻き戻して同じ悲劇を避けようとする。逆行ものとして展開する英雄譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-itan-no-shokubutsutsukai",
+    "title": "最強異端の植物使い",
+    "titleKana": "さいきょういたんのしょくぶつつかい",
+    "authorIds": [
+      "fukujusouma"
+    ],
+    "illustratorIds": [
+      "kyouka-hatori"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界に転生したレフトが授かった恩恵は「植物図鑑」、それも雑草を召喚するだけの能力だった。役立たずと侮られながらも、植物の性質を極めることで戦力へと転じていく。地味な能力を掘り下げる異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-no-akuyaku-ga-iku-jitsuryoku-shijou-shug",
+    "title": "最強の悪役が往く",
+    "titleKana": "さいきょうのあくやくがいく",
+    "authorIds": [
+      "hanmenkyoushi"
+    ],
+    "illustratorIds": [
+      "genyaky"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-kizoku",
+      "vrmmo"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "VRMMORPG《モノクロの世界》に登場する悪役公爵家のルカ・サルバトーレに転生した主人公。いずれ滅亡する家だと知りながら、悪役の立場を存分に楽しんでいく。破滅を前提にした開き直りが痛快な作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-haujingu-apuri-de-kaiteki-isekai-seikats",
+    "title": "最強ハウジングアプリで快適異世界生活",
+    "titleKana": "さいきょうはうじんぐあぷりでかいてきいせかいせいかつ",
+    "authorIds": [
+      "umi-author"
+    ],
+    "illustratorIds": [
+      "murakami-yuichi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "平凡なサラリーマン藤島良辰が、突如として異世界の大草原に転移する。途方に暮れる彼が手にしたのは、住居を自在に建てられるハウジングアプリだった。住まいから生活を組み立てていく異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-pota-reijou-wa-sukikatte-ni-yama-de-asob",
+    "title": "最強ポーター令嬢は好き勝手に山で遊ぶ",
+    "titleKana": "さいきょうぽーたーれいじょうわすきかってにやまであそぶ",
+    "authorIds": [
+      "fuji-shinta"
+    ],
+    "illustratorIds": [
+      "michinoku"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "survival",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "婚約破棄をきっかけに前世を思い出した貴族令嬢カプレー。前世で登山中に命を落とした記憶を持つ彼女は、令嬢らしい暮らしより山で遊ぶことを選ぶ。荷運びの技能を極めるという珍しい方向性の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sagesumareta-reijou-wa-daini-no-jinsei-de-akogar",
+    "title": "蔑まれた令嬢は、第二の人生で憧れの錬金術師の道を選ぶ",
+    "titleKana": "さげすまれたれいじょうわだいにのじんせいであこがれのれんきんじゅつしのみちおえらぶ",
+    "authorIds": [
+      "akanoamamichi"
+    ],
+    "illustratorIds": [
+      "bodakkusu"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "alchemist-apothecary",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "寿退職を目前にして婚約者の浮気を目撃してしまったギルド受付嬢ミーア。第二の人生では、かねて憧れていた錬金術師の道を選ぶ。仕事を通じて自分を立て直していく女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shachiku-kishi-ga-esuranku-boukensha-ni-hiroware",
+    "title": "社畜騎士がSランク冒険者に拾われてヒモになる話",
+    "titleKana": "しゃちくきしがえすらんくぼうけんしゃにひろわれてひもになるはなし",
+    "authorIds": [
+      "kishimoto-kazuha"
+    ],
+    "illustratorIds": [
+      "kyouka-hatori"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "どん底まで落ちた騎士が、最強の美少女冒険者に拾われて家政夫として働くことになる。戦力としてではなく家事の担い手として遇される日々のなかで、絆と友情が育っていく。立場の反転を笑いに変えた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pati-tsuihou-kara-hajimaru-shuunou-musou-meikko",
+    "title": "収納無双",
+    "titleKana": "ぱーてぃついほうからはじまるしゅうのうむそう",
+    "authorIds": [
+      "kunerudeburu"
+    ],
+    "illustratorIds": [
+      "kondou-kokon"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "adventure"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "成人時に神から特別なギフトを授かる世界で、主人公が得たのは【収納】だった。荷物を入れるだけの地味な能力に見えて、容量と応用範囲を突き詰めれば戦術そのものを変えてしまう。地味スキル無双ものの一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shoukan-sukiru-o-keishou-shita-node-kiwamete-miy",
+    "title": "召喚スキルを継承したので、極めてみようと思います!",
+    "titleKana": "しょうかんすきるおけいしょうしたのできわめてみようとおもいます",
+    "authorIds": [
+      "morinokikori"
+    ],
+    "illustratorIds": [
+      "nyanya"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "mahou"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "元大学生の主人公が、異世界で七歳の王子ルーファスに転生する。付与されていたのは召喚のスキルを継承する力だった。幼い体で一から術を磨き直しながら、王族としての責務にも向き合っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
