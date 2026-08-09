@@ -65535,5 +65535,973 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-shihai-no-sukiruteika-zero-kara-hajimeru",
+    "title": "異世界支配のスキルテイカー",
+    "titleKana": "いせかいしはいのすきるていかー",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "harem",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 11,
+    "status": "ongoing",
+    "synopsis": "他人のスキルを奪い取る力を得た悠斗が、奴隷として扱われていた少女たちを引き取りながら異世界で成り上がっていく物語。腕利きの冒険者集団を退けるほどの実力を身につけても本人は騒がれることを望まず、拠点でののんびりした暮らしと、絡んでくる強者との戦いが交互に描かれる。奪ったスキルの組み合わせ方が戦術の要になっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-monsuta-burida",
+    "title": "異世界モンスターブリーダー",
+    "titleKana": "いせかいもんすたーぶりーだー",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [
+      "kabocha"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "異世界に渡ったディーが、チート級の適性を活かして魔物を育てるブリーダーとして生きていく物語。強い個体を狩るのではなく手をかけて育てる方向に舵を切り、女神まで巻き込んだにぎやかな牧場暮らしが広がっていく。育成の手順や魔物同士の相性を丁寧に描きつつ、のんびりした空気を崩さないのが持ち味。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinderera-wa-sagasanai",
+    "title": "シンデレラは探さない。",
+    "titleKana": "しんでれらわさがさない",
+    "authorIds": [
+      "tendougen"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "mystery"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "高校生の荒木陣が、妹の舞と一緒に見上げた五十階建ての新築タワーマンション。そこから始まる出来事が、当たり前だった日常を少しずつ崩していく。童話の見立てを題名に置きながら、探すべき相手も救われる結末も用意されていない現実を描く。日常の延長線上にある不穏さを積み上げていく構成が特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sekusharu-hanta-raiotto",
+    "title": "セクシャル・ハンター・ライオット",
+    "titleKana": "せくしゃるはんたーらいおっと",
+    "authorIds": [
+      "tsukiji-toshihiko"
+    ],
+    "illustratorIds": [
+      "hamashimashigeo"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 5,
+    "status": "completed",
+    "synopsis": "人類の敵キリオーニラを狩るハンターとして戦ってきた陸曜一が、その王である祖王を討ち取ったところから物語が動き出す。敵を倒したはずの世界に残された歪みと、ハンターであり続けることの意味が問い直されていく。過激な題名に反して、戦い続けた者の落とし前を描くバトルアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ano-onikyoushi-ga-boku-no-ane-ni-narundesuka",
+    "title": "あの鬼教師が僕の姉になるんですか?",
+    "titleKana": "あのおにきょうしがぼくのあねになるんですか",
+    "authorIds": [
+      "nekomata-nuko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "学校では鬼教師として恐れられている獅那先生が、家では弟を溺愛するブラコンに豹変する——そんな相手と同居することになった主人公の日常を描くラブコメ。姉になると宣言した先生との距離感に振り回されながらも、夏休みを迎える頃には奇妙な生活にも慣れてくる。教室と家庭での落差を笑いに変えた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikemen-kanojo",
+    "title": "いけめん彼女",
+    "titleKana": "いけめんかのじょ",
+    "authorIds": [
+      "hihihi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "外見も成績も運動も、何をやっても学校一のイケメンと名高い生徒会長・姫白雪に勝てない万年二位の新井梓。副会長として隣に立ち続けるうち、勝ちたいという執着と別の感情が混ざり始める。完璧すぎる相手に抱く憧れと嫉妬を軸に、学園のヒエラルキーを笑いながら描く青春ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-girudo-no-beruseruku",
+    "title": "異世界ギルドの英雄師弟(ベルセルク)",
+    "titleKana": "いせかいぎるどのべるせるく",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "事故で異世界に転生した少年・外村一真が、伝説の冒険者アズサ・クルーガーのただ一人の弟子として鍛えられていく。規格外の師のもとで積み上げた基礎が、やがてギルドの命運を左右する戦いで物を言う。師弟の稽古と実戦を往復しながら、教える側と教わる側それぞれの覚悟を描いた異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gakunen-toppu-no-ojousama-ga-ichinen-de-hensachi",
+    "title": "学年トップのお嬢様が1年で偏差値を40下げてギャルになっていた話",
+    "titleKana": "がくねんとっぷのおじょうさまがいちねんでへんさちおよんじゅうさげてぎゃるになっていたはなし",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "かつて学年トップだったお嬢様が、一年のうちに偏差値を四十も落としてギャルへと変貌していた——その理由をめぐって過去と現在が交錯していく。旧姓を捨てた少女の変化には相応の事情があり、同級生たちの視線と本人の選択が少しずつ噛み合っていく。外見の変化を入り口に、進路と家庭の重さを描く学園もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginshi-no-mahoushiki",
+    "title": "銀糸の魔法式",
+    "titleKana": "ぎんしのまほうしき",
+    "authorIds": [
+      "asakura-ine"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "mahou",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "アパートの管理を任されている高校生・秋月孝平の前に、銀髪碧眼の少女クレアが現れる。魔法使いの実習生を名乗る彼女との共同生活が始まり、日常のなかに魔法の理屈が持ち込まれていく。銀の糸で織るように術式を組み立てる設定が題名の由来で、生活の場を舞台にした穏やかな魔法ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koitsura-no-shoutai-ga-onna-dato-ore-dake-ga-shi",
+    "title": "こいつらの正体が女だと俺だけが知っている",
+    "titleKana": "こいつらのしょうたいがおんなだとおれだけがしっている",
+    "authorIds": [
+      "nekomata-nuko"
+    ],
+    "illustratorIds": [
+      "gochou"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "danso-josou",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "主人公が憧れてきた真琴と忍は、七年ぶりに再会して学生寮で相部屋になった「男友達」——のはずが、その正体は二人とも女性だった。真実を知っているのは自分だけという状況で、むさ苦しいはずの共同生活が一気に危うくなる。秘密を守る側の葛藤と気まずさを笑いに変えた男装ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "goingu-homingu",
+    "title": "ごーいんぐ?ほーみんぐ!",
+    "titleKana": "ごーいんぐほーみんぐ",
+    "authorIds": [
+      "kirinaruatsuaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "horror",
+      "gakuen",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "友達のいない歩が一人で下校していると、クラスメイトの東条が地面に体の一部を沈めている異様な姿を目撃してしまう。見てはいけないものを見た瞬間から、彼の学校生活は違う相へと踏み込んでいく。日常のすぐ隣にある異界を、孤独な少年の視点から描いた学園怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sasuga-desu-yuushasama",
+    "title": "さすがです勇者さま!",
+    "titleKana": "さすがですゆうしゃさま",
+    "authorIds": [
+      "asano-hajime"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "すでに平和になって久しい異世界に、いまさら勇者として召喚されてしまった悠理。倒すべき魔王もおらず、普通の学園生活を送ろうとするのだが、勇者という肩書きと魔王の娘の存在がそれを許さない。役割が形骸化した世界で、それでも勇者と呼ばれる者の居場所を探すコメディ寄りのファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shisu-tora",
+    "title": "シス×トラ",
+    "titleKana": "しすとら",
+    "authorIds": [
+      "tachibanakyuui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "学年一の才女・神宮寺一妃の成績を追い抜いてしまった蘭丸は、その日から彼女に恨まれ、学園生活が地獄に変わる。さらに知らぬ間に妙な縁が結ばれ、姉妹のように振る舞う少女たちに囲まれる羽目に。学力争いから始まる因縁を、ドタバタとしたラブコメへ転がしていく作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shindou-kisou-dt-o",
+    "title": "神童機操DT-O",
+    "titleKana": "しんどうきそうDTO",
+    "authorIds": [
+      "ikuyatadashi"
+    ],
+    "illustratorIds": [
+      "robi"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "謎のテロ組織による攻撃を受けた天童貞臣の眼前に、巨大な人型兵器が空から落ちてくる。特殊な条件を満たす者しか動かせないその機体の操縦者として、彼は否応なく戦場へ引き出されていく。少年と兵器の出会いという王道の型を踏みつつ、操縦条件をめぐる仕掛けで物語を転がすロボットもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sukuru-demokurashi",
+    "title": "スクール・デモクラシー!",
+    "titleKana": "すくーるでもくらしー",
+    "authorIds": [
+      "yoshimurayoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "naisei"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "光友学園が誇る生徒自治制度「スクール・デモクラシー」。その制度を骨の髄まで使い倒すカオスな生徒会に入ってしまった高天原奈々の日常は、政争と根回しの連続になる。学園という小さな社会を舞台に、民主主義の建前と本音を風刺的に描いた学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aii-imajinari-efekuto",
+    "title": "IEイマジナリーエフェクト",
+    "titleKana": "あいいーいまじなりーえふぇくと",
+    "authorIds": [
+      "nashinominori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "空白症候群によってスフィアと呼ばれる力を宿した少年少女だけが集められる枝誓館学園。そこへ入学した無燈霞は、同じ境遇のクラスメイトたちと出会い、能力の正体と学園の思惑に近づいていく。特異な力を持つ者を隔離して管理するという構図を軸にした学園異能バトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anone-kono-machi-ano-neko-no-machi",
+    "title": "あのねこのまちあのねこのまち",
+    "titleKana": "あのねこのまちあのねこのまち",
+    "authorIds": [
+      "shinokazuho"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "地図には載っているのにたどり着けない町、夕霧町。ポルターガイスト現象に悩まされていた高校生・墨染幸一は、ふとしたきっかけでその町に迷い込む。猫と怪異が行き交う不思議な町での出来事を通して、彼は自分の身に起きていたことの意味を知っていく。静かな筆致の現代怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avaron-feizu-choujou-busou-no-hairanda",
+    "title": "アヴァロン・フェイズ",
+    "titleKana": "あゔぁろんふぇいず",
+    "authorIds": [
+      "karinokei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "次元を越えて襲来する、女性のみで構成された戦闘民族ティルナノーグ。高校生の森賀瞬は超常の武装を手にして彼女たちと相対することになる。ケルト神話をモチーフにした敵と武装の意匠が全体を貫き、異界からの侵略に少年が一人で立ち向かう構図で進む学園アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amagoibu",
+    "title": "雨乞い部っ!",
+    "titleKana": "あまごいぶっ",
+    "authorIds": [
+      "aoyagiaito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "bunka-club",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "中学時代は冴えなかった照島陽太が、曇天橋高校で憧れの梅山柚香先輩と「雨乞い部」に出会う。雨を降らせるという突拍子もない目的のために、部員たちは大真面目に儀式や実験を繰り返していく。役に立たない活動に本気で打ち込む可笑しさと、その先にある青春の手触りを描いた部活もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "i-hebun",
+    "title": "イー・ヘブン",
+    "titleKana": "いーへぶん",
+    "authorIds": [
+      "okumurajunichirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "vrmmo",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "死んだはずの主人公が目を覚ますと、そこは電脳によって構築されたファンタジー世界のベッドの上だった。仮想と現実の境目が曖昧なその世界で、相手との駆け引きに勝ち抜きながら自分が置かれた状況の意味を探っていく。電脳世界という設定を異世界転生と接続した作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-erufu-chenso",
+    "title": "異世界エルフチェーンソー",
+    "titleKana": "いせかいえるふちぇーんそー",
+    "authorIds": [
+      "akagikei"
+    ],
+    "illustratorIds": [
+      "ogatatei"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "目覚めるとエルフの姿で森のなかにいた——木漏れ日と穏やかな風に囲まれた牧歌的な光景と、手にしていたチェーンソーという物騒な道具の落差から始まる異世界転移もの。森で生きるための道具として機械を振るううち、エルフとしての生活と人間だった頃の感覚がずれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inazumahime-no-kaijuuou",
+    "title": "稲妻姫の怪獣王",
+    "titleKana": "いなずまひめのかいじゅうおう",
+    "authorIds": [
+      "ogawajunjirou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "kyuuketsuki-fushi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "吸血鬼四姉妹の次女タチアナを退けたアーニャが、ニホンから来た巨漢・亀楽神楽の夢を見るところから展開する怪異バトル。吸血鬼や怪獣といった意匠を並べ、規格外の存在同士がぶつかり合う荒唐無稽さを楽しませる。稲妻姫と呼ばれるヒロインの豪快さが物語を引っ張る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wikuendo-doragon",
+    "title": "ウィークエンド・ドラゴン",
+    "titleKana": "うぃーくえんどどらごん",
+    "authorIds": [
+      "hoshimikei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "sf"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "いつも一人で昼休みを過ごしていた高校生・廣瀬一也は、自分のそばに謎の黒い球体が浮かんでいることに気づく。正体不明のそれをきっかけに、平凡だった日常が週末ごとに歪んでいく。孤独な高校生と不可解な現象を組み合わせ、日常の裂け目を静かに広げていく学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "worokku-wicchi-kurafuto",
+    "title": "ウォーロック・ウィッチクラフト",
+    "titleKana": "うぉーろっくうぃっちくらふと",
+    "authorIds": [
+      "kanno-okina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "mahou",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "入学したばかりの学校の屋上で、高校一年生の夏坂ハヤトは「少佐」と呼ばれる人物に助力を懇願される。魔術と軍事が結びついたこの世界で、彼は否応なく術者としての戦いに巻き込まれていく。現代を舞台に魔女術と軍隊組織を接続した設定が特徴の異能バトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ushiro-no-seki-no-varukiri",
+    "title": "うしろの席のヴァルキリー",
+    "titleKana": "うしろのせきのゔぁるきりー",
+    "authorIds": [
+      "tsuchiyaokuhito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "異空間からの侵略者に関わったことで「特異点」と呼ばれる身となった南雲流星は、もう普通の高校生活には戻れない。後ろの席に座るヴァルキリーの存在が、彼を非日常につなぎ止め続ける。北欧神話の戦乙女を教室に置くという発想で、日常と戦場を地続きにした学園異能もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eiyuu-to-majo-no-tensei-rabukome",
+    "title": "英雄と魔女の転生ラブコメ",
+    "titleKana": "えいゆうとまじょのてんせいらぶこめ",
+    "authorIds": [
+      "amamiya-kazuki"
+    ],
+    "illustratorIds": [
+      "yell-illust"
+    ],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "前世で異世界を救った英雄の記憶を持つ高校生・白石護道。その前世で敵対した魔女の転生体が同じ学校にいると知り、因縁を引きずったまま現代の学園生活を送ることになる。世界を賭けて戦った二人が、今度は教室で顔を突き合わせるという構図のラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eshigoroshi-no-inui-san-to-eroi-e-ni-teihyou-no",
+    "title": "絵師殺しの戌亥さんとエロい絵に定評のある俺",
+    "titleKana": "えしごろしのいぬいさんとえろいえにていひょうのあるおれ",
+    "authorIds": [
+      "nekomata-nuko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "otaku-shumi",
+      "seishun-lovecome",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "速筆ぶりから《絵師殺し》と呼ばれる売れっ子ラノベ作家・戌亥詩織と、エロい絵に定評のあるイラストレーターの主人公が組むことになる創作ラブコメ。締切と原稿を挟んだやり取りのなかで、作り手同士の敬意と厄介な感情が入り混じっていく。ライトノベル業界の内側をネタにした作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oinarisan-wa-koi-o-suru",
+    "title": "おいなりさんは恋をする。",
+    "titleKana": "おいなりさんわこいおする",
+    "authorIds": [
+      "aiharakei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "神上愛の前に突然現れた少女は、幼い頃に彼が助けた子狐だという。いなりと名乗る彼女との同居が始まり、恩返しなのか恋なのか判然としない好意を向けられる日々が続く。狐の化身をヒロインに据えた、和風の意匠が効いた恋愛コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "osananajimi-wa-makefuragu-tte-hontou-desuka",
+    "title": "幼なじみは負けフラグって本当ですか?",
+    "titleKana": "おさななじみわまけふらぐってほんとうですか",
+    "authorIds": [
+      "nekomata-nuko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "主人公は幼なじみの桜木萌々花が大好きだが、世間では幼なじみは負けフラグと相場が決まっている。ツンツンした態度の裏を読み違えないよう慎重に距離を測りつつ、定石を覆そうと足掻く日々が続く。ラブコメのお約束そのものを主人公が意識しているという構造が持ち味。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "onnakishi-korekushon-gacha-de-deta-onnakishi-to",
+    "title": "女騎士これくしょん",
+    "titleKana": "おんなきしこれくしょん",
+    "authorIds": [
+      "mikadotetsurou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "ソーシャルゲーム『女騎士これくしょん』の人気キャラクターがガチャから実体化し、そのまま主人公の家に住み着いてしまう。画面の向こうにいたはずの女騎士との同居生活は、生活費も常識も噛み合わないまま進んでいく。ソシャゲ文化をネタにした同居ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kikaijikake-no-deibureiku",
+    "title": "機械仕掛けのデイブレイク",
+    "titleKana": "きかいじかけのでいぶれいく",
+    "authorIds": [
+      "takahashibisui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "robot-mecha",
+      "battle-action",
+      "post-apocalypse"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "十年前の世界同時大災害で家族を失った少年・大橋タカヤが、機械仕掛けの化物と遭遇したことで戦いに巻き込まれていく。災厄の正体と、そこから生き延びた者たちの事情が少しずつ明かされ、失われた十年の意味が浮かび上がる。荒廃した世界を舞台にした機械もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyuuseishu-datta-boku-ga-sanzennengo-no-sekai-de",
+    "title": "救世主だった僕が三千年後の世界で土を掘る理由",
+    "titleKana": "きゅうせいしゅだったぼくがさんぜんねんごのせかいでつちおほるりゆう",
+    "authorIds": [
+      "aritakehoeru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "post-apocalypse",
+      "sf"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "天空から飛来した侵略者アルデヒトによって地球は蹂躙され、人類は戦力として少年少女を作り変えた。かつて救世主と呼ばれた主人公が、三千年後の世界で目を覚まし、なぜか土を掘って暮らしている——その理由が物語の芯にある。英雄の役目を終えた後の時間を描くSF。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyuusei-no-haishinsha",
+    "title": "救世の背信者",
+    "titleKana": "きゅうせいのはいしんしゃ",
+    "authorIds": [
+      "mochizukitadahito"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "約二百年前、星喰いと呼ばれる化物によって人類は絶滅寸前まで追い詰められた。対抗するために人類が生み出した存在をめぐり、救世の名を掲げた者たちの思惑が交錯していく。人類を救うために作られたものが背信者と呼ばれる構図で進む、重い調子のダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyou-garuzu-deizu-uzumasa-moe-no-tsukumo-gikyoku",
+    "title": "京・ガールズデイズ",
+    "titleKana": "きょうがーるずでいず",
+    "authorIds": [
+      "motoki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "祇園祭でにぎわう夏の京都を舞台に、幼馴染の女子高生である萌・咲・ミサの日々を描く一冊。地下鉄沿線の名所を辿りながら、進路や部活、それぞれの距離感が少しずつ動いていく。京都市交通局の広報企画から生まれたご当地小説で、実在の街並みの描写が細かい。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoumei-muteki-no-ochikobore",
+    "title": "共鳴無敵の落ちこぼれ",
+    "titleKana": "きょうめいむてきのおちこぼれ",
+    "authorIds": [
+      "akafukuyamato"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "突如出現した電影と呼ばれる怪物と戦うため、世界中から人材が集められたクレイ学術研究都市。落ちこぼれと見なされていた主人公が、他者と共鳴することで力を発揮する特性を頼りに、戦いの中心へと押し出されていく。単独では最弱でも組めば無敵という設定が軸の学園バトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kirinomiya-senpai-wa-nazo-ga-tokenai",
+    "title": "霧ノ宮先輩は謎が解けない",
+    "titleKana": "きりのみやせんぱいわなぞがとけない",
+    "authorIds": [
+      "mimoriichiru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "事件が起きれば颯爽と現れ、鮮やかな推理で解決してみせる名探偵——そう振る舞う霧ノ宮才華の実像は、実のところ謎を解けていない。取り繕われた推理の裏側を知る「僕」の視点から、探偵役が抱える虚勢とその理由が明かされていく。名探偵という役割そのものを扱った学園ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
