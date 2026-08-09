@@ -2733,6 +2733,14 @@
     "resolvedAt": "2026-08-01T21:19:01.737Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11678872/"
   },
+  "boku-to-ketto-shi-no-mahou-gakkou-monogatari": {
+    "title": "僕とケット・シーの魔法学校物語",
+    "isbn": "9784815622268",
+    "matchedTitle": "僕とケット・シーの魔法学校物語（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2268/9784815622268_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:53.845Z"
+  },
   "boku-to-kimi-no-hankei-ni-dake-todoku-mahou": {
     "title": "ぼくときみの半径にだけ届く魔法",
     "isbn": "9784344032767",
@@ -3224,6 +3232,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T09:52:06.152Z"
   },
+  "chounin-e-wa-akuyaku-reijou-o-doushitemo-sukuita": {
+    "title": "町人Aは悪役令嬢をどうしても救いたい",
+    "isbn": null,
+    "matchedTitle": "町人Aは悪役令嬢をどうしても救いたい〜どぶと空と氷の姫君〜　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3418/2000010833418.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:09:47.950Z"
+  },
   "christmas-terror": {
     "title": "クリスマス・テロル",
     "isbn": "9784065270837",
@@ -3486,6 +3502,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T14:53:09.012Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17331303/"
+  },
+  "danjon-sukuru-desu-gemu": {
+    "title": "ダンジョン・スクールデスゲーム",
+    "isbn": "9784065135723",
+    "matchedTitle": "ダンジョン・スクールデスゲーム　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5723/9784065135723.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:44.400Z"
   },
   "danjonhadoryokushikakatan2-takanenohanadattakens": {
     "title": "ダンジョンは努力しか勝たん2 高嶺の花だった剣聖の師匠とクーデターをして世直しする",
@@ -5016,6 +5040,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-08T08:48:00.518Z"
   },
+  "giten-engi-toaru-sakushi-no-sangokushi": {
+    "title": "偽典・演義",
+    "isbn": "9784803015157",
+    "matchedTitle": "偽典・演義　〜とある策士の三國志〜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5157/9784803015157.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:39.726Z"
+  },
   "gj-bu": {
     "title": "GJ部",
     "isbn": null,
@@ -5713,6 +5745,14 @@
     "resolvedAt": "2026-08-02T00:49:58.791Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16347969/"
   },
+  "henkyou-no-binbou-hakushaku-ni-totsugu-koto-ni-n": {
+    "title": "辺境の貧乏伯爵に嫁ぐことになったので領地改革に励みます",
+    "isbn": "9784803016451",
+    "matchedTitle": "辺境の貧乏伯爵に嫁ぐことになったので領地改革に励みます 〜ドラゴンと公爵令嬢〜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6451/9784803016451_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:52.668Z"
+  },
   "henkyou-no-kusushi-miyako-de-esuranku-boukensha": {
     "title": "辺境の薬師、都でSランク冒険者となる",
     "isbn": "9784065352021",
@@ -5845,6 +5885,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T08:41:00.342Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16137672/"
+  },
+  "hikikomori-kenja-ichinen-hokki-no-suro-raifu-sei": {
+    "title": "引きこもり賢者、一念発起のスローライフ聖竜の力でらくらく魔境開拓!",
+    "isbn": null,
+    "matchedTitle": "引きこもり賢者、一念発起のスローライフ　聖竜の力でらくらく魔境開拓！　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6169/2000008796169.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:09:51.490Z"
   },
   "hikikomori-no-otouto-datta": {
     "title": "ひきこもりの弟だった",
@@ -6813,6 +6861,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6549/2000004256549.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T09:31:21.884Z"
+  },
+  "inchiki-seijo-to-iwareta-node-kuni-o-dete-nonbir": {
+    "title": "インチキ聖女と言われたので、国を出てのんびり暮らそうと思います",
+    "isbn": "9784803015218",
+    "matchedTitle": "インチキ聖女と言われたので、国を出てのんびり暮らそうと思います（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5218/9784803015218.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:38.552Z"
   },
   "indifinitto-rinkeji": {
     "title": "インディフィニット・リンケージ",
@@ -7911,6 +7967,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T05:31:15.630Z"
   },
+  "isekai-sonchou": {
+    "title": "異世界村長",
+    "isbn": "9784815626457",
+    "matchedTitle": "異世界村長2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6457/9784815626457_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:37.317Z"
+  },
+  "isekai-sousaku-ryouriya-ryuga-hajimari-no-oku-no": {
+    "title": "異世界創作料理屋リューガ",
+    "isbn": "9784803021240",
+    "matchedTitle": "異世界創作料理屋リューガ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1240/9784803021240_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:36.145Z"
+  },
   "isekai-souzou-no-susume-sumaho-apuri-de-wakusei": {
     "title": "異世界創造のすゝめ",
     "isbn": "9784866990248",
@@ -8525,6 +8597,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T14:38:42.057Z"
   },
+  "jenosaido-riariti-isekai-meikyuu-o-saikyou-chito": {
+    "title": "ジェノサイド・リアリティー",
+    "isbn": null,
+    "matchedTitle": "ジェノサイド・リアリティー　異世界迷宮を最強チートで勝ち抜く",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5985/2000005325985.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:06:52.244Z"
+  },
   "jichou-shinai-motoyuusha-no-tsuyokute-tanoshii-n": {
     "title": "自重しない元勇者の強くて楽しいニューゲーム",
     "isbn": "9784086311564",
@@ -8644,6 +8724,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T09:57:39.254Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14939323/"
+  },
+  "jishou-maou-ni-sarawaremashita-seizokusei-no-wat": {
+    "title": "自称魔王にさらわれました",
+    "isbn": "9784041059708",
+    "matchedTitle": "自称魔王にさらわれました 聖属性の私がいないと勇者が病んじゃうって、それホントですか？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9708/9784041059708_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:42.038Z"
   },
   "jitsu-wa-ore-saikyou-deshita": {
     "title": "実は俺、最強でした?",
@@ -9818,6 +9906,14 @@
     "resolvedAt": "2026-08-07T10:27:30.230Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16665986/"
   },
+  "kidai-no-daikenja-wa-zerosaiji-kara-anyaku-suru": {
+    "title": "稀代の大賢者は0歳児から暗躍する",
+    "isbn": "9784815635701",
+    "matchedTitle": "稀代の大賢者は0歳児から暗躍する",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5701/9784815635701_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:06:48.790Z"
+  },
   "kidou-senshi-gandamu-senkou-no-hasawei": {
     "title": "機動戦士ガンダム閃光のハサウェイ",
     "isbn": "9784575465365",
@@ -10541,6 +10637,12 @@
     "resolvedAt": "2026-08-07T10:27:50.306Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17733983/"
   },
+  "kokugensou-o-aitemu-chito-de-ikinuku-za-komikku": {
+    "title": "残酷幻想をアイテムチートで生き抜く",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-09T10:06:47.622Z"
+  },
   "komyushou-koukousei-dungeon": {
     "title": "コミュ障高校生、ダンジョンに行く",
     "isbn": "9784824014047",
@@ -11048,6 +11150,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:27:08.920Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16843934/"
+  },
+  "koushaku-reijou-ariarein-no-tsuihou": {
+    "title": "侯爵令嬢アリアレインの追放",
+    "isbn": "9784803020823",
+    "matchedTitle": "侯爵令嬢アリアレインの追放（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0823/9784803020823_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:40.868Z"
   },
   "koushaku-reijou-no-tashinami": {
     "title": "公爵令嬢の嗜み",
@@ -11960,6 +12070,14 @@
     "resolvedAt": "2026-08-07T10:24:43.934Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13823321/"
   },
+  "madogiwa-no-tensai-gunshi-sasensaki-de-rakushiyo": {
+    "title": "窓際の天才軍師",
+    "isbn": null,
+    "matchedTitle": "窓際の天才軍師　〜左遷先で楽しようとしたら救国の英雄に祭り上げられました〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5054/2000007205054.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:06:56.821Z"
+  },
   "madou-saikushi-nomi-no-isekai-craft-seikatsu": {
     "title": "魔導細工師ノーミィの異世界クラフト生活～前世知識とチートなアイテムで、魔王城をどんどん快適にします！～",
     "isbn": "9784040751474",
@@ -12229,6 +12347,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6737/9784904376737.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:56:02.237Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11377728/"
+  },
+  "makai-hongi-gekokujou-no-goran": {
+    "title": "魔界本紀",
+    "isbn": "9784065163962",
+    "matchedTitle": "魔界本紀　1　下剋上のゴーラン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3962/9784065163962.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:06:53.388Z"
   },
   "makai-suikoden": {
     "title": "魔界水滸伝",
@@ -12724,6 +12850,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T14:37:48.388Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17406948/"
+  },
+  "mirimosu-saga-mattei-ouji-no-tensei-senki": {
+    "title": "ミリモス・サーガ",
+    "isbn": null,
+    "matchedTitle": "ミリモス・サーガー末弟王子の転生戦記 （1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9005/2000009629005.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:09:57.393Z"
   },
   "mirion-kuraun": {
     "title": "ミリオン・クラウン",
@@ -15658,6 +15792,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:04:28.026Z"
   },
+  "reberuagechuu-danjon-de-musou-suru": {
+    "title": "レベル上げ厨、ダンジョンで無双する",
+    "isbn": "9784815637859",
+    "matchedTitle": "レベル上げ厨、ダンジョンで無双する",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7859/9784815637859_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:10:07.908Z"
+  },
   "rebuild-world": {
     "title": "リビルドワールド",
     "isbn": "9784049123944",
@@ -15825,6 +15967,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T14:30:04.036Z"
   },
+  "rionkuru-senki": {
+    "title": "リオンクール戦記",
+    "isbn": null,
+    "matchedTitle": "リオンクール戦記 (1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9009/2000008519009.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:10:06.737Z"
+  },
   "risou-no-himo-seikatsu": {
     "title": "理想のヒモ生活",
     "isbn": "9784072840788",
@@ -15847,6 +15997,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T00:01:46.582Z"
+  },
+  "roguin-bonasu-de-sukiru-appu-nete-okite-nariagar": {
+    "title": "ログインボーナスでスキルアップ",
+    "isbn": null,
+    "matchedTitle": "ログインボーナスでスキルアップ　〜寝て起きて成り上がる〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4624/2000004564624.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:09:32.623Z"
   },
   "rojiura-batoru-purinsesu": {
     "title": "路地裏バトルプリンセス",
@@ -17939,6 +18097,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5332/2000003515332.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:47:35.250Z"
+  },
+  "sono-mono-nochi-ni": {
+    "title": "その者。のちに…",
+    "isbn": "9784803009521",
+    "matchedTitle": "その者。のちに…（01）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9521/9784803009521.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:43.217Z"
   },
   "sono-rettou-kishi": {
     "title": "その劣等騎士、レベル",
@@ -20109,6 +20275,14 @@
     "resolvedAt": "2026-08-01T08:41:02.694Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16503992/"
   },
+  "watakushi-no-juuboku-ore-no-shujin-wa-akumade-te": {
+    "title": "私の従僕",
+    "isbn": "9784803013627",
+    "matchedTitle": "私の従僕（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3627/9784803013627.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:33.805Z"
+  },
   "watakushi-no-tameni-tsukurinasai": {
     "title": "私のために創りなさい！",
     "isbn": null,
@@ -20192,6 +20366,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T06:49:56.020Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17179205/"
+  },
+  "watashi-wa-tada-no-jijo-desu-node-hissori-kurash": {
+    "title": "私はただの侍女ですので",
+    "isbn": "9784049154726",
+    "matchedTitle": "私はただの侍女ですので ひっそり暮らしたいのに、騎士王様が逃がしてくれません",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4726/9784049154726_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:34.974Z"
   },
   "watashitachi-no-tamurakun": {
     "title": "わたしたちの田村くん",
@@ -20319,6 +20501,22 @@
     "resolvedAt": "2026-08-02T00:49:13.724Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16531952/"
   },
+  "yamasodachi-no-boukensha-kono-machi-ga-kaiteki-n": {
+    "title": "山育ちの冒険者",
+    "isbn": "9784040655444",
+    "matchedTitle": "山育ちの冒険者　この都会（まち）が快適なので旅には出ません　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5444/9784040655444_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:10:02.068Z"
+  },
+  "yamauchi-kun-no-jugon-no-natsu": {
+    "title": "山内くんの呪禁の夏。",
+    "isbn": null,
+    "matchedTitle": "山内くんの呪禁の夏。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2022/2000004332022.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T10:10:00.897Z"
+  },
   "yandere-kei-otome-ge-no-sekai-ni-tensei-shite-shimatta-you-desu": {
     "title": "ヤンデレ系乙女ゲーの世界に転生してしまったようです",
     "isbn": "9784861347276",
@@ -20327,6 +20525,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:18:29.761Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12881827/"
+  },
+  "yanki-wa-isekai-de-seirei-ni-aisaremasu": {
+    "title": "ヤンキーは異世界で精霊に愛されます。",
+    "isbn": "9784434217012",
+    "matchedTitle": "ヤンキーは異世界で精霊に愛されます。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7012/9784434217012.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:10:03.241Z"
   },
   "yari-no-yuusha-no-yarinaoshi": {
     "title": "槍の勇者のやり直し",
@@ -20753,6 +20959,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8904/2000001718904.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-08T08:48:04.426Z"
+  },
+  "zeitaku-zanmai-shitai-no-desu-tensei-shita-noni": {
+    "title": "贅沢三昧したいのです!",
+    "isbn": "9784803014068",
+    "matchedTitle": "贅沢三昧したいのです！　転生したのに貧乏なんて許せないので、魔法で領地改革",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4068/9784803014068.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T10:09:29.094Z"
   },
   "zeltrek-senki": {
     "title": "ゼルトリーク戦記",

@@ -79224,5 +79224,776 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kokugensou-o-aitemu-chito-de-ikinuku-za-komikku",
+    "title": "残酷幻想をアイテムチートで生き抜く",
+    "titleKana": "こくげんそうおあいてむちーとでいきぬく",
+    "authorIds": [
+      "fuuraizan"
+    ],
+    "illustratorIds": [
+      "takayukihiyori"
+    ],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "survival",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "特殊能力を持たないまま、残酷極まりない異世界へ転生してしまった男子大学生。チート能力の代わりに頼れるのは、手に入るアイテムをどう組み合わせるかという工夫だけだった。過酷な世界を道具の運用で生き抜いていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kidai-no-daikenja-wa-zerosaiji-kara-anyaku-suru",
+    "title": "稀代の大賢者は0歳児から暗躍する",
+    "titleKana": "きだいのだいけんじゃわぜろさいじからあんやくする",
+    "authorIds": [
+      "buu"
+    ],
+    "illustratorIds": [
+      "shabon"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "naisei"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "規格外の魔力を持つ大賢者が、赤ん坊の姿で転生する。高速ハイハイで移動しながら、国の危機に裏側から手を回していく。何もできないはずの零歳児が暗躍するという落差を、コメディとして押し出した作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jenosaido-riariti-isekai-meikyuu-o-saikyou-chito",
+    "title": "ジェノサイド・リアリティー",
+    "titleKana": "じぇのさいどりありてぃー",
+    "authorIds": [
+      "fuuraizan"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "突然の異世界転移から始まる、知識チートを軸にしたダンジョンファンタジー。前世で得た知識を武器に、迷宮の仕組みそのものを解析して攻略していく。理詰めの攻略と派手な戦闘を両立させた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "makai-hongi-gekokujou-no-goran",
+    "title": "魔界本紀",
+    "titleKana": "まかいほんぎ",
+    "authorIds": [
+      "mogisuzu"
+    ],
+    "illustratorIds": [
+      "lack"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "isekai-tensei",
+      "maou-mazoku-shiten",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "弱肉強食が徹底された魔界に、オーガ族として転生した元日本人のゴーラン。本来は肉の壁としか扱われない脳筋種族でありながら、前世の思考を使って生き延びる道を探る。魔族側の視点から魔界を描く作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "madogiwa-no-tensai-gunshi-sasensaki-de-rakushiyo",
+    "title": "窓際の天才軍師",
+    "titleKana": "まどぎわのてんさいぐんし",
+    "authorIds": [
+      "fuuraizan"
+    ],
+    "illustratorIds": [],
+    "publisherId": "gc-novels",
+    "themeIds": [
+      "isekai-fantasy",
+      "naisei",
+      "senki"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "腐りきった王国を根底から立て直すため、窓際に追いやられていた天才軍師が動き出す。武力ではなく人事と兵站、そして政略で状況を覆していく。小説投稿サイト発の異世界軍略ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "zeitaku-zanmai-shitai-no-desu-tensei-shita-noni",
+    "title": "贅沢三昧したいのです!",
+    "titleKana": "ぜいたくざんまいしたいのです",
+    "authorIds": [
+      "miwakazu"
+    ],
+    "illustratorIds": [
+      "p-78220"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "akuyaku-reijou",
+      "isekai-tensei",
+      "merchant"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "前世で貧乏だったのに、転生してまで貧乏なのは我慢ならない——そう憤る悪役令嬢が、贅沢な暮らしを目指して奔走する。金勘定と商才を武器に生活水準を引き上げていく、心温まる調子の異世界転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roguin-bonasu-de-sukiru-appu-nete-okite-nariagar",
+    "title": "ログインボーナスでスキルアップ",
+    "titleKana": "ろぐいんぼーなすですきるあっぷ",
+    "authorIds": [
+      "amaui-hakuichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界に転生したコウタが得たのは、寝て起きるだけで能力が伸びる「ログインボーナス」だった。努力も戦闘も要らない成長方法で、気づけば周囲を大きく引き離していく。脱力した語り口の成り上がりもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "watakushi-no-juuboku-ore-no-shujin-wa-akumade-te",
+    "title": "私の従僕",
+    "titleKana": "わたくしのじゅうぼく",
+    "authorIds": [
+      "toru"
+    ],
+    "illustratorIds": [
+      "satoutsutomu"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "butler-maid",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "赤ん坊の頃に奴隷に拾われ、自身も奴隷として貴族の屋敷で育った主人公。仕事は厳しいが、彼はその日常に満足していた。仕える側の視点から屋敷の内側を描く、静かな異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "watashi-wa-tada-no-jijo-desu-node-hissori-kurash",
+    "title": "私はただの侍女ですので",
+    "titleKana": "わたしわただのじじょですので",
+    "authorIds": [
+      "hinokage-sora"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "butler-maid",
+      "mahou"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "虐げられて育った令嬢イレイナは、女王としての前世を持つ最強の魔法使いであることを隠し、ただの侍女として生きている。正体を伏せたまま周囲を支える立場に徹する、女性向けの転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-sousaku-ryouriya-ryuga-hajimari-no-oku-no",
+    "title": "異世界創作料理屋リューガ",
+    "titleKana": "いせかいそうさくりょうりやりゅーが",
+    "authorIds": [
+      "kagurakei"
+    ],
+    "illustratorIds": [
+      "utagawamiu"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ゲテモノとしか思えないモンスターの素材を、絶品料理に変えてしまう異世界の料理屋リューガ。アース・スターノベル大賞奨励賞を受賞した作品で、調理の工夫と客との交流を軸にしたグルメファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-sonchou",
+    "title": "異世界村長",
+    "titleKana": "いせかいそんちょう",
+    "authorIds": [
+      "nanashiro"
+    ],
+    "illustratorIds": [
+      "koyoimitsuki"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界にひとり転移したおっさんが授かった職業は「村長」、スキルは『村』だった。意味の分からない能力を手探りで使いながら、何もない土地に村を立ち上げていく。開拓と運営を主題にした異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inchiki-seijo-to-iwareta-node-kuni-o-dete-nonbir",
+    "title": "インチキ聖女と言われたので、国を出てのんびり暮らそうと思います",
+    "titleKana": "いんちきせいじょといわれたのでくにおでてのんびりくらそうとおもいます",
+    "authorIds": [
+      "hinokage-sora"
+    ],
+    "illustratorIds": [
+      "chum"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "akuyaku-reijou",
+      "slow-life",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "インチキ聖女と決めつけられ、国を追われることになったユースティ。それならばと田舎でのんびり暮らすことを選ぶが、彼女の力は本物だったため周囲が放っておかない。追放後の生活を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "giten-engi-toaru-sakushi-no-sangokushi",
+    "title": "偽典・演義",
+    "titleKana": "ぎてんえんぎ",
+    "authorIds": [
+      "hotoke-yomo"
+    ],
+    "illustratorIds": [
+      "junni"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "jidai-fantasy",
+      "senki",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "三国志の世界を下敷きに、史実とは異なる筋道を描く歴史ファンタジー。劉焉討伐に苦戦していた皇帝劉弁が、李儒の献策で水軍を破るなど、既知の展開が次々とずらされていく。軍略の描写に力を入れた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koushaku-reijou-ariarein-no-tsuihou",
+    "title": "侯爵令嬢アリアレインの追放",
+    "titleKana": "こうしゃくれいじょうありあれいんのついほう",
+    "authorIds": [
+      "shiroururi"
+    ],
+    "illustratorIds": [
+      "rahwia"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "akuyaku-reijou",
+      "fukushuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "侯爵令嬢アリアレインが家を追放されるところから始まる物語。矜持を賭けた最終章へ向けて、彼女は自らを切り捨てた者たちと対峙していく。追放と復権を軸にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jishou-maou-ni-sarawaremashita-seizokusei-no-wat",
+    "title": "自称魔王にさらわれました",
+    "titleKana": "じしょうまおうにさらわれました",
+    "authorIds": [
+      "mayumirino"
+    ],
+    "illustratorIds": [
+      "yamashita-nanao"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "maou-mazoku-shiten",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "勇者リッツの幼なじみでありながら、魔王討伐隊では役に立たない属性を持つミリア。そんな彼女が、自称魔王を名乗る存在にさらわれてしまう。討伐する側とされる側の境界を茶化したコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sono-mono-nochi-ni",
+    "title": "その者。のちに…",
+    "titleKana": "そのもののちに",
+    "authorIds": [
+      "nahaato"
+    ],
+    "illustratorIds": [
+      "miya-kazutomo"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "time-leap"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "結婚式の一週間前に強制転移させられたワズが降り立ったのは、四大魔王によって滅ぼされる寸前の世界だった。残された猶予は一週間。期限を区切った状況設定が緊張感を生む異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danjon-sukuru-desu-gemu",
+    "title": "ダンジョン・スクールデスゲーム",
+    "titleKana": "だんじょんすくーるですげーむ",
+    "authorIds": [
+      "sufure"
+    ],
+    "illustratorIds": [
+      "yoneyamamai"
+    ],
+    "publisherId": "k-ranobe-books",
+    "themeIds": [
+      "death-game",
+      "dungeon",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "人間嫌いの少年・宮真大翔は、高校入学初日にクマの姿をした担任教師からダンジョン攻略を命じられる。学校という日常の場が、そのまま生死を賭けた舞台に変わっていくデスゲームもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chounin-e-wa-akuyaku-reijou-o-doushitemo-sukuita",
+    "title": "町人Aは悪役令嬢をどうしても救いたい",
+    "titleKana": "ちょうにんえーわあくやくれいじょうおどうしてもすくいたい",
+    "authorIds": [
+      "isshikikoutarou"
+    ],
+    "illustratorIds": [
+      "parum"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの世界に「町人A」として生まれた主人公が、破滅する運命の悪役令嬢を救おうと奔走する。端役でありながら筋書きを覆そうとする姿勢が物語を動かしていく。モブ視点の転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hikikomori-kenja-ichinen-hokki-no-suro-raifu-sei",
+    "title": "引きこもり賢者、一念発起のスローライフ聖竜の力でらくらく魔境開拓!",
+    "titleKana": "ひきこもりけんじゃいちねんほっきのすろーらいふせいりゅうのちからでらくらくまきょうかいたく",
+    "authorIds": [
+      "minakamishou"
+    ],
+    "illustratorIds": [
+      "riritto"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "妹を救うため、世界の創造主である聖竜の眷属となった引きこもりの賢者。強大な後ろ盾を得た彼が、魔境と呼ばれる土地の開拓に乗り出す。一念発起から始まるスローライフものである。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henkyou-no-binbou-hakushaku-ni-totsugu-koto-ni-n",
+    "title": "辺境の貧乏伯爵に嫁ぐことになったので領地改革に励みます",
+    "titleKana": "へんきょうのびんぼうはくしゃくにとつぐことになったのでりょうちかいかくにはげみます",
+    "authorIds": [
+      "hananamikaoruho"
+    ],
+    "illustratorIds": [
+      "bodakkusu"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "akuyaku-reijou",
+      "naisei",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "辺境の貧乏伯爵家に嫁ぐことになった令嬢が、持ち前の実務能力で領地改革に取り組む。ドラゴンの力も借りながら財政を立て直していく過程を、夫婦の関係の変化とあわせて描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "boku-to-ketto-shi-no-mahou-gakkou-monogatari",
+    "title": "僕とケット・シーの魔法学校物語",
+    "titleKana": "ぼくとけっとしーのまほうがっこうものがたり",
+    "authorIds": [
+      "rarutori"
+    ],
+    "illustratorIds": [
+      "canarine"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "mahou-gakuen",
+      "ajin-mamono-musume",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "猫の妖精ケット・シーを相棒に、魔法学校での日々を過ごす少年の物語。のんびりとした学園生活を基調にしつつ、時に真剣な課題にも向き合う。相棒との掛け合いが物語の推進力になっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mirimosu-saga-mattei-ouji-no-tensei-senki",
+    "title": "ミリモス・サーガ",
+    "titleKana": "みりもすさーが",
+    "authorIds": [
+      "okuhideki"
+    ],
+    "illustratorIds": [
+      "iwasaki-minako"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "isekai-fantasy",
+      "senki",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "砂の民との戦いに決着をつけたミリモスが、ファミリスとの本気の勝負を経て新たな力を得る。土地ごとに異なる勢力と文化を描き分けながら進む、正統派の異世界サーガ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yamauchi-kun-no-jugon-no-natsu",
+    "title": "山内くんの呪禁の夏。",
+    "titleKana": "やまうちくんのじゅごんのなつ",
+    "authorIds": [
+      "ninomiyasakawa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "youkai-ayakashi",
+      "horror",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "小学六年生の山内くんは、大小さまざまな災難に巻き込まれながら育ってきた。かつて彼にお守りをくれた男の存在を手がかりに、その夏の怪異と向き合っていく。子ども視点で描かれる現代の怪談。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yamasodachi-no-boukensha-kono-machi-ga-kaiteki-n",
+    "title": "山育ちの冒険者",
+    "titleKana": "やまそだちのぼうけんしゃ",
+    "authorIds": [
+      "minakamishou"
+    ],
+    "illustratorIds": [
+      "tottorisakyuu"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "survival"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "山で育った狩人の子ステルが、育ての母に促されて山を降り、王国最大の街を目指す。狩猟で培った技術と勘が、冒険者としての生活でそのまま通用していく。山の暮らしの描写が丁寧な作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yanki-wa-isekai-de-seirei-ni-aisaremasu",
+    "title": "ヤンキーは異世界で精霊に愛されます。",
+    "titleKana": "やんきーわいせかいでせいれいにあいされます",
+    "authorIds": [
+      "kuroiheiho"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "トラックに轢かれそうになったヤンキーの真内零が異世界へ転生し、なぜか精霊たちに好かれてしまう。強面と精霊のほのぼのした交流という落差を軸にした、明るい調子の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rionkuru-senki",
+    "title": "リオンクール戦記",
+    "titleKana": "りおんくーるせんき",
+    "authorIds": [
+      "ogurahiroaki"
+    ],
+    "illustratorIds": [
+      "toi8"
+    ],
+    "publisherId": "earth-star-novel",
+    "themeIds": [
+      "senki",
+      "naisei",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ベルジェ伯爵との戦争に、リオンクール家の家督争いが重なる。当主バリアンの知らないところで進行する計画が、戦況と家中の力関係を同時に動かしていく。内政と戦争を並行して描く戦記ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "reberuagechuu-danjon-de-musou-suru",
+    "title": "レベル上げ厨、ダンジョンで無双する",
+    "titleKana": "れべるあげちゅうだんじょんでむそうする",
+    "authorIds": [
+      "tennensuikohi"
+    ],
+    "illustratorIds": [
+      "nakanishi-tatsuya"
+    ],
+    "publisherId": "ga-novel",
+    "themeIds": [
+      "dungeon",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "戦術も装備も二の次で、ひたすらレベルを上げることだけに費やす主人公。積み上げた数値の暴力で、格上の敵すら押し切ってしまう。本人に無自覚なまま強者になっていく無双ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
