@@ -95,6 +95,10 @@ def main():
     ap.add_argument("--per", type=int, default=200)
     ap.add_argument("--sleep", type=float, default=2.0)
     ap.add_argument("--min-vol", type=int, default=1)
+    # NDLのopensearchは1クエリ800件で打ち切られるため、レーベル名だけで引くと五十音の
+    # 先頭200シリーズ程度しか見えない。刊行年で切ると続きを掘れる(2026-08-09追加)
+    ap.add_argument("--from", dest="from_year", default="")
+    ap.add_argument("--until", dest="until_year", default="")
     args = ap.parse_args()
 
     works = json.loads((SRC / "works.json").read_text(encoding="utf-8"))
@@ -115,10 +119,12 @@ def main():
 
     groups = {}
     for page in range(args.pages):
-        xml = fetch(
-            {"any": args.publisher, "cnt": args.per, "idx": 1 + page * args.per},
-            args.sleep,
-        )
+        params = {"any": args.publisher, "cnt": args.per, "idx": 1 + page * args.per}
+        if args.from_year:
+            params["from"] = args.from_year
+        if args.until_year:
+            params["until"] = args.until_year
+        xml = fetch(params, args.sleep)
         if not xml:
             break
         try:
