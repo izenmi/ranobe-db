@@ -85320,5 +85320,966 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-shimashite-genzai-wa-jijo-de-gozaimasu",
+    "title": "転生しまして、現在は侍女でございます。",
+    "titleKana": "てんせいしましてげんざいわじじょでございます",
+    "authorIds": [
+      "tamayura-natsume"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "butler-maid",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 13,
+    "status": "ongoing",
+    "synopsis": "子爵令嬢として生まれながら、今は侍女として働く主人公。令嬢時代の経験より、仕える側で培った実務のほうが役に立つという逆転が物語を動かしていく。職業ものとしての手触りが濃い転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-shoujo-wa-mazu-ippo-kara-hajimetai-mamono",
+    "title": "転生少女はまず一歩からはじめたい",
+    "titleKana": "てんせいしょうじょわまずいっぽからはじめたい",
+    "authorIds": [
+      "kaya-author"
+    ],
+    "illustratorIds": [
+      "naru"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "突然少女の姿で異世界に飛ばされたサラが、紆余曲折の末に保護される。まずは一歩ずつできることを増やしていこうとする姿勢を軸に、生活基盤を整えていく穏やかな異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kekkaishi-no-ichirinka",
+    "title": "結界師の一輪華",
+    "titleKana": "けっかいしのいちりんか",
+    "authorIds": [
+      "kureha"
+    ],
+    "illustratorIds": [
+      "bodakkusu"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "術者の分家に生まれた十八歳の一瀬華は、優秀な双子の姉と比べられ虐げられて育った。結界師としての素質を見出されたことから、彼女の立場は大きく変わっていく。和風の意匠を凝らしたロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gekka-koukyuuden",
+    "title": "月華後宮伝",
+    "titleKana": "げっかこうきゅうでん",
+    "authorIds": [
+      "oribesomari"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "alchemist-apothecary"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "雲蛍州で薬草姫として慕われていた少女・虞凛花が、神託によって月華後宮へ召し上げられる。薬草の知識を武器に、華やかで危うい女の園を渡っていく中華風後宮ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doroppu-kaori-no-reijou-monogatari",
+    "title": "ドロップ!!",
+    "titleKana": "どろっぷ",
+    "authorIds": [
+      "shisui-yukiko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "alchemist-apothecary",
+      "romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "二年間の令嬢修業を終えて王都へ戻ったコーデリア。彼女が研究してきた“香り”の知識が、社交界での立ち回りと結びついていく。調香を軸に据えた女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ohitorisamadeikiteikitainonizensenodannasamaniro",
+    "title": "お一人様で生きていきたいのに、前世の旦那様にロックオンされていて困ります",
+    "titleKana": "おひとりさまでいきていきたいのにぜんせのだんなさまにろっくおんされていてこまります01いち",
+    "authorIds": [
+      "yoshitomohiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "shigoto",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "転属で騎士団長付きの事務官になった主人公は、一人で気楽に生きていきたいと願っている。ところが上司は前世の夫であり、彼女を執拗に囲い込もうとする。前世の縁を扱った職場ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mahou-sekai-no-uketsukejou-ni-naritai-desu",
+    "title": "魔法世界の受付嬢になりたいです",
+    "titleKana": "まほうせかいのうけつけじょうになりたいです",
+    "authorIds": [
+      "mako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "mahou",
+      "shigoto",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "魔法があふれるこの世界で、ナナリーが幼い頃から憧れてきた職業は魔導所の受付嬢だった。華やかに見える仕事の実態と、そこで求められる能力を丁寧に描く職業ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-nonbiri-iyashite-hajimemasu-doku-nimo",
+    "title": "異世界でのんびり癒し手はじめます",
+    "titleKana": "いせかいでのんびりいやしてはじめます",
+    "authorIds": [
+      "kaya-author"
+    ],
+    "illustratorIds": [
+      "masakimichi"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "iryou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "女神によって異世界に落とされたショウとハル。養い親のファルコとともに、癒し手として穏やかに暮らしていく。戦いよりも日々の営みに重心を置いた異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sumi-de-ii-desu-kamawanaide-kudasaiyo",
+    "title": "隅でいいです。構わないでくださいよ。",
+    "titleKana": "すみでいいですかまわないでくださいよ",
+    "authorIds": [
+      "mako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "jidai-fantasy",
+      "slow-life",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "気がつくと子どもの姿で、吉原を思わせる世界にいた主人公。天月妓楼の楼主に拾われ、男たちの出入りする場所で暮らすことになる。花街の内側を、隅にいる者の視点から描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-fukou-isekai-koji-wa-nariagaru",
+    "title": "転生不幸",
+    "titleKana": "てんせいふこう",
+    "authorIds": [
+      "hiu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "雷に打たれて異世界へ転生したエメを待っていたのは、夢の広がる世界と、絶望的な金欠だった。自由気ままに生きたいのに先立つものがないという現実を、コメディとして描く転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-demodori-funtouki",
+    "title": "異世界出戻り奮闘記",
+    "titleKana": "いせかいでもどりふんとうき",
+    "authorIds": [
+      "akizukiasuka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "gyaku-isekai",
+      "isekai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "かつて異世界に召喚され、「異界からの巫女」として世界を救った主人公が、再び同じ世界へ呼び戻される。二度目だからこそ勝手が分かる一方、状況は前回と大きく変わっていた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanshou-taishou-kara-kokuhaku-saremashita",
+    "title": "観賞対象から告白されました。",
+    "titleKana": "かんしょうたいしょうからこくはくされました",
+    "authorIds": [
+      "sagawashin"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "面食いを自認する主人公が、貴族令嬢に転生する。舞踏会には出るものの、社交もダンスも結婚相手探しも面倒で、もっぱら美形を観賞して満足していた。ところがその観賞対象から告白されてしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanchigai-nasaranaide",
+    "title": "勘違いなさらないでっ!",
+    "titleKana": "かんちがいなさらないでっ",
+    "authorIds": [
+      "uedarisa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "シャナリーゼ・ミラ・ジロンド伯爵令嬢、十九歳。数年前から自ら望んで悪女を演じ続けている彼女には、そうせざるを得ない事情があった。演技と本心のずれを軸にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kishidan-no-kinkoban",
+    "title": "騎士団の金庫番",
+    "titleKana": "きしだんのきんこばん",
+    "authorIds": [
+      "tobinoyuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "shigoto",
+      "naisei"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界に転移した経理OLのカエデが、怪物に襲われたところを騎士団に助けられる。彼女が任されたのは、団の金庫番という役目だった。数字を扱う職能で組織を支えていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jishou-heibon-na-mahoutsukai-no-oshigoto-jijou",
+    "title": "自称平凡な魔法使いのおしごと事情",
+    "titleKana": "じしょうへいぼんなまほうつかいのおしごとじじょう",
+    "authorIds": [
+      "tachibana-chiaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "mahou",
+      "shigoto",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "黒髪で標準的な顔立ちの「自称平凡な魔法使い」カナデは、実のところ伝説の魔法使いの孫であり転生者でもあった。平凡を主張し続ける本人と、周囲の評価との落差を描く職業ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seijo-ni-naru-node-nidome-no-jinsei-wa-katte-ni",
+    "title": "聖女になるので二度目の人生は勝手にさせてもらいます",
+    "titleKana": "せいじょになるのでにどめのじんせいわかってにさせてもらいます",
+    "authorIds": [
+      "kogomorinue"
+    ],
+    "illustratorIds": [
+      "hakou"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "time-leap",
+      "mahou"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "聖女選定の最終課題が始まり、リズを含む四人の候補者が競い合う。二度目の人生では自分の意思で生きると決めた彼女が、聖女という立場をどう引き受けるのかが描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hibon-heibon-shabon",
+    "title": "非凡・平凡・シャボン!",
+    "titleKana": "ひぼんへいぼんしゃぼん",
+    "authorIds": [
+      "wakasanao"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "mahou",
+      "shigoto",
+      "romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "王城で洗濯婦として働く平凡な少女ルチア。彼女が唯一使える魔法は、シャボン玉を作って汚れを落とすことだけだった。地味な力を職務で活かしていく、庶民視点の宮廷ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aijinokakoureitetsunahakushakutonotenkeitekinase",
+    "title": "愛人を囲う冷徹な伯爵との典型的な政略結婚、そして嫌われからの溺愛、その結末。",
+    "titleKana": "あいじんをかこうれいてつなはくしゃくとのてんけいてきなせいりゃくけっこんそしてきらわれからのできあいそのけつまつ01じょう",
+    "authorIds": [
+      "michikakachika"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "愛人を囲う冷徹な伯爵と、典型的な政略結婚を結んだセシリア。嫌われた状態から始まった関係が、やがて溺愛へと転じていく。結末までを見据えて構成された女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-onsen-de-attaka-donburigohan",
+    "title": "異世界温泉であったかどんぶりごはん",
+    "titleKana": "いせかいおんせんであったかどんぶりごはん",
+    "authorIds": [
+      "watariazuma"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "幼い頃に異世界へトリップした真嶋恵理、三十歳。恩人とその息子を支えるため働いてきた彼女が、温泉とどんぶりごはんで人を癒やしていく。食と湯を軸にした癒し系異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-oniisama-ni-korosarenaiyou-seiippai-ga",
+    "title": "異世界でお兄様に殺されないよう、精一杯がんばった結果",
+    "titleKana": "いせかいでおにいさまにころされないようせいいっぱいがんばったけっか",
+    "authorIds": [
+      "kuramotoshima"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "伯爵令嬢マリアは、自分が小説の世界に転生していると気づく。しかもこのままでは兄に殺される運命だった。破滅を避けるため、兄との関係改善に全力を注いでいく女性向け転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-kankou-taishi-hajimemashita-tenshousak",
+    "title": "異世界で観光大使はじめました。",
+    "titleKana": "いせかいでかんこうたいしはじめました",
+    "authorIds": [
+      "kanashiroizumo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "otome-game-sekai",
+      "naisei",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "エルレンテ王国第一王女ロゼは、姪と対面した瞬間、この世界が前世で遊んだ乙女ゲームだと気づく。破滅を回避する代わりに、彼女が選んだのは観光大使という役職だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "umarekawari-nante-kiite-nai-seirei-to-kaiwa-deki",
+    "title": "生まれ変わりなんて聞いてないっ!",
+    "titleKana": "うまれかわりなんてきいてないっ",
+    "authorIds": [
+      "yuuko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "mahou",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "養護院でたくさんの姉妹と暮らす心優しい少女ナディア。幼い頃から精霊と会話し、魔術にも触れてきた彼女が、自らの出自と力の意味を知っていく。前世の記憶を扱った女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uragirareta-kuroneko-wa-shiawase-na-mahougu-raif",
+    "title": "裏切られた黒猫は幸せな魔法具ライフを目指したい",
+    "titleKana": "うらぎられたくろねこわしあわせなまほうぐらいふおめざしたい",
+    "authorIds": [
+      "sakuragiakira"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "腹黒い皇帝シオンの勅命によって、魔法具の教師に任じられたクルミ。裏で進む思惑に巻き込まれながらも、彼女は魔法具づくりに打ち込んでいく。ものづくりを軸にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouritsu-kishidan-no-hanagatashoku-tenisaki-de-sa",
+    "title": "王立騎士団の花形職",
+    "titleKana": "おうりつきしだんのはながたしょく",
+    "authorIds": [
+      "itoyoshihanmi"
+    ],
+    "illustratorIds": [
+      "shima-illust"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "shigoto",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "突然異世界へ転移し、元の世界に戻れなくなったハルカ。生きるために王立騎士団で働かせてほしいと直談判する。花形とされる職場の内実を、新参者の視点から描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kusuri-de-osanaku-natta-okage-de-reikoku-koushak",
+    "title": "薬で幼くなったおかげで冷酷公爵様に拾われました",
+    "titleKana": "くすりでおさなくなったおかげでれいこくこうしゃくさまにひろわれました",
+    "authorIds": [
+      "satsuki-kanata"
+    ],
+    "illustratorIds": [
+      "matsuki"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "cheat-kid-protagonist"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "祖国を追放されたシェリーズは、道中で命を狙われ、薬の影響で幼い姿になってしまう。その状態を冷酷と噂される公爵に拾われ、保護される立場から関係が始まる女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kosensama-niwa-omitooshi-karisome-koukyuu-ibunta",
+    "title": "狐仙さまにはお見通し",
+    "titleKana": "こせんさまにわおみとおし",
+    "authorIds": [
+      "yumoriutako-2"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "chuuka-fantasy",
+      "youkai-ayakashi",
+      "mystery"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "神仙になるために修行していた狐仙の魅音が、事情あって人間に生まれ変わり、県令の使用人として暮らすことになる。仙としての視点で人の世を眺めながら、持ち込まれる謎を解いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "konokoihahimitsutoshuubundeafureteiru01jou",
+    "title": "この恋は秘密と醜聞で溢れている",
+    "titleKana": "このこいはひみつとしゅうぶんであふれている01じょう",
+    "authorIds": [
+      "adachi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "mystery",
+      "koukyuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ブルーラス王国の大貴族、公爵家の嫡子が自殺した。遺体のそばにはメイドへの想いを綴った手紙が残されていた。秘密と醜聞にまみれた恋の真相を追う、宮廷ミステリ風のロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinimodori-reijou-wa-akogare-no-akujo-o-mezasu",
+    "title": "死に戻り令嬢は憧れの悪女を目指す",
+    "titleKana": "しにもどりれいじょうわあこがれのあくじょおめざす",
+    "authorIds": [
+      "maebarumakino"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "time-leap",
+      "akujo"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "悪女に仕立て上げられ、家族に殺されては死に戻るループを繰り返す公爵令嬢キャロル。どうせ悪女と呼ばれるなら、憧れの悪女になってやろうと開き直る。逆行ものを反転させた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shiroi-kekkon-o-motome-rien-o-motomerareru-tsuma",
+    "title": "白い結婚を求め、離縁を求められる妻ですが、既に家にはおりません。",
+    "titleKana": "しろいけっこんおもとめりえんおもとめられるつまですがすでにいえにわおりません",
+    "authorIds": [
+      "kawasakiyuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "政略結婚の直後に夫から白い結婚を求められた男爵夫人エレクトラ。離縁を告げられたときには、既に彼女は家を出ていた。求められる前に自分で決める女性を描いた女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seijo-ni-uso-wa-tsuujinai",
+    "title": "聖女に嘘は通じない",
+    "titleKana": "せいじょにうそわつうじない",
+    "authorIds": [
+      "hyuuga-natsu"
+    ],
+    "illustratorIds": [
+      "shinishichiho"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "mahou",
+      "mystery",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "辺境の教会で神官見習いだった少女クロエが神子に選ばれてから一か月。次代の神子をめぐる思惑が交錯するなか、嘘を見抜く力を持つ彼女が真実に迫っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsuihou-akuyaku-reijou-no-dannasama",
+    "title": "追放悪役令嬢の旦那様",
+    "titleKana": "ついほうあくやくれいじょうのだんなさま",
+    "authorIds": [
+      "komorikiri"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "tsuihou",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "卒業パーティーで王太子から追放を言い渡された悪役令嬢が、そのまま新しい生活へ踏み出す。ちょっと不運だが最高に幸せ、という調子で綴られる追放後のファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-reijou-konse-wa-aisuru-imouto-no-tame-ni",
+    "title": "転生令嬢、今世は愛する妹のために捧げますっ!",
+    "titleKana": "てんせいれいじょうこんせわあいするいもうとのためにささげますっ",
+    "authorIds": [
+      "yumoriutako-2"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "imouto",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "トラークル侯爵家の令嬢リーリナには、明るく美しい妹シエナがいる。今世は妹のために生きると決めた姉の献身が、周囲の思惑と噛み合わないまま突き進んでいく女性向け転生もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toritsukareta-koushaku-reijou",
+    "title": "取り憑かれた公爵令嬢",
+    "titleKana": "とりつかれたこうしゃくれいじょう",
+    "authorIds": [
+      "ryuusui"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "youkai-ayakashi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "公爵家の権力を笠に着てわがまま放題だったリリアの前に、馴れ馴れしく話しかけてくる謎の少女が現れる。取り憑かれた令嬢という設定で、内側から性格が矯正されていくコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hyakkin-de-isekai-suro-raifu",
+    "title": "百均で異世界スローライフ",
+    "titleKana": "ひゃっきんでいせかいすろーらいふ",
+    "authorIds": [
+      "takanashikaoru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "平凡な学生の倉田ナナミが、女神によってファンタジー世界へ召喚される。彼女の武器は、百円均一で揃えられる現代の日用品だった。安価な道具で異世界の生活を整えていくスローライフもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "migawari-no-ikenie-datta-hazu-no-watakushi-kyouk",
+    "title": "身代わりの生贄だったはずの私、凶犬王子の愛に困惑",
+    "titleKana": "みがわりのいけにえだったはずのわたくしきょうけんおうじのあいにこんわくちゅう",
+    "authorIds": [
+      "komaru"
+    ],
+    "illustratorIds": [
+      "nagatsukioto"
+    ],
+    "publisherId": "arianrose",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "義姉の身代わりとして生贄に差し出されたはずの主人公が、凶犬と恐れられる王子から思いがけず愛情を向けられる。誰かを愛おしいと感じたことのなかった相手の変化を、戸惑いとともに描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
