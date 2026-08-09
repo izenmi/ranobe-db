@@ -154,6 +154,14 @@
     "resolvedAt": "2026-08-07T10:31:05.788Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18324988/"
   },
+  "ai-tenchi-muyou-momo-no-kioku": {
+    "title": "愛・天地無用!",
+    "isbn": null,
+    "matchedTitle": "愛・天地無用！　モモノキヲク（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9641/2000002729641.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:41.729Z"
+  },
   "ai-toka-koi-toka-kudaranai": {
     "title": "愛とか恋とか、くだらない。",
     "isbn": "9784094532159",
@@ -6471,6 +6479,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T05:31:15.630Z"
   },
+  "isekai-tanjou-2006": {
+    "title": "異世界誕生2006",
+    "isbn": null,
+    "matchedTitle": "異世界誕生　２００６",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4695/2000007684695.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:45.223Z"
+  },
   "isekai-teni-shitanode-cheat-mahou-kenshi": {
     "title": "異世界転移したのでチートを生かして魔法剣士やることにする",
     "isbn": null,
@@ -11432,6 +11448,14 @@
     "resolvedAt": "2026-08-07T10:21:55.067Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17525439/"
   },
+  "ojamajo-doremi-16": {
+    "title": "おジャ魔女どれみ16",
+    "isbn": null,
+    "matchedTitle": "おジャ魔女どれみ１６ (2)　Ｎａｉｖｅ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4474/2000000114474.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:38.192Z"
+  },
   "ojou-maid-ni-naru": {
     "title": "お嬢、メイドになる!",
     "isbn": "9784434225765",
@@ -11773,6 +11797,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T10:00:53.771Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14403500/"
+  },
+  "oosaka-shouseiden": {
+    "title": "大坂将星伝",
+    "isbn": null,
+    "matchedTitle": "真田を云て、毛利を云わず（上）　大坂将星伝",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2009/2000004452009.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:25.361Z"
   },
   "oppai-momitai": {
     "title": "『おっぱい揉みたい』って叫んだら、妹の友達と付き合うことになりました。",
@@ -15687,6 +15719,14 @@
     "resolvedAt": "2026-08-04T09:58:22.797Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12818091/"
   },
+  "taishou-hakomusume-minarai-kisha-to-nazotokihime": {
+    "title": "大正箱娘",
+    "isbn": null,
+    "matchedTitle": "大正箱娘　見習い記者と謎解き姫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4901/2000004114901.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:28.840Z"
+  },
   "taishou-jigoku-roman": {
     "title": "大正地獄浪漫",
     "isbn": "9784065127292",
@@ -16218,6 +16258,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:33.728Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17112547/"
+  },
+  "tensei-taikouki-gendai-chishiki-de-sengoku-no-yo": {
+    "title": "転生太閤記",
+    "isbn": "9784040723242",
+    "matchedTitle": "転生太閤記〜現代知識で戦国の世を無双する〜 桶狭間編",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3242/9784040723242_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:38:30.026Z"
   },
   "tensei-youjo-wa-kyouiku-shitai": {
     "title": "転生幼女は教育したい！〜前世の知識で、異世界の社会常識を変えることにしました〜",
@@ -17566,6 +17614,14 @@
     "resolvedAt": "2026-08-08T06:50:15.116Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18012224/"
   },
+  "youhei-to-shousetsuka": {
+    "title": "傭兵と小説家",
+    "isbn": null,
+    "matchedTitle": "傭兵と小説家 1巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3702/2000010923702.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:38:33.537Z"
+  },
   "youheidan-no-ryourigakari": {
     "title": "傭兵団の料理番",
     "isbn": "9784074169245",
@@ -17624,6 +17680,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T10:00:09.412Z"
+  },
+  "youmuinsan-wa-yuusha-ja-arimasennode": {
+    "title": "用務員さんは勇者じゃありませんので",
+    "isbn": "9784040684253",
+    "matchedTitle": "用務員さんは勇者じゃありませんので　5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4253/9784040684253.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:38:34.703Z"
   },
   "your-forma": {
     "title": "ユア・フォルマ",

@@ -68996,5 +68996,225 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oosaka-shouseiden",
+    "title": "大坂将星伝",
+    "titleKana": "おおさかしょうせいでん",
+    "authorIds": [
+      "nikihideyuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "senki",
+      "jidai-fantasy",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 6,
+    "status": "completed",
+    "synopsis": "豊臣政権の次代を担う器と目された武将・毛利勝永を主人公に据えた戦国小説。秀吉亡き後の政権を支えようとする石田三成らの動きと、それを覆そうとする徳川家康の圧力の間で、勝永は自らの立ち位置を定めていく。大坂の陣へ向かう歴史の流れを、名将たちの選択の連なりとして描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taishou-hakomusume-minarai-kisha-to-nazotokihime",
+    "title": "大正箱娘",
+    "titleKana": "たいしょうはこむすめ",
+    "authorIds": [
+      "kougyoku-izuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "tantei"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "新米新聞記者の英田紺のもとに、旧家の蔵で見つかった「呪いの箱」を始末してほしいという依頼が舞い込む。持ち込まれた怪異を、謎解きを得意とする少女とともに解きほぐしていく大正時代の連作ミステリ。怪異の正体を人の心の側から説明する構成で、時代の空気を丁寧に写し取っている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-taikouki-gendai-chishiki-de-sengoku-no-yo",
+    "title": "転生太閤記",
+    "titleKana": "てんせいたいこうき",
+    "authorIds": [
+      "tsuda-hokou"
+    ],
+    "illustratorIds": [
+      "shishizaru"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "nihonshi-tensei",
+      "senki",
+      "naisei"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "一五六〇年、各地で剣術を修めた秀一が、桶狭間の戦いを目前にして織田信長のもとへ帰参する。現代の知識を携えた彼は、合戦の勝敗だけでなく兵站や領国経営にまで手を入れ、史実とは異なる道筋を切り開いていく。戦国という舞台に近代的な発想を持ち込んだ歴史転生もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "youhei-to-shousetsuka",
+    "title": "傭兵と小説家",
+    "titleKana": "ようへいとしょうせつか",
+    "authorIds": [
+      "nankai-yuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "mercenary"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "不死の霊薬が眠るとされる魔の山を目指す、小説家バーダロンと護衛の傭兵ソードの旅を描くファンタジー。書くために危地へ赴く者と、生きるために剣を振るう者という対照的な二人が、道中で互いの流儀を認めていく。旅そのものを物語る枠組みが効いた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "youmuinsan-wa-yuusha-ja-arimasennode",
+    "title": "用務員さんは勇者じゃありませんので",
+    "titleKana": "ようむいんさんわゆうしゃじゃありませんので",
+    "authorIds": [
+      "tanakajinpei"
+    ],
+    "illustratorIds": [
+      "iwamoto-hidetoshi"
+    ],
+    "publisherId": "mf-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 8,
+    "status": "unknown",
+    "synopsis": "市立桜ケ丘高等学校の生徒と職員、あわせて七十九名がまとめて異世界へ召喚される。勇者として持ち上げられる生徒たちの陰で、用務員である主人公は戦力として数えられもしない。だが裏方の仕事を積み重ねてきた経験が、異世界では思わぬ形で効いてくる。肩書きのない大人の異世界ものである。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ojamajo-doremi-16",
+    "title": "おジャ魔女どれみ16",
+    "titleKana": "おじゃまじょどれみ",
+    "authorIds": [
+      "kuriyamamidori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "mahou",
+      "gendai-drama",
+      "seishun-lovecome"
+    ],
+    "firstPublishedYear": 2000,
+    "volumeCount": 12,
+    "status": "completed",
+    "synopsis": "テレビアニメ『おジャ魔女どれみ』の登場人物が十六歳になった姿を描く小説シリーズ。留学していたももこが帰国し、MAHO堂はスウィートハートハウスとして新装開店する。魔女見習いだった頃の魔法から距離を置き、進路や友情に向き合う年齢になった彼女たちの現在を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ai-tenchi-muyou-momo-no-kioku",
+    "title": "愛・天地無用!",
+    "titleKana": "あいてんちむよう",
+    "authorIds": [
+      "mizukihiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "harem",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "OVAシリーズ『天地無用!』の派生作にあたる小説版。柾木天地が女子高の教師として順愛学園に赴任し、生徒たちと騒動を起こしていく。おなじみの美女たちに囲まれる構図はそのままに、舞台を学園に移した番外編として、原作の空気を引き継いだドタバタコメディを展開する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-tanjou-2006",
+    "title": "異世界誕生2006",
+    "titleKana": "いせかいたんじょうにせんなな",
+    "authorIds": [
+      "itouhiro"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-ranobe-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "otaku-shumi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "二〇〇六年の春、小学六年生の少年が「今どきファンタジー小説などあり得ない」と酷評されながらも小説を書き始める。創作にのめり込む子どもたちの視点から、ライトノベルという表現がどう受け止められてきたのかを描く。時代の空気とオタク文化の変遷を、少年たちの自意識越しに映し出す。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
