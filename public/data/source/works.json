@@ -75028,5 +75028,641 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-wokingu",
+    "title": "異世界ウォーキング",
+    "titleKana": "いせかいうぉーきんぐ",
+    "authorIds": [
+      "arukuhito"
+    ],
+    "illustratorIds": [
+      "yunitto"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "adventure",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 13,
+    "status": "ongoing",
+    "synopsis": "異世界に転移した主人公が、歩くことでレベルが上がるという特異なスキルを頼りに各地を巡る。移動そのものが成長になるため、目的地よりも道中の出会いが物語を作っていく。旅の記録を積み重ねる構成で、土地ごとの暮らしぶりが丁寧に描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ougon-no-keikenchi",
+    "title": "黄金の経験値",
+    "titleKana": "おうごんのけいけんち",
+    "authorIds": [
+      "harajun"
+    ],
+    "illustratorIds": [
+      "firo"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "nation-building",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "ゲーム的な経験値の仕組みを軸に、配下を強化しながら勢力を広げていく異世界ファンタジー。大戦の終盤では黄金龍討伐に向けて各国の王にまで手を入れ、大陸全体を巻き込む災厄を引き起こしていく。主人公が悪役側の論理で動くのが特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-toushou-no-maken-seisakugurashi",
+    "title": "異世界刀匠の魔剣製作ぐらし",
+    "titleKana": "いせかいとうしょうのまけんせいさくぐらし",
+    "authorIds": [
+      "ogiwarakazuma"
+    ],
+    "illustratorIds": [
+      "karimarika"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "異世界で刀を鍛える職人ルッツたちの日々を描く物語。彼らが打った鬼哭刀は貴族の目に留まり、武具マニアたちのあいだで評判を呼んでいく。鍛冶の工程と、依頼を通じて広がる人間関係を並行して描く職人ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outo-no-hazure-no-renkinjutsushi-hazure-shokugyo",
+    "title": "王都の外れの錬金術師",
+    "titleKana": "おうとのはずれのれんきんじゅつし",
+    "authorIds": [
+      "asanaya-2"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "いらない子と言われ続けてきた少女デイジーが、王都の外れで錬金術の工房を営む。素材を集める旅と、支えてくれる仲間たちのおかげで、小さな店は少しずつ繁盛していく。調合と商いを積み重ねる、穏やかな異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "utakata-ni-kami-wa-madoromu",
+    "title": "泡沫に神は微睡む",
+    "titleKana": "うたかたにかみわまどろむ",
+    "authorIds": [
+      "yasudanora"
+    ],
+    "illustratorIds": [
+      "altera"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "akuyaku-kizoku",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "精霊の力によって国を牛耳る貴族「八家」の一つに生まれながら、晶にはなぜか精霊が宿っていなかった。生家での立場を失った彼が、それでも自らの居場所を切り開いていく。和風の意匠を交えた重厚な貴族ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-teni-jiraitsuki",
+    "title": "異世界転移、地雷付き。",
+    "titleKana": "いせかいてんいじらいつき",
+    "authorIds": [
+      "itsuki-mizuho"
+    ],
+    "illustratorIds": [
+      "nekoneko-neko"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "survival",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "不慮の事故で死んだクラスメイトたちを、自称「悪くない邪神」が異世界へ転移させる。ただし与えられた能力にはことごとく地雷が仕込まれており、使い方を誤れば命取りになる。制約付きのチートをどう捌くかが焦点の異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outo-no-gakuen-ni-kyousei-renkou-sareta-saikyou",
+    "title": "王都の学園に強制連行された最強のドラゴンライダーは超が付くほど田舎者",
+    "titleKana": "おうとのがくえんにきょうせいれんこうされたさいきょうのどらごんらいだーわちょうがつくほどいなかもの",
+    "authorIds": [
+      "kurusumin"
+    ],
+    "illustratorIds": [
+      "p-58148"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gakuen",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "相棒のドラゴンとともに田舎で暮らしていた最強のドラゴンライダーが、王都の学園へ強制的に連行される。都会の作法をまるで知らない主人公が、実力だけで学園の常識をひっくり返していく。田舎者という設定を笑いに変えた学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyokutou-kyuuseishu-densetsu",
+    "title": "極東救世主伝説",
+    "titleKana": "きょくとうきゅうせいしゅでんせつ",
+    "authorIds": [
+      "hotoke-yomo"
+    ],
+    "illustratorIds": [
+      "kurogane"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "alternate-history",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "第二次世界大戦末期に行われた悪魔召喚の儀によって、世界の姿は一変した。それから百年、悪魔が支配者となった世界で人類はどう生きるのか——歴史改変と悪魔学を組み合わせた重厚な設定のダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reijou-wa-shomin-ni-totsugitai",
+    "title": "悪役令嬢は、庶民に嫁ぎたい!!",
+    "titleKana": "あくやくれいじょうわしょみんにとつぎたい",
+    "authorIds": [
+      "anzuteiriko"
+    ],
+    "illustratorIds": [
+      "houhou"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-reijou",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "やり込んでいた乙女ゲームの悪役令嬢に転生してしまった主人公。王子も騎士も魔術師も揃ったハイスペックな攻略対象たちには目もくれず、彼女が望むのは庶民の男性に嫁ぐことだった。攻略を拒否するヒロインを描く転生ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-omotenashi-gohan-seijo-shoukan-to-ougon-p",
+    "title": "異世界おもてなしご飯",
+    "titleKana": "いせかいおもてなしごはん",
+    "authorIds": [
+      "shinobumaru"
+    ],
+    "illustratorIds": [
+      "yukiya"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "聖女である妹が役目を果たした後、自分はどう生きるのか——国王の何気ない一言をきっかけに、茜は自らの居場所を考え始める。料理でもてなすことを通じて人と関わっていく、食事の描写が中心の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekaijin-no-tebikisho",
+    "title": "異世界人の手引き書",
+    "titleKana": "いせかいじんのてびきしょ",
+    "authorIds": [
+      "takkurun"
+    ],
+    "illustratorIds": [
+      "paseri"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "アラサーの営業マンが突然異世界へ召喚される。戸惑う彼の前に現れたのは、腹黒い貴族に脳筋の騎士、そしてヤンデレ気味の令嬢という濃すぎる面々だった。営業職の対人スキルで異世界を渡り歩くコメディ寄りの作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-no-hate-de-kaitaku-gohan-zashikiwarashi-t",
+    "title": "異世界の果てで開拓ごはん!",
+    "titleKana": "いせかいのはてでかいたくごはん",
+    "authorIds": [
+      "takiguchiryuu"
+    ],
+    "illustratorIds": [
+      "ramuya"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ニートだったために父から辺境の村へ飛ばされた主人公。ところがその村は貧しく、何より食事が壊滅的にまずかった。まずは食から立て直そうと決めた彼が、料理と開拓で村を変えていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ookamiryoushu-no-ojousama",
+    "title": "狼領主のお嬢様",
+    "titleKana": "おおかみりょうしゅのおじょうさま",
+    "authorIds": [
+      "morinoion"
+    ],
+    "illustratorIds": [
+      "suz"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "time-leap"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "悪逆領主の娘として処刑された記憶を持つ少女シャーリーが、やり直しの人生で家と領地を作り替えていく。前の生で招いた破滅を避けるため、父の悪政にも正面から向き合わざるを得ない。領地経営を絡めた女性向け転生もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kusamahoushi-kuroe-no-nidome-no-jinsei-jiyuu-ni",
+    "title": "草魔法師クロエの二度目の人生",
+    "titleKana": "くさまほうしくろえのにどめのじんせい",
+    "authorIds": [
+      "odahiro"
+    ],
+    "illustratorIds": [
+      "pulp-piroshi"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "mahou",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "適性が『草魔法』であるという理由で蔑まれ、王子から婚約破棄されて悪役に仕立てられた侯爵令嬢クロエ。二度目の人生では、地味と侮られた草魔法の可能性を自ら証明していく。子ドラゴンのエメルに背を押されながら過去を克服する物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikidaore-mo-dekinai-konna-isekai-ja",
+    "title": "行き倒れもできないこんな異世界じゃ",
+    "titleKana": "いきだおれもできないこんないせかいじゃ",
+    "authorIds": [
+      "natsunoyoruko"
+    ],
+    "illustratorIds": [
+      "akai-tera"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "survival",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "転んだ拍子に異世界へ飛ばされた女子高生スミレが降り立ったのは、極彩色の植物が叫ぶ危険極まりない森だった。行き倒れることすら許されない環境で、彼女はどうにか生き延びる術を探す。過酷さを笑いに変えたサバイバルもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-gohan-musou-sukiru-to-zense-no-chishiki-o",
+    "title": "異世界ごはん無双",
+    "titleKana": "いせかいごはんむそう",
+    "authorIds": [
+      "bocchineko"
+    ],
+    "illustratorIds": [
+      "naruse-chisato"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "米がまずい世界に、米農家の息子フェリクとして生まれ変わった主人公。最強の米スキルを手に、炊き方から品種改良まで持ち込み、米の魅力を広めていく。一つの作物に絞り込んだ異世界グルメファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-ane-ni-namae-o-ubawaremashita",
+    "title": "異世界で姉に名前を奪われました",
+    "titleKana": "いせかいであねになまえおうばわれました",
+    "authorIds": [
+      "kotoko"
+    ],
+    "illustratorIds": [
+      "p-940994"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "fukushuu",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界へ転移した一花が再会したのは、「イチカ」を名乗って聖女に収まっていた姉の華恋だった。名前も立場も奪われた彼女は、「カレン」として生きることを強いられる。取り違えられた姉妹の関係を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-penshon-hajimemashita-sekai-de-yuiitsu",
+    "title": "異世界でペンション始めました。",
+    "titleKana": "いせかいでぺんしょんはじめました",
+    "authorIds": [
+      "natsuminoru"
+    ],
+    "illustratorIds": [
+      "nomiyakei"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界でペンションを始めた主人公たちのもとに、助けを求める兎の獣人シュカが現れる。宿の運営を軸に、訪れる客の事情を一つずつ解いていく構成で、経営の苦労と旅人との交流が並行して描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "erufu-to-sensha-to-boku-no-mainichi",
+    "title": "エルフと戦車と僕の毎日",
+    "titleKana": "えるふとせんしゃとぼくのまいにち",
+    "authorIds": [
+      "satou-daisuke"
+    ],
+    "illustratorIds": [
+      "saosatoru"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "senki",
+      "robot-mecha"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "チート能力も無双の展開も与えられないまま異世界に放り込まれた主人公が、なぜかエルフ軍の指揮を執ることになる。戦車という現実的な兵器を軸に、補給と戦術で戦局を組み立てていく硬派な異世界戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oretachi-no-kuesuto",
+    "title": "俺たちのクエスト",
+    "titleKana": "おれたちのくえすと",
+    "authorIds": [
+      "mikami-teren"
+    ],
+    "illustratorIds": [
+      "sasakiakane"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "gambling",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "手持ちのカードはクズばかり——それでも七羅将ギルドラドンを倒したことでヒーロー扱いされてしまった主人公の物語。運任せの手札をどう使い切るかという発想で戦いを組み立てる、カードゲーム風の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimi-wa-shinenai-haikaburi-no-majo",
+    "title": "君は死ねない灰かぶりの魔女",
+    "titleKana": "きみわしねないはいかぶりのまじょ",
+    "authorIds": [
+      "hainumi"
+    ],
+    "illustratorIds": [
+      "takedahotaru"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "mahou",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "世界有数の大魔法使いを自称する華奢な少女リナリアと、その弟子である「僕」の関係を描くファンタジー。偉そうな態度とは裏腹に出不精で無防備な師匠に振り回されながら、弟子は死ねない魔女の抱える事情に近づいていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kin-no-hoshitei-hanjouki-isekai-no-yadoya-ni-ten",
+    "title": "『金の星亭』繁盛記",
+    "titleKana": "きんのほしていはんじょうき",
+    "authorIds": [
+      "takaiushio"
+    ],
+    "illustratorIds": [
+      "matachi-mataro"
+    ],
+    "publisherId": "kadokawa-books",
+    "themeIds": [
+      "isekai-tensei",
+      "shigoto",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "残業帰りに命を落とした三十路の会社員・川端幸司が転生した先は、隙間風の吹く宿屋『金の星亭』だった。傾いた宿を立て直すため、前世の勤め人としての感覚を持ち込んで経営に取り組んでいく。宿屋経営ものの異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]

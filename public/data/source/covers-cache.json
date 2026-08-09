@@ -887,6 +887,14 @@
     "resolvedAt": "2026-08-07T10:30:37.421Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17831806/"
   },
+  "akuyaku-reijou-wa-shomin-ni-totsugitai": {
+    "title": "悪役令嬢は、庶民に嫁ぎたい!!",
+    "isbn": null,
+    "matchedTitle": "悪役令嬢は、庶民に嫁ぎたい!!　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6250/2000006606250.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:08.512Z"
+  },
   "akuyaku-reijou-wa-yuuga-ni-hohoemu": {
     "title": "悪役令嬢は優雅に微笑む",
     "isbn": "9784434260438",
@@ -4013,6 +4021,14 @@
     "resolvedAt": "2026-08-07T10:21:10.603Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16197938/"
   },
+  "erufu-to-sensha-to-boku-no-mainichi": {
+    "title": "エルフと戦車と僕の毎日",
+    "isbn": null,
+    "matchedTitle": "エルフと戦車と僕の毎日 I(下)　-パンツァーエルフの誕生-",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6422/2000002976422.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:27.163Z"
+  },
   "escape-speed": {
     "title": "エスケヱプ・スピヰド",
     "isbn": null,
@@ -6117,6 +6133,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T03:35:40.359Z"
   },
+  "ikidaore-mo-dekinai-konna-isekai-ja": {
+    "title": "行き倒れもできないこんな異世界じゃ",
+    "isbn": null,
+    "matchedTitle": "行き倒れもできないこんな異世界じゃ　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7143/2000009427143.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:20.162Z"
+  },
   "ikikaetta-boukensha-no-kuesuto-kouryaku-seikatsu": {
     "title": "生き返った冒険者のクエスト攻略生活",
     "isbn": null,
@@ -6793,6 +6817,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:08:24.402Z"
   },
+  "isekai-de-ane-ni-namae-o-ubawaremashita": {
+    "title": "異世界で姉に名前を奪われました",
+    "isbn": "9784040754215",
+    "matchedTitle": "異世界で姉に名前を奪われました",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4215/9784040754215_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:22.496Z"
+  },
   "isekai-de-cafe-wo-kaiten-shimashita": {
     "title": "異世界でカフェを開店しました。",
     "isbn": "9784434229992",
@@ -6842,6 +6874,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T09:57:46.308Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14583986/"
+  },
+  "isekai-de-penshon-hajimemashita-sekai-de-yuiitsu": {
+    "title": "異世界でペンション始めました。",
+    "isbn": "9784040744032",
+    "matchedTitle": "異世界でペンション始めました。 世界で唯一の黒魔女ですが、この力はお客様のために使います。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4032/9784040744032_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:23.663Z"
   },
   "isekai-de-rori-ni-amayakasareru-no-wa-machigatte": {
     "title": "異世界でロリに甘やかされるのは間違っているだろうか",
@@ -6949,6 +6989,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7194/2000005477194.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T07:19:14.158Z"
+  },
+  "isekai-gohan-musou-sukiru-to-zense-no-chishiki-o": {
+    "title": "異世界ごはん無双",
+    "isbn": "9784040755359",
+    "matchedTitle": "異世界ごはん無双 〜スキルと前世の知識を使って、お米改革はじめます！〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5359/9784040755359_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:21.327Z"
   },
   "isekai-goumonhime": {
     "title": "異世界拷問姫",
@@ -7171,6 +7219,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:08:14.970Z"
   },
+  "isekai-no-hate-de-kaitaku-gohan-zashikiwarashi-t": {
+    "title": "異世界の果てで開拓ごはん!",
+    "isbn": "9784040724805",
+    "matchedTitle": "異世界の果てで開拓ごはん！ 〜座敷わらしと目指す快適スローライフ〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4805/9784040724805_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:14.322Z"
+  },
   "isekai-no-kengou-kara-chikara-to-waza-o-keishou": {
     "title": "異世界の剣豪から力と技を継承してみた",
     "isbn": "9784040642710",
@@ -7221,6 +7277,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6793/9784040656793_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:22:29.838Z"
+  },
+  "isekai-omotenashi-gohan-seijo-shoukan-to-ougon-p": {
+    "title": "異世界おもてなしご飯",
+    "isbn": null,
+    "matchedTitle": "異世界おもてなしご飯(1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2970/2000006172970.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:11.996Z"
   },
   "isekai-onsen-ni-tensei-shita-ore-no-kounou-ga-to": {
     "title": "異世界温泉に転生した俺の効能がとんでもすぎる",
@@ -7383,6 +7447,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:38:45.223Z"
   },
+  "isekai-teni-jiraitsuki": {
+    "title": "異世界転移、地雷付き。",
+    "isbn": "9784040730691",
+    "matchedTitle": "異世界転移、地雷付き。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0691/9784040730691_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:02.398Z"
+  },
   "isekai-teni-shitanode-cheat-mahou-kenshi": {
     "title": "異世界転移したのでチートを生かして魔法剣士やることにする",
     "isbn": null,
@@ -7457,6 +7529,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:02:22.540Z"
   },
+  "isekai-toushou-no-maken-seisakugurashi": {
+    "title": "異世界刀匠の魔剣製作ぐらし",
+    "isbn": "9784040748504",
+    "matchedTitle": "異世界刀匠の魔剣製作ぐらし",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8504/9784040748504_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:21:58.837Z"
+  },
   "isekai-wa-omotta-yori-mo-ore-ni-yasashii": {
     "title": "異世界は思ったよりも俺に優しい?",
     "isbn": "9784864725491",
@@ -7480,6 +7560,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5286/9784864725286.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:08:19.723Z"
+  },
+  "isekai-wokingu": {
+    "title": "異世界ウォーキング",
+    "isbn": "9784040744896",
+    "matchedTitle": "異世界ウォーキング 〜エレージア王国編〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4896/9784040744896_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:21:55.287Z"
   },
   "isekai-yakkyoku": {
     "title": "異世界薬局",
@@ -7553,6 +7641,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9992/9784299079992_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:03:52.170Z"
+  },
+  "isekaijin-no-tebikisho": {
+    "title": "異世界人の手引き書",
+    "isbn": "9784040720432",
+    "matchedTitle": "異世界人の手引き書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0432/9784040720432_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:13.154Z"
   },
   "isekaitabi-wa-niwatorisu-to-tomo-ni": {
     "title": "異世界旅はニワトリスと共に",
@@ -9256,6 +9352,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:00:34.789Z"
   },
+  "kimi-wa-shinenai-haikaburi-no-majo": {
+    "title": "君は死ねない灰かぶりの魔女",
+    "isbn": null,
+    "matchedTitle": "君は死ねない灰かぶりの魔女　（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1700/2000008991700.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:34.250Z"
+  },
   "kimi-wa-tsukiyo-ni-hikari-kagayaku": {
     "title": "君は月夜に光り輝く",
     "isbn": "9784048926751",
@@ -9289,6 +9393,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1809/2000004911809.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:00:38.359Z"
+  },
+  "kin-no-hoshitei-hanjouki-isekai-no-yadoya-ni-ten": {
+    "title": "『金の星亭』繁盛記",
+    "isbn": "9784040726878",
+    "matchedTitle": "『金の星亭』繁盛記〜異世界の宿屋に転生しました〜　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6878/9784040726878_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:35.426Z"
   },
   "kinema-tantei": {
     "title": "キネマ探偵カレイドミステリー",
@@ -10572,6 +10684,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:21:46.480Z"
   },
+  "kusamahoushi-kuroe-no-nidome-no-jinsei-jiyuu-ni": {
+    "title": "草魔法師クロエの二度目の人生",
+    "isbn": "9784047370708",
+    "matchedTitle": "草魔法師クロエの二度目の人生 2 自由になって子ドラゴンとレベルMAX薬師ライフ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0708/9784047370708_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:16.650Z"
+  },
   "kusetsuyo-ishuzoku-de-gyouretsu-ga-dekiru-kekkon": {
     "title": "クセつよ異種族で行列ができる結婚相談所 〜看板ネコ娘はカワイイだけじゃ務まらない〜",
     "isbn": "9784049148756",
@@ -10682,6 +10802,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T10:13:31.125Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15729707/"
+  },
+  "kyokutou-kyuuseishu-densetsu": {
+    "title": "極東救世主伝説",
+    "isbn": "9784040754178",
+    "matchedTitle": "極東救世主伝説 少年、異形の機体で無双する。 -九州大規模攻勢編ー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4178/9784040754178_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:04.759Z"
   },
   "kyoto-fukei-ayakashi-ka-no-jikenbo": {
     "title": "京都府警あやかし課の事件簿",
@@ -13182,6 +13310,14 @@
     "resolvedAt": "2026-08-04T10:00:53.771Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14403500/"
   },
+  "ookamiryoushu-no-ojousama": {
+    "title": "狼領主のお嬢様",
+    "isbn": "9784041060155",
+    "matchedTitle": "狼領主のお嬢様",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0155/9784041060155_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:15.485Z"
+  },
   "oooku-no-sakura-gendai-oooku-jogakuin-maruichi": {
     "title": "大奥のサクラ",
     "isbn": null,
@@ -13743,6 +13879,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:52:50.251Z"
   },
+  "oretachi-no-kuesuto": {
+    "title": "俺たちのクエスト",
+    "isbn": null,
+    "matchedTitle": "俺たちのクエスト　〜クズカード無双で異世界成り上がり〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7880/2000003997880.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:22:30.737Z"
+  },
   "oretachi-wa-isekai-ni-ittara-mazu-massaki-ni-but": {
     "title": "俺たちは異世界に行ったらまず真っ先に物理法則を確認する",
     "isbn": null,
@@ -14226,6 +14370,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:22:47.228Z"
   },
+  "ougon-no-keikenchi": {
+    "title": "黄金の経験値",
+    "isbn": "9784040747446",
+    "matchedTitle": "黄金の経験値 特定災害生物「魔王」降臨タイムアタック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7446/9784040747446_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:21:57.631Z"
+  },
   "ouhi-beruta-no-shouzou": {
     "title": "王妃ベルタの肖像",
     "isbn": "9784040735795",
@@ -14359,6 +14511,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4553/2000002164553.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:35:47.136Z"
+  },
+  "outo-no-gakuen-ni-kyousei-renkou-sareta-saikyou": {
+    "title": "王都の学園に強制連行された最強のドラゴンライダーは超が付くほど田舎者",
+    "isbn": "9784040726397",
+    "matchedTitle": "王都の学園に強制連行された最強のドラゴンライダーは超が付くほど田舎者　3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6397/9784040726397_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:03.568Z"
+  },
+  "outo-no-hazure-no-renkinjutsushi-hazure-shokugyo": {
+    "title": "王都の外れの錬金術師",
+    "isbn": "9784040739700",
+    "matchedTitle": "王都の外れの錬金術師 〜ハズレ職業だったので、のんびりお店経営します〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9700/9784040739700_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:00.015Z"
   },
   "outo-wanope-goremu-masuta-masaka-no-tsuihou-jiyu": {
     "title": "王都ワンオペゴーレムマスター。まさかの追放!?",
@@ -18796,6 +18964,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T14:38:12.939Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18639733/"
+  },
+  "utakata-ni-kami-wa-madoromu": {
+    "title": "泡沫に神は微睡む",
+    "isbn": "9784040748535",
+    "matchedTitle": "泡沫に神は微睡む 1 追放された少年は火神の剣をとる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8535/9784040748535_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:22:01.180Z"
   },
   "utomare-seijo-yarinaoshi-jinsei-de-koushakusama": {
     "title": "疎まれ聖女、やり直し人生で公爵様の妹君の家庭教師になる",
