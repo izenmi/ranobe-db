@@ -75664,5 +75664,707 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amarimono-isekaijin-no-jiyuu-seikatsu-yuusha-ja",
+    "title": "余りモノ異世界人の自由生活",
+    "titleKana": "あまりものいせかいじんのじゆうせいかつ",
+    "authorIds": [
+      "fujimorifukurou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 16,
+    "status": "ongoing",
+    "synopsis": "ブラック企業に勤めていた相良真一が、勇者召喚に巻き込まれて異世界へ飛ばされる。ところが彼は勇者本人ではない「余り物」扱いで、放り出されてしまう。義務も期待も背負わない立場を活かし、自分のために自由な生活を組み立てていく異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arugeto-onrain",
+    "title": "アルゲートオンライン",
+    "titleKana": "あるげーとおんらいん",
+    "authorIds": [
+      "tounotsumugu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "vrmmo",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 15,
+    "status": "ongoing",
+    "synopsis": "VRMMO「アルゲートオンライン」を三日連続でプレイしていた稜威高志が、寝落ちした先で目を覚ますとゲーム内から出られなくなっていた。仕様の隅々まで知り尽くした知識を武器に、閉じ込められた世界での立ち回りを探っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "iikagen-na-yashoku",
+    "title": "いい加減な夜食",
+    "titleKana": "いいかげんなやしょく",
+    "authorIds": [
+      "akikawatakimi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "gourmet",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 12,
+    "status": "ongoing",
+    "synopsis": "ハウスクリーニングのアルバイトをしている佳乃が、清掃で訪れた豪邸の主に夜食を作ることになる。手早く作れて胃にもたれない一皿を通じて、二人の距離が少しずつ近づいていく。食べ物の描写を軸にした現代ライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arumadianosu-eiyuuden",
+    "title": "アルマディアノス英雄伝",
+    "titleKana": "あるまでぃあのすえいゆうでん",
+    "authorIds": [
+      "takami-ryousen"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "最強と称される魔導士ベルンスト・ゲオルを主人公に据えた王道の無双ファンタジー。圧倒的な力を持つがゆえに背負わされる責任と、大陸情勢の駆け引きが並行して描かれる。『異世界転生騒動記』の著者による長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-oniyome-konintan-erabareshi-ikenie-no-m",
+    "title": "あやかし鬼嫁婚姻譚",
+    "titleKana": "あやかしおによめこんいんたん",
+    "authorIds": [
+      "oborozukiaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "天涯孤独で養護施設に育った里穂が、名門・花菱家の養女として引き取られる。だが待っていたのは家族からの冷遇と、あやかしの世界へ嫁ぐという役目だった。虐げられた少女が鬼の花嫁として居場所を得ていく和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aisare-ouji-no-isekai-honobono-seikatsu-kao-yosh",
+    "title": "愛され王子の異世界ほのぼの生活",
+    "titleKana": "あいされおうじのいせかいほのぼのせいかつ",
+    "authorIds": [
+      "shimotsuki-hyouka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "転生時の十連ガチャで、美形・超成長・王家の出という大当たりを引いたアキト。恵まれすぎた条件を手に、彼はのんびりとした王子の生活を満喫していく。困難よりも日々の充実を描くことに主眼を置いた異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashigura-no-kanrinin",
+    "title": "あやかし蔵の管理人",
+    "titleKana": "あやかしぐらのかんりにん",
+    "authorIds": [
+      "asahinanagomu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "両親が突然海外へ発ち、日本に一人残された高校生の小日向蒼真は、作家・結月清人のもとで居候することになる。その家には人ならざるものが出入りする蔵があり、彼は管理人としてあやかしたちと関わっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akachanryuu-no-osewagakari-ni-ninmei-saremashita",
+    "title": "赤ちゃん竜のお世話係に任命されました",
+    "titleKana": "あかちゃんりゅうのおせわがかりににんめいされました",
+    "authorIds": [
+      "kusanosetsuri"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "ドッグトレーナーの菊池結衣が、仕事中に突然異世界へ召喚される。任されたのは赤ちゃん竜の世話係という役目だった。動物を扱う技能をそのまま竜の育成に活かしていく、育児寄りの穏やかな異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aku-no-joou-no-kiseki",
+    "title": "悪の女王の軌跡",
+    "titleKana": "あくのじょおうのきせき",
+    "authorIds": [
+      "kazamikunoe"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "akujo",
+      "senki"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "気がつくと戦場に倒れていた大学生の茉莉。周囲には西洋風の鎧をまとった騎士たちがいて、彼女は否応なく異世界の争いに巻き込まれていく。やがて「悪の女王」と呼ばれる立場に至るまでの軌跡を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reisoku-ni-nanka-narimasen-boku-wa-niisa",
+    "title": "悪役令息になんかなりません!僕は兄様と幸せになります!",
+    "titleKana": "あくやくれいそくになんかなりませんぼくわにいさまとしあわせになります",
+    "authorIds": [
+      "tamurak"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "kazoku-ikuji",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "貴族の家に生まれながら両親に虐待され、半死半生のところを伯父に助け出された少年エドワード。悪役令息として破滅する筋書きを拒み、兄と幸せに生きることを目指していく。家族の再生を主題にした男性主人公の転生もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atifakuto-korekuta",
+    "title": "アーティファクトコレクター",
+    "titleKana": "あーてぃふぁくとこれくたー",
+    "authorIds": [
+      "issei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "dungeon",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "平凡なサラリーマンだった松平善が神の計らいで異世界に転生する。ところが目を覚ました場所はダンジョンの中だった。遺物を収集し、その力を組み合わせて生き延びていく、収集要素の強い異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aisubeki-mushi-to-meikyuu-deno-nichijou",
+    "title": "愛すべき『蟲』と迷宮での日常",
+    "titleKana": "あいすべきむしとめいきゅうでのにちじょう",
+    "authorIds": [
+      "jukurenshinshi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "dungeon"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "自称紳士にして凄腕の蟲使いレイアは、地下迷宮「モロド樹海」でギルドの依頼をこなすBランク冒険者。忌避されがちな蟲を相棒として扱い、その生態を活かした戦い方を見せていく。ニッチな使い魔を主役に据えた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "azuraeru-ke-no-jinan-wa-hanma",
+    "title": "アズラエル家の次男は半魔",
+    "titleKana": "あずらえるけのじなんわはんま",
+    "authorIds": [
+      "datekiyo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-fantasy",
+      "akuyaku-kizoku",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "数多くの聖騎士を輩出した名門アズラエル家に生まれたリンダは、その血筋にありながら半分が魔である存在だった。魔力の強い者が重んじられる家のなかで、半魔という立場がどう扱われるのかが物語の芯になる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashigitsune-no-migawari-hanayome",
+    "title": "あやかし狐の身代わり花嫁",
+    "titleKana": "あやかしぎつねのみがわりはなよめ",
+    "authorIds": [
+      "shiano"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "親を亡くしたばかりの小春が、迷い込んだ黒松の林で狐の嫁入りを目撃してしまう。人間である彼女は咎められ、身代わりの花嫁として狐のもとへ差し出される。和の意匠を凝らした、あやかしとの婚姻譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-neko-no-hanayomesama",
+    "title": "あやかし猫の花嫁様",
+    "titleKana": "あやかしねこのはなよめさま",
+    "authorIds": [
+      "minatoshou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "田舎の一軒家で一人暮らしをする大学生の茜は、二十歳の誕生日を境にあやかしが見えるようになる。押しかけてきた猫のあやかしに花嫁として望まれ、静かだった生活は一変する。現代を舞台にした和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aisarenai-hanayome-wa-shoya-o-hitori-de-sugosu",
+    "title": "愛されない花嫁は初夜を一人で過ごす",
+    "titleKana": "あいされないはなよめわしょやおひとりですごす",
+    "authorIds": [
+      "rioru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「お前を妻とは思わないし、愛することもない」——夫からそう宣言され、初夜を一人で過ごすことになった花嫁の物語。冷え切った関係から始まり、互いの事情が明かされるにつれて距離が変わっていく女性向けロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akagami-no-onnashounin",
+    "title": "赤髪の女商人",
+    "titleKana": "あかがみのおんなしょうにん",
+    "authorIds": [
+      "noyu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "merchant",
+      "jidai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "魔法のない、ヨーロッパ中世を模した世界。理不尽ばかりで救いの乏しいその大陸で、海峡に近い街を拠点に商いを営む女商人の生き様を描く。剣も魔法も使わず、交渉と算盤で道を切り開いていく硬質なファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reijou-ni-onee-ga-tensei-shita-kedo-nani",
+    "title": "悪役令嬢にオネエが転生したけど何も問題がない件",
+    "titleKana": "あくやくれいじょうにおねえがてんせいしたけどなにももんだいがないけん",
+    "authorIds": [
+      "katorinu-du-weruuddo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの悪役令嬢に転生したのは、中身がオネエの人物だった。破滅の運命を前にしても物怖じせず、独自の美意識と処世術で場を掌握していく。転生ものの型を、まったく動じない主人公で押し切るコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reisoku-reinarudo-rimona-no-karei-naru-t",
+    "title": "悪役令息レイナルド・リモナの華麗なる退場",
+    "titleKana": "あくやくれいそくれいなるどりもなのかれいなるたいじょう",
+    "authorIds": [
+      "enmachihaya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "otome-game-sekai",
+      "akuyaku-kizoku",
+      "romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "公爵家の次男レイナルドが前世を思い出したのは十二歳のとき。ここが乙女ゲームの世界で、自分は退場が決まっている悪役令息だと知る。破滅を避けるのではなく、いかに華麗に舞台を降りるかを考えるという趣向の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-kitsune-no-kyouto-uramachi-annainin",
+    "title": "あやかし狐の京都裏町案内人",
+    "titleKana": "あやかしきつねのきょうとうらまちあんないにん",
+    "authorIds": [
+      "hazamayuu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "京都でOLとして働いていた玉藻薫が、人間をやめて狐に戻ると宣言する。以後は京都の裏側を案内する立場となり、人とあやかしの間に立って厄介事を捌いていく。京都の街並みを活かした和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-yakuzen-kafe-ookami",
+    "title": "あやかし薬膳カフェ「おおかみ」",
+    "titleKana": "あやかしやくぜんかふぇおおかみ",
+    "authorIds": [
+      "moriharasumire"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gourmet",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "働きづめで心身をすり減らした日鞠が退職を決意し、亡き祖母との思い出が残る街を訪れる。そこで出会ったのは、あやかしが集う薬膳カフェだった。食と癒やしを軸に、傷ついた人が再び立ち上がるまでを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aisaresugite-komattemasu",
+    "title": "愛されすぎて困ってます!?",
+    "titleKana": "あいされすぎてこまってます",
+    "authorIds": [
+      "sakurayukari"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "フォルカナ王国の王女でありながら、後ろ盾がないために異母妹の侍女としてこき使われてきたセシリア。虐げられ続けた日々が、ある転機をきっかけに反転していく。境遇の逆転を丁寧に描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akusai-nanode-rien-o-shomou-shita-kedo-dannasama",
+    "title": "悪妻なので離縁を所望したけど、旦那様が離してくれません。",
+    "titleKana": "あくさいなのでりえんおしょもうしたけどだんなさまがはなしてくれません",
+    "authorIds": [
+      "yazukitomuka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mystery"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "社交界では悪女、結婚後は悪妻と呼ばれてきた公爵夫人ロレッタが、何者かに毒を盛られる。離縁を望む彼女に対し、夫は決して手を離そうとしない。悪評の裏側にある事情を、毒殺未遂の謎解きとともに明かしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akujo-magunoria-wa-gyakkou-shi-jinsei-o-yarinaos",
+    "title": "悪女マグノリアは逆行し、人生をやり直す",
+    "titleKana": "あくじょまぐのりあわぎゃっこうしじんせいおやりなおす",
+    "authorIds": [
+      "nikaidoushia"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "time-leap",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "身に覚えのない罪で処刑された伯爵令嬢マグノリアが、時を遡って人生をやり直す。誰が自分を陥れたのかを知ったうえで動けるという優位を武器に、同じ結末を避けようとする。逆行ものの王道を押さえた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reijou-aratame-shakkin-ichioku-no-shusen",
+    "title": "悪役令嬢改め、借金1億の守銭奴令嬢です",
+    "titleKana": "あくやくれいじょうあらためしゃっきんいちおくのしゅせんどれいじょうです",
+    "authorIds": [
+      "nangokupiyoko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "merchant"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの悪役令嬢に転生したと気づいた白鷺百合子だったが、待っていたのは破滅の運命に加えて一億の借金だった。恋愛どころではない状況で、彼女は守銭奴として金策に走り回る。金勘定を前面に出した転生コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyakureijounotorimakiedesugaoutaishidenkanisem",
+    "title": "悪役令嬢の取り巻きAですが、王太子殿下に迫られています。",
+    "titleKana": "あくやくれいじょうのとりまきえーですがおうたいしでんかにせまられています04よんがくえんさいへん01じょう",
+    "authorIds": [
+      "kawanaame"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの世界で、悪役令嬢の取り巻きAという端役に転生したエマ。目立たず生きるつもりが、なぜか王太子カイルに気に入られ、正式な婚約者と認められるまでになる。モブの立場から始まる出世譚として展開する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
