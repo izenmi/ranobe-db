@@ -180,7 +180,9 @@ def main():
                     a_key = norm(re.sub(r"（.*?）", "", a_names[0]))
                     rest = [x for x in ra.split("/") if norm(x) != a_key]
                     raw = "／".join(rest)
-            for part in re.split(r"[、,／/・]|\s+", raw):
+            # 空白では分割しない。楽天/Koboの著者欄は「みわべ　さくら」のように姓名を全角空白で
+            # 区切って1人を表すので、空白で切ると1人が2人に化ける(内部の空白は下で除去する)
+            for part in re.split(r"[、,／/]", raw):
                 part = re.sub(r"[（(].*?[）)]", "", part).strip()
                 part = re.sub(r"[\s　]+", "", part)
                 if part and part not in i_names:

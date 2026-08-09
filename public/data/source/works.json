@@ -64484,5 +64484,1056 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eiyuu-kyoushitsu",
+    "title": "英雄教室",
+    "titleKana": "えいゆうきょうしつ",
+    "authorIds": [
+      "araki-shin"
+    ],
+    "illustratorIds": [
+      "p-321703"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 23,
+    "status": "ongoing",
+    "synopsis": "魔王を倒して世界を救った勇者ブレイドは、その戦いで体を壊し、英雄を育成する学園へ生徒として放り込まれる。常識外れの実力を隠して学園生活を送ろうとするが、周囲の生徒や教師の力量とはあまりに桁が違い、何をしても騒動になってしまう。規格外の元勇者が学園という日常に馴染もうと奮闘する痛快な学園コメディで、アニメ化もされた長期シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-shimato-hanjouki",
+    "title": "異世界Cマート繁盛記",
+    "titleKana": "いせかいしーまーとはんじょうき",
+    "authorIds": [
+      "araki-shin"
+    ],
+    "illustratorIds": [
+      "aruya"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "異世界に流れ着いた主人公が、コンビニのような何でも揃う店「Cマート」を開いて店主になる異世界商売もの。エルフの店員に接客を仕込み、孤児たちを雇い、値付けや品揃えを工夫しながら店を大きくしていく。剣も魔法も出てくる世界に現代的な小売のノウハウを持ち込む発想が中心で、客として訪れる王侯貴族や冒険者との騒動が毎巻の見どころになっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ore-no-ie-ga-maryoku-supotto-datta-ken-sunde-iru",
+    "title": "俺の家が魔力スポットだった件",
+    "titleKana": "おれのいえがまりょくすぽっとだったけん",
+    "authorIds": [
+      "amaui-hakuichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "主人公の家は、世界でも有数の魔力が湧き出す土地の上に建っていた。その力を狙う者たちの手で家ごと異世界へ召喚されてしまうが、家に満ちた膨大な魔力を背景に、襲ってきた相手をまとめて撃退してしまう。住んでいるだけで最強という設定を軸に、家を拠点として異世界で暮らしを立て直していく痛快な異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jichou-shinai-motoyuusha-no-tsuyokute-tanoshii-n",
+    "title": "自重しない元勇者の強くて楽しいニューゲーム",
+    "titleKana": "じちょうしないもとゆうしゃのつよくてたのしいにゅーげーむ",
+    "authorIds": [
+      "araki-shin"
+    ],
+    "illustratorIds": [
+      "tamago-no-kimi"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "異世界を救った最強の勇者オリオンが、使命を終えた後に「今度は自重せずに生きる」と決めて 二度目の人生を歩む物語。かつては世界のために抑えていた力も欲も解放し、思うままに振る舞う姿が周囲を振り回していく。英雄としての義務から解き放たれた主人公の奔放さを笑いに変えつつ、圧倒的な力による無双を楽しませる作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "iinazuke-ga-dekita-to-omottara-sono-iinazuke-ga",
+    "title": "許嫁が出来たと思ったら、その許嫁が学校で有名な『悪役令嬢』だったんだけど、どうすればいい?",
+    "titleKana": "いいなずけができたとおもったらそのいいなずけががっこうでゆうめいなあくやくれいじょうだったんだけどどうすればいい",
+    "authorIds": [
+      "sodayou"
+    ],
+    "illustratorIds": [
+      "miwabe-sakura"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "akuyaku-reijou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "幼馴染二人から同時に告白された浩之の前に、学校で「悪役令嬢」と呼ばれる少女が許嫁として現れる。家同士が決めた関係に戸惑いながら距離を測るうち、周囲の噂と実際の彼女の姿の落差が見えてくる。悪役令嬢という記号を現代の学園ラブコメに持ち込み、幼馴染との三つ巴も絡めて揺れる主人公の選択を描く。アニメ化もされた。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koukou-jidai-ni-gouman-datta-joousama-tono-douse",
+    "title": "高校時代に傲慢だった女王様との同棲生活は意外と居心地が悪くない",
+    "titleKana": "こうこうじだいにごうまんだったじょおうさまとのどうせいせいかつわいがいといごこちがわるくない",
+    "authorIds": [
+      "misoneta-dozaemon"
+    ],
+    "illustratorIds": [
+      "yuga"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "高校時代に「傲慢な女王様」と恐れられていた林恵と、当時の同級生だった主人公が、DV被害から彼女を匿うかたちで同居を始める。かつての強気な姿と、傷を抱えた今の姿の落差に戸惑いながらも、家事を分け合う生活のなかで少しずつ関係が変わっていく。かつての力関係が反転した二人の同棲を、気負わない筆致で描く現代ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-rakuraku-mujintou-raifu-kurasu-teni-de-ku",
+    "title": "異世界ラクラク無人島ライフ",
+    "titleKana": "いせかいらくらくむじんとうらいふ",
+    "authorIds": [
+      "kamizuhotami"
+    ],
+    "illustratorIds": [
+      "giuniu"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "クラスごと異世界へ転移した主人公が選んだ能力は、地味に見えるクラフトだった。無人島を拠点に道具や住まいを一から作り出し、集まってきた少女たちと自給自足の暮らしを整えていく。戦って強くなるのではなく、作って快適にすることで生き延びる方向に振り切ったのが持ち味で、開拓が進むほど 島の暮らしが豊かになる過程を楽しませる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uragirareta-esuranku-boukensha-no-ore-wa-aisuru",
+    "title": "裏切られたSランク冒険者の俺は、愛する奴隷の彼女らと共に奴隷だけのハーレムギルドを作る",
+    "titleKana": "うらぎられたえすらんくぼうけんしゃのおれわあいするどれいのかのじょらとともにどれいだけのはーれむぎるどおつくる",
+    "authorIds": [
+      "hiiragisaki"
+    ],
+    "illustratorIds": [
+      "nairon"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "harem",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "奴隷売買が当たり前に行われている世界で、幼馴染に裏切られてパーティを追われたSランク冒険者が、買い取った奴隷の少女たちとともに自分のギルドを立ち上げる。虐げられてきた者ばかりを集めた集団が、居場所と誇りを取り戻していく過程が軸にあり、裏切った側との決着も並行して描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gakkouichi-no-bishoujo-to-shinyuu-doushi-no-rena",
+    "title": "学校一の美少女と親友同士の恋愛相談に乗っていたら、いつのまにか彼女が誰よりも近い存在になってた件",
+    "titleKana": "がっこういちのびしょうじょとしんゆうどうしのれんあいそうだんにのっていたらいつのまにかかのじょがだれよりもちかいそんざいになってたけん",
+    "authorIds": [
+      "tetsubitojusu"
+    ],
+    "illustratorIds": [
+      "tantan"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "親友から恋愛相談を受けているうちに、その相手である学校一の美少女アリサと主人公自身の距離が縮まってしまう学園ラブコメ。相談役という立場の後ろめたさを抱えながらも、二人で過ごす時間は積み重なっていく。付き合い始めてからの日々にも紙幅を割き、恋人になった後の関係の育て方まで描くのが特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-no-shuzoku-ga-ningen-datta-ken",
+    "title": "最強の種族が人間だった件",
+    "titleKana": "さいきょうのしゅぞくがにんげんだったけん",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "harem",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "平凡な会社員だった主人公が、剣と魔法の世界アーテルフィアへ召喚される。エルフの美少女リアたちに囲まれるなかで判明したのは、この世界では人間こそが最も潜在能力の高い種族だという事実だった。弱いと侮られる立場から一転して規格外の力を振るう構図で、種族の常識をひっくり返していく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sakura-saku",
+    "title": "サクラ×サク",
+    "titleKana": "さくらさく",
+    "authorIds": [
+      "juumonji-ao"
+    ],
+    "illustratorIds": [
+      "gin"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "senki",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "友だちが欲しいと願いながら、それが叶わないまま学校を出たハイジ・バランが、祖国デスティニア公国の軍に身を置くところから始まる戦記ファンタジー。魔性と呼ばれる存在が絡む大戦のなかで、彼は否応なく戦いの渦中へ押し出されていく。孤独な少年の願いと、それを踏みにじる戦争の非情さを重ねて描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jingai-ryouki-burigando",
+    "title": "神鎧猟機ブリガンド",
+    "titleKana": "じんがいりょうきぶりがんど",
+    "authorIds": [
+      "sakaki-ichiro"
+    ],
+    "illustratorIds": [
+      "shibano-kaito"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 4,
+    "status": "completed",
+    "synopsis": "高校を襲った〈悪魔憑き〉を狩ることには成功したものの、その一件で連志郎たちの正体が亜麻音たち〈フォスファー〉に知られてしまう。強化外骨格をまとって異形と戦う者たちの秘密が学園の日常に染み出し、敵味方の線引きが揺らいでいく。ヒーローであることの代償を問いながら進む機装バトルもの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asobinin-wa-kenja-ni-tenshoku-dekiru-tte-shittem",
+    "title": "遊び人は賢者に転職できるって知ってました?",
+    "titleKana": "あそびにんわけんじゃにてんしょくできるってしってました",
+    "authorIds": [
+      "senoo-shippo"
+    ],
+    "illustratorIds": [
+      "yunokiyuno"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "役立たずと決めつけられて勇者パーティを追放されたレベル99の道化師が、実は〈大賢者〉へ転職できる条件を満たしていたと判明する。最弱の職と侮られてきた蓄積がそのまま最強の裏づけになり、追放した側との立場が静かに逆転していく。不遇職の逆転劇を軸にしつつ、旅先で出会う仲間との掛け合いも楽しい。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikoraiza",
+    "title": "イコライザー!",
+    "titleKana": "いこらいざー",
+    "authorIds": [
+      "kanno-okina"
+    ],
+    "illustratorIds": [
+      "tomozo"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "time-travel",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "忘れ物を取りに放課後の学校へ戻った類は、時間犯罪を取り締まっていると名乗る少女パーシィと出会う。どこか抜けている彼女に巻き込まれるかたちで、時間も空間も無視した追跡劇に放り込まれてしまう。SF的な設定をラブコメの装置として使い、テンポのよい掛け合いで進むアドベンチャー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-ni-kita-boku-wa-kiyou-binbou-de-subayasad",
+    "title": "異世界に来た僕は器用貧乏で素早さ頼りな旅をする",
+    "titleKana": "いせかいにきたぼくわきようびんぼうですばやさだよりなたびおする",
+    "authorIds": [
+      "kamifuusen"
+    ],
+    "illustratorIds": [
+      "kochimo"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界に来た主人公アサギが頼れるのは、突出した攻撃力ではなく《器用貧乏》と《森狼の脚》という地味なスキルだけだった。素早さと小回りを組み合わせて格上の魔物をいなし、街から街へ旅を続けていく。派手な一撃で解決しない代わりに、手持ちの札をどう使い切るかを考える戦い方が読みどころになっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "egao-de-maryoku-chaji-mugen-no-maryoku-de-isekai",
+    "title": "笑顔で魔力チャージ",
+    "titleKana": "えがおでまりょくちゃーじ",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "ueda-ryou"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "nation-building"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "奴隷として扱われてきた少年が、人々の笑顔から魔力を得るという特異な力に目覚める。喜びが力に変わる以上、彼が強くなるほど周囲は幸せになり、荒れ果てた土地や人心が少しずつ立て直されていく。力の源を暴力ではなく笑顔に置いた設定が核で、奴隷の身から頂点へ駆け上がる展開と国の再生が並行して描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ochikobore-girudo-shokuin-jitsu-wa-esuranku-shou",
+    "title": "落ちこぼれギルド職員、実はSランク召喚士だった",
+    "titleKana": "おちこぼれぎるどしょくいんじつわえすらんくしょうかんしだった",
+    "authorIds": [
+      "ibaraki-no"
+    ],
+    "illustratorIds": [
+      "ana"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "定時で帰るために、裏で誰にも知られずボスを討伐し続けていたギルド職員が、成果を認められないまま追放されてしまう。実際にはSランクの召喚士だった彼の実力が外へ出た途端、彼を切った側の職場は立ち行かなくなる。仕事のできる人間を軽んじた組織の末路を痛快に描きつつ、妹を狙う敵との戦いも並行して進む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimi-wa-boku-no-riguretto",
+    "title": "君は僕の後悔(リグレット)",
+    "titleKana": "きみわぼくのりぐれっと",
+    "authorIds": [
+      "shimesaba"
+    ],
+    "illustratorIds": [
+      "shigure-ui"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "浅田結弦は、中学時代に付き合っていた水野藍衣のことを後悔として抱え続けている。自由に振る舞う彼女が好きだったのに、その自由さに苦しんだ末に終わった恋。高校生になった彼の前に過去が戻ってくることで、当時向き合えなかった感情を一つずつ確かめ直していく。取り返しのつかなさを丁寧に扱う青春小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gyakudou-no-haou-senki",
+    "title": "逆道の覇王戦記",
+    "titleKana": "ぎゃくどうのはおうせんき",
+    "authorIds": [
+      "soranokazuki"
+    ],
+    "illustratorIds": [
+      "ueda-ryou"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "senki",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ティタニアでの一件を終えたリョウマは、アイリスたちとともに四大聖国のひとつ、戦族の王が治めるシュトルライデンへ向かう。その国の姫ライラとの出会いが、次の戦いの引き金になっていく。国ごとに異なる価値観と兵の在り方を描き分けながら、覇を競う者たちの戦記として進むシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kurokishisan-wa-hatarakitakunai",
+    "title": "黒騎士さんは働きたくない",
+    "titleKana": "くろきしさんわはたらきたくない",
+    "authorIds": [
+      "amagi-shuusuke"
+    ],
+    "illustratorIds": [
+      "gochou"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "comedy",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "かつて恐れられた黒騎士クロウは、引退後は働きもせず引きこもって暮らしていた。嫌々出かけたおつかいの道中で昔の部下と再会したことから、姫や美少女ゾンビ、獣人の少女らに囲まれ、望まぬ厄介事に引っ張り出されていく。全力で怠けたい元最強と、彼を働かせたい面々のせめぎ合いを笑いにしたコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gensaku-saikyou-no-rasubosu-ga-shujinkou-no-naka",
+    "title": "原作最強のラスボスが主人公の仲間になったら?",
+    "titleKana": "げんさくさいきょうのらすぼすがしゅじんこうのなかまになったら",
+    "authorIds": [
+      "hanmenkyoushi"
+    ],
+    "illustratorIds": [
+      "fame"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ゲーム化もされた人気ファンタジー小説『聖なる勇者アイリス』の世界に、作中最強のラスボスであるユーグラムとして転生してしまった男の物語。原作を知っているがゆえに自分の末路も分かっており、破滅の筋書きを避けようと動くうちに、本来なら敵であるはずの主人公側と手を組む展開になっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kokou-no-seirei-jutsushi-kyouun-musou-na-outo-da",
+    "title": "孤高の精霊術士",
+    "titleKana": "ここうのせいれいじゅつし",
+    "authorIds": [
+      "hanachirusato"
+    ],
+    "illustratorIds": [
+      "ryuga"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "騎士元帥という重い役目にようやく慣れてきたハルキが、行方の分からない祖母を捜して皇魔国への長い旅に出る。精霊を操る術と人並外れた強運を頼りに、奪われた王都の奪還と旅の目的を並行して追いかけていく。小説投稿サイト発の作品で、道中の出会いと大がかりな戦いを交互に配した構成が読みやすい。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shijou-saikyou-no-kyuutei-teima-jibun-o-oidashit",
+    "title": "史上最強の宮廷テイマー",
+    "titleKana": "しじょうさいきょうのきゅうていていまー",
+    "authorIds": [
+      "sukaifamu"
+    ],
+    "illustratorIds": [
+      "nekohakoyoutaro"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "王国を追い出されたテイマーが、辺境の地で使い魔たちとともに自分の楽園を築き上げる。追放した側の王国が人手を失って傾いていく一方で、彼のもとには強力な魔獣も人も集まり、開拓は加速していく。追放ざまぁと領地開拓を組み合わせた構成で、使い魔たちとの信頼関係の描写に重心が置かれている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shachiku-desuga-shuzoku-shinka-shite-saikyou-eto",
+    "title": "社畜ですが、種族進化して最強へと至ります",
+    "titleKana": "しゃちくですがしゅぞくしんかしてさいきょうえといたります",
+    "authorIds": [
+      "rikisui"
+    ],
+    "illustratorIds": [
+      "karu"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "dungeon",
+      "gendai-drama",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "自他ともに認める社畜の藤村秋人が、寝る間もなく働いた末に帰宅すると、自宅の庭にダンジョンが出現していた。過酷な労働で鍛えられた忍耐力を武器に、種族そのものを進化させながら潜っていく。ブラック企業の日常とダンジョン探索を地続きに描き、理不尽に耐える力が異能として花開くという皮肉が効いている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akujiki-no-saikyou-majuutsukai-ani-no-sei-de-kag",
+    "title": "悪喰の最強魔獣使い",
+    "titleKana": "あくじきのさいきょうまじゅうつかい",
+    "authorIds": [
+      "onanada-manimani"
+    ],
+    "illustratorIds": [
+      "fukukitsune"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "この世界の人間は誰もが魔力を持つとされるなか、加護なしの無能と決めつけられた主人公が、兄の思惑で実家を追い出される。行き場を失った先で覚醒したのは、魔獣を喰らうことでその力を取り込む異質な才能だった。追放から始まる逆転劇を、悪食という不気味さのある能力で味付けした異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-erufu-no-doreichan",
+    "title": "異世界エルフの奴隷ちゃん",
+    "titleKana": "いせかいえるふのどれいちゃん",
+    "authorIds": [
+      "kankitsu-yusura"
+    ],
+    "illustratorIds": [
+      "yorunomitsuki"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "comedy",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ご主人さまと、エルフの奴隷ちゃん、犬耳の少女という一行がダンジョン探索を続けるコメディ。奴隷という設定ながら関係は対等で、主人を持ち上げたがるエルフの空回りや、食い意地の張った日常のやり取りが中心になっている。緊張感のある戦闘よりも、掛け合いの軽さと距離の近さを楽しむ作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-saikou-no-kizoku-haremu-o-fuyasuhodo-tsuy",
+    "title": "異世界最高の貴族、ハーレムを増やすほど強くなる",
+    "titleKana": "いせかいさいこうのきぞくはーれむおふやすほどつよくなる",
+    "authorIds": [
+      "miki-nazuna"
+    ],
+    "illustratorIds": [
+      "heiro"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "harem",
+      "akuyaku-kizoku"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "貴族の三男に転生した主人公が授かったのは、関係を持った女性のスキルを写し取り、さらに進化させられる希少な力だった。女性を側に置くほど強くなるという性質から、彼のもとには次々と才能ある女性が集まり、家中での立場も引き上げられていく。ハーレム形成そのものが強化手段になっている構造が特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "esu-to-esu-no-furachi-na-doumei",
+    "title": "SとSの不埒な同盟",
+    "titleKana": "えすとえすのふらちなどうめい",
+    "authorIds": [
+      "nomura-mizuki"
+    ],
+    "illustratorIds": [
+      "fuyuno-shunjuu"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "bunka-club",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "芸術の素養がないまま美術部に入部した真田大輝と藍本ルチアは、それぞれ合奏部にいる想い人を美術室から眺めるという不純な動機で結ばれた共犯関係だった。互いの恋を成就させるため協力する二人の同盟が、思わぬ方向へ転がっていく。部活を舞台に、打算から始まる関係の変化を軽妙に描く学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oujosama-no-koukyuu-jinmonkan",
+    "title": "王女様の高級尋問官",
+    "titleKana": "おうじょさまのこうきゅうじんもんかん",
+    "authorIds": [
+      "uzukiryuunosuke"
+    ],
+    "illustratorIds": [
+      "mutsutake"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "怪我で王立騎士団を退かざるを得なくなったアレンが、王女直属の「高級尋問官」を命じられる。捕らえた刺客から情報を引き出すのが役目だが、その手法は痛めつけるのではなく、相手の矜持を崩していく搦め手ばかり。宮廷を舞台に、尋問という特殊な職務を通して王家をめぐる陰謀に踏み込んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamigami-no-kennou-o-ayatsurishi-mono-nouryoku-s",
+    "title": "神々の権能を操りし者",
+    "titleKana": "かみがみのけんのうおあやつりしもの",
+    "authorIds": [
+      "kuro"
+    ],
+    "illustratorIds": [
+      "kuwashima-rein"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "battle-action",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "超常の力を持つ「能力者」と、異形の怪物が同時に現れてから百年あまりが経った世界。数値上の能力が「0」と判定され蔑まれてきた主人公は、実のところ神々の権能を扱える世界最強格の一角だった。評価と実力の落差を軸に、怪物との戦いと能力者社会の歪みを描く現代異能バトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamichito-ikite-iru-dake-de-marumouke-de-bakusok",
+    "title": "神チート〈生きているだけで丸儲け〉で爆速ステータスアップ!",
+    "titleKana": "かみちーといきているだけでまるもうけでばくそくすてーたすあっぷ",
+    "authorIds": [
+      "hozumimoguri"
+    ],
+    "illustratorIds": [
+      "haruinu"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dungeon",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "病弱で外に出ることもままならなかった少年が、異世界で「生きているだけで能力が上がり続ける」という破格の恩恵を得る。かつて体が弱かった分だけ、日々を重ねること自体が強さに直結し、ダンジョンでの理不尽もまとめて覆していく。冒険者としての成長を、病を抱えていた過去との対比で描く異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kokoro-ni-kizu-o-otta-mono-doushi-de-nagusameatt",
+    "title": "心に傷を負った者同士で慰め合っていたら白雪姫〈学校一の美少女〉とバカップル認定されていた件",
+    "titleKana": "こころにきずおおったものどうしでなぐさめあっていたらしらゆきひめがっこういちのびしょうじょとばかっぷるにんていされていたけん",
+    "authorIds": [
+      "shuu-2"
+    ],
+    "illustratorIds": [
+      "aroa"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "高校二年の春、姉のように慕ってきた相手との関係に区切りをつけた高橋隆史は、同じように心に傷を負った「白雪姫」と呼ばれる学校一の美少女と、互いの傷を舐め合うような時間を過ごし始める。慰め合いのつもりだった関係が周囲からはバカップル扱いされ、当人たちも本心を見失っていく学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shuumatsu-no-majo-desu-kedo-oniichan-ni-nikai-mo",
+    "title": "終末の魔女ですけどお兄ちゃんに二回も恋をするのはおかしいですか?",
+    "titleKana": "しゅうまつのまじょですけどおにいちゃんににかいもこいおするのわおかしいですか",
+    "authorIds": [
+      "senoo-shippo"
+    ],
+    "illustratorIds": [
+      "masahiro"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "imouto",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "最愛の妹・紅葉とともに訓練に励む七星昴が、魔力を補給するための肉体接触という「医療行為」に振り回される日々を描くシリーズ。終末をもたらすとされる魔女の力を宿した相手に、兄としてどう向き合うかが問われていく。際どい設定を笑いに寄せつつ、二度目の恋という切り口で兄妹の関係を掘り下げる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shujinkou-o-aorichirakasu-itome-no-akuyaku-kizok",
+    "title": "主人公を煽り散らかす糸目の悪役貴族に転生したんやけど、どないしたらええと思う?",
+    "titleKana": "しゅじんこうおあおりちらかすいとめのあくやくきぞくにてんせいしたんやけどどないしたらええとおもう",
+    "authorIds": [
+      "kamitora-hitoshi"
+    ],
+    "illustratorIds": [
+      "misa"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ゲームの世界の、主人公を煽り倒すだけのかませ犬役——糸目の悪役貴族に転生した男が、あっさり退場する運命を拒んで真っ向勝負を挑む。武器はエセ関西弁の口八丁と、原作知識に裏打ちされた立ち回り。負け役として書かれた立場を実力でひっくり返していく、軽妙な語り口の転生コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shoukan-saresugita-saikyou-yuusha-no-riyunion",
+    "title": "召喚されすぎた最強勇者の再召喚(リユニオン)",
+    "titleKana": "しょうかんされすぎたさいきょうゆうしゃのりゆにおん",
+    "authorIds": [
+      "kikuchikyuugo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "異世界に召喚されるのはこれで十度目——かつて勇者として世界を救い、帰還したはずの主人公が、何度も繰り返し呼び出される羽目になる。召喚のたびに積み上がった経験と力は常軌を逸しており、今さら魔王を相手にしても勝負にならない。繰り返される召喚という設定を逆手に取った、飄々とした無双もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "juudan-maouji-no-isekai-kouryaku-maougun-nanoni",
+    "title": "銃弾魔王子の異世界攻略",
+    "titleKana": "じゅうだんまおうじのいせかいこうりゃく",
+    "authorIds": [
+      "midorimamesora"
+    ],
+    "illustratorIds": [
+      "akaminenaoki"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "battle-action",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "サバイバルゲームを愛するミリタリーマニアが、魔王軍の王子として異世界に転生する。魔法ではなく現代兵器を召喚するという反則じみた手段で、剣と魔法の戦場に銃弾を持ち込んでいく。銃器の運用や戦術の描写に力を入れつつ、魔族の側から人類との戦いを見るという視点の転換も楽しませる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joshiryou-no-ryouchou-ni-natta-ore-wa-gotouchi-j",
+    "title": "女子寮の寮長になった俺は、ご当地女子と青春できるだろうか",
+    "titleKana": "じょしりょうのりょうちょうになったおれわごとうちじょしとせいしゅんできるだろうか",
+    "authorIds": [
+      "jouzaki-hiya"
+    ],
+    "illustratorIds": [
+      "manyako"
+    ],
+    "publisherId": "dash-x-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "不運な事故で男子寮を壊してしまった春人は、なし崩しに女子寮の寮長を任され、地方から上京してきた四人の美少女と同居することになる。関西弁、博多弁、沖縄の言葉とそれぞれの土地の気風が持ち込まれ、寮の中はにぎやかな異文化交流の場になっていく。方言とご当地ネタを前面に出した学生寮ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
