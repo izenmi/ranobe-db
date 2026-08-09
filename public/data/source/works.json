@@ -89833,5 +89833,1086 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mofumofu-o-shiranakattara-jinsei-no-hanbun-wa-mu",
+    "title": "もふもふを知らなかったら人生の半分は無駄にしていた",
+    "titleKana": "もふもふおしらなかったらじんせいのはんぶんわむだにしていた",
+    "authorIds": [
+      "hitsujinohane"
+    ],
+    "illustratorIds": [
+      "p-607785"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 23,
+    "status": "ongoing",
+    "synopsis": "異世界に転生した少年が、もふもふした生き物たちに囲まれて暮らす日々を描くシリーズ。戦うためではなく共に生きるための関係が中心にあり、獣たちとの触れ合いが物語の推進力になっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chittai-ore-no-makikomare-isekai-seikatsu",
+    "title": "ちったい俺の巻き込まれ異世界生活",
+    "titleKana": "ちったいおれのまきこまれいせかいせいかつ",
+    "authorIds": [
+      "nu-2"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 11,
+    "status": "ongoing",
+    "synopsis": "巻き込まれる形で異世界へ渡った幼児が、もふもふたちとともに気ままな生活を満喫していく。小さな体で大人を振り回しながら、ゆるやかな日常が積み重ねられていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasashii-kazoku-to-takusan-no-mofumofu-ni-kakoma",
+    "title": "優しい家族と、たくさんのもふもふに囲まれて。",
+    "titleKana": "やさしいかぞくとたくさんのもふもふにかこまれて",
+    "authorIds": [
+      "aripon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "kazoku-ikuji",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "ユーキと家族の暮らしに、ドラゴンや祖父母までもが加わって賑やかさが増していく。優しい家族とたくさんのもふもふに囲まれた生活を、微笑ましい調子で描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yama-kaimashita",
+    "title": "山、買いました",
+    "titleKana": "やまかいました",
+    "authorIds": [
+      "jitsukawaemu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "craft-artisan"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "山を買って始める田舎暮らしを描くシリーズ。もふもふたちと過ごしながら、土地を手入れし、暮らしの形を整えていく。三度目の山でも変わらぬのんびりした調子が持ち味。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ossan-no-rimeiku-bouken-nikki-oto-kyanpu-kara-ha",
+    "title": "おっさんのリメイク冒険日記",
+    "titleKana": "おっさんのりめいくぼうけんにっき",
+    "authorIds": [
+      "hiiroyuuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "chuunen-ossan-shujinkou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "弱きを助け悪を憎む、昭和気質のおっさんが異世界デビューを果たす。人生をやり直すという意味でのリメイクを軸に、価値観の古さを長所として描いていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mofumofu-ga-afureru-isekai-de-shiawase-kagomochi",
+    "title": "もふもふが溢れる異世界で幸せ加護持ち生活!",
+    "titleKana": "もふもふがあふれるいせかいでしあわせかごもちせいかつ",
+    "authorIds": [
+      "aripon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "cheat-kid-protagonist"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "病により命を落とした小学生の如月啓太が、加護を得て異世界に転生する。もふもふであふれた世界で、彼は幸せな暮らしを一から築いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kawaii-kedo-saikyou-isekai-de-mofumofu-tomodachi",
+    "title": "可愛いけど最強?",
+    "titleKana": "かわいいけどさいきょう",
+    "authorIds": [
+      "aripon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "部屋で眠ったはずのレンが目覚めたのは見知らぬ森の中、しかも中学生だった体は二歳児になっていた。幼い姿と規格外の力という組み合わせで進む異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitori-kyanpu-shitara-isekai-ni-teni-shita-hanas",
+    "title": "一人キャンプしたら異世界に転移した話",
+    "titleKana": "ひとりきゃんぷしたらいせかいにてんいしたはなし",
+    "authorIds": [
+      "toroneko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "survival",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "山でソロキャンプをするはずが、なぜか異世界へ転移してしまったカエデ。鋼のメンタルでキャンプ道具を駆使し、異世界での野外生活を淡々と楽しんでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-nidome-no-ossan-dou-kangaetemo-koukousei",
+    "title": "異世界二度目のおっさん、どう考えても高校生勇者より強い",
+    "titleKana": "いせかいにどめのおっさんどうかんがえてもこうこうせいゆうしゃよりつよい",
+    "authorIds": [
+      "yagaminagi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "gyaku-isekai",
+      "chuunen-ossan-shujinkou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "うだつの上がらないサラリーマン高柳陸は、かつて異世界を冒険した経験を持っていた。二度目の召喚で、高校生勇者たちよりも遥かに強い自分を再確認していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dete-ike-to-iwareta-node-dete-ikimasu",
+    "title": "出ていけ、と言われたので出ていきます",
+    "titleKana": "でていけといわれたのででていきます",
+    "authorIds": [
+      "edamamezunda"
+    ],
+    "illustratorIds": [
+      "aoifuyuko"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "卒業式後のパーティで婚約破棄されたイヴェッタ・シェイク・スピア伯爵令嬢。「出ていけ」と言われたのだから出ていきます——そう告げて、彼女は自らの意思で家を後にする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naraku-no-soko-de-seikatsu-shite-haya-sannen-tou",
+    "title": "奈落の底で生活して早三年、当時『白魔道士』だった私は『聖魔女』になっていた",
+    "titleKana": "ならくのそこでせいかつしてはやさんねんとうじしろまどうしだったわたしわせいまじょになっていた",
+    "authorIds": [
+      "tani"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "dungeon",
+      "mahou",
+      "fuguushoku-kakushi-skill"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "ダンジョンの最下層で三年を過ごすうち、『白魔道士』だった主人公は『聖魔女』へと変わっていた。最下層から攻略するという逆順の発想を軸にした異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyuutei-kara-tsuihou-sareta-madou-kenchikushi-mi",
+    "title": "宮廷から追放された魔導建築士、未開の島でもふもふたちとのんびり開拓生活!",
+    "titleKana": "きゅうていからついほうされたまどうけんちくしみかいのしまでもふもふたちとのんびりかいたくせいかつ",
+    "authorIds": [
+      "sorachidaidai"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "craft-artisan",
+      "tsuihou"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "宮廷建築士として働いていた魔導建築士が、宮廷を追放される。未開の島へ渡った彼は、もふもふたちとともに一から開拓を始める。建築という職能を軸に据えた異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jakushou-kizoku-no-isekai-funtouki-uchi-no-ryouc",
+    "title": "弱小貴族の異世界奮闘記",
+    "titleKana": "じゃくしょうきぞくのいせかいふんとうき",
+    "authorIds": [
+      "p-210240"
+    ],
+    "illustratorIds": [
+      "abeno-chako"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "naisei"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界に転生した先は、滅亡が目前に迫った弱小貴族の家だった。前世と変わらない感覚を武器に、領地経営と人脈づくりで一家の破滅を回避しようと奮闘する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "suterareta-daiyon-oujo-wa-bokoku-niwa-modoranai",
+    "title": "捨てられた第四王女は母国には戻らない",
+    "titleKana": "すてられただいよんおうじょわぼこくにわもどらない",
+    "authorIds": [
+      "kazamiyuumi"
+    ],
+    "illustratorIds": [
+      "asafumi"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "tsuihou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「災厄」と呼ばれて追放された第四王女が、辺境でのスローライフを始める。母国へは戻らないと決めた彼女が、新天地で自分の居場所を作っていく女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sono-ouhi-wa-ihoujin-touhouhi-konintan",
+    "title": "その王妃は異邦人",
+    "titleKana": "そのおうひわいほうじん",
+    "authorIds": [
+      "sasasa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "西洋風の国王に嫁いだ、規格外な中華風の姫君。「なにせ私、戦には慣れておりますので」と言い放つ彼女が、異国の宮廷で存在感を示していく異国婚姻譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "niseseijo-mira-no-boukentan-tsuihou-saremashitag",
+    "title": "偽聖女!?ミラの冒険譚",
+    "titleKana": "にせせいじょみらのぼうけんたん",
+    "authorIds": [
+      "sakuraimikoto"
+    ],
+    "illustratorIds": [
+      "kokosuke"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "tsuihou",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "新しい聖女が見つかったという理由で「偽聖女」と呼ばれ、婚約破棄と追放を同時に告げられたミラ。放り出された先で、彼女は自分の力の本質を確かめていく冒険に出る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "puraibeto-danjon-inakagurashi-to-danjon-sozai-no",
+    "title": "プライベートダンジョン",
+    "titleKana": "ぷらいべーとだんじょん",
+    "authorIds": [
+      "jaga-butter"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "dungeon",
+      "gourmet",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "鶏に牛、魚介類まで手に入るダンジョンは、まさに食材の宝庫だった。個人所有の迷宮を舞台に、狩りと料理を繰り返す理想のスローライフを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "boku-no-heya-ga-danjon-no-kyuukeijo-ni-natte-shi",
+    "title": "僕の部屋がダンジョンの休憩所になってしまった件",
+    "titleKana": "ぼくのへやがだんじょんのきゅうけいじょになってしまったけん",
+    "authorIds": [
+      "tougokufudou"
+    ],
+    "illustratorIds": [
+      "juna"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "dungeon",
+      "gendai-drama",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "自分の部屋がダンジョンの休憩所になってしまった主人公。立川と異世界を行き来しながら、休憩に立ち寄る冒険者たちと関わっていく。日常と迷宮を地続きにした冒険譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mofumofu-aibou-to-isekai-de-shinseikatsu-kami-no",
+    "title": "もふもふ相棒と異世界で新生活!!",
+    "titleKana": "もふもふあいぼうといせかいでしんせいかつ",
+    "authorIds": [
+      "aripon"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "monster-taming",
+      "kazoku-ikuji"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "中学生の望月奏が、事故に遭った子犬とともに神の力で異世界へ転生する。相棒となったもふもふと二人三脚で、新しい生活を組み立てていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kishidanchou-no-musuko-wa-akuyaku-reijou-o-dekia",
+    "title": "騎士団長の息子は悪役令嬢を溺愛する",
+    "titleKana": "きしだんちょうのむすこわあくやくれいじょうおできあいする",
+    "authorIds": [
+      "yui-2"
+    ],
+    "illustratorIds": [
+      "sausunosausu"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "王子からの婚約破棄と同時に、モブであるはずの騎士団長の息子からプロポーズされる。ただひたすら悪役令嬢を溺愛する男の視点も交えて描かれる、転生ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koushaku-fujin-ni-fusawashikunai-to-rien-sareta",
+    "title": "公爵夫人に相応しくないと離縁された私の話。",
+    "titleKana": "こうしゃくふじんにふさわしくないとりえんされたわたしのはなし",
+    "authorIds": [
+      "ikenaka-orina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "naisei"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "公爵家の次女クレヴァーナは、公爵夫人に相応しくないという理由で離縁される。王国で自分の存在を証明してみせると誓い、彼女は実務と実績で評価を覆していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "konyaku-kaishou-o-teian-shitara-outaishisama-ni",
+    "title": "婚約解消を提案したら王太子様に溺愛されました",
+    "titleKana": "こんやくかいしょうおていあんしたらおうたいしさまにできあいされました",
+    "authorIds": [
+      "harukazeyuuri"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "乙女ゲームの悪役令嬢に転生したので婚約を解消したい——そう提案したところ、なぜか王太子から溺愛されるようになる。破滅回避の試みが裏目に出続ける転生ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "konyaku-haki-sareta-ponkotsu-reijou-desuga-watas",
+    "title": "婚約破棄されたポンコツ令嬢ですが、私は聖女だそうです",
+    "titleKana": "こんやくはきされたぽんこつれいじょうですがわたしわせいじょだそうです",
+    "authorIds": [
+      "p-609818"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "mahou"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "婚約破棄されたポンコツ令嬢が、実のところ王家も注目する聖女だったと判明する。規格外の精霊の加護によって、彼女の評価は一夜にして反転していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gokai-wa-tokimasen-akujo-de-kekkou-desu",
+    "title": "誤解は解きません。悪女で結構です。",
+    "titleKana": "ごかいわときませんあくじょでけっこうです",
+    "authorIds": [
+      "sarekireki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "akujo",
+      "romance"
+    ],
+    "firstPublishedYear": 2026,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "夫は無関心、教育は最悪、使用人は敵だらけ——そんな状況で、主人公は誤解を解かないことを選ぶ。愛されないほうが円満離婚には好都合という割り切りが痛快な女性向け作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jiesuo-guroingu-sukiru-onrain",
+    "title": "GSOグローイング・スキル・オンライン",
+    "titleKana": "じーえすおーぐろーいんぐすきるおんらいん",
+    "authorIds": [
+      "tera"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "vrmmo",
+      "battle-action",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「魔法職って殴っちゃいけないの？」——常識外れのビルドでオンラインゲームに挑む物語。第一回ツギクル小説大賞で大賞とファン投票賞を同時に受賞した作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "supu-no-mori-doubutsu-to-kaiwa-suru-oribia-to-mo",
+    "title": "スープの森",
+    "titleKana": "すーぷのもり",
+    "authorIds": [
+      "moriu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "slow-life",
+      "gourmet",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ある時は動物、ある時は人間——姿を変えられるオリビアが営むスープの森を舞台に、訪れる者たちの事情がほどけていく。静かな筆致の異世界ライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "zetsubou-reijou-no-karei-naru-rikon-osananajimi",
+    "title": "絶望令嬢の華麗なる離婚",
+    "titleKana": "ぜつぼうれいじょうのかれいなるりこん",
+    "authorIds": [
+      "takatsukikazui"
+    ],
+    "illustratorIds": [
+      "magomeyahiro"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "time-leap",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "二十歳の誕生日、夫の手で命を散らされたはずの主人公が、絶望の果てからやり直す。華麗なる離婚を目指して動き出す、復讐色の強い女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sonoboukenshatoriatsukaichuuishoutaihamutekinoge",
+    "title": "その冒険者、取り扱い注意。",
+    "titleKana": "そのぼうけんしゃとりあつかいちゅういしょうたいはむてきのげぼくたちをすべるいせかいさいきょうのまどうおうぶんさつばんぜろぜろいち",
+    "authorIds": [
+      "sin-guilty"
+    ],
+    "illustratorIds": [
+      "mb"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "maou-mazoku-shiten",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ゲーム世界に転移した元・最強の魔導王ヒイロが、新米冒険者としてやり直す。かつての実力と現在の立場の落差から、周囲の評価が定まらないまま騒動が広がっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "datte-anata-ga-uwaki-o-shita-kara",
+    "title": "だって、あなたが浮気をしたから",
+    "titleKana": "だってあなたがうわきおしたから",
+    "authorIds": [
+      "takasefune"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "konyaku-haki-zamaa",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "婚約者を妹に奪われたリーチェが、「あとは貴女の好きになさい」と告げて自らの道を選ぶ。浮気という裏切りを起点に、奪われた側の反撃を描く女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsuihou-seijo-no-kachiagari-raifu",
+    "title": "追放聖女の勝ち上がりライフ",
+    "titleKana": "ついほうせいじょのかちあがりらいふ",
+    "authorIds": [
+      "mayuran"
+    ],
+    "illustratorIds": [
+      "inunosaeta"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "tsuihou",
+      "iryou"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "癒やしの力で軍を支えていた聖女シーナが、婚約者だった王子に追放される。追い出された先で、彼女は自分の力を正当に評価してくれる場所を見つけていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-kizoku-no-yuuga-na-seikatsu",
+    "title": "転生貴族の優雅な生活",
+    "titleKana": "てんせいきぞくのゆうがなせいかつ",
+    "authorIds": [
+      "watayaminto"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "akuyaku-kizoku",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "日本で死んだはずが、次の瞬間には異世界の貴族に転生していた主人公。尋常でないチート能力を手に、優雅な貴族生活を送っていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-shoujo-wa-kyuusei-o-nozomareru-heion-o-me",
+    "title": "転生少女は救世を望まれる",
+    "titleKana": "てんせいしょうじょわきゅうせいおのぞまれる",
+    "authorIds": [
+      "anu"
+    ],
+    "illustratorIds": [
+      "aoimisa"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "merchant",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "スラム街で暮らす少女が、笑顔と計算のスキルを武器に成り上がっていく。救世を望まれる立場に置かれながらも、彼女はまず目の前の生活を良くすることから始める。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-reijou-wa-nigedashita-mori-no-naka-sukiru",
+    "title": "転生令嬢は逃げ出した森の中、スキルを駆使して潜伏生活を満喫する",
+    "titleKana": "てんせいれいじょうわにげだしたもりのなかすきるおくししてせんぷくせいかつおまんきつする",
+    "authorIds": [
+      "haibanearisu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "survival",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "家を逃げ出した転生令嬢が、森の中でスキルを駆使して潜伏生活を送る。野菜は食べ放題、果樹園は豊作、猛獣が来ても安心——不便を感じさせない森の暮らしを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitsuihoushatachi-dake-no-shinkou-seiryoku-hanpa",
+    "title": "被追放者たちだけの新興勢力ハンパねぇ",
+    "titleKana": "ひついほうしゃたちだけのしんこうせいりょくはんぱねぇ",
+    "authorIds": [
+      "anikkiburazza"
+    ],
+    "illustratorIds": [
+      "ichimaru-kisuke"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "無限魔導士、鋼の超人、闘神、破壊神——追放された者たちばかりが集まった新興勢力が、どんな強敵もワンパンで倒してしまう。追放ものを集団で描いた痛快ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitojichi-seikatsu-kara-hajimeru-suro-raifu",
+    "title": "人質生活から始めるスローライフ",
+    "titleKana": "ひとじちせいかつからはじめるすろーらいふ",
+    "authorIds": [
+      "kogaichigo"
+    ],
+    "illustratorIds": [
+      "morinanao"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "slow-life",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "日本から転生した主人公が、人質という立場から異世界での生活を始める。囚われの身でありながら、与えられた環境を整えてスローライフへ持ち込んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "binbou-kishi-ni-yomeiri-shita-hazu-ga",
+    "title": "貧乏騎士に嫁入りしたはずが!?",
+    "titleKana": "びんぼうきしによめいりしたはずが",
+    "authorIds": [
+      "miyamaeaoi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "貧乏騎士に嫁入りしたはずが、待っていたのは大神獣まで絡む予想外の生活だった。慎ましい結婚生活を想像していた主人公が、次々と規格外の出来事に巻き込まれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fuguu-na-zense-o-motsu-henkyouhakuke-sannan-wa-k",
+    "title": "不遇な前世を持つ辺境伯家三男は、家族と優しさで異世界を救済する",
+    "titleKana": "ふぐうなぜんせおもつへんきょうはくけさんなんわかぞくとやさしさでいせかいおきゅうさいする",
+    "authorIds": [
+      "omine"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "kazoku-ikuji",
+      "mahou"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "不遇な前世を持つ辺境伯家の三男が、規格外の魔力と家族の優しさで異世界を救っていく。笑いと癒やしを織り交ぜながら、家族の絆を主題に据えた異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henkyou-kizoku-no-tensei-ninja-wa-kyou-mo-hissor",
+    "title": "辺境貴族の転生忍者は今日もひっそり暮らします。",
+    "titleKana": "へんきょうきぞくのてんせいにんじゃわきょうもひっそりくらします",
+    "authorIds": [
+      "sorachidaidai"
+    ],
+    "illustratorIds": [],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-tensei",
+      "ninja",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "「日ノ本」と呼ばれる国で、主君を守るために命を落とした最強の忍者。辺境貴族の子として転生した彼は、今度こそひっそりと暮らそうとする。忍術を隠しながら生きる異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mou-hatarakitakunaindesu-boukensha-nanka-yamete",
+    "title": "「もう‥‥働きたくないんです」冒険者なんか辞めてやる。今更、待遇を変えるからとお願いされてもお断りです。僕はぜーったい働きません。",
+    "titleKana": "もうはたらきたくないんですぼうけんしゃなんかやめてやるいまさらたいぐうおかえるからとおねがいされてもおことわりですぼくわぜーったいはたらきません",
+    "authorIds": [
+      "bakuen"
+    ],
+    "illustratorIds": [
+      "murakamimeishi"
+    ],
+    "publisherId": "tsugikuru-books",
+    "themeIds": [
+      "isekai-fantasy",
+      "tsuihou",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "初級魔法しか使えない魔導士エクスが、冒険者を辞めると宣言する。今さら待遇を改めると言われても遅い——働きたくないという本音を軸にした、退職ものの異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
