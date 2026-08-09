@@ -79995,5 +79995,726 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akaki-tsuki-no-meguru-koro",
+    "title": "赤き月の廻るころ",
+    "titleKana": "あかきつきのめぐるころ",
+    "authorIds": [
+      "kigawaarata"
+    ],
+    "illustratorIds": [
+      "nagi-kasumi"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "romance",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "故郷ロクソンへ里帰りすることになったレウリアが、ジェラールとの仲を認めてもらおうとする。ところが立ちはだかるロラウドの思惑によって、話は思わぬ方向へ転がっていく。異国情緒のある世界を舞台にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-kara-seijo-ga-kuru-younanode-jamamono-wa",
+    "title": "異世界から聖女が来るようなので、邪魔者は消えようと思います",
+    "titleKana": "いせかいからせいじょがくるようなのでじゃまものわきえようとおもいます",
+    "authorIds": [
+      "hasumiryou"
+    ],
+    "illustratorIds": [
+      "machi"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "異世界から聖女が来るというので、自分は邪魔者だと身を引いたはずのフェリシア。ところが嫁いだ先で待っていたのは、忙しくも甘い新婚生活だった。身を引いた側がかえって幸せになるという構図の女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouji-wa-tadaima-dekasegichuu",
+    "title": "王子はただいま出稼ぎ",
+    "titleKana": "おうじわただいまでかせぎちゅう",
+    "authorIds": [
+      "iwakihiromi"
+    ],
+    "illustratorIds": [
+      "samamiyaakaza"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "借金だらけの貧乏国フォーレの苦労性王子ユートが、姉の嫁入り資金を捻出するために出稼ぎへ出る。へたれの従者を連れた道中は、王族らしからぬ労働と節約の連続になる。金策を主題にした軽妙なファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-edo-monogatari",
+    "title": "あやかし江戸物語",
+    "titleKana": "あやかしえどものがたり",
+    "authorIds": [
+      "itou-tatsuki"
+    ],
+    "illustratorIds": [
+      "otonakasawaki"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "youkai-ayakashi",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "徳川三代将軍と歌舞伎役者が、同じ少女をめぐって恋の火花を散らす江戸を舞台にした物語。史実の人物を配しつつ、あやかしの気配が漂う江戸の街並みを背景に、三角関係が進んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuma-no-sonetto-bikei-akuma-wa-keiyaku-shinai",
+    "title": "悪魔のソネット",
+    "titleKana": "あくまのそねっと",
+    "authorIds": [
+      "kurihara-chihiro"
+    ],
+    "illustratorIds": [
+      "mayu"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "美形の大悪魔レクスたちに振り回されながらも、充実した日々を送るジャスティンたち。今度は学校の命運を賭けて豪華客船へ乗り込むことになる。悪魔と人間の掛け合いを軸にした学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ao-no-ookami-wa-hana-o-mederu",
+    "title": "蒼の狼は華を愛でる",
+    "titleKana": "あおのおおかみわはなおめでる",
+    "authorIds": [
+      "kigawaarata"
+    ],
+    "illustratorIds": [
+      "suouyuumi"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "老師の敵を討つため、少女は単身で王宮に乗り込む。煽られればその気になる男の性を突いてでも目的を果たそうとする彼女の前に、青い狼と称される男が立ちはだかる。中華風の意匠を凝らした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikenie-to-shite-suterareta-node-henkyouhakuke-ni",
+    "title": "生贄として捨てられたので、辺境伯家に自分を売ります",
+    "titleKana": "いけにえとしてすてられたのでへんきょうはくけにじぶんおうります",
+    "authorIds": [
+      "shiryu"
+    ],
+    "illustratorIds": [
+      "rahwia"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "生贄として捨てられた少女ルアーナが、自らを辺境伯家に売り込む。認められて家の一員となった後も、レベッカやディーサたちとの関係を築きながら居場所を確かなものにしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-ni-kyuuseishu-to-shite-yobaremashitaga-ar",
+    "title": "異世界に救世主として喚ばれましたが、アラサーには無理なので、ひっそりブックカフェ始めました。",
+    "titleKana": "いせかいにきゅうせいしゅとしてよばれましたがあらさーにわむりなのでひっそりぶっくかふぇはじめました",
+    "authorIds": [
+      "izumikyouka"
+    ],
+    "illustratorIds": [
+      "sakuradareiko"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "gourmet",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "救世主として異世界に喚ばれたものの、アラサーの身にはとても無理だと判断した主人公。国の期待から距離を置き、ひっそりとブックカフェを開いて暮らすことを選ぶ。本と珈琲を軸にした穏やかな異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouji-wa-itsudemo-gachi-shoubu-hajimari-wa-shinke",
+    "title": "王子はいつでもガチ勝負!",
+    "titleKana": "おうじわいつでもがちしょうぶ",
+    "authorIds": [
+      "mochizukimoran"
+    ],
+    "illustratorIds": [
+      "matsumototemari"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "onmyoushi-taimashi",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "大和の神剣を護るため、巫女修行を続けるやんちゃな王子・緋央。お目付け役の高月に振り回されながら、勝負ごとにはいつでも全力で挑んでいく。和風の意匠を交えた学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aka-no-kokuin",
+    "title": "緋ノ刻印",
+    "titleKana": "あかのこくいん",
+    "authorIds": [
+      "risa"
+    ],
+    "illustratorIds": [
+      "marimo"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "gakuen",
+      "onmyoushi-taimashi",
+      "romance"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "高校生の菱川彩音は、傲慢なクラスメイトの破賀旭に言い寄られて困惑する。その旭が「危険だ」と告げたのは、彼女が頼りにしていた相手だった。刻印をめぐる因縁を軸にした現代伝奇ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-o-yametara-gitei-ni-dekiai-saremashita",
+    "title": "悪役をやめたら義弟に溺愛されました",
+    "titleKana": "あくやくおやめたらぎていにできあいされました",
+    "authorIds": [
+      "kaguranatsume"
+    ],
+    "illustratorIds": [
+      "ooniwasoto"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "自分が書いた小説の世界に転生し、ヤンデレ義弟に殺害される悪役令嬢レリアになってしまった主人公。破滅を避けようと悪役をやめた途端、冷たく無表情だった義弟から溺愛されるようになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-reijou-iie-gokuaku-reijou-desuwa",
+    "title": "悪役令嬢?いいえ、極悪令嬢ですわ",
+    "titleKana": "あくやくれいじょういいえごくあくれいじょうですわ",
+    "authorIds": [
+      "asanayuuna"
+    ],
+    "illustratorIds": [
+      "hanageta"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "otome-game-sekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "陰で「極悪令嬢」と恐れられるローザリアは、実のところ侯爵邸の敷地から出たことがなかった。噂と実像の落差を軸に、外の世界へ踏み出した彼女が周囲の誤解を次々と塗り替えていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adoria-oukoku-monogatari-genkoku-no-kishi-to-was",
+    "title": "アドリア王国物語",
+    "titleKana": "あどりあおうこくものがたり",
+    "authorIds": [
+      "fuminoakane"
+    ],
+    "illustratorIds": [
+      "amanochigiri"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "『聖杯』を追うエマが、三人の騎士とともに『迷宮の街』へ向かう。秘密の道の情報と引き換えに領主から難題を持ちかけられ、一行は思わぬ事件に巻き込まれていく。王道の冒険ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anata-no-ichiban-ni-naretara-iinoni-hikari-ando",
+    "title": "あなたの一番になれたらいいのに",
+    "titleKana": "あなたのいちばんになれたらいいのに",
+    "authorIds": [
+      "odatsuneko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "futago"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "双子の姉・灯里のふりをして、姉の恋人であり自身の想い人でもある和範と一夜を過ごしてしまった光里。過ちを抱えたまま続く三人の関係を、痛みとともに描く現代恋愛小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ane-ni-akuhyou-o-tateraremashitaga-nazeka-ringok",
+    "title": "姉に悪評を立てられましたが、何故か隣国の大公に溺愛されています",
+    "titleKana": "あねにあくひょうおたてられましたがなぜかりんごくのたいこうにできあいされています",
+    "authorIds": [
+      "sakimiya"
+    ],
+    "illustratorIds": [
+      "anonenone"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "エルノーチェ家四姉妹の末っ子に転生したレティシア。姉に悪評を立てられ立場を失っていくが、なぜか隣国の大公から強い関心を寄せられる。評判と実像の食い違いを軸にした女性向け転生ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayako-to-tokeitou-no-gadian-himitsu-no-ochakai",
+    "title": "亜夜子と時計塔のガーディアン",
+    "titleKana": "あやこととけいとうのがーでぃあん",
+    "authorIds": [
+      "kita-midori"
+    ],
+    "illustratorIds": [
+      "samamiyaakaza"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "alternate-history",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "憧れの英国へ留学した桜桃院亜夜子が、ひょんなことから青年紳士レイの下僕として扱われることになる。時計塔をめぐる事件に巻き込まれながら、異国での学生生活を送っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-ryuu-ga-iinazuke-desu",
+    "title": "異世界で竜が許嫁です",
+    "titleKana": "いせかいでりゅうがいいなずけです",
+    "authorIds": [
+      "yamasakirika"
+    ],
+    "illustratorIds": [
+      "den"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "iinazuke-marriage",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "竜族のオレ様貴公子ルイスに召喚され、再び異世界へ飛ばされた高校生の星野エミ。彼に力を与えられる特異な体質のせいで、許嫁として扱われることになる。竜と人の婚姻を軸にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inguteddo-no-kaitou-reijou",
+    "title": "イングテッドの怪盗令嬢",
+    "titleKana": "いんぐてっどのかいとうれいじょう",
+    "authorIds": [
+      "itou-tatsuki"
+    ],
+    "illustratorIds": [
+      "aki"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "spy-assassin",
+      "gakuen",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "王室の密命を受け、怪盗ルビィとして活動するメアリ。次の指令は男子校への潜入であり、そこに集められた王室の宝を取り戻すことだった。変装と潜入を主軸にした冒険ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ubatta-no-dewa-arimasen-oneesama-ga-suteta-no-de",
+    "title": "奪ったのではありません、お姉様が捨てたのです",
+    "titleKana": "うばったのでわありませんおねえさまがすてたのです",
+    "authorIds": [
+      "sasakisaki"
+    ],
+    "illustratorIds": [
+      "matsurika-youko"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "akuyaku-reijou",
+      "romance",
+      "fukushuu"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "聖女である義姉クリスティーナが突然失踪し、その尻拭いに奔走することになった主人公。奪ったのではなく、姉が捨てたのだ——という主張を掲げ、押しつけられた役目を自分のものにしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uragiri-wa-boku-no-namae-o-shitteiru",
+    "title": "裏切りは僕の名前を知っている",
+    "titleKana": "うらぎりわぼくのなまえおしっている",
+    "authorIds": [
+      "odagirihotaru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "上野で起きた連続殺人事件の真相を追ううちに、夕月は信じがたい事実に行き着く。人ならざるものが関わる事件を通じて、自らの出自にも触れていく現代伝奇ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouki-engi-kyuukoku-wa-omiai-kara",
+    "title": "凰姫演義",
+    "titleKana": "おうきえんぎ",
+    "authorIds": [
+      "nakatomiyuzuki"
+    ],
+    "illustratorIds": [
+      "izawaryou"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "romance",
+      "senki"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "伯龍と婚約したものの関係が進展せず悩んでいた紅蘭。そんなとき、幼なじみの啓徳が盗賊となり、さらには董国打倒を掲げる革命軍まで動き出す。中華風の宮廷と戦乱を舞台にした女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ouke-no-saihoushi-rerin-haru-yobu-deai-to-ito-no",
+    "title": "王家の裁縫師レリン",
+    "titleKana": "おうけのさいほうしれりん",
+    "authorIds": [
+      "fujisakimika"
+    ],
+    "illustratorIds": [
+      "shibataisuzu"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "shigoto",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "幼い頃に両親と生き別れたレリンは、奨学金で女学校に通いながら、国の最高位である王宮裁縫師を夢見ていた。針と布の技術で身を立てようとする少女の奮闘を描く職業ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oujisama-no-dakimakura",
+    "title": "王子様の抱き枕",
+    "titleKana": "おうじさまのだきまくら",
+    "authorIds": [
+      "mutsukikei"
+    ],
+    "illustratorIds": [
+      "yuuno"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "レーガン王子の寝室にトリップしてしまった女子高生・茉莉が、不眠症の王子を眠らせる「抱き枕」に任命される。宮廷内の思惑に巻き込まれながら、奇妙な役職をこなしていく軽妙なファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oujo-feri-no-shiawase-na-shiren",
+    "title": "王女フェリの幸せな試練",
+    "titleKana": "おうじょふぇりのしあわせなしれん",
+    "authorIds": [
+      "tokitatooru"
+    ],
+    "illustratorIds": [
+      "miyama-kiri"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "koukyuu",
+      "romance",
+      "mahou"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "誰からも愛される美しい王女——それは生まれてすぐ掛けられた「祝福の魔法」による、かりそめの姿だった。作られた愛され方に苦しむフェリが、自分自身の幸せを探していく女性向けファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outei-denka-no-okiniiri-tensei-shitemo-tenteki-k",
+    "title": "王弟殿下のお気に入り",
+    "titleKana": "おうていでんかのおきにいり",
+    "authorIds": [
+      "mochidamuu"
+    ],
+    "illustratorIds": [
+      "kometto"
+    ],
+    "publisherId": "kadokawa-beans-bunko",
+    "themeIds": [
+      "ajin-mamono-musume",
+      "romance",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "黒ウサギだった時代に憧れていた黒狼を目覚めさせるため、アシュリーはクライドたちに協力する。過去の因縁が絡む王宮を舞台に、獣人たちの思惑が交錯していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
