@@ -3915,6 +3915,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:02:16.696Z"
   },
+  "eiyuu-no-wasuregatami": {
+    "title": "英雄の忘れ形見",
+    "isbn": "9784074259984",
+    "matchedTitle": "英雄の忘れ形見　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9984/9784074259984.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:33.192Z"
+  },
   "eiyuu-shibou-no-akuyaku-mobu-tenseisha-mujikaku": {
     "title": "英雄志望の悪役モブ転生者、無自覚に原作鬱シナリオをぶち壊す",
     "isbn": "9784824011817",
@@ -5162,6 +5170,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:59:12.911Z"
   },
+  "gunjou-no-ryuukishi": {
+    "title": "群青の竜騎士",
+    "isbn": null,
+    "matchedTitle": "群青の竜騎士　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1838/2000006981838.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:09:04.015Z"
+  },
   "gunparade-march": {
     "title": "高機動幻想ガンパレード・マーチ",
     "isbn": null,
@@ -5209,6 +5225,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6827/2000007006827.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:22:56.531Z"
+  },
+  "gyakuseichou-chito-de-sekai-saikyou": {
+    "title": "逆成長チートで世界最強",
+    "isbn": "9784074246977",
+    "matchedTitle": "逆成長チートで世界最強　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6977/9784074246977.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:25.054Z"
   },
   "gyaru-ni-yasashii-otaku-kun": {
     "title": "ギャルに優しいオタク君",
@@ -7157,6 +7181,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:49:19.666Z"
   },
+  "isekai-douraku-ni-akitara": {
+    "title": "異世界道楽に飽きたら",
+    "isbn": "9784074507955",
+    "matchedTitle": "異世界道楽に飽きたら　5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7955/9784074507955_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:19.192Z"
+  },
   "isekai-ekisha-no-kissaten": {
     "title": "異世界駅舎の喫茶店",
     "isbn": "9784800260598",
@@ -7443,6 +7475,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:22:31.001Z"
   },
+  "isekai-no-meitantei-kubinashihime-satsujin-jiken": {
+    "title": "異世界の名探偵",
+    "isbn": "9784065167120",
+    "matchedTitle": "異世界の名探偵　1　首なし姫殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7120/9784065167120.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:09:00.535Z"
+  },
   "isekai-no-nonbiri-nouka": {
     "title": "異世界のんびり農家",
     "isbn": "9784047348486",
@@ -7451,6 +7491,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:34:22.880Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15160222/"
+  },
+  "isekai-no-sata-mo-kaneshidai": {
+    "title": "異世界の沙汰も金次第",
+    "isbn": "9784074314676",
+    "matchedTitle": "異世界の沙汰も金次第　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4676/9784074314676.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:59.368Z"
   },
   "isekai-no-sata-wa-shachiku-shidai": {
     "title": "異世界の沙汰は社畜次第",
@@ -7501,6 +7549,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6183/2000005666183.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:31:58.721Z"
+  },
+  "isekai-rakugo": {
+    "title": "異世界落語",
+    "isbn": "9784074176748",
+    "matchedTitle": "異世界落語（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6748/9784074176748.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:16.861Z"
   },
   "isekai-rakuraku-mujintou-raifu-kurasu-teni-de-ku": {
     "title": "異世界ラクラク無人島ライフ",
@@ -8097,6 +8153,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:22:24.005Z"
   },
+  "izure-saikyou-eto-itaru-michi": {
+    "title": "いずれ最強へと至る道",
+    "isbn": null,
+    "matchedTitle": "いずれ最強へと至る道　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4418/2000006674418.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:46.527Z"
+  },
   "izure-saikyou-no-renkinjutsushi": {
     "title": "いずれ最強の錬金術師?",
     "isbn": "9784434243424",
@@ -8366,6 +8430,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T01:34:39.825Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18088925/"
+  },
+  "jussai-no-saikyou-madoushi": {
+    "title": "十歳の最強魔導師",
+    "isbn": "9784074286898",
+    "matchedTitle": "十歳の最強魔導師　3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6898/9784074286898.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:18.031Z"
   },
   "juudan-maouji-no-isekai-kouryaku-maougun-nanoni": {
     "title": "銃弾魔王子の異世界攻略",
@@ -8845,6 +8917,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:52:39.690Z"
   },
+  "kamisama-wa-shoushou-watashi-ni-tekibishii": {
+    "title": "神様は少々私に手厳しい",
+    "isbn": "9784074439096",
+    "matchedTitle": "神様は少々私に手厳しい　7",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9096/9784074439096.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:20.355Z"
+  },
   "kamisuki-tooru-no-kegare-naki-sekai": {
     "title": "紙透トオルの汚れなき世界",
     "isbn": null,
@@ -9069,6 +9149,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:22:43.794Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15324103/"
+  },
+  "kantei-nouryoku-de-chougoushi-ni-narimasu": {
+    "title": "鑑定能力で調合師になります",
+    "isbn": "9784074189526",
+    "matchedTitle": "鑑定能力で調合師になります　4",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9526/9784074189526.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:15.672Z"
+  },
+  "kanteitsukai-no-boukensha": {
+    "title": "鑑定使いの冒険者",
+    "isbn": "9784074279517",
+    "matchedTitle": "鑑定使いの冒険者　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9517/9784074279517.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:34.357Z"
   },
   "kanzen-kaihi-healer": {
     "title": "完全回避ヒーラーの軌跡",
@@ -9348,6 +9444,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T00:49:57.634Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12830994/"
+  },
+  "kenja-no-ken": {
+    "title": "賢者の剣",
+    "isbn": null,
+    "matchedTitle": "賢者の剣　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5286/2000006815286.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:23.884Z"
   },
   "kenja-no-mago": {
     "title": "賢者の孫",
@@ -9887,6 +9991,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:04:30.384Z"
   },
+  "kofin-difaira": {
+    "title": "棺の魔王(コフィン・ディファイラー)",
+    "isbn": null,
+    "matchedTitle": "棺の魔王（コフィン・ディファイラー）　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4099/2000006544099.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:39.536Z"
+  },
   "koi-ni-hensuru-oba-raito": {
     "title": "恋に変する魔改上書",
     "isbn": null,
@@ -10067,6 +10179,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9346/2000003859346.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T04:00:25.064Z"
+  },
+  "kokubyaku-no-yuusha": {
+    "title": "黒白の勇者",
+    "isbn": "9784074492664",
+    "matchedTitle": "黒白の勇者　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2664/9784074492664_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:30.873Z"
   },
   "kokugai-tsuihou-sareta-oujo": {
     "title": "国外追放された王女は、敵国の氷の王に溺愛される",
@@ -10412,6 +10532,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T10:00:56.104Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15702689/"
+  },
+  "koujo-denka-no-shoukanshi": {
+    "title": "皇女殿下の召喚士",
+    "isbn": "9784074428441",
+    "matchedTitle": "皇女殿下の召喚士　2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8441/9784074428441.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:09:05.182Z"
   },
   "kouka-koukyuu-monogatari": {
     "title": "紅霞後宮物語",
@@ -10891,6 +11019,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7771/9784865547771.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:21:46.480Z"
+  },
+  "kuru-eru": {
+    "title": "クール・エール",
+    "isbn": null,
+    "matchedTitle": "クール・エール　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9537/2000007759537.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:54.720Z"
   },
   "kusamahoushi-kuroe-no-nidome-no-jinsei-jiyuu-ni": {
     "title": "草魔法師クロエの二度目の人生",
@@ -13031,6 +13167,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9327/9784065359327.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T04:45:44.302Z"
+  },
+  "ochikobore-ryuukishi-bahamuto-ni-hitomebore-sare": {
+    "title": "落ちこぼれ竜騎士、神竜少女(バハムート)に一目惚れされる",
+    "isbn": "9784074428502",
+    "matchedTitle": "落ちこぼれ竜騎士、神竜少女（バハムート）に一目惚れされる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8502/9784074428502.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:51.185Z"
   },
   "ochitekita-ryuuou-to-horobiyuku-majo-no-kuni": {
     "title": "落ちてきた龍王と滅びゆく魔女の国",
@@ -15625,6 +15769,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:50:42.913Z"
   },
+  "saikyou-kishidanchou-no-yonaoshitabi": {
+    "title": "最強騎士団長の世直し旅",
+    "isbn": "9784074395231",
+    "matchedTitle": "最強騎士団長の世直し旅　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5231/9784074395231.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:32.037Z"
+  },
   "saikyou-koushaku-no-gekirin": {
     "title": "最凶侯爵の逆鱗に触れた者達の末路",
     "isbn": "9784815635572",
@@ -15752,6 +15904,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3130/2000005713130.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T10:27:16.100Z"
+  },
+  "saishin-no-gemu-wa-sugosugi-daro": {
+    "title": "最新のゲームは凄すぎだろ",
+    "isbn": "9784072963319",
+    "matchedTitle": "最新のゲームは凄すぎだろ（2）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3319/9784072963319.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T09:08:26.219Z"
   },
   "saitamaken-shintou-keifu": {
     "title": "埼玉県神統系譜",
@@ -15890,6 +16050,14 @@
     "resolvedAt": "2026-08-03T12:53:54.155Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16911806/"
   },
+  "sanzen-no-souru-supina": {
+    "title": "燦然のソウルスピナ",
+    "isbn": null,
+    "matchedTitle": "燦然のソウルスピナ　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1151/2000008001151.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:43.009Z"
+  },
   "sao-alternative-ggo": {
     "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
     "isbn": "9784048690942",
@@ -15973,6 +16141,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:28:59.174Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16191263/"
+  },
+  "satoko-no-panya-isekai-e-iku": {
+    "title": "サトコのパン屋、異世界へ行く",
+    "isbn": null,
+    "matchedTitle": "サトコのパン屋、異世界へ行く　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9524/2000007759524.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:58.203Z"
   },
   "satougashi-no-dangan-wa-uchinukenai": {
     "title": "砂糖菓子の弾丸は撃ちぬけない",
@@ -19105,6 +19281,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:08:29.081Z"
   },
+  "uroborosu-rekodo": {
+    "title": "ウロボロス・レコード",
+    "isbn": null,
+    "matchedTitle": "ウロボロス・レコード３",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5298/2000006815298.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:50.016Z"
+  },
   "usagi-robo": {
     "title": "うさぎロボ",
     "isbn": null,
@@ -19163,6 +19347,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T15:30:35.720Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17419731/"
+  },
+  "usotsuki-senki-meikyuu-o-yuku": {
+    "title": "嘘つき戦姫、迷宮をゆく",
+    "isbn": null,
+    "matchedTitle": "嘘つき戦姫、迷宮をゆく　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6607/2000006896607.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T09:08:29.712Z"
   },
   "utahime-o-koroshitai": {
     "title": "歌姫を殺したい",

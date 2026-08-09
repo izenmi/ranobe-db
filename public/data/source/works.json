@@ -76366,5 +76366,663 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kantei-nouryoku-de-chougoushi-ni-narimasu",
+    "title": "鑑定能力で調合師になります",
+    "titleKana": "かんていのうりょくでちょうごうしになります",
+    "authorIds": [
+      "soranosusumu"
+    ],
+    "illustratorIds": [
+      "muchuunozomi"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "alchemist-apothecary",
+      "harem"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "鑑定のチート能力を授かった癒し系の青年が、素材の性質を見抜く力を活かして調合師を目指す。戦闘職ではなく生産職に軸足を置き、薬や道具を通じて人の役に立っていく。鑑定という地味な能力の応用範囲を広げていく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-rakugo",
+    "title": "異世界落語",
+    "titleKana": "いせかいらくご",
+    "authorIds": [
+      "sujakushingo"
+    ],
+    "illustratorIds": [
+      "miyamafugin"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "engeki-butai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "異世界に落語を持ち込むという発想の作品。噺家の一福が、剣聖アルステッドをはじめとする現地の面々を前に高座を務める。言葉と間だけで人を動かす芸が、剣と魔法の世界でどこまで通用するのかが見どころになっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jussai-no-saikyou-madoushi",
+    "title": "十歳の最強魔導師",
+    "titleKana": "じゅっさいのさいきょうまどうし",
+    "authorIds": [
+      "amanoseiju"
+    ],
+    "illustratorIds": [
+      "nekoge"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "cheat-kid-protagonist",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 9,
+    "status": "ongoing",
+    "synopsis": "十歳にして規格外の魔力と才能を持つ少女を主人公に据えた、ほのぼの学園ファンタジー。強大な力を持ちながらも本人は無邪気なままで、周囲の大人たちのほうが振り回されていく。笑顔と魔力の両方が最強という作風。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-douraku-ni-akitara",
+    "title": "異世界道楽に飽きたら",
+    "titleKana": "いせかいどうらくにあきたら",
+    "authorIds": [
+      "sanmongarasufudaya"
+    ],
+    "illustratorIds": [
+      "saa"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "chuunen-ossan-shujinkou",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "異世界に転生した中年男が、授かった魔法のチート能力を手に、目的もなく気ままな旅に出る。強くなることにも名を上げることにも執着せず、道楽として異世界を味わい尽くしていく。脱力した語り口が持ち味の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-wa-shoushou-watashi-ni-tekibishii",
+    "title": "神様は少々私に手厳しい",
+    "titleKana": "かみさまわしょうしょうわたしにてきびしい",
+    "authorIds": [
+      "morinoion"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gyaku-isekai",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "二度目の異世界転移で降り立った先は、かつての敵対国であり、しかも十年後の世界だった。状況が一変したなかを、少女は珍妙な言動で押し切りながら駆け抜けていく。混乱の時代を主人公の図太さで渡っていく異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenja-no-ken",
+    "title": "賢者の剣",
+    "titleKana": "けんじゃのけん",
+    "authorIds": [
+      "hiyamajunki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "ken-to-mahou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "ゲームの世界にトリップした少年が、魔王との戦いに挑む王道ファンタジー。ずっと憧れていた世界に入り込めた高揚と、実際に命を賭ける現実の落差を抱えながら、剣を手に進んでいく。小説投稿サイト発の人気シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gyakuseichou-chito-de-sekai-saikyou",
+    "title": "逆成長チートで世界最強",
+    "titleKana": "ぎゃくせいちょうちーとでせかいさいきょう",
+    "authorIds": [
+      "satakeakinori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "魔物がはびこり、農民ですら鍬を手放せない世界。村人スキルしか持たない少年が、成長の常識を逆転させる仕組みによって強さを手にしていく。獣人の少女とともに、最弱の出発点から世界最強へ至る道を歩む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saishin-no-gemu-wa-sugosugi-daro",
+    "title": "最新のゲームは凄すぎだろ",
+    "titleKana": "さいしんのげーむわすごすぎだろ",
+    "authorIds": [
+      "ukisekusako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "vrmmo",
+      "isekai-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "最新のゲームがあまりに凄すぎる——そんな驚きから始まる異世界ゲームファンタジー。仮想と現実の境が曖昧になっていく世界で、プレイヤーたちはシステムの裏側に触れていく。小説投稿サイト版から大きく改稿された作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "usotsuki-senki-meikyuu-o-yuku",
+    "title": "嘘つき戦姫、迷宮をゆく",
+    "titleKana": "うそつきせんきめいきゅうおゆく",
+    "authorIds": [
+      "satou-masato"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "dungeon",
+      "akuyaku-reijou",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "見栄っ張りで嘘ばかりつく令嬢が、縦ロールの髪を武器に迷宮攻略で成り上がっていく。虚勢が結果的に事実になってしまう展開の連続で、周囲は彼女を本物の英傑と信じ込む。勢いで押し切る熱血冒険ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kokubyaku-no-yuusha",
+    "title": "黒白の勇者",
+    "titleKana": "こくびゃくのゆうしゃ",
+    "authorIds": [
+      "hiyamajunki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "名門高校の一年A組がまるごと異世界に召喚される。アイドルやイケメン御曹司、美少女剣士といった多彩な級友たちとともに、普通の少年が剣と竜と魔法の世界で戦うことになる。クラス転移ものの王道を押さえた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saikyou-kishidanchou-no-yonaoshitabi",
+    "title": "最強騎士団長の世直し旅",
+    "titleKana": "さいきょうきしだんちょうのよなおしたび",
+    "authorIds": [
+      "satakeakinori"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "最強と謳われた騎士団長が、二人の獣人少女を連れてお忍びの世直し旅に出る。魔物退治から失踪事件の調査、魔人討伐まで、行く先々の困り事を片端から解決していく。勧善懲悪を貫いた爽快なファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eiyuu-no-wasuregatami",
+    "title": "英雄の忘れ形見",
+    "titleKana": "えいゆうのわすれがたみ",
+    "authorIds": [
+      "kazamiyuuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "人里離れた山奥で一人暮らしをしていた青年は、世間知らずの田舎者に見えて、実のところ規格外の強さを備えていた。エルフの美少女を救う一件をきっかけに、彼の実力が世に知られていく。痛快な勧善懲悪ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanteitsukai-no-boukensha",
+    "title": "鑑定使いの冒険者",
+    "titleKana": "かんていつかいのぼうけんしゃ",
+    "authorIds": [
+      "soranosusumu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dungeon",
+      "harem"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "【詳細鑑定】のスキルを武器に冒険者となった少年が、三人の少女とともにダンジョンへ潜る。相手が何を持ち、何を隠しているかまで見抜けるため、戦闘でも交渉でも優位に立てる。鑑定能力の使い道を突き詰めた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kofin-difaira",
+    "title": "棺の魔王(コフィン・ディファイラー)",
+    "titleKana": "こふぃんでぃふぁいらー",
+    "authorIds": [
+      "majimabunkichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "国を滅ぼさんとする巨大勢力に対し、生き残った英雄たちが立ち上がる。灰色の雲が垂れ込める大草原を舞台に、魔王と呼ばれる存在をめぐる戦いが展開される。重い調子で描かれる、ダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sanzen-no-souru-supina",
+    "title": "燦然のソウルスピナ",
+    "titleKana": "さんぜんのそうるすぴな",
+    "authorIds": [
+      "rojiayumu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "senki",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "聖騎士と黒幕が手を組むという異例の展開から動き出す幻想戦記。魂を紡ぐという設定を軸に、立場の異なる者たちが同じ目的へ向かう過程が描かれる。夫婦ユニットによる合作として書かれた重厚なハイファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "izure-saikyou-eto-itaru-michi",
+    "title": "いずれ最強へと至る道",
+    "titleKana": "いずれさいきょうえといたるみち",
+    "authorIds": [
+      "aizawatateru"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "異世界に転移した青年の相棒は、喋る本とドMのドラゴンだった。中二病的な言い回しを全開にしながら、最強への道を駆け上がっていく。テンションの高さで押し切る、王道の爽快冒険ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uroborosu-rekodo",
+    "title": "ウロボロス・レコード",
+    "titleKana": "うろぼろすれこーど",
+    "authorIds": [
+      "yamashitaminato"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "alchemist-apothecary",
+      "akuyaku-kizoku"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "伯爵家の次男トゥリスは、不老不死を得るために錬金術へのめり込んでいく。洗脳や人体改造といった手段も辞さない少年の歩みは、明確に主人公らしさから外れていく。ダークヒーローものとして書かれた異色作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ochikobore-ryuukishi-bahamuto-ni-hitomebore-sare",
+    "title": "落ちこぼれ竜騎士、神竜少女(バハムート)に一目惚れされる",
+    "titleKana": "おちこぼれりゅうきしばはむーとにひとめぼれされる",
+    "authorIds": [
+      "miyama-rin"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "romance"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "竜騎士を目指しながらも冴えない少年が、伝説の神竜である美少女に一目惚れされてしまう。格が違いすぎる相手からの好意に戸惑いながら、彼は竜騎士としての実力を身につけていく。恋愛要素の強いファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kuru-eru",
+    "title": "クール・エール",
+    "titleKana": "くーるえーる",
+    "authorIds": [
+      "sunaoshitsukasa"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "fukushuu",
+      "mahou",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "母と妹の死を招いた召喚魔法そのものを消し去るため、青年は魔導士となって戦い続ける。復讐の対象が個人ではなく術式であるという設定が特徴で、殺伐とした主人公の内面が丁寧に描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "satoko-no-panya-isekai-e-iku",
+    "title": "サトコのパン屋、異世界へ行く",
+    "titleKana": "さとこのぱんやいせかいえいく",
+    "authorIds": [
+      "tsukamotoyuma"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "gourmet",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "実家のパン屋ごと異世界にトリップしてしまった駆け出しのパン職人サトコ。悪の魔法使いから姫君を守るため、彼女はパンを焼く技術を武器に立ち向かう。職人仕事を軸にした、明るい調子の異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-no-sata-mo-kaneshidai",
+    "title": "異世界の沙汰も金次第",
+    "titleKana": "いせかいのさたもかねしだい",
+    "authorIds": [
+      "hashihiroisamu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ソーシャルゲームに人生を捧げていた白石亮が異世界に召喚される。知識も金も伝手もないダメ男が、この世界では何が価値を持つのかを見極めながら成り上がろうとする。金銭の流れを主題に据えた異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-no-meitantei-kubinashihime-satsujin-jiken",
+    "title": "異世界の名探偵",
+    "titleKana": "いせかいのめいたんてい",
+    "authorIds": [
+      "katazatokamome"
+    ],
+    "illustratorIds": [
+      "munamuji"
+    ],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "isekai-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "元警察官でミステリーマニアだった「俺」が、探偵に憧れて私立探偵となり、異世界で事件に挑む。魔法が存在する世界では推理の前提そのものが変わるため、現代の捜査知識をどう当てはめるかが焦点になる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gunjou-no-ryuukishi",
+    "title": "群青の竜騎士",
+    "titleKana": "ぐんじょうのりゅうきし",
+    "authorIds": [
+      "onoakashi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "koukuu-kuusen",
+      "senki",
+      "mercenary"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "複葉機とドラゴンが同じ空を飛び交う重厚な航空戦記。テルミア空軍第一航空隊の若き飛行士が、策謀に巻き込まれた異国の少女を救うために飛ぶ。機体の描写と空戦の戦術に力を入れた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koujo-denka-no-shoukanshi",
+    "title": "皇女殿下の召喚士",
+    "titleKana": "こうじょでんかのしょうかんし",
+    "authorIds": [
+      "nagano-bunzaburo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "hero-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "koukyuu",
+      "harem"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "田舎の少年が、皇女殿下の専属騎士に取り立てられる。毒舌のメイドや脳筋の少女といった個性の強い仲間とともに、異世界産のアイテムを駆使して任務にあたる。召喚術と道具の組み合わせが戦術の要になる作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
