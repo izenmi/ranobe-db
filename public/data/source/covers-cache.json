@@ -2773,6 +2773,22 @@
     "resolvedAt": "2026-08-02T00:50:12.668Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18631711/"
   },
+  "dainana-isekai-no-radasshumura": {
+    "title": "第七異世界のラダッシュ村",
+    "isbn": "9784061399457",
+    "matchedTitle": "第七異世界のラダッシュ村",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9457/9784061399457.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:41.823Z"
+  },
+  "dainihon-samurai-garu": {
+    "title": "大日本サムライガール",
+    "isbn": null,
+    "matchedTitle": "大日本サムライガール　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1746/2000002741746.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T05:05:33.003Z"
+  },
   "daisu-makaburu-difinishonaru-randamu-firudo": {
     "title": "ダイス・マカブル 〜definitional random field〜",
     "isbn": null,
@@ -4096,6 +4112,22 @@
     "resolvedAt": "2026-08-03T12:53:03.230Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6105161/"
   },
+  "ginga-rengou-nihon": {
+    "title": "銀河連合日本",
+    "isbn": "9784061399341",
+    "matchedTitle": "銀河連合日本　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9341/9784061399341.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:29.455Z"
+  },
+  "ginga-rengou-nihon-eiji-afuta": {
+    "title": "銀河連合日本Age after",
+    "isbn": "9784065201770",
+    "matchedTitle": "銀河連合日本　Age　after　シエの帰郷",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1770/9784065201770_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:35.352Z"
+  },
   "ginshi-no-mahoushiki": {
     "title": "銀糸の魔法式",
     "isbn": null,
@@ -4598,6 +4630,14 @@
     "resolvedAt": "2026-08-07T14:37:02.099Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15555458/"
   },
+  "haruka-toudo-no-kanan": {
+    "title": "遙か凍土のカナン",
+    "isbn": "9784061388925",
+    "matchedTitle": "遙か凍土のカナン2　旅の仲間",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8925/9784061388925.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:34.174Z"
+  },
   "harutika": {
     "title": "ハルチカ 〜ハルタとチカは青春する〜",
     "isbn": null,
@@ -4917,6 +4957,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T00:00:54.713Z"
   },
+  "himitsu-kessha-desukuroitsu": {
+    "title": "秘密結社デスクロイツ",
+    "isbn": "9784065239254",
+    "matchedTitle": "秘密結社デスクロイツ　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9254/9784065239254_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:37.707Z"
+  },
   "hirai-gaikotsu-kono-naka-ni-ari": {
     "title": "平井骸惚此中ニ有リ",
     "isbn": null,
@@ -5161,6 +5209,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:02:35.945Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12413420/"
+  },
+  "hyakutou-oukoku-monogatari-horobi-no-ou-to-majut": {
+    "title": "百島王国物語",
+    "isbn": "9784065300428",
+    "matchedTitle": "百島王国物語　竜騎手の反逆",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0428/9784065300428_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:43.000Z"
   },
   "hyouka": {
     "title": "氷菓",
@@ -7108,6 +7164,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T04:00:37.008Z"
   },
+  "kamisama-gakkou-no-ochikobore": {
+    "title": "神さま学校の落ちこぼれ",
+    "isbn": "9784065267783",
+    "matchedTitle": "神さま学校の落ちこぼれ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7783/9784065267783_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:36.552Z"
+  },
   "kamisama-kazoku": {
     "title": "神様家族",
     "isbn": null,
@@ -7381,6 +7445,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2018/2000004102018.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:47:04.896Z"
+  },
+  "karafu-tettaisen": {
+    "title": "カラフ撤退戦",
+    "isbn": "9784065406472",
+    "matchedTitle": "カラフ撤退戦　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6472/9784065406472_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:40.031Z"
   },
   "karakuri-musume-wa-kizutsukanai": {
     "title": "機巧少女は傷つかない",
@@ -15651,6 +15723,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:04:03.974Z"
   },
+  "tensei-dazai-osamu": {
+    "title": "転生!太宰治",
+    "isbn": "9784065258019",
+    "matchedTitle": "転生！　太宰治ファイナル　コロナで、グッド・バイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8019/9784065258019_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:38.862Z"
+  },
   "tensei-kenja-no-isekai-life": {
     "title": "転生賢者の異世界ライフ 〜第二の職業を得て、世界最強になりました〜",
     "isbn": "9784797396959",
@@ -17300,6 +17380,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2775/2000004862775.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T12:35:07.040Z"
+  },
+  "yuukawa-yuuki-no-ekusuperimento-notsu": {
+    "title": "遊川夕妃の実験手記(エクスペリメントノーツ)",
+    "isbn": "9784065191446",
+    "matchedTitle": "遊川夕妃の実験手記　彼女が孔雀の箱に落ちたわけ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1446/9784065191446.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T05:05:44.176Z"
   },
   "yuukyuu-tenboudai-no-kai": {
     "title": "悠久展望台のカイ",

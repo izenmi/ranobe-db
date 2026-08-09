@@ -67621,5 +67621,319 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginga-rengou-nihon",
+    "title": "銀河連合日本",
+    "titleKana": "ぎんがれんごうにほん",
+    "authorIds": [
+      "matsumotoyasuha"
+    ],
+    "illustratorIds": [
+      "bob"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "sf",
+      "gendai-drama",
+      "naisei"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 13,
+    "status": "ongoing",
+    "synopsis": "二〇一X年、地球の衛星軌道上に異星人の巨大宇宙船が飛来する。最初に接触したのは政府でも軍でもなく、偶然偵察ドローンと出会った日本のビジネスマン柏木真人だった。彼が窓口になったことで、日本は銀河連合との交渉の矢面に立たされる。ファーストコンタクトを外交と経済の問題として扱い、国家間の駆け引きを緻密に描くSF。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dainihon-samurai-garu",
+    "title": "大日本サムライガール",
+    "titleKana": "だいにほんさむらいがーる",
+    "authorIds": [
+      "shidouryuusei"
+    ],
+    "illustratorIds": [],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "gendai-drama",
+      "naisei",
+      "idol-geinokai"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 9,
+    "status": "completed",
+    "synopsis": "日本を根底から作り変えることを目標に、政治の頂点を目指す女子高生の物語。街頭演説ではなくメディア露出を主戦場に選び、テレビや芸能の回路を使って自らの政策を世に広め、政治結社の党員を集めていく。政治と芸能を地続きに描き、影響力そのものを武器にする主人公の戦い方が読みどころ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haruka-toudo-no-kanan",
+    "title": "遙か凍土のカナン",
+    "titleKana": "はるかとうどのかなん",
+    "authorIds": [
+      "shibamura-yuuri"
+    ],
+    "illustratorIds": [
+      "shizuma-yoshinori"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "alternate-history",
+      "senki",
+      "spy-assassin"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "日露戦争の激戦「黒溝台の戦い」で活躍しながら負傷した軍人を主人公に据えた歴史もの。表舞台を退いた彼は、革命前夜のロシアを舞台にした諜報の世界へ身を投じていく。実在の戦史を土台にしつつ、記録に残らない工作の側から時代の転換点を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginga-rengou-nihon-eiji-afuta",
+    "title": "銀河連合日本Age after",
+    "titleKana": "ぎんがれんごうにほんえいじあふたー",
+    "authorIds": [
+      "matsumotoyasuha"
+    ],
+    "illustratorIds": [
+      "bob"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "sf",
+      "gendai-drama",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "『銀河連合日本』の続編にあたるシリーズ。婚約者の多川とともに故郷であるダストール星へ里帰りしたシエを待っていたのは、彼女に持ち上がっていた政略結婚の話だった。異星と地球の距離が縮まった後の世界で、個人の恋愛や家族の事情が星間政治とどう絡むのかを描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-gakkou-no-ochikobore",
+    "title": "神さま学校の落ちこぼれ",
+    "titleKana": "かみさまがっこうのおちこぼれ",
+    "authorIds": [
+      "hyuuga-natsu"
+    ],
+    "illustratorIds": [
+      "akagawaramodomu"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "gendai-drama",
+      "mahou",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "神通力を持つ人間を「ヒミコ」と呼び、国家資格を得た者だけが「神さま」を名乗れる現代日本。祖母を亡くしたナギは、落ちこぼれと見なされながらも神さまを養成する学校に身を置き、自分の力と向き合っていく。神職を資格制度として制度化した設定が独特で、学園ものの枠で職業訓練の物語を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "himitsu-kessha-desukuroitsu",
+    "title": "秘密結社デスクロイツ",
+    "titleKana": "ひみつけっしゃですくろいつ",
+    "authorIds": [
+      "hayashi-tomoaki"
+    ],
+    "illustratorIds": [
+      "magomago"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "かつて世界中に支部を張り巡らせ、百年先を行く超科学技術を有した悪の巨大組織「デスクロイツ」。その全盛期をとうに過ぎた現在を舞台に、落ちぶれてなお解散できない秘密結社の内情が描かれる。悪の組織を経営体として捉え、理念と資金繰りの板挟みを笑いに変えたバトルコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensei-dazai-osamu",
+    "title": "転生!太宰治",
+    "titleKana": "てんせいだざいおさむ",
+    "authorIds": [
+      "sato-yuya"
+    ],
+    "illustratorIds": [
+      "shinozuki-shinobu"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "現代日本に転生した太宰治が、ツイッターを始め、女子高生アイドルと交流し、それでもなお芥川賞を渇望し続ける——という設定の連作。文豪の自意識と現代のSNS文化を突き合わせ、承認欲求というテーマを時代を越えて笑いにする。実在の作家像を踏まえた戯画化が一貫している。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "karafu-tettaisen",
+    "title": "カラフ撤退戦",
+    "titleKana": "からふてったいせん",
+    "authorIds": [
+      "kokushokufunmatsu"
+    ],
+    "illustratorIds": [
+      "shion"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "senki",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "極寒の地からの撤退という一点に絞って書かれた戦記。勝ち戦の高揚ではなく、退くと決めた後に何をどう捨てるかという判断の連続が物語の中心にある。『幼女戦記』の著者カルロ・ゼンが推薦文を寄せており、現代的な兵站や意思決定の観点を、原初的な戦場の描写と組み合わせているのが特徴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dainana-isekai-no-radasshumura",
+    "title": "第七異世界のラダッシュ村",
+    "titleKana": "だいなないせかいのらだっしゅむら",
+    "authorIds": [
+      "semikawa-natsuya"
+    ],
+    "illustratorIds": [
+      "hami"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "isekai-fantasy",
+      "slow-life",
+      "sf"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "時は二〇一九年、人類が第一異世界へ最初の一歩を記してから半世紀が過ぎた世界。異世界への往来がすっかり日常化したなかで、第七異世界のラダッシュ村を舞台に人々の暮らしが描かれる。異世界を冒険の舞台ではなく開拓と移住の対象として扱い、宇宙開発史のような視点で見せる異色作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hyakutou-oukoku-monogatari-horobi-no-ou-to-majut",
+    "title": "百島王国物語",
+    "titleKana": "ひゃくとうおうこくものがたり",
+    "authorIds": [
+      "satoufutaba"
+    ],
+    "illustratorIds": [
+      "yoshimizu"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "monster-taming"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "竜を育てる西の海の領主の娘、“小竜公”と呼ばれるラヴァンドルの冒険と成長を描くファンタジー。竜騎手たちの反逆に巻き込まれるなかで、家名を継ぐ者としての責任と、自分自身の意思の間で選択を迫られていく。竜と人の関係を軸に据えた本格ファンタジーで、島嶼国家の政治も丁寧に描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuukawa-yuuki-no-ekusuperimento-notsu",
+    "title": "遊川夕妃の実験手記(エクスペリメントノーツ)",
+    "titleKana": "ゆうかわゆうきのえくすぺりめんとのーつ",
+    "authorIds": [
+      "watasekei"
+    ],
+    "illustratorIds": [
+      "rorua"
+    ],
+    "publisherId": "seikaisha-fictions",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "客の来ない「遊川発明事務所」を営む発明家・遊川夕妃が、風変わりな依頼と事件に関わっていく物語。彼女の発明と実験の記録という体裁を取りながら、持ち込まれた謎が一つずつ解かれていく。理屈と実験で押し切る探偵役という造形が特徴の、軽妙なミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
