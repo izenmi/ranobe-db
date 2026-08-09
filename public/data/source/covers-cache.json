@@ -397,6 +397,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T10:18:54.540Z"
   },
+  "akki-no-koukyuu-kaen": {
+    "title": "悪姫の後宮華演",
+    "isbn": "9784040750378",
+    "matchedTitle": "悪姫の後宮華演",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0378/9784040750378_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:52.558Z"
+  },
   "akki-no-virus": {
     "title": "悪鬼のウイルス",
     "isbn": "9784286161464",
@@ -2343,6 +2351,22 @@
     "resolvedAt": "2026-08-07T10:19:25.011Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14558439/"
   },
+  "ayakashi-fuufu-wa-konse-koso-shiawase-ni-naritai": {
+    "title": "あやかし夫婦は今世こそ幸せになりたい。",
+    "isbn": "9784040721057",
+    "matchedTitle": "浅草鬼嫁日記 あやかし夫婦は今世こそ幸せになりたい。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1057/9784040721057.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:54.886Z"
+  },
+  "ayakashi-gokudou-hoozukigumi-ni-yomeiri-shimasu": {
+    "title": "あやかし極道「鬼灯組」に嫁入りします",
+    "isbn": "9784040745381",
+    "matchedTitle": "あやかし極道「鬼灯組」に嫁入りします",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5381/9784040745381_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:53.732Z"
+  },
   "ayakashi-hime-wa-aisaretai": {
     "title": "あやかし姫は愛されたい",
     "isbn": "9784865542165",
@@ -2423,6 +2447,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7342/9784434297342_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:54:49.750Z"
+  },
+  "ayakashi-yomeiri-enmusubi": {
+    "title": "あやかし嫁入り縁結び",
+    "isbn": null,
+    "matchedTitle": "あやかし嫁入り縁結び　一　えにしの糸を結びます。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5642/2000006565642.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:22:33.788Z"
   },
   "ayakashigatari": {
     "title": "あやかしがたり",
@@ -4065,6 +4097,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:18:30.006Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16127752/"
+  },
+  "edo-no-oiran-to-irekawatta-node-hanamachi-no-cho": {
+    "title": "江戸の花魁と入れ替わったので、花街の頂点を目指してみる",
+    "isbn": "9784040739120",
+    "matchedTitle": "江戸の花魁と入れ替わったので、花街の頂点を目指してみる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9120/9784040739120.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:37.242Z"
   },
   "egao-de-maryoku-chaji-mugen-no-maryoku-de-isekai": {
     "title": "笑顔で魔力チャージ",
@@ -6725,6 +6765,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T11:06:15.969Z"
   },
+  "ikenie-otome-no-konrei": {
+    "title": "生贄乙女の婚礼",
+    "isbn": "9784040752976",
+    "matchedTitle": "生贄乙女の婚礼 龍神様に食べられたいのに愛されています。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2976/9784040752976_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:34.934Z"
+  },
   "ikenie-to-shite-suterareta-node-henkyouhakuke-ni": {
     "title": "生贄として捨てられたので、辺境伯家に自分を売ります",
     "isbn": "9784041136522",
@@ -7297,6 +7345,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6101/9784865546101.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:22:32.155Z"
+  },
+  "inukaichan-to-nekokai-sensei-goshujintachi-wa-ry": {
+    "title": "犬飼いちゃんと猫飼い先生",
+    "isbn": "9784040744162",
+    "matchedTitle": "犬飼いちゃんと猫飼い先生 ごしゅじんたちは両片想い",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4162/9784040744162_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:36.089Z"
   },
   "inukamit": {
     "title": "いぬかみっ！",
@@ -9329,6 +9385,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T09:32:11.560Z"
   },
+  "kainami-ke-no-tsukumogami": {
+    "title": "海波家のつくも神",
+    "isbn": null,
+    "matchedTitle": "海波家のつくも神",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4846/2000002094846.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:22:59.486Z"
+  },
   "kaiwa-mo-shinai-tsurego": {
     "title": "会話もしない連れ子の妹が、長年一緒にバカやってきたネトゲのフレだった",
     "isbn": "9784086314084",
@@ -9450,6 +9514,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0075/9784086800075_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T10:51:09.189Z"
+  },
+  "kamakura-oyatsudokoro-no-shinigami": {
+    "title": "鎌倉おやつ処の死に神",
+    "isbn": null,
+    "matchedTitle": "鎌倉おやつ処の死に神",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6301/2000003926301.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:22:46.435Z"
   },
   "kamasekei-hiroin-ruto-no-ketsumatsu-o-ore-wa-shi": {
     "title": "かませ系ヒロインルートの結末を俺は知らない",
@@ -9613,6 +9685,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:52:39.690Z"
   },
+  "kamisama-no-yakusouen-kamaitachi-no-kizugusuri": {
+    "title": "神様の薬草園",
+    "isbn": null,
+    "matchedTitle": "神様の薬草園　かまいたちの傷薬",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9766/2000007449766.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:23:02.947Z"
+  },
   "kamisama-tantei-no-oshinagaki": {
     "title": "カミサマ探偵のおしながき",
     "isbn": null,
@@ -9670,6 +9750,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1234/9784798621234.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:41:20.788Z"
+  },
+  "kamiyui-otome-no-yomeiri-mukae-ni-kita-dannasama": {
+    "title": "髪結い乙女の嫁入り",
+    "isbn": "9784040749112",
+    "matchedTitle": "髪結い乙女の嫁入り 迎えに来た旦那様と、神様にお仕えします。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9112/9784040749112_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:47.578Z"
   },
   "kamogawa-kizoku-teitaku-no-sahanji-koisuru-otome": {
     "title": "鴨川貴族邸宅の茶飯事",
@@ -10035,6 +10123,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:47:59.405Z"
   },
+  "kasen-koushu-yawa-sono-reijin-koukyuu-no-yami-o": {
+    "title": "華仙公主夜話",
+    "isbn": "9784040727851",
+    "matchedTitle": "華仙公主夜話 その麗人、後宮の闇を討つ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7851/9784040727851_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:42.969Z"
+  },
+  "kashidashi-kinshi-no-tamayura-toshokan": {
+    "title": "貸出禁止のたまゆら図書館",
+    "isbn": null,
+    "matchedTitle": "貸出禁止のたまゆら図書館",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0790/2000003530790.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:22:41.820Z"
+  },
   "kashin-ni-megumareta-tensei-kizoku": {
     "title": "家臣に恵まれた転生貴族の幸せな日常",
     "isbn": "9784046833778",
@@ -10161,6 +10265,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:28:04.387Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14903191/"
+  },
+  "keiyaku-kekkon-tte-ari-desuka": {
+    "title": "契約結婚ってありですか",
+    "isbn": "9784040726731",
+    "matchedTitle": "契約結婚ってありですか 利害一致から始まる恋？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6731/9784040726731_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:23:10.976Z"
   },
   "kekkaishi-eno-tensei": {
     "title": "結界師への転生",
@@ -10803,6 +10915,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5609/2000000135609.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:45:11.960Z"
+  },
+  "kizoku-dezaina-no-karei-na-jikenbo-rondon-no-maj": {
+    "title": "貴族デザイナーの華麗な事件簿",
+    "isbn": null,
+    "matchedTitle": "貴族デザイナーの華麗な事件簿　ロンドンの魔女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4778/2000002094778.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:23:06.406Z"
+  },
+  "kizoku-reijou-airu-no-jikenbo-nisegakusei-hajime": {
+    "title": "貴族令嬢アイルの事件簿",
+    "isbn": null,
+    "matchedTitle": "貴族令嬢アイルの事件簿　偽学生、はじめました。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3927/2000002253927.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T11:23:09.816Z"
   },
   "kizumonogatari": {
     "title": "傷物語",
@@ -11538,6 +11666,14 @@
     "resolvedAt": "2026-08-07T10:30:00.545Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16784570/"
   },
+  "koukyuu-no-boukyakuhi-rinne-no-hana-wa-kanjo-to": {
+    "title": "後宮の忘却妃",
+    "isbn": "9784040748702",
+    "matchedTitle": "後宮の忘却妃 -輪廻の華は官女となりて返り咲くー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8702/9784040748702_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:23:12.126Z"
+  },
   "koukyuu-no-hiyakushi": {
     "title": "後宮の秘薬師",
     "isbn": "9784434359279",
@@ -11581,6 +11717,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0982/2000002550982.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-08T06:49:24.729Z"
+  },
+  "koumidou-kitan": {
+    "title": "香魅堂奇譚",
+    "isbn": "9784040706474",
+    "matchedTitle": "香魅堂奇譚　二",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6474/9784040706474.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:49.087Z"
   },
   "koumuin-nakata-shinobu-no-akutoku": {
     "title": "公務員、中田忍の悪徳",
@@ -14115,6 +14259,14 @@
     "resolvedAt": "2026-08-07T10:21:46.904Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15871683/"
   },
+  "oboro-no-hanayome": {
+    "title": "朧の花嫁",
+    "isbn": "9784040752112",
+    "matchedTitle": "朧の花嫁",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2112/9784040752112_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:28.554Z"
+  },
   "obousan-to-ocha-o": {
     "title": "お坊さんとお茶を",
     "isbn": "9784086800068",
@@ -14148,6 +14300,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:21:52.754Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16728156/"
+  },
+  "ochigamisama-no-kamidanomi": {
+    "title": "堕ち神さまの神頼み",
+    "isbn": "9784040720593",
+    "matchedTitle": "堕ち神さまの神頼み2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0593/9784040720593.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:56.037Z"
   },
   "ochikobore-girudo-shokuin-jitsu-wa-esuranku-shou": {
     "title": "落ちこぼれギルド職員、実はSランク召喚士だった",
@@ -14524,6 +14684,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0417/2000001740417.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:43:04.378Z"
+  },
+  "onigari-jinja-no-mamorihime": {
+    "title": "鬼狩り神社の守り姫",
+    "isbn": "9784040748726",
+    "matchedTitle": "鬼狩り神社の守り姫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8726/9784040748726_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:29.704Z"
   },
   "onigiridokoro-no-gochisou-sankaku-kazoku-o-musub": {
     "title": "おにぎり処のごちそう三角",
@@ -15914,6 +16082,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:31:26.774Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15940245/"
+  },
+  "oukahi-ryourichou": {
+    "title": "桜花妃料理帖",
+    "isbn": "9784040726328",
+    "matchedTitle": "桜花妃料理帖",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6328/9784040726328_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:38.369Z"
   },
   "ouke-no-saihoushi-rerin-haru-yobu-deai-to-ito-no": {
     "title": "王家の裁縫師レリン",
@@ -17980,6 +18156,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:47:45.642Z"
   },
+  "shi-no-mori-no-majo-wa-ai-o-shiranai": {
+    "title": "死の森の魔女は愛を知らない",
+    "isbn": "9784040739885",
+    "matchedTitle": "死の森の魔女は愛を知らない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9885/9784040739885_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:51.401Z"
+  },
   "shibou-yuugi-de-meshi-wo-kuu": {
     "title": "死亡遊戯で飯を食う。",
     "isbn": "9784046819376",
@@ -18173,6 +18357,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T04:05:41.559Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16724454/"
+  },
+  "shinise-sakagura-no-makanaisan": {
+    "title": "老舗酒蔵のまかないさん",
+    "isbn": "9784040743189",
+    "matchedTitle": "老舗酒蔵のまかないさん 初夏の梅酒と七輪焼きの炙りイカ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3189/9784040743189_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T11:22:50.251Z"
   },
   "shinitagari-reijou-wa-kyuuketsuki-ni-dekiaisareru": {
     "title": "死にたがり令嬢は吸血鬼に溺愛される",

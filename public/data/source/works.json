@@ -82350,5 +82350,701 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oboro-no-hanayome",
+    "title": "朧の花嫁",
+    "titleKana": "おぼろのはなよめ",
+    "authorIds": [
+      "inasetaki"
+    ],
+    "illustratorIds": [
+      "michifumu"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "romance",
+      "gendai-drama",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "愛を深め合う朔弥と清子。目の治療を行える名医の来日を知り、朔弥は手術を受けるため単身で札幌へ向かう。離れて過ごす時間が二人の関係にどう作用するのかを、丁寧な筆致で描く和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "onigari-jinja-no-mamorihime",
+    "title": "鬼狩り神社の守り姫",
+    "titleKana": "おにがりじんじゃのまもりひめ",
+    "authorIds": [
+      "yashirokei"
+    ],
+    "illustratorIds": [
+      "shiratani-yuu"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "普通の人には見えないものが見える力を持つ透子は、長年自分を虐げてきた伯母の家を出る。身を寄せた先は鬼狩りを生業とする神社だった。守られる側から守る側へ変わっていく少女を描く和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-yomeiri-enmusubi",
+    "title": "あやかし嫁入り縁結び",
+    "titleKana": "あやかしよめいりえんむすび",
+    "authorIds": [
+      "shiina-rengetsu"
+    ],
+    "illustratorIds": [
+      "sonomura"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "あやかしと人との縁を結ぶことを生業とする主人公を軸にした連作。『あやかし双子のお医者さん』などで知られる作者による新シリーズで、依頼者それぞれの事情を縁結びを通して解いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikenie-otome-no-konrei",
+    "title": "生贄乙女の婚礼",
+    "titleKana": "いけにえおとめのこんれい",
+    "authorIds": [
+      "karasawa-kazuki"
+    ],
+    "illustratorIds": [
+      "ouka-mai"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "弟を救うため、荒ぶる神への生贄となった千代。ところが龍神・銀嶺は彼女を花嫁として迎え、不器用ながらも溺愛する。生贄として捧げられた少女が愛される側になるという転換を描く和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inukaichan-to-nekokai-sensei-goshujintachi-wa-ry",
+    "title": "犬飼いちゃんと猫飼い先生",
+    "titleKana": "いぬかいちゃんとねこかいせんせい",
+    "authorIds": [
+      "takeoka-hazuki"
+    ],
+    "illustratorIds": [
+      "sakaki-kuuya"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ダックスフントの「フンフン」の視点から、飼い主である藍と、猫を飼う先生との関係を眺めていく物語。犬と猫、それぞれの飼い主の距離が縮まっていく過程を、動物の目線で微笑ましく描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edo-no-oiran-to-irekawatta-node-hanamachi-no-cho",
+    "title": "江戸の花魁と入れ替わったので、花街の頂点を目指してみる",
+    "titleKana": "えどのおいらんといれかわったのではなまちのちょうてんおめざしてみる",
+    "authorIds": [
+      "inozakihinata"
+    ],
+    "illustratorIds": [
+      "fajobore"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "jidai-fantasy",
+      "time-travel",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ある朝目覚めると、江戸の花魁・山吹に成り代わっていた主人公。現代の知識を頼りに、花街という厳しい世界で頂点を目指していく。遊郭の仕組みを描き込んだ時代ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oukahi-ryourichou",
+    "title": "桜花妃料理帖",
+    "titleKana": "おうかひりょうりちょう",
+    "authorIds": [
+      "satousan"
+    ],
+    "illustratorIds": [
+      "kometto"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "gourmet",
+      "koukyuu"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "桜花国では、妃を選び出す桜が用いられる。手違いでその桜を受け取ってしまった宮廷料理人の玉葉は、期間限定の妃として後宮に入ることになる。料理を武器に宮廷を渡っていく中華風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kashidashi-kinshi-no-tamayura-toshokan",
+    "title": "貸出禁止のたまゆら図書館",
+    "titleKana": "かしだしきんしのたまゆらとしょかん",
+    "authorIds": [
+      "ichikoku-gekka"
+    ],
+    "illustratorIds": [
+      "aoirebin"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "toshokan-shisho",
+      "youkai-ayakashi",
+      "mystery"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "山奥にひっそりと佇む《たまゆら図書館》。千穂が一冊の書籍を手に取ったことで、本に憑いたものたちとの関わりが始まる。図書館と蔵書を舞台にした和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kasen-koushu-yawa-sono-reijin-koukyuu-no-yami-o",
+    "title": "華仙公主夜話",
+    "titleKana": "かせんこうしゅやわ",
+    "authorIds": [
+      "kisakitouko"
+    ],
+    "illustratorIds": [
+      "kamijouroro"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "最愛の紫旗の暗殺計画を知った明花が、花嫁として後宮に潜入する。だが当の紫旗は呪いに倒れ、彼女の素性を知りながら受け入れる。中華風の宮廷を舞台に、陰謀と恋を絡めて描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamakura-oyatsudokoro-no-shinigami",
+    "title": "鎌倉おやつ処の死に神",
+    "titleKana": "かまくらおやつどころのしにがみ",
+    "authorIds": [
+      "tanizakiizumi"
+    ],
+    "illustratorIds": [
+      "takarairihito"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gourmet",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "鎌倉には、命を奪いそれを他人に施すことができる死に神がいるという。「私は死んでもいい」と口にする者たちと死に神が向き合う、おやつ処を舞台にした連作。生と死の受け渡しを主題にした作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamiyui-otome-no-yomeiri-mukae-ni-kita-dannasama",
+    "title": "髪結い乙女の嫁入り",
+    "titleKana": "かみゆいおとめのよめいり",
+    "authorIds": [
+      "minaminonoko"
+    ],
+    "illustratorIds": [
+      "arai-teruko"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "突如発覚した婚姻契約により、現人神に仕える一族へ嫁ぐことになった髪結い師の華弥。髪を結うという技能を携えたまま、神に仕える家の内側へ入っていく。職能と婚姻を組み合わせた和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koumidou-kitan",
+    "title": "香魅堂奇譚",
+    "titleKana": "こうみどうきたん",
+    "authorIds": [
+      "hanekawamakito"
+    ],
+    "illustratorIds": [
+      "ruko"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "京都に居を構えるお香専門店《香魅堂》。「霊など存在しない」と言い放つ慇懃無礼な十代目店主・辰巳のもとに、香にまつわる奇妙な相談が持ち込まれる。香りを手がかりにした怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinise-sakagura-no-makanaisan",
+    "title": "老舗酒蔵のまかないさん",
+    "titleKana": "しにせさかぐらのまかないさん",
+    "authorIds": [
+      "tanizakiizumi"
+    ],
+    "illustratorIds": [
+      "hosoi-mieko"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "gourmet",
+      "shigoto",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "三百年続く老舗酒蔵を継いだ青年・響のもとには、次々と難題が持ち込まれる。まかないを作る立場から蔵の人々を支える主人公の視点で、酒造りと家業の再建を描くライト文芸。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shi-no-mori-no-majo-wa-ai-o-shiranai",
+    "title": "死の森の魔女は愛を知らない",
+    "titleKana": "しのもりのまじょわあいおしらない",
+    "authorIds": [
+      "asanayuuna"
+    ],
+    "illustratorIds": [
+      "aki"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "mahou",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "欲深く冷酷と噂される「死の森の魔女」の正体は、祖母の後を継いだ年若い魔女リコリスだった。恐れられる立場のまま森で暮らす彼女が、訪れる者たちを通じて愛を知っていく物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akki-no-koukyuu-kaen",
+    "title": "悪姫の後宮華演",
+    "titleKana": "あっきのこうきゅうかえん",
+    "authorIds": [
+      "kaida-shino"
+    ],
+    "illustratorIds": [
+      "mokoppe"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "akujo"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "誰もが恐れる『悪姫』胡令花——その正体は、悪女にも弟にもなれる者だった。性別も立場も偽って後宮を渡り歩き、権力の中枢へ食い込んでいく。中華風の宮廷を舞台にした異色のファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-gokudou-hoozukigumi-ni-yomeiri-shimasu",
+    "title": "あやかし極道「鬼灯組」に嫁入りします",
+    "titleKana": "あやかしごくどうほおずきぐみによめいりします",
+    "authorIds": [
+      "sugayachiyo"
+    ],
+    "illustratorIds": [
+      "boda"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "urashakai",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "ある日、華の前に現れた美青年に見初められ、あやかしの極道「鬼灯組」へ嫁ぐことになる。裏社会という舞台に妖しを重ね、任侠の作法とあやかしの理が入り混じる世界を描く和風ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayakashi-fuufu-wa-konse-koso-shiawase-ni-naritai",
+    "title": "あやかし夫婦は今世こそ幸せになりたい。",
+    "titleKana": "あやかしふうふわこんせこそしあわせになりたい",
+    "authorIds": [
+      "yuma-midori"
+    ],
+    "illustratorIds": [
+      "ayatoki"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "鬼姫「茨木童子」の前世を持つ浅草の女子高生・真紀と、酒呑童子の記憶を持つ天酒馨。千年前に悪名を轟かせた鬼の夫婦が、人間として今度こそ幸せになろうとする。浅草を舞台にした和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ochigamisama-no-kamidanomi",
+    "title": "堕ち神さまの神頼み",
+    "titleKana": "おちがみさまのかみだのみ",
+    "authorIds": [
+      "sakumayuuko"
+    ],
+    "illustratorIds": [
+      "shiwasuda"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "comedy",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "男子高校生の叶の家に、元・神様と擬人化した狛犬が転がり込んでくる。神の座を降りた者が人々の願いを叶えようと空回りする様子を、賑やかなコメディとして描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kainami-ke-no-tsukumogami",
+    "title": "海波家のつくも神",
+    "titleKana": "かいなみけのつくもがみ",
+    "authorIds": [
+      "awamichihomare"
+    ],
+    "illustratorIds": [
+      "eihi"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "kazoku-ikuji",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "両親を事故で失い、田舎の一軒家で独り暮らしを始めた高校生・海波大地。人との関わりを避けていた彼のもとに、家に宿る付喪神たちが姿を現す。喪失からの回復を描く和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-no-yakusouen-kamaitachi-no-kizugusuri",
+    "title": "神様の薬草園",
+    "titleKana": "かみさまのやくそうえん",
+    "authorIds": [
+      "matsuura"
+    ],
+    "illustratorIds": [
+      "miyagi-tooko"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "alchemist-apothecary",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "祖父から家と、彼が愛した庭を引き継いだ智花。その庭はあやかしの世界と地続きで、薬草の世話をあやかしたちが手伝ってくれる。庭仕事を軸にした、穏やかな和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kizoku-dezaina-no-karei-na-jikenbo-rondon-no-maj",
+    "title": "貴族デザイナーの華麗な事件簿",
+    "titleKana": "きぞくでざいなーのかれいなじけんぼ",
+    "authorIds": [
+      "kashiwaemasato"
+    ],
+    "illustratorIds": [
+      "katagiriikumi"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "mystery",
+      "alternate-history",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "十九世紀末のロンドン。仕立て屋のジェレミーと、その店に入り浸る自称デザイナーの貴族エドガーが、服飾をめぐる事件に首を突っ込んでいく。当時の衣装文化を描き込んだ歴史ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kizoku-reijou-airu-no-jikenbo-nisegakusei-hajime",
+    "title": "貴族令嬢アイルの事件簿",
+    "titleKana": "きぞくれいじょうあいるのじけんぼ",
+    "authorIds": [
+      "tachibanaikuno"
+    ],
+    "illustratorIds": [
+      "matsumototemari"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "danso-josou"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "自立心の強さが災いしてお嬢様学校を放校になった貴族令嬢アイルが、事情あって男子校へ潜り込む。性別を偽ったまま学内の事件を解決していく、変装ものの学園ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiyaku-kekkon-tte-ari-desuka",
+    "title": "契約結婚ってありですか",
+    "titleKana": "けいやくけっこんってありですか",
+    "authorIds": [
+      "beniharakaoru"
+    ],
+    "illustratorIds": [
+      "sakamoto"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "iinazuke-marriage",
+      "romance",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "契約結婚から数か月、咲と玲司の距離は少しずつ縮まっていた。そろそろ結婚式を、という話が出たことで、形式から始まった関係が実質を持ち始める。現代を舞台にした契約結婚ロマンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koukyuu-no-boukyakuhi-rinne-no-hana-wa-kanjo-to",
+    "title": "後宮の忘却妃",
+    "titleKana": "こうきゅうのぼうきゃくひ",
+    "authorIds": [
+      "akako"
+    ],
+    "illustratorIds": [
+      "p-795593"
+    ],
+    "publisherId": "fujimi-l-bunko",
+    "themeIds": [
+      "chuuka-fantasy",
+      "koukyuu",
+      "time-leap"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "汪国の妃・玲秋は、陰謀に巻き込まれ幼い公主・珠玉とともに命を落とした。だが時を遡って蘇った彼女は、同じ結末を避けるために動き出す。中華風後宮を舞台にした逆行ものである。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
