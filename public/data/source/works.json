@@ -89087,5 +89087,751 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "redi-vikutoria",
+    "title": "レディ・ヴィクトリア",
+    "titleKana": "れでぃゔぃくとりあ",
+    "authorIds": [
+      "shinodamayumi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "alternate-history",
+      "tantei"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 8,
+    "status": "ongoing",
+    "synopsis": "十九世紀末の英国を舞台に、レディ・ヴィクトリアが遭遇する事件を描く連作。ミカドの持ち物と偽られた「翡翠の香炉」詐欺、日本人村の火災と焼け跡の死体など、東洋趣味の流行を背景にした謎が並ぶ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "enmadou-sara-no-suiri-kitan",
+    "title": "閻魔堂沙羅の推理奇譚",
+    "titleKana": "えんまどうさらのすいりきたん",
+    "authorIds": [
+      "kimotokanata"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "terminal-illness"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "死者が閻魔の前で謎を解けば生き返れる——そんな趣向で進む連作ミステリ。閻魔堂を舞台に、死んだばかりの人物が自らの死の真相を推理する。テレビドラマ化もされたシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shousetsu-no-kamisama",
+    "title": "小説の神様",
+    "titleKana": "しょうせつのかみさま",
+    "authorIds": [
+      "aizawasako"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "gendai-drama",
+      "gakuen",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "売れない小説家の主人公が、共作を持ちかけてきた少女と出会う。小説は好きかと問い続ける物語で、書くことの苦しさと、それでも書き続ける理由が正面から描かれる。実写映画化もされた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nemeshisu",
+    "title": "ネメシス",
+    "titleKana": "ねめしす",
+    "authorIds": [
+      "nakayamashichiri"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "psycho-suspense",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 7,
+    "status": "ongoing",
+    "synopsis": "死刑判決を免れた殺人犯の家族が、次々と殺されていく。事件を追ううちに浮かび上がるのは、法が裁ききれなかったものの重さだった。社会派の視点で書かれたミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "echudo-haruichiban",
+    "title": "エチュード春一番",
+    "titleKana": "えちゅーどはるいちばん",
+    "authorIds": [
+      "ogihara-noriko"
+    ],
+    "illustratorIds": [
+      "tanji-yoko"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "小犬の姿をした「八百万の神」モノクロと暮らす大学生の美綾。読んだばかりの『将門記』をきっかけに、彼女は神と人の関わりについて考えを巡らせていく。日常に神話を溶かし込んだ現代ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hyakki-ikka-gekka-no-shibijo",
+    "title": "百鬼一歌",
+    "titleKana": "ひゃっきいっか",
+    "authorIds": [
+      "segawa-takatsugu"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "youkai-ayakashi",
+      "jidai-fantasy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "ある夏の夜、天才歌人として名高い希家が、都大路で首なし武者に遭遇する。背筋の凍る体験談をきっかけに、平安の都に潜む怪異が次々と語られていく。和歌と怪談を結んだ連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "itan-shinmon-rabo",
+    "title": "異端審問ラボ",
+    "titleKana": "いたんしんもんらぼ",
+    "authorIds": [
+      "takasato-shiina"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "栄養科学研究所に配属された千鳥が、言語学研の鳶、考古学研の鶫とともに、専門知識を持ち寄って謎に挑む。研究者たちの議論そのものが推理になっていく理系ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "imakara-anata-o-kyouhaku-shimasu",
+    "title": "今からあなたを脅迫します",
+    "titleKana": "いまからあなたおきょうはくします",
+    "authorIds": [
+      "fujiishinamiya"
+    ],
+    "illustratorIds": [
+      "nainyurie"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "gendai-drama",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "「脅迫屋」を名乗る謎の男から人違いで脅迫された女子大学生・金坂澪。理不尽な状況に巻き込まれた彼女が、脅迫という行為の裏側にある事情に触れていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kizumono-no-hanayome",
+    "title": "傷モノの花嫁",
+    "titleKana": "きずもののはなよめ",
+    "authorIds": [
+      "yuma-midori"
+    ],
+    "illustratorIds": [
+      "fujimarumamenosuke"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "youkai-ayakashi",
+      "romance",
+      "mibunsa-romance"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "幼い頃にあやかしに攫われ、体に妖印を刻まれた少女。傷物と見なされた彼女が花嫁として迎えられるところから始まる、和風のシンデレラストーリー。シリーズ累計で高い人気を得た作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyokou-suiri-tanpenshuu-iwanaga-kotoko-no-shutsu",
+    "title": "虚構推理短編集",
+    "titleKana": "きょこうすいりたんぺんしゅう",
+    "authorIds": [
+      "shirodaira-kyou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "youkai-ayakashi",
+      "tantei"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "怪異と論理を組み合わせた特殊設定ミステリの短編集。妖の側の理屈を踏まえたうえで、あえて「虚構」の推理を組み立てて事態を収拾するという趣向が徹底されている。アニメ化もされたシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "minazuki-ke-no-iinazuke",
+    "title": "水無月家の許嫁",
+    "titleKana": "みなずきけのいいなずけ",
+    "authorIds": [
+      "yuma-midori"
+    ],
+    "illustratorIds": [
+      "hanamuramai"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "youkai-ayakashi",
+      "iinazuke-marriage",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "道長の凶弾によって命を奪われた天也。その凄惨な現場を目撃した文也と信長は、己の無力さを噛み締める。水無月家に伝わる許嫁の契りを軸にした和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akumademo-tantei-wa",
+    "title": "あくまでも探偵は",
+    "titleKana": "あくまでもたんていわ",
+    "authorIds": [
+      "kisaragishinichi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "tantei",
+      "mystery",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「謎を解けば、金になる」「悪党が這いつくばるのは気分がいい」——そう言い切る危険な優等生と、その相棒候補となる少年の物語。実利で動く探偵役を主人公に据えた学園ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoufu-no-mukashiasobi",
+    "title": "恐怖のむかし遊び",
+    "titleKana": "きょうふのむかしあそび",
+    "authorIds": [
+      "nikaidouao"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "horror",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "顔にコンプレックスを持つ中学二年生の宮坂咲笑が、「こんなつまらない顔いらない」と口にしたことから怪異に巻き込まれる。昔ながらの遊びを題材にした、子ども向けの恐怖を扱うホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "girudore",
+    "title": "ギルドレ",
+    "titleKana": "ぎるどれ",
+    "authorIds": [
+      "asagirikafuka"
+    ],
+    "illustratorIds": [
+      "sakanoanri"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "sf"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "単身で最下層に乗り込んだカイルが、＜波動関数収束＞を用いて青悪魔と対峙する。異次元の知能が繰り出す攻撃に、理論と直感で応じていく。設定の密度が高いダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saimeshisu-no-meikyuu-kanpeki-na-shitai",
+    "title": "サイメシスの迷宮",
+    "titleKana": "さいめしすのめいきゅう",
+    "authorIds": [
+      "aidasaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "psycho-suspense",
+      "tantei"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "東京都下で起きた女児殺害事件。超記憶症候群のプロファイラー・羽吹允は、遺棄の状況から八年前の類似事件との繋がりを見出す。記憶という能力を捜査に接続した犯罪ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sekaideichibankawaisounawatashitachitokubetsusho",
+    "title": "世界で一番かわいそうな私たち",
+    "titleKana": "せかいでいちばんかわいそうなわたしたちとくべつしょーとすとーりー",
+    "authorIds": [
+      "ayasakishun"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "gendai-drama",
+      "terminal-illness",
+      "mystery"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "戦後最大の未解決事件とされる＜瀬戸内バスジャック事件＞。十年前のあの夏に巻き込まれ、声を失った三好を中心に、生き残った者たちの現在が描かれる。喪失を主題にした青春小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "teishitsu-kyuuden-no-minarai-nyokan-miai-kaihi-d",
+    "title": "帝室宮殿の見習い女官",
+    "titleKana": "ていしつきゅうでんのみならいにょかん",
+    "authorIds": [
+      "odanatsumi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "koukyuu",
+      "romance",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "宮中に入って一年、母が強引に進める見合いを断りたい一心で始めた海棠妃奈子の宮仕え。見習い女官としての日々は、思いのほか充実したものになっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nazo-no-yakata-e-youkoso",
+    "title": "謎の館へようこそ",
+    "titleKana": "なぞのやかたえようこそ",
+    "authorIds": [
+      "ondariku",
+      "hayamine-kaoru",
+      "takadatakafumi",
+      "ayasakishun",
+      "shiraitomoyuki",
+      "inouemagi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「館」を題材に、複数の作家が競作したアンソロジー。館ものというミステリの伝統的な型を、それぞれの作家がまったく異なる角度から解体していく。館に魅せられた書き手たちの饗宴。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hareoichou-niwa-himari-san-ga-iru-hajimari-no-ha",
+    "title": "晴追町には、ひまりさんがいる。",
+    "titleKana": "はれおいちょうにわひまりさんがいる",
+    "authorIds": [
+      "nomura-mizuki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "gendai-drama",
+      "mystery",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "心に傷を抱えた大学生の春近が、眠れない二月三日の深夜に公園へ散歩に出る。そこで出会った「ひまりさん」との時間を通じて、彼は自分の抱えたものと向き合っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bakenoshima-hatsukoisagashi-mitsudomoe",
+    "title": "化け之島初恋さがし三つ巴",
+    "titleKana": "ばけのしまはつこいさがしみつどもえ",
+    "authorIds": [
+      "ishikawahirochika"
+    ],
+    "illustratorIds": [
+      "wakitaakane"
+    ],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gakuen",
+      "memory-loss"
+    ],
+    "firstPublishedYear": 2022,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "妖怪とともに暮らす島を舞台に、記憶から消された初恋を探す三人の物語。ヤングアダルト畑の書き手による、瑞々しくも不穏なファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buraddo-burein-yamitantei-no-kourin",
+    "title": "ブラッド・ブレイン",
+    "titleKana": "ぶらっどぶれいん",
+    "authorIds": [
+      "kojimamasaki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "ある母娘を脅かす「悪魔の声」。その正体と目的を探るため、警視庁捜査一課の刑事から相談を受けた闇の探偵が動き出す。二転三転する構成が持ち味の本格ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rojiura-no-hotaru-shokudou",
+    "title": "路地裏のほたる食堂",
+    "titleKana": "ろじうらのほたるしょくどう",
+    "authorIds": [
+      "onuma-noriko"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "gourmet",
+      "gendai-drama",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "「あんたの秘密、聞かせてくれたら金はいらない」——腹を空かせた高校生が甘辛い匂いに誘われて暖簾をくぐった先は、秘密と引き換えに食事を出す食堂だった。食と告白を結んだ連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uta-no-owari-wa-umi",
+    "title": "歌の終わりは海",
+    "titleKana": "うたのおわりわうみ",
+    "authorIds": [
+      "morihiroshi"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "妻からの依頼は、夫の浮気調査だった。相手はヒット曲を数多く手がけた作詞家。華やかな業界にありながら人付き合いを避けてきた男の実像を、調査を通じて描いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oni-no-kura",
+    "title": "よろず建物因縁帳",
+    "titleKana": "おにのくら",
+    "authorIds": [
+      "naitouryou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "horror",
+      "youkai-ayakashi",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "盆に隠れ鬼をしてはいけない——山深い寒村に佇む旧家・蒼具家の掟を破ったことから、広告代理店勤務の高沢春菜は建物にまつわる怪異に巻き込まれていく。建築と因縁を結んだホラーミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimi-to-tokei-to-ame-no-hina",
+    "title": "「君と時計」シリーズ",
+    "titleKana": "きみととけいとあめのひな",
+    "authorIds": [
+      "ayasakishun"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "time-leap",
+      "gendai-drama",
+      "mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "大切な人の死を知るたびに、時計の針が過去へ巻き戻る。だが救えなければ、親友や家族が一人ずつ世界から消えていく。過酷な条件を課されたタイムリープを描くシリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ginpatsu-shoujo-wa-oto-o-miru",
+    "title": "銀髪少女は音を視る",
+    "titleKana": "ぎんぱつしょうじょわおとおみる",
+    "authorIds": [
+      "amaneryou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "music"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "恩人である元警官が毒殺され、第一発見者となった道明寺一路巡査。仇を討とうとする彼の前に現れたのは、音から真実を読み取る銀髪の美少女・音宮美夜だった。音を手がかりにしたミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sangaku-taimu-tonneru",
+    "title": "算額タイムトンネル",
+    "titleKana": "さんがくたいむとんねる",
+    "authorIds": [
+      "mukaishougo"
+    ],
+    "illustratorIds": [],
+    "publisherId": "kodansha-taiga",
+    "themeIds": [
+      "time-travel",
+      "gakuen",
+      "alternate-history"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "現代の天才少女と幕末の算術青年が、意地とプライドを賭けて数学で対決する。和算と洋算が交わるとき何が起こるのかを、時空を越えた勝負として描く青春数学小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
