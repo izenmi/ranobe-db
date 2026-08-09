@@ -73740,5 +73740,693 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inu-to-hasami-wa-tsukaiyou",
+    "title": "犬とハサミは使いよう",
+    "titleKana": "いぬとはさみわつかいよう",
+    "authorIds": [
+      "saraishunsuke"
+    ],
+    "illustratorIds": [
+      "nabeshima-tetsuhiro"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "comedy",
+      "mystery",
+      "toshokan-shisho"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 14,
+    "status": "ongoing",
+    "synopsis": "強盗に殺され、犬として蘇ってしまった読書狂の青年。人語こそ話せないが本は読めるため、大人気作家である夏野霧姫に飼われながら、彼女の周囲で起こる事件に関わっていく。犬になった一人称語りと、ハサミを振り回す作家の奇行を掛け合わせたコメディミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gyarugee-no-sekai-yo-youkoso",
+    "title": "ギャルゲヱの世界よ、ようこそ!",
+    "titleKana": "ぎゃるげえのせかいよようこそ",
+    "authorIds": [
+      "tao-noritake"
+    ],
+    "illustratorIds": [
+      "satoru"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "otaku-shumi",
+      "harem",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "volumeCount": 10,
+    "status": "ongoing",
+    "synopsis": "現実世界にギャルゲーのヒロインたちが現れたら——ギャルゲー好きなら誰もが一度は思い描く空想を、そのまま形にしたコメディ。攻略対象が押し寄せる状況は、想像していたほど都合よくは進まない。ゲームの文法と現実のずれを笑いに変えた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gaburiera-senki",
+    "title": "ガブリエラ戦記",
+    "titleKana": "がぶりえらせんき",
+    "authorIds": [
+      "maisaka-kou"
+    ],
+    "illustratorIds": [
+      "yuukikira"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "senki",
+      "isekai-fantasy",
+      "mercenary"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 7,
+    "status": "completed",
+    "synopsis": "騎士団の拠点へ迫るシギルノジチの侵攻軍に対し、バロス三世は毒を用いた策で盆地の制圧に乗り出す。正面からの戦闘だけでなく、謀略と補給を含めた戦争全体を描く戦記ファンタジー。指揮官たちの判断が戦況を左右していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-desuga-mamono-saibai-shite-imasu",
+    "title": "異世界ですが魔物栽培しています。",
+    "titleKana": "いせかいですがまものさいばいしています",
+    "authorIds": [
+      "setsugekka"
+    ],
+    "illustratorIds": [
+      "shri"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 6,
+    "status": "ongoing",
+    "synopsis": "宅急便で植物図鑑を受け取ったキョウが、部屋に戻ると異世界に立っていた。チート能力も金もない状態で頼れるのは、その図鑑と栽培の知識だけ。魔物すら作物として育てるという発想で生活基盤を作っていく、農業寄りの異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamigami-ni-sodaterareshi-mono-saikyou-to-naru",
+    "title": "神々に育てられしもの、最強となる",
+    "titleKana": "かみがみにそだてられしものさいきょうとなる",
+    "authorIds": [
+      "hada-ryosuke"
+    ],
+    "illustratorIds": [
+      "fame"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "cheat-kid-protagonist",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 5,
+    "status": "ongoing",
+    "synopsis": "神々の住む山に捨てられた少年ウィルが、剣の神・治癒の神・魔術の神による英才教育を受けて育つ。人の世に降りたとき、その力は当然のように規格外だった。育ての親が神々という設定を活かし、成長の過程そのものを丁寧に描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akechi-shounen-no-kojitsuke",
+    "title": "明智少年のこじつけ",
+    "titleKana": "あけちしょうねんのこじつけ",
+    "authorIds": [
+      "michibatasatto"
+    ],
+    "illustratorIds": [
+      "kasuga-ayumi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mystery",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "幼なじみの明智京太郎は、今日も決め台詞とともに「小林くん、キミがこの事件の犯人だ」と告げてくる。名探偵を気取る彼の推理はいつも強引なこじつけで、名指しされる側はたまったものではない。名探偵ものの様式を裏返した学園ミステリコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arisutokuraishi",
+    "title": "アリストクライシ",
+    "titleKana": "ありすとくらいし",
+    "authorIds": [
+      "ayasato-keishi"
+    ],
+    "illustratorIds": [
+      "ruroo"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "人ならざる二人が寄り添う、閉じた世界の物語。互いしか持たない者同士の関係が、外部との接触によって少しずつ形を変えていく。孤独と依存を主題に据え、静かな筆致で終幕まで描き切ったダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ankoku-kishisama-to-issho-kanchigai-kara-hajimar",
+    "title": "暗黒騎士様といっしょ!",
+    "titleKana": "あんこくきしさまといっしょ",
+    "authorIds": [
+      "sasaki-sakuma"
+    ],
+    "illustratorIds": [
+      "p-818227"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "dungeon",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "「アルバよ、ワシの恋人になってくれ」——迷宮の第三階層まで進んだ暗黒騎士一行に、そんな唐突な申し出が持ち込まれる。攻略よりも人間関係のほうが厄介だという状況が続き、パーティは前に進めない。掛け合い主体のダンジョンコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekaitabi-wa-niwatorisu-to-tomo-ni",
+    "title": "異世界旅はニワトリスと共に",
+    "titleKana": "いせかいたびわにわとりすとともに",
+    "authorIds": [
+      "ninomaeyou"
+    ],
+    "illustratorIds": [],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "monster-taming",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "unknown",
+    "synopsis": "七歳のオトカが森でニワトリに似た魔物・ニワトリスの雛二羽を助けたことから、風変わりな旅が始まる。相棒となった魔物とともに歩む道中は、戦いよりも世話と観察に時間が費やされる。小さな主人公と生き物の関係を描く、穏やかな異世界もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inu-to-hasami-wa-tsukaiyou-2",
+    "title": "犬とハサミは使いようDog Ears",
+    "titleKana": "いぬとはさみわつかいよう",
+    "authorIds": [
+      "saraishunsuke"
+    ],
+    "illustratorIds": [
+      "nabeshima-tetsuhiro"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "comedy",
+      "mystery",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "『犬とハサミは使いよう』の世界を引き継いだシリーズ。犬として蘇った主人公と作家・夏野霧姫の関係はそのままに、新たな事件と読書狂たちの騒動が持ち込まれる。前作同様、書物への偏愛を軸にしたコメディミステリとして展開する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "usagi-robo",
+    "title": "うさぎロボ",
+    "titleKana": "うさぎろぼ",
+    "authorIds": [
+      "satouryou"
+    ],
+    "illustratorIds": [
+      "shugasuku"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "sf",
+      "gakuen",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ごく普通の高校生を自称する隆介は、幼なじみの美琴に付き合ってUFO研究会に籍を置いているだけで、宇宙人など信じていない。そんな彼の前に現れたのは、うさぎ型のロボットだった。日常に突然放り込まれた非常識を、軽い調子で描くコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eiyuu-shikkaku",
+    "title": "英雄失格",
+    "titleKana": "えいゆうしっかく",
+    "authorIds": [
+      "saraishunsuke"
+    ],
+    "illustratorIds": [
+      "nabeshima-tetsuhiro"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "battle-action",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "変身ヒーローたちの更生と引き取りを担当する総一の日々を描く物語。日課となった問題児ヒーローの身柄引き受けに追われ、英雄の資質とは何かを考えさせられる。ヒーローを管理する側の視点から、正義の制度化を皮肉る作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gakkou-no-sotokaidan",
+    "title": "学校の階段",
+    "titleKana": "がっこうのそとかいだん",
+    "authorIds": [
+      "kaimatakaaki"
+    ],
+    "illustratorIds": [
+      "amane"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gakuen",
+      "sports",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "天栗浜高校を舞台に、校舎の階段を駆け上がる速さを競う競技「階段」に打ち込む生徒たちを描くシリーズ。気楽な監査委員だった水川徹紀が、熱中する者たちの姿を通して自分の立ち位置を問い直していく。ばかばかしい競技を大真面目に扱う青春もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyujutsuka",
+    "title": "キュージュツカ!",
+    "titleKana": "きゅーじゅつか",
+    "authorIds": [
+      "sekinepan"
+    ],
+    "illustratorIds": [
+      "ayumu"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mahou-gakuen",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "魔王を封印するために創立された『ダミニチュア戦士養成学校』。その弓術科に入学したミカが、慣れない学園生活と実習に挑んでいく。武器種ごとに分かれた学科という設定が独特で、弓という地味な選択がどう活きるのかが見どころ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-supa-maketto-o-keiei-shimasu",
+    "title": "異世界スーパーマーケットを経営します",
+    "titleKana": "いせかいすーぱーまーけっとおけいえいします",
+    "authorIds": [
+      "kashiwagisatoshi"
+    ],
+    "illustratorIds": [
+      "nakabayashi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "merchant",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "異世界でスーパーマーケットを経営する勇悟が、担当地区の借金を完済したのも束の間、他地区が惣菜販売を始めたことで競争に巻き込まれる。品揃えと価格をめぐる商売の駆け引きを、異世界の流通事情とともに描く経営ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-de-hanta-hajimemashita-emono-wa-oishiku-i",
+    "title": "異世界でハンター始めました。",
+    "titleKana": "いせかいではんたーはじめました",
+    "authorIds": [
+      "yuukirin"
+    ],
+    "illustratorIds": [
+      "fuse-ryuta"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "gyaku-isekai",
+      "monster-taming",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "現代日本のハンター伊豆見雅彦が、異世界と行き来できるアイテムを使って現地の魔物を狩り続ける。獲物の処理や流通まで含めて職業として成立させているのが特徴で、狩猟の手順が具体的に描かれる異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-madou-koshoten-chito-maryoku-aru-kedo-mat",
+    "title": "異世界魔導古書店",
+    "titleKana": "いせかいまどうこしょてん",
+    "authorIds": [
+      "nenjuu-mugichatarou"
+    ],
+    "illustratorIds": [
+      "yunagi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "toshokan-shisho",
+      "shigoto"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "魔導古書店アジールを営むタクトは、店の経営を軌道に乗せる一方で、猫耳の幼女マオに封じた魔王の記憶を頼りに地球へ戻る方法を探している。古書を扱う商売と、世界を越える手がかり探しが並行して進む。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "itan-no-shingontsukai-oretachi-wa-pawa-wado-de-i",
+    "title": "異端の神言遣い",
+    "titleKana": "いたんのしんごんつかい",
+    "authorIds": [
+      "satouryou"
+    ],
+    "illustratorIds": [
+      "mutou-koreshi"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "ajin-mamono-musume",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "\"異端者\"として目をつけられ、ランドベルズを離れた駿介たちが次に向かったのは、獣人が治める街ボルスモルだった。種族ごとの事情と偏見が絡む土地で、言葉を操る力がどこまで通用するのかが試される。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikkyuu-tensai-no-kiwamete-fuhoni-na-meisuiri",
+    "title": "壱級天災の極めて不本意な名推理",
+    "titleKana": "いっきゅうてんさいのきわめてふほんいなめいすいり",
+    "authorIds": [
+      "ootorino-kazuma"
+    ],
+    "illustratorIds": [
+      "akaringo"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "自称名探偵の壱級天災が、奇妙な悪魔と契約を結ばされる。島中にばら撒かれた《刻印の呪い》が死を生み出していくなかで、彼は不本意ながら推理を強いられていく。特殊設定ミステリとして、呪いのルールを解き明かす構成になっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uosato-koukou-danjonbu",
+    "title": "魚里高校ダンジョン部!",
+    "titleKana": "うおさとこうこうだんじょんぶ",
+    "authorIds": [
+      "abumitsuru"
+    ],
+    "illustratorIds": [
+      "fuyuzora-minoru"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "dungeon",
+      "sports",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2015,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "魔物の巣くう迷宮を探索し、獲得ポイントを競う「ダンジョン競技」。その頂点である迷宮甲子園を目指し、高校のダンジョン部が練習を重ねていく。探索を部活動として制度化した設定が新しく、競技としての戦術が読みどころ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oneesan-sensei-wa-danshikousei-ni-ezuke-shitai",
+    "title": "お姉さん先生は男子高生に餌づけしたい。",
+    "titleKana": "おねえさんせんせいわだんしこうせいにえずけしたい",
+    "authorIds": [
+      "akatsukitouwa"
+    ],
+    "illustratorIds": [
+      "hima"
+    ],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gourmet",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "学園内で「インテリヤクザ」として恐れられる海原涼太にも、逆らえない相手がいた。餌づけを楽しむお姉さん先生である。怖がられる生徒と世話焼きの教師という組み合わせで、食事の場面を軸に距離が縮まっていくラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisama-ni-kago-futaribun-moraimashita",
+    "title": "神様に加護2人分貰いました",
+    "titleKana": "かみさまにかごふたりぶんもらいました",
+    "authorIds": [
+      "rinta"
+    ],
+    "illustratorIds": [],
+    "publisherId": "alphapolis",
+    "themeIds": [
+      "isekai-tensei",
+      "cheat-kid-protagonist",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "高校生の天坂風舞輝が、同級生とともに異世界へ召喚され、神から二人分の加護を授かる。過剰な祝福を背負った彼が、異世界で自分の役割を探していく。アルファポリスのファンタジー小説大賞で優秀賞を受賞した作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamisukiru-aitemu-shiyou-de-isekai-o-jiyuu-ni-su",
+    "title": "神スキル『アイテム使用』で異世界を自由に過ごします",
+    "titleKana": "かみすきるあいてむしようでいせかいおじゆうにすごします",
+    "authorIds": [
+      "setsugekka"
+    ],
+    "illustratorIds": [],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "fuguushoku-kakushi-skill",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "魔人討伐のための勇者召喚に巻き込まれて異世界へ渡った青年ユウキが授かったのは、『アイテム使用』という一見地味なスキルだった。使い方次第で何にでも化けるその能力を軸に、勇者の務めから距離を置いて自由に生きていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyarafuru",
+    "title": "キャラふる",
+    "titleKana": "きゃらふる",
+    "authorIds": [
+      "kasaishinya"
+    ],
+    "illustratorIds": [],
+    "publisherId": "famitsu-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "otaku-shumi",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "幼なじみをかばって交通事故に遭った聡史が目を覚ましたのは、「キャラの故郷」と呼ばれる異世界だった。漫画家に憧れながらも諦めかけていた彼が、キャラクターたちの生まれる場所で創作と向き合い直していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
