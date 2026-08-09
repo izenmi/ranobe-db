@@ -73104,5 +73104,641 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-no-sumikko-de-kaiteki-monozukuri-seikatsu",
+    "title": "異世界のすみっこで快適ものづくり生活",
+    "titleKana": "いせかいのすみっこでかいてきものずくりせいかつ",
+    "authorIds": [
+      "nagatanobuori"
+    ],
+    "illustratorIds": [
+      "toujoubun"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-tensei",
+      "craft-artisan",
+      "slow-life"
+    ],
+    "firstPublishedYear": 2023,
+    "volumeCount": 4,
+    "status": "ongoing",
+    "synopsis": "過酷な労働の果てに命を落としたソウジロウが、女神から〈クラフトギア〉を授かって異世界に転生する。あらゆる物を作り出せる神器を手に、人里離れた場所で工房を構え、望まれるままに道具を生み出していく。ものづくりを軸に据えた、静かな異世界スローライフ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aisaka-sutekina-shoukougun",
+    "title": "藍坂素敵な症候群",
+    "titleKana": "あいさかすてきなしょうこうぐん",
+    "authorIds": [
+      "minasehazuki"
+    ],
+    "illustratorIds": [
+      "toujousakana"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "mystery",
+      "bunka-club"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "私立千歳井高校に転校してきた那霧浩介が連れて行かれたのは、「医術部」という奇妙な部活だった。部長の藍坂素敵をはじめ癖の強い部員たちに囲まれ、彼は学園に潜む症例めいた事件に関わっていく。学園と医療をつなぐ設定が独特の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "attohome-wagaya-no-ane-wa-boukun-desu",
+    "title": "@HOME",
+    "titleKana": "あっとHOME",
+    "authorIds": [
+      "fujiwarayuu"
+    ],
+    "illustratorIds": [
+      "yamanemasato"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "osananajimi",
+      "seishun-lovecome",
+      "imouto"
+    ],
+    "firstPublishedYear": 2010,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "倉須家の長男と長女である高遠と礼兎は、兄妹であり幼馴染であり、長年連れ添った夫婦のようでもある——という奇妙な関係にある。夏休みを舞台に、名前のつけられない距離感のまま過ごす二人の日々が描かれる。関係の定義を宙吊りにしたまま進む作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atoriumu-no-koibito",
+    "title": "アトリウムの恋人",
+    "titleKana": "あとりうむのこいびと",
+    "authorIds": [
+      "dobashishinjirou"
+    ],
+    "illustratorIds": [
+      "ueda-ryou"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "vrmmo",
+      "death-game",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "ある理由で閉鎖された仮想世界「東京スフィア」。普段は言葉も交わさないクラスのアイドルと、高校生の前田がその内部で顔を合わせる。閉じた仮想空間で交わされる駆け引きを、心理戦を得意とする作者が組み立てていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ano-hi-kamisama-ni-negatta-koto-wa",
+    "title": "あの日、神様に願ったことは",
+    "titleKana": "あのひかみさまにねがったことわ",
+    "authorIds": [
+      "hazukiaya"
+    ],
+    "illustratorIds": [
+      "fly"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gendai-drama",
+      "terminal-illness",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "白い神様から課された試練を乗り越えた叶羽が、燈華の願いの先に咲いた奇跡を見届ける。ようやく訪れた穏やかな時間のなかで、それでも失われるものと向き合わなければならない。願いと代償を主題に据えた、静かな青春ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ijou-shinri-hanzai-sousakan-hizen-rika-kaibutsu",
+    "title": "異常心理犯罪捜査官・氷膳莉花",
+    "titleKana": "いじょうしんりはんざいそうさかんひぜんりか",
+    "authorIds": [
+      "kuzumi-shiki"
+    ],
+    "illustratorIds": [],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "mystery",
+      "tantei",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2020,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "本庁捜査一課への異動を果たした氷膳莉花が、念願だった殺人犯捜査第四係の仙波班に配属される。異常心理を読み解く能力を武器に事件に挑むが、功名心に逸る周囲との軋轢も生まれていく。警察組織の内側を描く犯罪捜査ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ichipasento-no-kyoushitsu",
+    "title": "1パーセントの教室",
+    "titleKana": "いちぱーせんとのきょうしつ",
+    "authorIds": [
+      "matsumuraryouya"
+    ],
+    "illustratorIds": [
+      "takeoka-miho"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "gendai-drama",
+      "psycho-suspense"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 3,
+    "status": "completed",
+    "synopsis": "平凡な高校生・雨ケ崎誠也に、クラスの美少女から愛の告白が届く。非日常の始まりに見えたその出来事の裏には、教室という空間を支配する残酷な構造が隠れていた。学校という閉鎖環境の歪みを扱った青春サスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ihoujin-danjon-ni-moguru",
+    "title": "異邦人、ダンジョンに潜る。",
+    "titleKana": "いほうじんだんじょんにもぐる",
+    "authorIds": [
+      "asamihinagi"
+    ],
+    "illustratorIds": [
+      "kureta"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dungeon",
+      "alternate-history",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "一九四六年七月、異世界の存在が確認される。人類の新天地になるはずだったその場所は、莫大な代償を要求する迷宮でもあった。戦後という時代設定でダンジョン探索を描き、国家事業としての潜行を扱うのが特徴の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inkya-no-ore-ga-sekigae-de-esukyuu-bishoujo-ni-k",
+    "title": "陰キャの俺が席替えでS級美少女に囲まれたら秘密の関係が始まった。",
+    "titleKana": "いんきゃのおれがせきがえでえすきゅうびしょうじょにかこまれたらひみつのかんけいがはじまった",
+    "authorIds": [
+      "hoshinoseiya"
+    ],
+    "illustratorIds": [
+      "kurousagi-yuu"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "harem"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 3,
+    "status": "ongoing",
+    "synopsis": "席替えをきっかけに、陰キャを自認する主人公がS級と称される美少女たちに囲まれることになる。学園祭の演劇でヒロイン役に押し出されるなど、望まぬ形で目立ってしまう日々のなかで、秘密の関係が積み重なっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ao-no-seikishi-densetsu",
+    "title": "青の聖騎士伝説",
+    "titleKana": "あおのせいきしでんせつ",
+    "authorIds": [
+      "fukazawa-mishio"
+    ],
+    "illustratorIds": [
+      "yonedahitoshi"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "adventure",
+      "senki"
+    ],
+    "firstPublishedYear": 2002,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "『フォーチュン・クエスト』の世界を共有する外伝的作品。戦士クレイ・S・アンダーソンの曾祖父にあたる人物を主人公に据え、勇者デュアン・サークとともに戦った時代を描く。長く続く世界観の過去編として、正統派の冒険譚を展開する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akamurasaki-aoiko-no-bunseki-wa-detarame",
+    "title": "赤村崎葵子の分析はデタラメ",
+    "titleKana": "あかむらさきあおいこのぶんせきわでたらめ",
+    "authorIds": [
+      "jukkaidouikkei"
+    ],
+    "illustratorIds": [
+      "shimotsuki-eito"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "comedy",
+      "mystery"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "局地的に話題を集める少女・赤村崎葵子が、今回もでたらめな分析を披露していく。テニスに興じ、夏祭りに出かけるといった日常のなかで、彼女の推論はことごとく的を外しながらも妙な説得力を持つ。脱力系の学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "agi-bacharu-shoujo-wa-koi-shitai",
+    "title": "AGI-アギ-",
+    "titleKana": "あぎ",
+    "authorIds": [
+      "godorishiki"
+    ],
+    "illustratorIds": [
+      "chiroru"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "sf",
+      "gendai-drama",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2019,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "人類史上初の「強いAI」であるバーチャル少女・アギが世界を震撼させてから数か月。大学二年目の春を迎えた西機守は、その余波のただ中に立たされる。AIと人間の境界を主題に据え、技術が社会に与える衝撃を描くSF。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akugyaku-kishidan",
+    "title": "悪逆騎士団",
+    "titleKana": "あくぎゃくきしだん",
+    "authorIds": [
+      "minasehazuki"
+    ],
+    "illustratorIds": [
+      "momoko-illust"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "senki",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "世間から忌避されるダークエルフでありながら、ゼルディバッソ紋章国の中枢に関わる貴人でもあるアリシア。彼女が率いる悪逆騎士団の実像と、その名がなぜ忌み嫌われるのかが明かされていく。悪名を背負う集団を主役に据えた戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuma-no-kodoku-to-suigintou-no-shoujo",
+    "title": "悪魔の孤独と水銀糖の少女",
+    "titleKana": "あくまのこどくとすいぎんとうのしょうじょ",
+    "authorIds": [
+      "kougyoku-izuki"
+    ],
+    "illustratorIds": [
+      "akagishi-k"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "horror"
+    ],
+    "firstPublishedYear": 2018,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "「あなたを愛するために、ここまで来たんだもの」——黒い海を越え、呪われた島へやってきた美しい少女シュガー。彼女が求める相手と、島に巣食う孤独な存在との関係が、静かに動き出す。幻想的な筆致で愛と孤独を描く作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akuyaku-mubu-de-seishun-risutato-higeki-no-hiroi",
+    "title": "悪役ムーブで青春リスタート!",
+    "titleKana": "あくやくむーぶでせいしゅんりすたーと",
+    "authorIds": [
+      "hidari-ryuu"
+    ],
+    "illustratorIds": [
+      "fujiko-ban-kuruwase"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "akuyaku-kizoku",
+      "seishun-lovecome",
+      "gakuen"
+    ],
+    "firstPublishedYear": 2025,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "親の金と権力を笠に着て悪逆非道な高校生活を送っていた九蒸飛一は、「本物の息子」の登場によって実家から追放される。すべてを失った状態から、今度は悪役としての振る舞いを武器に青春をやり直していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asaoka-hiyori-no-dokidoki-karute",
+    "title": "朝岡ひよりのドキドキカルテ",
+    "titleKana": "あさおかひよりのどきどきかるて",
+    "authorIds": [
+      "tokitayui"
+    ],
+    "illustratorIds": [
+      "takeioki"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "iryou",
+      "seishun-lovecome",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "田舎町で父の診療所を手伝う高校生・仁の前に、転校生のひよりが現れる。ドキドキしないと体調を崩すという彼女の特異な体質に振り回されながら、仁は医療の現場と恋の両方に向き合うことになる。診療所を舞台にした青春もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayuhara-yonami-wa-yoku-nureru",
+    "title": "鮎原夜波はよく濡れる",
+    "titleKana": "あゆはらよなみわよくぬれる",
+    "authorIds": [
+      "minasehazuki"
+    ],
+    "illustratorIds": [
+      "shirai-eiri"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "horror",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "真夜中のプールで溺れた少年・渚野陽平が目を覚ますと、そこは一面が海に沈んだ学校の屋上だった。水没した世界で出会った少女とともに、彼はこの現象の意味を探っていく。水のイメージを全編に配した幻想的な学園ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isekai-kanrinin-kudou-koutarou",
+    "title": "異世界管理人・久藤幸太郎",
+    "titleKana": "いせかいかんりにんくどうこうたろう",
+    "authorIds": [
+      "suzuki-suzu"
+    ],
+    "illustratorIds": [
+      "toyota-saori"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "isekai-fantasy",
+      "shigoto",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "各部屋がそれぞれ異世界の十二の国々へつながっている謎のアパート、あけぼの荘。その大家の仕事は建物の管理と、種族も常識も異なる住人同士のもめ事の仲裁である。異世界を大家の視点から眺めるという発想の作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inou-apiru-shinai-hou-ga-kawaii-kanojotachi",
+    "title": "異能アピールしないほうがカワイイ彼女たち",
+    "titleKana": "いのうあぴーるしないほうがかわいいかのじょたち",
+    "authorIds": [
+      "haruna-chihiro"
+    ],
+    "illustratorIds": [
+      "hanageta"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "gakuen",
+      "battle-action",
+      "ajin-mamono-musume"
+    ],
+    "firstPublishedYear": 2024,
+    "volumeCount": 2,
+    "status": "unknown",
+    "synopsis": "第二次性徴とともに異能が発現する「ミューデント」たちが暮らす世界。サキュバスをはじめ、能力を前面に出したがる少女たちのなかで、あえてアピールしない者ほど魅力的に見えてくる。異能を持つことの気恥ずかしさを扱ったラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "iya-ni-naruhodo-himikona-yanki",
+    "title": "イヤになるほどヒミコなヤンキー",
+    "titleKana": "いやになるほどひみこなやんきー",
+    "authorIds": [
+      "aiharaakira"
+    ],
+    "illustratorIds": [
+      "p-953200"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "youkai-ayakashi",
+      "gendai-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "キャバクラで働く元ヤンキーの叢雲カズヤは、人並み外れた霊感の持ち主でもある。ある日出会ってしまった幽霊少女は、占いめいた力を持つ厄介な存在だった。夜の街と怪異を組み合わせた、口の悪い主人公の現代怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "irukaryou-no-shoujotachi-wa-koi-dekinai",
+    "title": "いるか寮の少女たちは恋できない",
+    "titleKana": "いるかりょうのしょうじょたちわこいできない",
+    "authorIds": [
+      "tatsukawamitsuhiko"
+    ],
+    "illustratorIds": [
+      "pikazo"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "yuri"
+    ],
+    "firstPublishedYear": 2012,
+    "volumeCount": 2,
+    "status": "completed",
+    "synopsis": "女性恐怖症の浩一が、春の体育祭で女子との二人三脚を強制される。しかも相手は、恋愛を禁じられた女子寮「いるか寮」の住人だった。恋ができない環境と、恋を避けたい主人公という二重の縛りを軸にしたラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inkya-ni-naritai-hinomori-san",
+    "title": "陰キャになりたい陽乃森さん",
+    "titleKana": "いんきゃになりたいひのもりさん",
+    "authorIds": [
+      "misaki-saginomiya"
+    ],
+    "illustratorIds": [
+      "bison"
+    ],
+    "publisherId": "dengeki-bunko",
+    "themeIds": [
+      "seishun-lovecome",
+      "gakuen",
+      "gendai-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "volumeCount": 2,
+    "status": "ongoing",
+    "synopsis": "陰キャと陽キャという、教室に張り巡らされた透明な上下関係。互いに理解し合えないはずの二人が、それでも隣に居続けようとする。カースト意識を正面から扱い、分かり合えなさを前提に関係を築いていく青春小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチで書名・著者・レーベル・刊行年・巻数を、著者/イラストレーター表記は楽天ブックス・楽天Koboの書誌で確認(2026-08-09照会)。あらすじは楽天/Koboの紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-09"
   }
 ]
