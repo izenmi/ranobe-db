@@ -119,6 +119,14 @@
     "resolvedAt": "2026-08-03T12:53:17.103Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15121488/"
   },
+  "afumi-no-umi-minamo-ga-yureru-toki-2": {
+    "title": "淡海乃海",
+    "isbn": "9784864726276",
+    "matchedTitle": "淡海乃海　水面が揺れる時",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6276/9784864726276.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:23.238Z"
+  },
   "afuta-burakku": {
     "title": "アフターブラック",
     "isbn": null,
@@ -402,6 +410,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T08:40:15.667Z"
   },
+  "akuma-no-youna-koushaku-ikka": {
+    "title": "悪魔のような公爵一家",
+    "isbn": null,
+    "matchedTitle": "悪魔のような公爵一家",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7692/2000004627692.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:08:32.616Z"
+  },
   "akuma-o-munyu-munyusuru-riyuu": {
     "title": "悪魔をむにゅむにゅする理由",
     "isbn": null,
@@ -530,6 +546,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3712/9784758093712_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:03:07.585Z"
+  },
+  "akuyaku-no-oujo-ni-tensei-shita-kedo-kakushi-kya": {
+    "title": "悪役の王女に転生したけど、隠しキャラが隠れてない。",
+    "isbn": "9784866995274",
+    "matchedTitle": "悪役の王女に転生したけど、隠しキャラが隠れてない。（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5274/9784866995274_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:17.363Z"
   },
   "akuyaku-onzoushi-no-kanchigai": {
     "title": "悪役御曹司の勘違い聖者生活",
@@ -710,6 +734,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:30:29.242Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16743403/"
+  },
+  "akuyaku-reijou-no-daietto-kakumei-zense-no-chish": {
+    "title": "悪役令嬢のダイエット革命!",
+    "isbn": "9784867949931",
+    "matchedTitle": "悪役令嬢のダイエット革命！〜前世の知識で健康美を手に入れてざまぁします！〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9931/9784867949931_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:33.778Z"
   },
   "akuyaku-reijou-no-kyouji": {
     "title": "悪役令嬢の矜持",
@@ -3643,6 +3675,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T05:32:11.024Z"
   },
+  "eiyuu-majutsushi-wa-nonbiri-kurashitai-katsuyaku": {
+    "title": "英雄魔術師はのんびり暮らしたい",
+    "isbn": "9784864728911",
+    "matchedTitle": "英雄魔術師はのんびり暮らしたい 活躍しすぎて命を狙われたので、やり直します",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8911/9784864728911.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:43.128Z"
+  },
   "eiyuu-naki-sekai-ni-rasubosutachi-o": {
     "title": "英雄なき世界にラスボスたちを",
     "isbn": "9784040692357",
@@ -3839,6 +3879,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7791/2000000257791.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T09:59:24.638Z"
+  },
+  "enmu-koushaku-to-koori-no-hanayome": {
+    "title": "煙霧公爵と氷の花嫁",
+    "isbn": null,
+    "matchedTitle": "煙霧公爵と氷の花嫁 第1巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8604/2000019458604.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:08:46.660Z"
   },
   "enoch-daini-butai": {
     "title": "エノク第二部隊の遠征ごはん",
@@ -6737,6 +6785,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T07:19:17.658Z"
   },
+  "isekai-dato-omottara-houkai-shita-mirai-datta-sh": {
+    "title": "異世界だと思ったら崩壊した未来だった",
+    "isbn": "9784864724487",
+    "matchedTitle": "異世界だと思ったら崩壊した未来だった",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4487/9784864724487.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:24.402Z"
+  },
   "isekai-de-cafe-wo-kaiten-shimashita": {
     "title": "異世界でカフェを開店しました。",
     "isbn": "9784434229992",
@@ -6761,6 +6817,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3078/9784047343078_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:49:49.749Z"
+  },
+  "isekai-de-imouto-tenshi-to-nanika-suru": {
+    "title": "異世界で妹天使となにかする。",
+    "isbn": "9784866990354",
+    "matchedTitle": "異世界で妹天使となにかする。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0354/9784866990354.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:37.251Z"
+  },
+  "isekai-de-kojiin-o-hiraita-kedo-nazeka-darehitor": {
+    "title": "異世界で孤児院を開いたけど、なぜか誰一人巣立とうとしない件",
+    "isbn": "9784864726047",
+    "matchedTitle": "異世界で孤児院を開いたけど、なぜか誰一人巣立とうとしない件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6047/9784864726047.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:26.749Z"
   },
   "isekai-de-mofumofu-nadenade": {
     "title": "異世界でもふもふなでなでするためにがんばってます。",
@@ -7059,6 +7131,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T04:00:10.839Z"
   },
+  "isekai-ni-otosareta-jouka-wa-kihon": {
+    "title": "異世界に落とされた…浄化は基本!",
+    "isbn": "9784864729048",
+    "matchedTitle": "異世界に落とされた…浄化は基本！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9048/9784864729048.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:16.163Z"
+  },
   "isekai-ni-teni-shitara-yama-no-naka-datta-handou": {
     "title": "異世界に転移したら山の中だった。反動で強さよりも快適さを選びました。",
     "isbn": "9784815605735",
@@ -7082,6 +7162,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3081/9784040733081_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T03:35:45.032Z"
+  },
+  "isekai-no-binbou-nouka-ni-tensei-shita-node-reng": {
+    "title": "異世界の貧乏農家に転生したので、レンガを作って城を建てることにしました",
+    "isbn": "9784864729338",
+    "matchedTitle": "異世界の貧乏農家に転生したので、レンガを作って城を建てることにしました2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9338/9784864729338.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:14.970Z"
   },
   "isekai-no-kengou-kara-chikara-to-waza-o-keishou": {
     "title": "異世界の剣豪から力と技を継承してみた",
@@ -7205,6 +7293,14 @@
     "resolvedAt": "2026-08-01T04:55:05.041Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13137444/"
   },
+  "isekai-shoukan-sareta-ga-kyousei-soukan-sareta-o": {
+    "title": "異世界召喚されたが強制送還された俺は仕方なくやせることにした。",
+    "isbn": "9784864726771",
+    "matchedTitle": "異世界召喚されたが強制送還された俺は仕方なくやせることにした。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6771/9784864726771.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:34.945Z"
+  },
   "isekai-shoukan-sareta-ore-ga-ecchi-dekinai-riyuu": {
     "title": "異世界召喚された俺がHできない理由",
     "isbn": null,
@@ -7254,6 +7350,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6695/9784040646695_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T05:31:15.630Z"
+  },
+  "isekai-souzou-no-susume-sumaho-apuri-de-wakusei": {
+    "title": "異世界創造のすゝめ",
+    "isbn": "9784866990248",
+    "matchedTitle": "異世界創造のすゝめ〜スマホアプリで惑星を創造してしまった俺は、創造神となり世界を駆け巡る〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0248/9784866990248.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:36.105Z"
   },
   "isekai-souzou-no-zettaishin": {
     "title": "異世界創造の絶対神",
@@ -7312,6 +7416,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:22:28.674Z"
   },
+  "isekai-tensei-shitara-henkyouhaku-reijou-datta-o": {
+    "title": "異世界転生したら辺境伯令嬢だった",
+    "isbn": "9784867940105",
+    "matchedTitle": "異世界転生したら辺境伯令嬢だった〜推しと共に生きる辺境生活〜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0105/9784867940105_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:25.573Z"
+  },
   "isekai-tensei-soudouki": {
     "title": "異世界転生騒動記",
     "isbn": "9784434189678",
@@ -7345,6 +7457,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:02:22.540Z"
   },
+  "isekai-wa-omotta-yori-mo-ore-ni-yasashii": {
+    "title": "異世界は思ったよりも俺に優しい?",
+    "isbn": "9784864725491",
+    "matchedTitle": "異世界は思ったよりも俺に優しい？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5491/9784864725491.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:27.912Z"
+  },
   "isekai-wa-smartphone": {
     "title": "異世界はスマートフォンとともに。",
     "isbn": "9784798610184",
@@ -7352,6 +7472,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0184/9784798610184.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:55:09.662Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13249955/"
+  },
+  "isekai-wa-tenpure-ni-michiafurete-iru": {
+    "title": "異世界は幸せ(テンプレ)に満ち溢れている",
+    "isbn": "9784864725286",
+    "matchedTitle": "異世界は幸せ（テンプレ）に満ち溢れている",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5286/9784864725286.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:19.723Z"
   },
   "isekai-yakkyoku": {
     "title": "異世界薬局",
@@ -14232,6 +14360,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:35:47.136Z"
   },
+  "outo-wanope-goremu-masuta-masaka-no-tsuihou-jiyu": {
+    "title": "王都ワンオペゴーレムマスター。まさかの追放!?",
+    "isbn": "9784867941089",
+    "matchedTitle": "王都ワンオペゴーレムマスター。まさかの追放！？〜自由の身になったので弟子の美人勇者たちと一緒に最強ゴーレム作ります。戻ってこいと言われてももう知らん！〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1089/9784867941089_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:22.063Z"
+  },
   "ouzoku-ni-tensei-shita-kara-bouryoku-o-tsukatte": {
     "title": "王族に転生したから暴力を使ってでも専制政治を守り抜く!",
     "isbn": null,
@@ -18450,6 +18586,14 @@
     "resolvedAt": "2026-08-02T06:24:24.048Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17034183/"
   },
+  "umi-no-mieru-hanaya-fururu-no-jikenki-akiyama-ru": {
+    "title": "海の見える花屋フルールの事件記",
+    "isbn": null,
+    "matchedTitle": "海の見える花屋フルールの事件記〜秋山瑠璃は恋をしない〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3762/2000004003762.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-09T08:08:41.914Z"
+  },
   "umibe-no-byouin-de-kanojo-to-hanashita-ikutsuka": {
     "title": "海辺の病院で彼女と話した幾つかのこと",
     "isbn": null,
@@ -18552,6 +18696,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T07:02:46.697Z"
   },
+  "urakagyou-tensei-motogokudou-ga-kazoku-no-tame-n": {
+    "title": "裏稼業転生",
+    "isbn": "9784866998527",
+    "matchedTitle": "裏稼業転生〜元極道が家族の為に領地発展させますが何か？〜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8527/9784866998527_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:18.552Z"
+  },
   "urasekai-picnic": {
     "title": "裏世界ピクニック",
     "isbn": "9784150312640",
@@ -18560,6 +18712,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T21:17:52.407Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14658090/"
+  },
+  "urin-ranse-o-kakeru-iden-afumi-no-umi": {
+    "title": "羽林、乱世を翔る",
+    "isbn": "9784866990101",
+    "matchedTitle": "異伝　淡海乃海〜羽林、乱世を翔る〜1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0101/9784866990101.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:20.897Z"
+  },
+  "urin-ranse-o-kakeru-iden-afumi-no-umi-2": {
+    "title": "異伝淡海乃海",
+    "isbn": "9784866990101",
+    "matchedTitle": "異伝　淡海乃海〜羽林、乱世を翔る〜1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0101/9784866990101.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:29.081Z"
   },
   "usagi-robo": {
     "title": "うさぎロボ",
@@ -18628,6 +18796,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T14:38:12.939Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18639733/"
+  },
+  "utomare-seijo-yarinaoshi-jinsei-de-koushakusama": {
+    "title": "疎まれ聖女、やり直し人生で公爵様の妹君の家庭教師になる",
+    "isbn": "9784867944011",
+    "matchedTitle": "疎まれ聖女、やり直し人生で公爵様の妹君の家庭教師になる〜貴方、私の事お嫌いでしたよね？なんで今回は溺愛してくるんですか〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4011/9784867944011_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-09T08:08:38.429Z"
   },
   "utsunomiko": {
     "title": "宇宙皇子",
