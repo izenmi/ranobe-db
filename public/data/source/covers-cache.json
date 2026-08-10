@@ -2131,6 +2131,14 @@
     "resolvedAt": "2026-08-08T08:48:31.154Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17687340/"
   },
+  "ao-to-mushoku-no-sakurifaisu": {
+    "title": "青と無色のサクリファイス",
+    "isbn": null,
+    "matchedTitle": "青と無色のサクリファイス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2418/2000005832418.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:45:49.952Z"
+  },
   "ao-to-sakura": {
     "title": "あおとさくら",
     "isbn": "9784815616281",
@@ -6587,6 +6595,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4608/2000001574608.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T07:49:43.954Z"
+  },
+  "gakkou-no-sotokaidan-2": {
+    "title": "学校の外階段",
+    "isbn": null,
+    "matchedTitle": "学校の外階段2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7574/2000001697574.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:45:46.498Z"
   },
   "gakkouichi-no-bishoujo-to-shinyuu-doushi-no-rena": {
     "title": "学校一の美少女と親友同士の恋愛相談に乗っていたら、いつのまにか彼女が誰よりも近い存在になってた件",
