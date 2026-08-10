@@ -16685,6 +16685,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T12:35:22.191Z"
   },
+  "kaosu-chairudo": {
+    "title": "Chaos;Child",
+    "isbn": null,
+    "matchedTitle": "Ｃｈａｏｓ；Ｃｈｉｌｄ　－Ｃｈｉｌｄｒｅｎ’ｓ　Ｒｅｖｉｖｅ－",
+    "coverUrl": "https://c.bookwalker.jp/0945932/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-10T13:46:55.413Z"
+  },
   "kaosu-region": {
     "title": "カオス レギオン",
     "isbn": null,
@@ -26287,6 +26295,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T10:27:39.674Z"
   },
+  "ore-no-kaasan-wa-saikyou-no-mahou-shoujo-desu": {
+    "title": "俺の母さんは最強の魔法少女です",
+    "isbn": "9784049167696",
+    "matchedTitle": "俺の母さんは最強の魔法少女です",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7696/9784049167696_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:46:34.102Z"
+  },
   "ore-no-kachan-ga-juunanasai-ni-natta": {
     "title": "俺のかーちゃんが17歳になった",
     "isbn": null,
@@ -26319,6 +26335,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0057/2000009400057.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T04:45:07.234Z"
+  },
+  "ore-no-kokan-ga-ekusukariba": {
+    "title": "俺の股間がエクスカリバー!",
+    "isbn": null,
+    "matchedTitle": "俺の股間がエクスカリバー！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3880/2000006003880.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:46:37.580Z"
   },
   "ore-no-konbini": {
     "title": "俺のコンビニ",
@@ -26406,6 +26430,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:26:33.571Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17695021/"
+  },
+  "ore-no-osananajimi-wa-uchuujin-ni-shinryaku-sare": {
+    "title": "俺の幼なじみは宇宙人に侵略されている",
+    "isbn": null,
+    "matchedTitle": "俺の幼なじみは宇宙人に侵略されている",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0812/2000005090812.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:46:32.936Z"
   },
   "ore-no-oyomesan-hentai": {
     "title": "俺のお嫁さん、変態かもしれない",
@@ -26580,6 +26612,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T08:41:03.852Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12355823/"
+  },
+  "ore-wa-arisu-o-sukuwanai-koto-ni-kimeta": {
+    "title": "俺はアリスを救わないことに決めた",
+    "isbn": null,
+    "matchedTitle": "俺はアリスを救わないことに決めた",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9554/2000006799554.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:46:41.038Z"
   },
   "ore-wa-danjon-masuta-shin-no-meikyuu-tansaku-to": {
     "title": "俺はダンジョンマスター、真の迷宮探索というものを教えてやろう",
@@ -28228,6 +28268,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3437/2000005193437.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-10T11:48:30.189Z"
+  },
+  "owaru-sekai-no-majin-shitsuji": {
+    "title": "終わる世界の魔人執事",
+    "isbn": "9784065181928",
+    "matchedTitle": "終わる世界の魔人執事",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1928/9784065181928.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:46:42.220Z"
   },
   "owatta-koi-hajimemashita": {
     "title": "終わった恋、はじめました",
