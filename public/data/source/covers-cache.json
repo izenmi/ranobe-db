@@ -3159,6 +3159,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:47:50.564Z"
   },
+  "bannou-sukiru-no-rettou-seijo-kiyou-sugiru-node": {
+    "title": "万能スキルの劣等聖女",
+    "isbn": "9784086314985",
+    "matchedTitle": "万能スキルの劣等聖女 〜器用すぎるので貧乏にはなりませんでした〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4985/9784086314985_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:52.165Z"
+  },
   "baretto-kodo-faiaworu": {
     "title": "バレットコード: ファイアウォール",
     "isbn": "9784049133134",
@@ -3653,6 +3661,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4445/9784048694445_1_11.jpg?_ex=400x400",
     "resolvedAt": "2026-08-01T04:56:09.130Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14264100/"
+  },
+  "boroboro-no-erufusan-o-shiawase-ni-suru-kusuriur": {
+    "title": "ボロボロのエルフさんを幸せにする薬売りさん",
+    "isbn": "9784086315357",
+    "matchedTitle": "ボロボロのエルフさんを幸せにする薬売りさん",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5357/9784086315357_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:53.354Z"
   },
   "botsuraku-reijou-maid-ni-narimasu": {
     "title": "没落令嬢、貧乏騎士のメイドになります",
@@ -18042,6 +18058,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-01T12:02:44.072Z"
   },
+  "madan-no-ou-to-hanshin-no-kiken": {
+    "title": "魔弾の王と叛神の輝剣",
+    "isbn": "9784086315203",
+    "matchedTitle": "魔弾の王と叛神の輝剣",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5203/9784086315203_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:49.736Z"
+  },
+  "madan-no-ou-to-kyokuya-no-kihi": {
+    "title": "魔弾の王と極夜の輝姫",
+    "isbn": "9784086315661",
+    "matchedTitle": "魔弾の王と極夜の輝姫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5661/9784086315661_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:54.529Z"
+  },
   "madan-no-ou-to-micheria": {
     "title": "魔弾の王と凍漣の雪姫(ミーチェリア)",
     "isbn": "9784086312684",
@@ -18308,6 +18340,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8528/9784065288528_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T21:27:18.975Z"
+  },
+  "maigo-ni-natte-ita-youjo-o-tasuketara-otonari-ni": {
+    "title": "迷子になっていた幼女を助けたら、お隣に住む美少女留学生が家に遊びに来るようになった件について",
+    "isbn": "9784086314589",
+    "matchedTitle": "迷子になっていた幼女を助けたら、お隣に住む美少女留学生が家に遊びに来るようになった件について",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4589/9784086314589_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:48.547Z"
   },
   "mainasu-sukirumochi-yonin-ga-atsumattara-nanka-s": {
     "title": "マイナススキル持ち四人が集まったら、なんかシナジー発揮して最強パーティーができた件",
@@ -29776,6 +29816,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:20:34.176Z"
   },
+  "tsun-na-megamisama-to-darenimo-ienai-himitsu-no": {
+    "title": "ツンな女神さまと、誰にも言えない秘密の関係。",
+    "isbn": "9784086315432",
+    "matchedTitle": "ツンな女神さまと、誰にも言えない秘密の関係。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5432/9784086315432_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:50.998Z"
+  },
   "tsundere-akuyaku-reijou-lieselotte": {
     "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
     "isbn": "9784040730516",
@@ -30822,6 +30870,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1094/9784815621094_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T14:02:54.946Z"
+  },
+  "yamamoto-kun-no-seishun-ribenji": {
+    "title": "山本君の青春リベンジ!",
+    "isbn": "9784086315166",
+    "matchedTitle": "山本君の青春リベンジ!",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5166/9784086315166_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T07:22:55.704Z"
   },
   "yamasodachi-no-boukensha-kono-machi-ga-kaiteki-n": {
     "title": "山育ちの冒険者",
