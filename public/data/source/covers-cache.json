@@ -6514,6 +6514,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T18:06:36.282Z"
   },
+  "gagoiru-orutanatibu": {
+    "title": "ガーゴイルおるたなてぃぶ",
+    "isbn": null,
+    "matchedTitle": "ガーゴイルおるたなてぃぶ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2951/2000002532951.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:37:32.920Z"
+  },
   "gaidoyaku-no-tenshi-o-naguritaoshitara-shiryouju": {
     "title": "ガイド役の天使を殴り倒したら、死霊術師になりました",
     "isbn": "9784803019490",
@@ -14118,6 +14126,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T21:03:04.605Z"
   },
+  "kantai-korekushon-kankore-kakuyoku-no-kizuna": {
+    "title": "艦隊これくしょん-艦これ-",
+    "isbn": "9784041110065",
+    "matchedTitle": "艦隊これくしょん　-艦これー　艦娘型録　参",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0065/9784041110065_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T08:37:26.032Z"
+  },
   "kantan-ni-seijo-ni-miryou-sareru-youna-otoko-wa": {
     "title": "簡単に聖女に魅了されるような男は、捨てて差し上げます。",
     "isbn": "9784434342110",
@@ -14322,6 +14338,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T01:34:49.253Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12429511/"
+  },
+  "kari-ougon-no-sentou-no-kuni-to-ahiru-to-shoukou": {
+    "title": "カーリー",
+    "isbn": null,
+    "matchedTitle": "カーリー　＜１．黄金の尖塔の国とあひると小公女＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5571/2000000105571.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:37:36.416Z"
   },
   "kariringu-haginomori-koukou-shuryou-senmon-katei": {
     "title": "狩りりんぐ！",
@@ -21660,6 +21684,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9226/2000001739226.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:30:21.585Z"
+  },
+  "onikiri-nueko-hyakki-yakou-gakuen": {
+    "title": "鬼切り夜鳥子",
+    "isbn": null,
+    "matchedTitle": "鬼切り夜鳥子〜百鬼夜行学園〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6927/2000002136927.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:37:29.466Z"
   },
   "onikishidanchousama-ga-kyuto-na-otomekei-kafe-ni": {
     "title": "鬼騎士団長様がキュートな乙女系カフェに毎朝コーヒーを飲みに来ます。",
