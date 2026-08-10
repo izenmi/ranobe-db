@@ -14895,6 +14895,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-10T13:45:08.656Z"
   },
+  "jabarashi-no-haraitasan": {
+    "title": "邪祓師の腹痛さん",
+    "isbn": "9784040753812",
+    "matchedTitle": "邪祓師の腹痛さん",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3812/9784040753812_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:17.526Z"
+  },
   "jagaimo-nouka-no-muramusume-kenshin-to-utawareru": {
     "title": "ジャガイモ農家の村娘、剣神と謳われるまで。",
     "isbn": "9784891999537",
@@ -15017,6 +15025,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T13:19:22.611Z"
   },
+  "jibakureigawa-no-gojijou-o-sazanami-fudousan-wa": {
+    "title": "地縛霊側のご事情を",
+    "isbn": "9784040754444",
+    "matchedTitle": "地縛霊側のご事情を さざなみ不動産は祓いません",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4444/9784040754444_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:16.386Z"
+  },
   "jibun-daisuki-umezono-kun-to-sono-shinjachan": {
     "title": "自分大好き梅園くんと、その信者ちゃん。",
     "isbn": "9784065405895",
@@ -15064,6 +15080,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9315/9784065169315.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T14:02:14.903Z"
+  },
+  "jigitarisu-no-joou-ni-chuusei-o-shuudouin-no-oui": {
+    "title": "ジギタリスの女王に忠誠を",
+    "isbn": null,
+    "matchedTitle": "ジギタリスの女王に忠誠を　修道院の王位継承者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2114/2000009072114.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T21:53:11.803Z"
   },
   "jigoku-ni-inore-ten-ni-ochiro": {
     "title": "地獄に祈れ。天に堕ちろ。",
@@ -15205,6 +15229,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:54:59.222Z"
   },
+  "jinka-koukyuu-kuriyashiden-itsuwari-no-ten-wa-ka": {
+    "title": "神華後宮厨師伝",
+    "isbn": null,
+    "matchedTitle": "神華後宮厨師伝　偽りの天は花梨で邂逅す",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4002/2000007724002.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T21:53:27.654Z"
+  },
   "jinkusu-gemu": {
     "title": "ジンクスゲーム",
     "isbn": null,
@@ -15254,6 +15286,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3456/2000001743456.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T17:02:53.349Z"
+  },
+  "jisatsu-hanteishi-sonezaki-tsuzuru-no-jisatsu-sh": {
+    "title": "自殺判定士曽根崎都弦の自殺衝動",
+    "isbn": null,
+    "matchedTitle": "自殺判定士 曽根崎都弦の自殺衝動",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3558/2000010623558.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T21:53:15.225Z"
   },
   "jisatsu-suru-niwa-mukanai-kisetsu": {
     "title": "自殺するには向かない季節",
@@ -15379,6 +15419,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-10T13:19:29.624Z"
   },
+  "joou-ofiria-yo-onore-no-shi-no-nazo-o-toke": {
+    "title": "女王オフィーリアよ、己の死の謎を解け",
+    "isbn": "9784040743233",
+    "matchedTitle": "女王オフィーリアよ、己の死の謎を解け",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3233/9784040743233_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:22.123Z"
+  },
+  "joou-ofiria-yo-outei-no-shi-no-nazo-o-toke": {
+    "title": "女王オフィーリアよ、王弟の死の謎を解け",
+    "isbn": "9784040745718",
+    "matchedTitle": "女王オフィーリアよ、王弟の死の謎を解け",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5718/9784040745718_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:20.958Z"
+  },
   "joousama-wa-yuuga-na-gokagyou-momomiya-wa-kiken": {
     "title": "女王サマは優雅なご稼業!?",
     "isbn": null,
@@ -15426,6 +15482,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3262/2000003803262.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T04:00:47.586Z"
+  },
+  "josou-ouji-no-shinen-ni-shite-yuuga-na-takurami": {
+    "title": "女装王子の深遠にして優雅なたくらみ",
+    "isbn": "9784040704418",
+    "matchedTitle": "女装王子の深遠にして優雅なたくらみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4418/9784040704418.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:23.294Z"
   },
   "jouhai-shougun-mata-yabureru": {
     "title": "常敗将軍、また敗れる",
@@ -15539,6 +15603,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T09:08:18.031Z"
   },
+  "juubanme-no-yunasu": {
+    "title": "十番目のユナス",
+    "isbn": "9784040760728",
+    "matchedTitle": "十番目のユナス 呪いの伯爵と死なない生贄",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0728/9784040760728_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:19.815Z"
+  },
   "juubansama-no-enmusubi-kamiari-hanayome-kitan": {
     "title": "十番様の縁結び",
     "isbn": "9784086804431",
@@ -15587,6 +15659,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3089/9784824003089_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T07:19:35.206Z"
+  },
+  "juunengo-no-bokura-wa-mada-monogatari-no-owari-o": {
+    "title": "十年後の僕らはまだ物語の終わりを知らない",
+    "isbn": "9784040725086",
+    "matchedTitle": "十年後の僕らはまだ物語の終わりを知らない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5086/9784040725086_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T21:53:18.679Z"
   },
   "juunengoshi-no-hikinito-o-yamete-gaishutsu-shita": {
     "title": "10年ごしの引きニートを辞めて外出したら",
