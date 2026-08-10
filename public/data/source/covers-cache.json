@@ -7723,6 +7723,14 @@
     "resolvedAt": "2026-08-04T09:59:14.219Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16692395/"
   },
+  "gakuen-kishi-no-reberu-appu-reberu-sengoe-no-ten": {
+    "title": "学園騎士のレベルアップ!",
+    "isbn": "9784086313162",
+    "matchedTitle": "学園騎士のレベルアップ! レベル1000超えの転生者、落ちこぼれクラスに入学。そして、",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3162/9784086313162_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:17.146Z"
+  },
   "gakuen-koushounin-houjou-makoto-no-karei-naru-gy": {
     "title": "学園交渉人",
     "isbn": null,
@@ -8114,6 +8122,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:33:50.857Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13844281/"
+  },
+  "genjitsugazonbigesekaininatteshimattakedobokudak": {
+    "title": "現実がゾンビゲー世界になってしまったけど僕だけがゲームシステムを使える",
+    "isbn": null,
+    "matchedTitle": "現実がゾンビゲー世界になってしまったけど僕だけがゲームシステムを使える",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1771/2000020631771.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:07:33.565Z"
   },
   "genjuu-chousain": {
     "title": "幻獣調査員",
@@ -8988,6 +9004,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9975/2000004629975.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T21:27:47.025Z"
+  },
+  "gyarusa-no-katei-kyoushi-ni-natta": {
+    "title": "ギャルサーの家庭教師になった。",
+    "isbn": "9784086316606",
+    "matchedTitle": "ギャルサーの家庭教師になった。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6606/9784086316606_1_44.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:24.205Z"
   },
   "gyouka-yakuden-monogatari": {
     "title": "暁花薬殿物語",
@@ -15273,6 +15297,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-10T12:00:24.946Z"
   },
+  "kamakura-genji-monogatari-ore-no-imouto-ga-bouso": {
+    "title": "鎌倉源氏物語",
+    "isbn": "9784086314053",
+    "matchedTitle": "鎌倉源氏物語 俺の妹が暴走して源氏が族滅されそうなので全力で回避する",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4053/9784086314053_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:14.814Z"
+  },
   "kamakura-goshuin-garu": {
     "title": "鎌倉御朱印ガール",
     "isbn": "9784086802659",
@@ -15698,6 +15730,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7471/9784046817471_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T09:31:28.816Z"
+  },
+  "kamisama-no-nemuru-basho": {
+    "title": "神様の眠る場所",
+    "isbn": "9784086316378",
+    "matchedTitle": "神様の眠る場所",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6378/9784086316378_1_46.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:15.977Z"
   },
   "kamisama-no-okiniiri": {
     "title": "神様のおきにいり",
@@ -16666,6 +16706,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:43:23.307Z"
   },
+  "kasshokumusume-no-ratina-san-ni-ore-no-karada-ga": {
+    "title": "褐色娘のラティーナさんに俺の体が狙われている",
+    "isbn": "9784086315647",
+    "matchedTitle": "褐色娘のラティーナさんに俺の体が狙われている",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5647/9784086315647_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:13.639Z"
+  },
   "kasumi-to-oboro-taishou-hyakki-yakou-monogatari": {
     "title": "カスミとオボロ",
     "isbn": "9784086800891",
@@ -16821,6 +16869,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8874/9784757598874_1_9.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T15:03:14.102Z"
+  },
+  "kazukazu-no-kokuhaku-o-futte-kita-gakkou-no-mado": {
+    "title": "数々の告白を振ってきた学校のマドンナに外堀を埋められました",
+    "isbn": "9784086316064",
+    "matchedTitle": "数々の告白を振ってきた学校のマドンナに外堀を埋められました",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6064/9784086316064_1_46.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:12.454Z"
   },
   "kegare-no-mori-no-majo": {
     "title": "穢れの森の魔女",
@@ -17256,6 +17312,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T21:17:17.440Z"
   },
+  "kiite-kuremasuyone-senpai": {
+    "title": "聞いてくれますよね?先輩",
+    "isbn": "9784086314909",
+    "matchedTitle": "聞いてくれますよね? 先輩",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4909/9784086314909_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:18.330Z"
+  },
   "kijikakushi-no-niwa": {
     "title": "きじかくしの庭",
     "isbn": "9784048914154",
@@ -17328,6 +17392,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0296/9784022760296_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T21:04:19.787Z"
+  },
+  "kimajime-daimaou-no-kiyoku-tadashii-gakuen-seika": {
+    "title": "キマジメ大魔王の清く正しい学園生活",
+    "isbn": "9784086312530",
+    "matchedTitle": "キマジメ大魔王の清く正しい学園生活",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2530/9784086312530.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:21.847Z"
   },
   "kimama-ni-toukyou-sabaibu-moshimo-nihon-ga-mamon": {
     "title": "気ままに東京サバイブ。",
@@ -17900,6 +17972,14 @@
     "resolvedAt": "2026-08-07T10:31:31.447Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17532388/"
   },
+  "kinou-tasukete-itadaita-madousho-desu": {
+    "title": "昨日、助けていただいた魔導書です",
+    "isbn": "9784086313599",
+    "matchedTitle": "昨日、助けていただいた魔導書です",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3599/9784086313599_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:20.683Z"
+  },
   "kinou-wa-kanojo-mo-koi-shiteta": {
     "title": "昨日は彼女も恋してた",
     "isbn": null,
@@ -18385,6 +18465,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4004/9784815604004.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:09:42.723Z"
+  },
+  "kizuato-no-seija-shikei-o-senkoku-sareta-kensei": {
+    "title": "傷跡の聖者",
+    "isbn": "9784086316125",
+    "matchedTitle": "傷跡の聖者 〜死刑を宣告された剣聖、再び英雄へ〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6125/9784086316125_1_49.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:19.502Z"
   },
   "kizumono-no-hanayome": {
     "title": "傷モノの花嫁",
@@ -20600,6 +20688,14 @@
     "resolvedAt": "2026-08-07T14:38:30.624Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6588371/"
   },
+  "kurojishijou-kitan": {
+    "title": "黒獅子城奇譚",
+    "isbn": "9784086312790",
+    "matchedTitle": "黒獅子城奇譚",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2790/9784086312790_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:30.042Z"
+  },
   "kurokami-no-ou": {
     "title": "黒髪の王",
     "isbn": "9784864728454",
@@ -20941,6 +21037,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0683/9784048690683.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T10:48:42.685Z"
+  },
+  "kuzu-to-kinka-no-kuoridia": {
+    "title": "クズと金貨のクオリディア",
+    "isbn": null,
+    "matchedTitle": "クズと金貨のクオリディア",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0347/2000002820347.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:07:27.712Z"
+  },
+  "kuzu-yuusha-ga-yuushuu-na-kaifukushi-o-tsuihou-s": {
+    "title": "クズ勇者が優秀な回復師を追放したので、私達のパーティはもう終わりです",
+    "isbn": "9784086315425",
+    "matchedTitle": "クズ勇者が優秀な回復師を追放したので、私達のパーティはもう終わりです",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5425/9784086315425_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:28.883Z"
   },
   "kuzuboshi-ouji-no-senshi-nariagari-eiyuutan": {
     "title": "屑星皇子の戦詩",
@@ -21454,6 +21566,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4554/9784086804554_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T10:51:32.490Z"
+  },
+  "kyuuketsuki-wa-boku-no-tame-ni-ane-ni-naru": {
+    "title": "吸血鬼は僕のために姉になる",
+    "isbn": "9784086313650",
+    "matchedTitle": "吸血鬼は僕のために姉になる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3650/9784086313650_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:23.026Z"
   },
   "kyuuketsuki-wa-me-o-toji-juuji-o-kitta": {
     "title": "吸血鬼は目を閉じ、十字を切った",
@@ -25815,6 +25935,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T09:52:39.614Z"
   },
+  "ore-no-ibukuro-wa-kanojo-ni-nigirarete-iru": {
+    "title": "俺の胃袋は彼女に握られている。",
+    "isbn": null,
+    "matchedTitle": "俺の胃袋は彼女に握られている。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3223/2000003803223.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T13:07:07.793Z"
+  },
   "ore-no-ie-ga-maryoku-supotto-datta-ken-sunde-iru": {
     "title": "俺の家が魔力スポットだった件",
     "isbn": "9784086311236",
@@ -25863,6 +25991,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T12:01:48.361Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13429284/"
+  },
+  "ore-no-kanojo-wa-sekai-isan": {
+    "title": "俺の彼女は世界遺産",
+    "isbn": "9784086310208",
+    "matchedTitle": "俺の彼女は世界遺産",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0208/9784086310208.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:08.968Z"
   },
   "ore-no-kantei-sukiru-ga-chito-sugite-densetsu-no": {
     "title": "俺の『鑑定』スキルがチートすぎて",
@@ -26017,6 +26153,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:25:53.342Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18427484/"
+  },
+  "ore-no-sukiru-wa-rabu-hoteru": {
+    "title": "俺のスキルはラブホテル",
+    "isbn": "9784086316552",
+    "matchedTitle": "俺のスキルはラブホテル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6552/9784086316552_1_46.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:10.147Z"
   },
   "ore-no-tachiichi-wa-koko-ja-nai": {
     "title": "俺の立ち位置はココじゃない!",
@@ -26189,6 +26333,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7887/2000000247887.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:45:08.432Z"
+  },
+  "ore-wa-maou-de-shishunki-danshi": {
+    "title": "俺は魔王で思春期男子!",
+    "isbn": "9784086311670",
+    "matchedTitle": "俺は魔王で思春期男子!",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1670/9784086311670.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:11.290Z"
   },
   "ore-wa-seikan-kokka-no-akutoku-ryoushu": {
     "title": "俺は星間国家の悪徳領主!",
@@ -27788,6 +27940,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9513/2000001739513.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-10T09:30:43.462Z"
+  },
+  "oyomesan-maou-to-boku-no-kimyou-de-saikyou-na-hi": {
+    "title": "お嫁さん魔王と僕の奇妙で最強な日々",
+    "isbn": "9784086315623",
+    "matchedTitle": "お嫁さん魔王と僕の奇妙で最強な日々",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5623/9784086315623_1_45.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T13:07:03.472Z"
   },
   "oyomesan-ni-shitai-kontesuto-ichii-no-kouhai-ni": {
     "title": "お嫁さんにしたいコンテスト1位の後輩に弱みを握られた",
