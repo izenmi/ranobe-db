@@ -445,6 +445,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:31:41.241Z"
   },
+  "akikan": {
+    "title": "アキカン!",
+    "isbn": null,
+    "matchedTitle": "アキカン！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8601/2000002248601.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:45.117Z"
+  },
   "akito-wa-card": {
     "title": "アキトはカードを引くようです",
     "isbn": null,
@@ -6113,6 +6121,14 @@
     "resolvedAt": "2026-08-07T10:20:55.392Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17289755/"
   },
+  "entaku-seitokai": {
+    "title": "円卓生徒会",
+    "isbn": null,
+    "matchedTitle": "円卓生徒会　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9098/2000002189098.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:41.515Z"
+  },
   "enzai-de-konyaku-haki-sareta-koushaku-reijou-wa-ringoku-e-toubou-itashimasu": {
     "title": "冤罪で婚約破棄された公爵令嬢は隣国へ逃亡いたします！",
     "isbn": "9784434325137",
@@ -7663,6 +7679,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5874/9784867165874_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T08:01:43.956Z"
+  },
+  "gogo-kuji-berandagoshi-no-megami-senpai-wa-boku": {
+    "title": "午後九時、ベランダ越しの女神先輩は僕だけのもの",
+    "isbn": "9784049137828",
+    "matchedTitle": "午後九時、ベランダ越しの女神先輩は僕だけのもの2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7828/9784049137828_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:29.464Z"
   },
   "gogo-yoji-toumei-tokidoki-seiyuu": {
     "title": "午後4時。透明、ときどき声優",
@@ -13003,6 +13027,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T17:36:45.884Z"
   },
+  "jigoku-ni-inore-ten-ni-ochiro": {
+    "title": "地獄に祈れ。天に堕ちろ。",
+    "isbn": "9784049126662",
+    "matchedTitle": "地獄に祈れ。天に堕ちろ。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6662/9784049126662_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:37.991Z"
+  },
   "jigoku-no-gouka-de-yakaretsuzuketa-shounen-saiky": {
     "title": "地獄の業火で焼かれ続けた少年。最強の炎使いとなって復活する。",
     "isbn": "9784065260159",
@@ -15433,6 +15465,14 @@
     "resolvedAt": "2026-08-07T10:23:20.861Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6580095/"
   },
+  "ken-to-honoo-no-diasuferudo": {
+    "title": "剣と炎のディアスフェルド",
+    "isbn": "9784048926096",
+    "matchedTitle": "剣と炎のディアスフェルドII",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6096/9784048926096.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:23.561Z"
+  },
   "ken-to-mahou-no-sekai-desuga-ore-no-kikai-heiki": {
     "title": "剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。",
     "isbn": null,
@@ -15456,6 +15496,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0057/9784040750057_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:36:52.927Z"
+  },
+  "ken-to-mahou-to-saibansho": {
+    "title": "剣と魔法と裁判所",
+    "isbn": "9784048928168",
+    "matchedTitle": "剣と魔法と裁判所",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8168/9784048928168_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:24.747Z"
   },
   "ken-to-mahou-to-sailor-fuku": {
     "title": "剣と魔法とセーラー服",
@@ -16731,6 +16779,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T08:41:20.472Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16820526/"
+  },
+  "koishiteru-hima-ga-arunara-gacha-mawase": {
+    "title": "恋してるひまがあるならガチャ回せ!",
+    "isbn": null,
+    "matchedTitle": "恋してるひまがあるならガチャ回せ！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0509/2000006200509.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:28.272Z"
   },
   "koisuru-sheikusupia": {
     "title": "恋するシェイクスピア",
@@ -23966,6 +24022,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T07:31:41.731Z"
   },
+  "osananajimi-no-yamabuki-san": {
+    "title": "幼馴染の山吹さん",
+    "isbn": "9784049123319",
+    "matchedTitle": "幼馴染の山吹さん2 文学少女は文の上をゆっくり歩く",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3319/9784049123319_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:22.390Z"
+  },
   "osananajimi-wa-makefuragu-tte-hontou-desuka": {
     "title": "幼なじみは負けフラグって本当ですか?",
     "isbn": null,
@@ -28064,6 +28128,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T09:52:52.115Z"
   },
+  "shadou-saga": {
+    "title": "シャドウ・サーガ",
+    "isbn": null,
+    "matchedTitle": "シャドウ・サーガI　ー選定の剣と呪いの黒剣ー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1030/2000007711030.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:36.817Z"
+  },
   "shadow-assassins-world": {
     "title": "シャドウ・アサシンズ・ワールド",
     "isbn": "9784065351727",
@@ -28136,6 +28208,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:47:45.642Z"
   },
+  "shi-no-go-no-iwazu-ni-watashi-ni-amaete-ireba-in": {
+    "title": "シノゴノ言わずに私に甘えていればいーの!",
+    "isbn": null,
+    "matchedTitle": "シノゴノ言わずに私に甘えていればいーの！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9430/2000007779430.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:33.280Z"
+  },
   "shi-no-mori-no-majo-wa-ai-o-shiranai": {
     "title": "死の森の魔女は愛を知らない",
     "isbn": "9784040739885",
@@ -28143,6 +28223,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9885/9784040739885_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T11:22:51.401Z"
+  },
+  "shiba-tatsuya-ansatsu-keikaku": {
+    "title": "司波達也暗殺計画",
+    "isbn": "9784049120219",
+    "matchedTitle": "魔法科高校の劣等生 司波達也暗殺計画(1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0219/9784049120219_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:04:17.701Z"
   },
   "shibou-yuugi-de-meshi-wo-kuu": {
     "title": "死亡遊戯で飯を食う。",
@@ -28515,6 +28603,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0065/9784575750065.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T09:52:03.786Z"
+  },
+  "shinkaku-gikou-to-juuichinin-no-hakaisha": {
+    "title": "神角技巧と11人の破壊者",
+    "isbn": null,
+    "matchedTitle": "神角技巧と11人の破壊者　上 破壊の章",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6515/2000009296515.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:21.219Z"
   },
   "shinki-shoujo-wa-koi-o-suruka": {
     "title": "神器少女は恋をするか?",
@@ -30690,6 +30786,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:28:37.633Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17852252/"
+  },
+  "teiruzu-obu-ji-abisu": {
+    "title": "テイルズオブジアビス",
+    "isbn": null,
+    "matchedTitle": "テイルズ オブ ジ アビス　鮮血のアッシュ(1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4209/2000004394209.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:04:48.594Z"
   },
   "teishitsu-kyuuden-no-minarai-nyokan-miai-kaihi-d": {
     "title": "帝室宮殿の見習い女官",
