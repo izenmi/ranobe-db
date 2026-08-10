@@ -5859,6 +5859,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T10:51:18.611Z"
   },
+  "erabarenakatta-oujo-wa-tegami-o-nokoshite-kieru": {
+    "title": "選ばれなかった王女は、手紙を残して消えることにした。",
+    "isbn": "9784803021165",
+    "matchedTitle": "選ばれなかった王女は、手紙を残して消えることにした。（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1165/9784803021165_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T08:31:15.007Z"
+  },
   "erabaresugishi-mono": {
     "title": "選ばれすぎしもの!",
     "isbn": null,
@@ -13094,6 +13102,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T07:19:29.364Z"
   },
+  "kaijou-no-misutia": {
+    "title": "海上のミスティア",
+    "isbn": null,
+    "matchedTitle": "海上のミスティア　月の女神と永遠を謳う騎士",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6635/2000001856635.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:31.049Z"
+  },
   "kaiki-henshuubu-twilight": {
     "title": "怪奇編集部『トワイライト』",
     "isbn": "9784086801126",
@@ -13904,6 +13920,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T16:35:57.797Z"
   },
+  "kanojo-ni-naritai-kimi-to-boku": {
+    "title": "カノジョになりたい君と僕",
+    "isbn": null,
+    "matchedTitle": "カノジョになりたい君と僕（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7428/2000009927428.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:19.597Z"
+  },
   "kanojo-ni-shitai-joshi-ichii": {
     "title": "彼女にしたい女子一位、の隣で見つけたあまりちゃん",
     "isbn": "9784041149737",
@@ -14472,6 +14496,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T10:51:34.809Z"
   },
+  "kegare-o-haratte-mofumofu-to-shiawase-seikatsu": {
+    "title": "穢れを祓って、もふもふと幸せ生活",
+    "isbn": "9784803018707",
+    "matchedTitle": "穢れを祓って、もふもふと幸せ生活（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8707/9784803018707_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T08:31:24.204Z"
+  },
   "kegare-seija-no-eku-se-resuta": {
     "title": "穢れ聖者のエク・セ・レスタ",
     "isbn": null,
@@ -14617,6 +14649,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4810/9784040674810.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T16:35:47.513Z"
+  },
+  "kemona-yuusha-o-otoshitai": {
+    "title": "ケモナー勇者を落としたい!",
+    "isbn": null,
+    "matchedTitle": "ケモナー勇者を落としたい！　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3965/2000007713965.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:27.601Z"
   },
   "kemonogari": {
     "title": "ケモノガリ",
@@ -17496,6 +17536,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T14:23:25.317Z"
   },
+  "kurimuzon-enpaia-purizuna-obu-rabu": {
+    "title": "クリムゾン・エンパイア",
+    "isbn": null,
+    "matchedTitle": "クリムゾン・エンパイア 〜Circumstances to serve a noble〜（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0299/2000004390299.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:34.515Z"
+  },
   "kurisu-kurosu": {
     "title": "クリス・クロス 混沌の魔王",
     "isbn": null,
@@ -17535,6 +17583,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T15:29:21.713Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13844282/"
+  },
+  "kuroba-no-kuni-no-arisu-shirousagi-to-tokeijikak": {
+    "title": "クローバーの国のアリス",
+    "isbn": null,
+    "matchedTitle": "クローバーの国のアリス〜白ウサギと時計仕掛けの罠〜（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0254/2000004390254.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:37.976Z"
   },
   "kurobuta-ouji-wa-zense-o-omoidashite-kaishin-sur": {
     "title": "黒豚王子は前世を思いだして改心する",
@@ -17649,6 +17705,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7618/9784867167618_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T08:01:52.734Z"
+  },
+  "kurorekishi-daikessen": {
+    "title": "黒歴史大決戦",
+    "isbn": null,
+    "matchedTitle": "黒歴史大決戦　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6312/2000011556312.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T08:31:23.058Z"
   },
   "kurosaki-mayu-no-hitomi-ni-utsuru-utsukushii-sek": {
     "title": "黒崎麻由の瞳に映る美しい世界",
@@ -21060,6 +21124,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T04:05:36.834Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11760185/"
+  },
+  "oda-ke-no-akuyaku-reijou-konse-wa-nonbiri-sugosu": {
+    "title": "織田家の悪役令嬢",
+    "isbn": "9784803020939",
+    "matchedTitle": "織田家の悪役令嬢　〜今世はのんびり過ごすはずがなぜか『女孔明』と呼ばれてます〜　（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0939/9784803020939_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T08:31:16.151Z"
   },
   "oda-nobuna-no-yabou": {
     "title": "織田信奈の野望",
