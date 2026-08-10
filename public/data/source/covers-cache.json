@@ -613,6 +613,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:21:55.828Z"
   },
+  "akihabara-denpatou": {
+    "title": "アキハバラ∧デンパトウ",
+    "isbn": null,
+    "matchedTitle": "アキハバラ∧デンパトウ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3343/2000004703343.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:38:55.303Z"
+  },
   "akihabara-vanpaia-naito": {
     "title": "アキハバラヴァンパイアナイト",
     "isbn": null,
@@ -1966,6 +1974,14 @@
     "resolvedAt": "2026-08-01T08:40:27.373Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16029255/"
   },
+  "amudo-weika": {
+    "title": "アームドウェイカー",
+    "isbn": null,
+    "matchedTitle": "アームドウェイカー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7553/2000003537553.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:38:43.659Z"
+  },
   "amuneshia": {
     "title": "Amnesia",
     "isbn": null,
@@ -2145,6 +2161,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0644/9784049140644_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T11:06:28.880Z"
+  },
+  "anata-wa-akumu-no-sankasha-ni-erabaremashita": {
+    "title": "あなたは悪夢の参加者に選ばれました。",
+    "isbn": "9784815637316",
+    "matchedTitle": "あなたは悪夢の参加者に選ばれました。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7316/9784815637316_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:17.531Z"
   },
   "anatagata-no-moto-ni": {
     "title": "あなた方の元に戻るつもりはございません!",
@@ -2675,6 +2699,14 @@
     "resolvedAt": "2026-08-08T08:48:31.154Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17687340/"
   },
+  "ao-to-kaibane-no-antiku": {
+    "title": "蒼と壊羽の楽園少女(アンティーク)",
+    "isbn": null,
+    "matchedTitle": "蒼と壊羽の楽園少女（アンティーク）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3999/2000009603999.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:38:51.819Z"
+  },
   "ao-to-mushoku-no-sakurifaisu": {
     "title": "青と無色のサクリファイス",
     "isbn": null,
@@ -2773,6 +2805,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7736/2000001697736.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:31:02.769Z"
+  },
+  "aozora-no-moto-michi-wa-wakare": {
+    "title": "青空のもと道は別れ",
+    "isbn": null,
+    "matchedTitle": "迷宮街クロニクル４　青空のもと　道は別れ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7128/2000007577128.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:38:47.146Z"
   },
   "aozora-shigure": {
     "title": "蒼空時雨",
@@ -3207,6 +3247,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:31:14.469Z"
   },
+  "asa-ga-kuru-made-yoru-wa-matsu": {
+    "title": "朝が来るまで夜は待つ",
+    "isbn": "9784815626419",
+    "matchedTitle": "朝が来るまで夜は待つ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6419/9784815626419_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:38:56.477Z"
+  },
   "asa-okitara-danjon-ga-shutsugen-shite-ita-nichij": {
     "title": "朝起きたらダンジョンが出現していた日常について",
     "isbn": "9784086313100",
@@ -3322,6 +3370,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:31:27.939Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17133880/"
+  },
+  "ashita-o-honno-sukoshi": {
+    "title": "明日をほんの少し",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-10T20:39:15.115Z"
+  },
+  "ashiya-yamanote-odougu-geihinkan-komikku": {
+    "title": "芦屋山手お道具迎賓館",
+    "isbn": "9784473045270",
+    "matchedTitle": "芦屋山手　お道具迎賓館",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5270/9784473045270_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:16.385Z"
   },
   "asobi-ni-iku-yo": {
     "title": "あそびにいくヨ!",
@@ -7197,6 +7259,14 @@
     "resolvedAt": "2026-08-07T10:21:10.603Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16197938/"
   },
+  "erufu-no-watanabe": {
+    "title": "エルフの渡辺",
+    "isbn": "9784049159110",
+    "matchedTitle": "エルフの渡辺",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9110/9784049159110_1_29.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:32.851Z"
+  },
   "erufu-to-sensha-to-boku-no-mainichi": {
     "title": "エルフと戦車と僕の毎日",
     "isbn": null,
@@ -7282,6 +7352,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1813/9784047351813_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T09:44:09.996Z"
+  },
+  "etanaru-howaito": {
+    "title": "エターナル・ホワイト",
+    "isbn": null,
+    "matchedTitle": "神曲奏界ポリフォニカ　エターナル・ホワイト　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2124/2000000232124.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:39:31.681Z"
   },
   "eteru-gia": {
     "title": "エーテル//ギア",
@@ -11904,6 +11982,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:40:43.055Z"
   },
+  "inori-no-kuni-no-ririeru": {
+    "title": "祈りの国のリリエール",
+    "isbn": "9784815610685",
+    "matchedTitle": "祈りの国のリリエール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0685/9784815610685_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:23.305Z"
+  },
   "inou-apiru-shinai-hou-ga-kawaii-kanojotachi": {
     "title": "異能アピールしないほうがカワイイ彼女たち",
     "isbn": "9784049156928",
@@ -13623,6 +13709,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T08:20:10.494Z"
   },
+  "isekai-tenisu-musou-tenisu-pureiya-toka-iu-nazo": {
+    "title": "異世界テニス無双",
+    "isbn": null,
+    "matchedTitle": "異世界テニス無双　テニスプレイヤーとかいう謎の男がちょっと強すぎるんですけど！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9992/2000005859992.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:39:20.999Z"
+  },
   "isekai-tensei-de-kenja-ni-natte-boukensha-seikat": {
     "title": "異世界転生で賢者になって冒険者生活",
     "isbn": "9784815602949",
@@ -13663,6 +13757,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3651/9784824013651_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T06:22:28.674Z"
+  },
+  "isekai-tensei-shita-motokyoushi-rinji-kyoushi-to": {
+    "title": "異世界転生した元教師、【臨時教師】として崩壊した魔術学園を救う。",
+    "isbn": "9784815634346",
+    "matchedTitle": "異世界転生した元教師、【臨時教師】として崩壊した魔術学園を救う。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4346/9784815634346_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:22.156Z"
   },
   "isekai-tensei-shitara-aiken-besu-no-hou-ga-tsuyo": {
     "title": "異世界転生したら愛犬ベスのほうが強かったんだが",
@@ -15195,6 +15297,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T12:53:36.793Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12379386/"
+  },
+  "kachikomi-kaketara-isekai-deshita-saikyou-yuusha": {
+    "title": "カチコミかけたら異世界でした",
+    "isbn": null,
+    "matchedTitle": "カチコミかけたら異世界でした　〜最強勇者パーティは任侠一家！？〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5972/2000005325972.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:39:59.419Z"
   },
   "kaeri-no-kai-de-itte-yaru-hyuman-era-in-emoshonz": {
     "title": "還りの会で言ってやる",
@@ -25627,6 +25737,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T08:31:16.151Z"
   },
+  "oda-nobuna-no-gakuen": {
+    "title": "織田信奈の学園",
+    "isbn": "9784040738857",
+    "matchedTitle": "織田信奈の学園",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8857/9784040738857_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:54.816Z"
+  },
   "oda-nobuna-no-yabou": {
     "title": "織田信奈の野望",
     "isbn": "9784040707051",
@@ -25759,6 +25877,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T04:21:59.192Z"
   },
+  "oiroke-tantou-no-ane-to-higoyoku-tantou-no-imout": {
+    "title": "お色気担当の姉と、庇護欲担当の妹に挟まれた私",
+    "isbn": "9784815613556",
+    "matchedTitle": "お色気担当の姉と、庇護欲担当の妹に挟まれた私",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3556/9784815613556_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:34.019Z"
+  },
   "oishii-kyuushoku": {
     "title": "おいしい給食",
     "isbn": "9784122068193",
@@ -25834,6 +25960,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4121/9784041144121_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T12:33:41.849Z"
+  },
+  "ojousama-zunousen-ojousama-wa-zunou-gemu-no-kanz": {
+    "title": "お嬢様頭脳戦",
+    "isbn": "9784815633158",
+    "matchedTitle": "お嬢様頭脳戦〜お嬢様は頭脳ゲームの完全勝利をご所望です〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3158/9784815633158_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:38.582Z"
   },
   "ojousan-no-keiyaku-kareshi": {
     "title": "お嬢さんの契約カレシ。",
@@ -26084,6 +26218,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0587/9784040710587.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T18:05:20.218Z"
+  },
+  "omaera-doredake-ore-no-koto-suki-dattandayo": {
+    "title": "お前らどれだけ俺のこと好きだったんだよ!",
+    "isbn": "9784815604493",
+    "matchedTitle": "お前らどれだけ俺のこと好きだったんだよ！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4493/9784815604493.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:55.978Z"
   },
   "omaera-hayaku-kekkon-shiro": {
     "title": "お前ら早く結婚しろよっ!",
@@ -28347,6 +28489,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7446/9784040747446_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:21:57.631Z"
+  },
+  "ougon-no-kuni-erudorado": {
+    "title": "黄金の国エルドラド",
+    "isbn": null,
+    "matchedTitle": "黄金の国エルドラド　摩訶不思議ネコ　ムスビ（９）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5090/2000003245090.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:39:37.445Z"
   },
   "ouhi-beruta-no-shouzou": {
     "title": "王妃ベルタの肖像",
@@ -37217,6 +37367,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-10T14:19:21.680Z"
   },
+  "ukkari-dorobou-ni-natta-kedo-kage-no-usui-wataku": {
+    "title": "うっかりドロボウになったけど影の薄い私には天職でした",
+    "isbn": "9784815638122",
+    "matchedTitle": "うっかりドロボウになったけど影の薄い私には天職でした",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8122/9784815638122_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T20:39:24.452Z"
+  },
   "ultimate-antihero": {
     "title": "アルティメット・アンチヒーロー",
     "isbn": null,
@@ -37297,6 +37455,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6874/2000006286874.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-08T06:49:42.096Z"
+  },
+  "umibe-no-rabirinsu": {
+    "title": "海辺のラビリンス",
+    "isbn": null,
+    "matchedTitle": "海辺のラビリンス　摩訶不思議ネコ　ムスビ（４）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5088/2000003245088.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T20:39:27.900Z"
   },
   "umidori-tougetsu-no-detarame-na-jijou": {
     "title": "海鳥東月の『でたらめ』な事情",
