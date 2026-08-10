@@ -1686,6 +1686,14 @@
     "resolvedAt": "2026-08-01T08:40:27.373Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16029255/"
   },
+  "amuneshia": {
+    "title": "Amnesia",
+    "isbn": null,
+    "matchedTitle": "小説　AMNESIA TOMA Ver.",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7065/2000002217065.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:36:55.075Z"
+  },
   "amuneshia-reita": {
     "title": "アムネシアレイター",
     "isbn": null,
@@ -5312,6 +5320,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2802/9784074472802.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T18:14:00.788Z"
+  },
+  "din-no-monshou-mahoushi-rejisu-no-tenseitan": {
+    "title": "ディンの紋章",
+    "isbn": "9784040669250",
+    "matchedTitle": "ディンの紋章　〜魔法師レジスの転生譚〜　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9250/9784040669250.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:05.450Z"
   },
   "dirty-pair": {
     "title": "ダーティペア",
@@ -13728,6 +13744,14 @@
     "resolvedAt": "2026-08-07T10:25:32.033Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16646514/"
   },
+  "kaizen-isekai-konsaru-funtouki": {
+    "title": "かいぜん!",
+    "isbn": "9784864724326",
+    "matchedTitle": "かいぜん！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4326/9784864724326.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:22.669Z"
+  },
   "kaji-daikou-no-arbeit": {
     "title": "家事代行のアルバイトを始めたら学園一の美少女の家族に気に入られちゃいました。",
     "isbn": "9784815624125",
@@ -14748,6 +14772,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6381/9784824206381_1_7.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T11:44:58.759Z"
+  },
+  "kanzukasa": {
+    "title": "かんづかさ",
+    "isbn": null,
+    "matchedTitle": "かんづかさ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5781/2000001805781.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:36:58.542Z"
   },
   "kao-ga-miwakerarenai-hakushaku-reijou-desuga-aku": {
     "title": "顔が見分けられない伯爵令嬢ですが、悪人公爵様に溺愛されています",
@@ -17997,6 +18029,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T07:47:44.753Z"
   },
+  "kuishinbou-erufu": {
+    "title": "食いしん坊エルフ",
+    "isbn": "9784864724548",
+    "matchedTitle": "食いしん坊エルフ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4548/9784864724548.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:19.185Z"
+  },
   "kujibiki-tokushou-musou-harem-ken": {
     "title": "くじ引き特賞:無双ハーレム権",
     "isbn": "9784797388558",
@@ -19418,6 +19458,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T10:06:56.821Z"
   },
+  "madou-kijin-arumyunare": {
+    "title": "魔導機人アルミュナーレ",
+    "isbn": null,
+    "matchedTitle": "魔導機人アルミュナーレ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6601/2000004256601.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:37:16.921Z"
+  },
   "madou-saikushi-nomi-no-isekai-craft-seikatsu": {
     "title": "魔導細工師ノーミィの異世界クラフト生活～前世知識とチートなアイテムで、魔王城をどんどん快適にします！～",
     "isbn": "9784040751474",
@@ -19575,6 +19623,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2029/2000006512029.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:49:45.391Z"
+  },
+  "mahou-sonna-koto-yori-kinniku-da": {
+    "title": "魔法?そんなことより筋肉だ!",
+    "isbn": "9784040695976",
+    "matchedTitle": "魔法？　そんなことより筋肉だ！　3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5976/9784040695976_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:18.075Z"
   },
   "mahou-ya-inou-ga-sonzai-suru-sekai-no-mobu-no-ha": {
     "title": "魔法や異能が存在する世界のモブのはずが、裏では黒幕扱いされていた話",
@@ -21541,6 +21597,14 @@
     "resolvedAt": "2026-08-01T21:18:46.286Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12380598/"
   },
+  "netooku-otoko-no-tanoshii-isekai-boueki": {
+    "title": "ネトオク男の楽しい異世界貿易",
+    "isbn": null,
+    "matchedTitle": "ネトオク男の楽しい異世界貿易 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8049/2000016968049.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:37:03.157Z"
+  },
   "netto-no-oshi-to-riaru-no-oshi-ga-tonari-ni-hikk": {
     "title": "ネットの『推し』とリアルの『推し』が隣に引っ越してきた",
     "isbn": "9784824004369",
@@ -23255,6 +23319,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:25:47.478Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16875620/"
+  },
+  "ore-no-petto-wa-seijosama": {
+    "title": "俺のペットは聖女さま",
+    "isbn": "9784864724319",
+    "matchedTitle": "俺のペットは聖女さま",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4319/9784864724319.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:20.356Z"
   },
   "ore-no-riaru-to-netoge-ga-rabukome-ni-shinshokus": {
     "title": "俺のリアルとネトゲがラブコメに侵蝕され始めてヤバイ",
@@ -25086,6 +25158,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1820/2000000141820.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-01T21:17:34.979Z"
+  },
+  "raiotto-gurasupa-isekai-de-sukiru-tottemasu": {
+    "title": "ライオットグラスパー",
+    "isbn": "9784040671796",
+    "matchedTitle": "ライオットグラスパー　〜異世界でスキル盗ってます〜　3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1796/9784040671796.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:04.297Z"
   },
   "raitei-no-kiseki-ore-dake-tsukaeru-kaminarimajut": {
     "title": "雷帝の軌跡",
@@ -27447,6 +27527,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-08T08:48:19.666Z"
   },
+  "sekaiju-no-ue-ni-mura-o-tsukutte-mimasenka": {
+    "title": "世界樹の上に村を作ってみませんか",
+    "isbn": "9784040690858",
+    "matchedTitle": "世界樹の上に村を作ってみませんか　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0858/9784040690858.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:37:13.493Z"
+  },
   "sekaijuu-kara-horobi-no-kenja-to-osorerareta-ked": {
     "title": "世界中から滅びの賢者と恐れられたけど、4000年後、いじめられっ子に恋をする",
     "isbn": "9784391153989",
@@ -27502,6 +27590,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8079/9784040738079_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T22:10:54.023Z"
+  },
+  "sendai-yuusha-wa-inkyo-shitai": {
+    "title": "先代勇者は隠居したい",
+    "isbn": null,
+    "matchedTitle": "先代勇者は隠居したい 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8342/2000015578342.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:37:12.342Z"
   },
   "sengoku-komachi-kuroutan": {
     "title": "戦国小町苦労譚",
@@ -31998,6 +32094,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:20:34.176Z"
   },
+  "tsumikake-tenshou-ryoushu-no-kaikaku": {
+    "title": "詰みかけ転生領主の改革",
+    "isbn": "9784040671826",
+    "matchedTitle": "詰みかけ転生領主の改革　4",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1826/9784040671826.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:36:59.698Z"
+  },
   "tsun-na-megamisama-to-darenimo-ienai-himitsu-no": {
     "title": "ツンな女神さまと、誰にも言えない秘密の関係。",
     "isbn": "9784086315432",
@@ -33158,6 +33262,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3263/2000006803263.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T21:27:23.670Z"
+  },
+  "yaruki-nashi-eiyuutan": {
+    "title": "やる気なし英雄譚",
+    "isbn": null,
+    "matchedTitle": "やる気なし英雄譚 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7210/2000002157210.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:37:08.896Z"
   },
   "yasagure-shitsuji-vtuber-to-negative-ponkotsu-reijou-vtuber": {
     "title": "やさぐれ執事Vtuberとネガティブポンコツ令嬢Vtuberの虚実混在な配信生活",
