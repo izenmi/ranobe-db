@@ -3167,6 +3167,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T07:22:52.165Z"
   },
+  "bara-no-maria": {
+    "title": "薔薇のマリア",
+    "isbn": null,
+    "matchedTitle": "薔薇のマリア　鳥人ROCK",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7422/2000000247422.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T07:50:43.624Z"
+  },
   "baretto-kodo-faiaworu": {
     "title": "バレットコード: ファイアウォール",
     "isbn": "9784049133134",
@@ -23826,6 +23834,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2344/2000000102344.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T00:49:35.675Z"
+  },
+  "renzu-to-akuma": {
+    "title": "レンズと悪魔",
+    "isbn": null,
+    "matchedTitle": "レンズと悪魔",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8511/2000000108511.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T07:50:47.108Z"
   },
   "repeat-vice-akuyaku-kizoku-wa-shinitakunai": {
     "title": "リピート・ヴァイス〜悪役貴族は死にたくないので四天王になるのをやめました〜",
