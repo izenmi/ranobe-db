@@ -4027,6 +4027,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:48:00.028Z"
   },
+  "bukku-maku": {
+    "title": "ブック×マーク!",
+    "isbn": null,
+    "matchedTitle": "ブック×マーク！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5572/2000004385572.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:48.774Z"
+  },
   "bungaku-shoujo": {
     "title": "「文学少女」シリーズ",
     "isbn": null,
@@ -4092,6 +4100,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7788/9784865547788.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T16:45:44.833Z"
+  },
+  "burin-kurosurodo": {
+    "title": "武林クロスロード",
+    "isbn": null,
+    "matchedTitle": "武林クロスロード",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3911/2000000143911.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:19.211Z"
   },
   "buta-no-reba-wa-kanetsushiro": {
     "title": "豚のレバーは加熱しろ",
@@ -5339,6 +5355,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3571/2000005713571.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T09:53:42.192Z"
+  },
+  "doragon-raizu-soukenshi-to-ryuu-no-uso": {
+    "title": "ドラゴンライズ",
+    "isbn": null,
+    "matchedTitle": "ドラゴンライズ　双剣士と竜の嘘",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1032/2000000131032.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:15.748Z"
   },
   "doragonsama-no-meshitsukai-ryuutsukai-o-intai-sh": {
     "title": "ドラゴン様の召使、竜使いを引退してギルドマスターになる。",
@@ -7110,6 +7134,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6870/2000002596870.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T06:40:34.781Z"
+  },
+  "gekkou-no-karunevare-hakugin-no-kariatido": {
+    "title": "月光のカルネヴァーレ",
+    "isbn": null,
+    "matchedTitle": "月光のカルネヴァーレ　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4100/2000006244100.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:30.273Z"
   },
   "gekkou-senki-arieru-niji-no-hitomi-o-motsu-oujo": {
     "title": "月虹戦記アリエル",
@@ -9045,6 +9077,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T14:23:28.784Z"
   },
+  "hiru-mo-yoru-mo-ryoute-ni-akujo": {
+    "title": "昼も夜も、両手に悪女",
+    "isbn": null,
+    "matchedTitle": "昼も夜も、両手に悪女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0077/2000000260077.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:45.243Z"
+  },
   "hisshou-dungeon-unei-houhou": {
     "title": "必勝ダンジョン運営方法",
     "isbn": "9784575750423",
@@ -10012,6 +10052,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:25:30.855Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18378183/"
+  },
+  "imeiza-no-bijutsu": {
+    "title": "イメイザーの美術",
+    "isbn": null,
+    "matchedTitle": "イメイザーの美術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2144/2000004102144.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:26.830Z"
   },
   "imiko-to-yobareta-shoukanshi": {
     "title": "忌み子と呼ばれた召喚士",
@@ -12867,6 +12915,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2134/2000004752134.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-10T09:44:45.341Z"
+  },
+  "jikan-shounin-furou-fushi-urimasu": {
+    "title": "時間商人",
+    "isbn": null,
+    "matchedTitle": "時間商人　不老不死、売ります",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4507/2000000234507.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:08.841Z"
   },
   "jikka-ni-kaettara-amayakasare-seikatsu-ga-hajima": {
     "title": "実家に帰ったら甘やかされ生活が始まりました",
@@ -19365,6 +19421,14 @@
     "resolvedAt": "2026-08-04T10:01:13.320Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12505922/"
   },
+  "magariya-san-no-ea-kareshi": {
+    "title": "曲矢さんのエア彼氏",
+    "isbn": null,
+    "matchedTitle": "曲矢さんのエア彼氏　木村くんのエア彼女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1383/2000004731383.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:52.219Z"
+  },
   "magical-death-game": {
     "title": "マジカル†デスゲーム",
     "isbn": null,
@@ -19679,6 +19743,14 @@
     "resolvedAt": "2026-08-04T10:01:15.612Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17457117/"
   },
+  "majo-wa-sekai-ni-kirawareru": {
+    "title": "魔女は世界に嫌われる",
+    "isbn": null,
+    "matchedTitle": "魔女は世界に嫌われる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5611/2000000155611.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:55.673Z"
+  },
   "majutsu-otaku-no-mahou-kakumei": {
     "title": "魔術オタクの魔法革命",
     "isbn": "9784824206107",
@@ -19893,6 +19965,14 @@
     "resolvedAt": "2026-08-01T08:40:48.632Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16543788/"
   },
+  "maou-ga-yachin-o-harattekurenai": {
+    "title": "魔王が家賃を払ってくれない",
+    "isbn": null,
+    "matchedTitle": "魔王が家賃を払ってくれない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7701/2000000157701.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:21:58.502Z"
+  },
   "maou-gakkou-ni-ore-dake-yuusha": {
     "title": "魔王学校に俺だけ勇者!?",
     "isbn": null,
@@ -20025,6 +20105,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9876/2000005099876.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T00:49:19.478Z"
+  },
+  "maouppoino": {
+    "title": "魔王っぽいの!",
+    "isbn": null,
+    "matchedTitle": "魔王っぽいの！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3214/2000000153214.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:23.374Z"
   },
   "maousama-wa-kaifuku-majutsu-o-kiwametai-sono-sei": {
     "title": "魔王様は回復魔術を極めたい",
@@ -21659,6 +21747,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1973/9784046821973_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T17:47:44.714Z"
+  },
+  "nou-r-gyuru-fukafuka-heddo-to-shoujo-gigoku": {
+    "title": "脳Rギュル",
+    "isbn": null,
+    "matchedTitle": "脳Rギュル　ふかふかヘッドと少女ギゴク",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3022/2000004863022.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:41.796Z"
   },
   "noukin-seijo-wa-subete-o-butsuri-de-kaiketsu-sur": {
     "title": "脳筋聖女は、すべてを物理で解決する。",
@@ -27271,6 +27367,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T22:10:36.749Z"
   },
+  "sekuken": {
+    "title": "セク研!",
+    "isbn": "9784094512717",
+    "matchedTitle": "セク研！（3）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2717/9784094512717.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T10:22:34.858Z"
+  },
   "sekusharu-hanta-raiotto": {
     "title": "セクシャル・ハンター・ライオット",
     "isbn": null,
@@ -27955,6 +28059,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8140/2000001878140.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-09T17:03:45.662Z"
+  },
+  "shinkou-shuukyou-omoidekyou-gaiden": {
+    "title": "新興宗教オモイデ教外伝",
+    "isbn": null,
+    "matchedTitle": "新興宗教オモイデ教　外伝3　〜夜考物語　壊真の火〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3112/2000004863112.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:33.708Z"
   },
   "shinkyoku-soukai-polyphonica": {
     "title": "神曲奏界ポリフォニカ",
@@ -30139,6 +30251,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T13:05:23.330Z"
   },
+  "tengen-toppa-gurenragan": {
+    "title": "天元突破グレンラガン",
+    "isbn": null,
+    "matchedTitle": "天元突破グレンラガン(1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5308/2000000195308.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:12.283Z"
+  },
   "tengoku-ni-namida-wa-iranai": {
     "title": "天国に涙はいらない",
     "isbn": null,
@@ -31011,6 +31131,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-01T08:40:29.775Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14666886/"
+  },
+  "tobenai-chou-to-sora-no-shachi-tayutau-shima-no": {
+    "title": "飛べない蝶と空の鯱",
+    "isbn": null,
+    "matchedTitle": "飛べない蝶と空の鯱　〜たゆたう島の郵便箱〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5802/2000000155802.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:01.946Z"
   },
   "tobira-no-soto": {
     "title": "扉の外",
@@ -33471,6 +33599,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:44:42.472Z"
   },
+  "yuuutsu-na-viranzu": {
+    "title": "憂鬱なヴィランズ",
+    "isbn": null,
+    "matchedTitle": "憂鬱なヴィランズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7225/2000000127225.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:05.384Z"
+  },
   "za-change": {
     "title": "ざ・ちぇんじ!",
     "isbn": "9784592882107",
@@ -33712,6 +33848,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3637/2000021293637.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-08T06:49:28.195Z"
+  },
+  "zettai-joou-nyasama": {
+    "title": "絶対女王にゃー様",
+    "isbn": null,
+    "matchedTitle": "絶対女王にゃー様",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5362/2000003395362.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T10:22:38.335Z"
   },
   "zettai-kaihi-no-furagu-bureika": {
     "title": "絶対回避のフラグブレイカー",
