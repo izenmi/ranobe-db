@@ -117,6 +117,14 @@
     "resolvedAt": "2026-08-01T04:54:43.559Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6088271/"
   },
+  "adabana-to-gurando-feiku-choujou-jiken-houkokush": {
+    "title": "仇花とグランドフェイク",
+    "isbn": "9784049144130",
+    "matchedTitle": "仇花とグランドフェイク 超常事件報告書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4130/9784049144130_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:33.581Z"
+  },
   "adachi-to-shimamura": {
     "title": "安達としまむら",
     "isbn": "9784048914215",
@@ -159,6 +167,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T14:53:04.321Z"
   },
+  "afuta-raifu-resutoran": {
+    "title": "アフターライフレストラン",
+    "isbn": null,
+    "matchedTitle": "アフターライフレストラン　ーお客さまは幽霊ですー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5065/2000004145065.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:51.300Z"
+  },
   "afutanun-ti": {
     "title": "アフタヌーンティー",
     "isbn": "9784434191527",
@@ -192,6 +208,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:31:04.618Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18485912/"
+  },
+  "ai-ni-korosareta-bokutachi-wa": {
+    "title": "愛に殺された僕たちは",
+    "isbn": "9784049134629",
+    "matchedTitle": "愛に殺された僕たちは",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4629/9784049134629_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:10.790Z"
+  },
+  "ai-ni-maketa-natsu": {
+    "title": "AIに負けた夏",
+    "isbn": null,
+    "matchedTitle": "AIに負けた夏",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2360/2000005402360.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:14.855Z"
   },
   "ai-o-shiranai-suterare-jk": {
     "title": "愛を知らない捨てられJKを全力で甘やかしたら俺まで幸せにされた件",
@@ -240,6 +272,22 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-09T03:35:30.904Z"
+  },
+  "aidoru-kagyou-hajimemashita": {
+    "title": "アイドル稼業、はじめました!",
+    "isbn": "9784048928236",
+    "matchedTitle": "アイドル稼業、はじめました！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8236/9784048928236_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:06.106Z"
+  },
+  "aidoru-to-maketingu-no-fopi": {
+    "title": "アイドルとマーケティングの4P",
+    "isbn": null,
+    "matchedTitle": "アイドルとマーケティングの4P",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6393/2000003716393.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:09.618Z"
   },
   "aii-imajinari-efekuto": {
     "title": "IEイマジナリーエフェクト",
@@ -412,6 +460,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T09:31:23.037Z"
   },
+  "akatsuki-koudou-maseki-kitan": {
+    "title": "あかつき講堂魔石奇譚",
+    "isbn": null,
+    "matchedTitle": "φの方石2　ーあかつき講堂魔石奇譚ー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0245/2000003900245.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:20.142Z"
+  },
   "ake-no-sora-no-kafuka": {
     "title": "明けの空のカフカ",
     "isbn": "9784049162639",
@@ -436,6 +492,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4391/9784087444391_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T15:47:06.201Z"
+  },
+  "akenai-yoru-no-furagumentsu-ano-hi-ienakatta-say": {
+    "title": "明けない夜のフラグメンツ",
+    "isbn": "9784049132243",
+    "matchedTitle": "明けない夜のフラグメンツ あの日言えなかったさよならを、君に",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2243/9784049132243_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:23.658Z"
   },
   "akihabara-danjon-bouken-kitan": {
     "title": "秋葉原ダンジョン冒険奇譚",
@@ -476,6 +540,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5254/9784824205254_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T14:43:27.477Z"
+  },
+  "akiyamano-kaname-wa-aisarete-iru": {
+    "title": "秋山野要は愛されている。",
+    "isbn": "9784049125658",
+    "matchedTitle": "秋山野要は愛されている。",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5658/9784049125658_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:21.316Z"
   },
   "akki-no-koukyuu-kaen": {
     "title": "悪姫の後宮華演",
@@ -607,6 +679,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5296/9784086315296_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T04:00:28.789Z"
+  },
+  "akujo-koushu-no-hakarigoto-boukoku-no-hime-ryuu": {
+    "title": "悪女公主のはかりごと",
+    "isbn": "9784049164466",
+    "matchedTitle": "悪女公主のはかりごと -亡国の姫、龍の巫となりて玉座を奪うー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4466/9784049164466_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:22.484Z"
   },
   "akujo-magunoria-wa-gyakkou-shi-jinsei-o-yarinaos": {
     "title": "悪女マグノリアは逆行し、人生をやり直す",
@@ -1634,6 +1714,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T08:54:23.945Z"
   },
+  "amatou-danshi-wa-amakunai-otonarisan-tono-okashi": {
+    "title": "甘党男子はあまくない",
+    "isbn": "9784049153002",
+    "matchedTitle": "甘党男子はあまくない 〜おとなりさんとのおかしな関係〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3002/9784049153002_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:52.474Z"
+  },
   "amatou-nanase-amaruri-ni-fugoukaku-kigan": {
     "title": "あまとう!",
     "isbn": null,
@@ -1674,6 +1762,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T14:38:14.095Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18618268/"
+  },
+  "ameagari-no-insatsujo": {
+    "title": "雨あがりの印刷所",
+    "isbn": null,
+    "matchedTitle": "雨あがりの印刷所",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5020/2000005355020.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:55.978Z"
   },
   "ameku-takao-no-suiri-karte": {
     "title": "天久鷹央の推理カルテ",
@@ -1734,6 +1830,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-10T09:44:06.375Z"
   },
+  "anata-ga-nemuru-made-no-monogatari": {
+    "title": "あなたが眠るまでの物語",
+    "isbn": "9784049152357",
+    "matchedTitle": "あなたが眠るまでの物語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2357/9784049152357_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:34.754Z"
+  },
   "anata-ga-watashi-o-suki-ni-naru-jishin-wa-arimas": {
     "title": "貴方がわたしを好きになる自信はありませんが、わたしが貴方を好きになる自信はあります",
     "isbn": "9784086312349",
@@ -1768,6 +1872,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T10:35:10.149Z"
   },
+  "anata-no-koi-yarinaoshimasu-enoshima-renai-renta": {
+    "title": "あなたの恋、やり直します。江ノ島恋愛レンタル店",
+    "isbn": null,
+    "matchedTitle": "あなたの恋、やり直します。江ノ島恋愛レンタル店",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8084/2000007078084.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:41.848Z"
+  },
   "anata-no-koto-ga-suki-na": {
     "title": "あなたの事が好きなわたしを推してくれますか?",
     "isbn": "9784040750149",
@@ -1793,6 +1905,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T14:23:35.734Z"
   },
+  "anata-no-omoide-naoshimasu-saishou-omocha-kurini": {
+    "title": "あなたの思い出、なおします。",
+    "isbn": null,
+    "matchedTitle": "あなたの思い出、なおします。　〜宰相おもちゃクリニック〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3699/2000007313699.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:38.297Z"
+  },
   "anata-no-oshiro-no-kobitosan-gohan-kudasai-hatar": {
     "title": "あなたのお城の小人さん",
     "isbn": "9784757578722",
@@ -1800,6 +1920,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8722/9784757578722_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-09T15:03:04.679Z"
+  },
+  "anata-no-tame-ni-neko-wa-yuku": {
+    "title": "あなたのために、ネコはゆく",
+    "isbn": null,
+    "matchedTitle": "あなたのために、ネコはゆく",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4637/2000003494637.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:45.395Z"
   },
   "anata-o-akiramekirenai": {
     "title": "あなたを諦めきれない元許嫁じゃダメですか?",
@@ -2022,6 +2150,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T07:32:32.934Z"
   },
+  "ano-hi-no-kimi-ni-koi-o-shita-soshite": {
+    "title": "あの日の君に恋をした、そして",
+    "isbn": "9784049124828",
+    "matchedTitle": "あの日の君に恋をした、そして",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4828/9784049124828_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:46.586Z"
+  },
   "ano-hi-no-koi-x3": {
     "title": "あの日の恋〈×3〉が終わってくれない!",
     "isbn": "9784824012463",
@@ -2090,6 +2226,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:19:13.290Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18281819/"
+  },
+  "anohi-mita-ryuusei-kimi-to-shinu-tame-no-negai": {
+    "title": "あの日見た流星、君と死ぬための願い",
+    "isbn": "9784049152333",
+    "matchedTitle": "あの日見た流星、君と死ぬための願い",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2333/9784049152333_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:47.780Z"
   },
   "anohi-tasuketa-osanai-kyoudai-ga-dotou-no-ikioi": {
     "title": "あの日助けた幼い兄妹が、怒濤の勢いで恩返ししてきます",
@@ -2284,6 +2428,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:18:51.040Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17277312/"
+  },
+  "aoharu-pointo": {
+    "title": "アオハル・ポイント",
+    "isbn": "9784049120370",
+    "matchedTitle": "アオハル・ポイント",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0370/9784049120370_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:16.622Z"
   },
   "aoi-haru-no-subete": {
     "title": "アオイハルノスベテ",
@@ -2687,6 +2839,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-09T05:31:14.469Z"
   },
+  "asahidou-odameido-seihon-koubou": {
+    "title": "朝日堂オーダーメイド製本工房",
+    "isbn": null,
+    "matchedTitle": "朝日堂オーダーメイド製本工房",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8671/2000009418671.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:27.188Z"
+  },
   "asahina-san-no-bentou-tabetai": {
     "title": "朝比奈さんの弁当食べたい",
     "isbn": "9784798628653",
@@ -2745,6 +2905,14 @@
     "resolvedAt": "2026-08-07T10:18:56.858Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17242167/"
   },
+  "ashita-kara-honki-dasu-hitotachi": {
+    "title": "明日から本気出す人たち",
+    "isbn": null,
+    "matchedTitle": "明日から本気出す人たち",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6745/2000005406745.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-10T11:31:30.703Z"
+  },
   "ashita-kekkonshiki-nan-desu-kedo": {
     "title": "明日、結婚式なんですけど!?",
     "isbn": "9784866574677",
@@ -2753,6 +2921,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T10:31:29.112Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16883071/"
+  },
+  "ashita-mo-kanojo-wa-koi-o-suru": {
+    "title": "明日も彼女は恋をする",
+    "isbn": "9784048709705",
+    "matchedTitle": "明日も彼女は恋をする",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9705/9784048709705_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-10T11:31:32.409Z"
   },
   "ashita-no-zainin-to-mujintou": {
     "title": "明日の罪人と無人島の教室",
