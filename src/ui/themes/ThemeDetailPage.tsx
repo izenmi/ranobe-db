@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useParams, useSearchParams } from "react-router-dom";
-import { getTheme } from "../../data/manifest";
+import { getTheme, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
@@ -38,6 +38,15 @@ export function ThemeDetailPage() {
   const { coverView, toggle } = useCoverView();
   const theme = state.status === "ready" ? state.data : undefined;
 
+  // 作品の実データは works.json 側にあるので id から引き直す(テーマに埋め込むと themes.json が
+  // 24MBになり、テーマ名を出すだけのページまで巻き添えになる)。取得済みならキャッシュから返る。
+  const worksState = useAsyncData(getWorks, []);
+  const themeWorks = useMemo(() => {
+    if (!theme || worksState.status !== "ready") return undefined;
+    const byId = new Map(worksState.data.map((w) => [w.id, w]));
+    return theme.workIds.map((wid) => byId.get(wid)).filter((w) => w !== undefined);
+  }, [theme, worksState]);
+
   useSeo({
     title: theme?.name,
     description: theme
@@ -62,14 +71,14 @@ export function ThemeDetailPage() {
   const sort = params.get("sort") ?? "year-desc";
 
   const themeOptions = useMemo(
-    () => themeOptionsOf(state.status === "ready" ? state.data?.works : undefined, id),
-    [state, id],
+    () => themeOptionsOf(themeWorks, id),
+    [themeWorks, id],
   );
 
   const filtered = useMemo(() => {
-    if (state.status !== "ready" || !state.data) return [];
+    if (!themeWorks) return [];
     const keyword = q.trim().toLowerCase();
-    return state.data.works.filter((w) => {
+    return themeWorks.filter((w) => {
       if (!matchesKeyword(w, keyword)) return false;
       if (otherTheme && !w.themeIds.includes(otherTheme)) return false;
       if (status && w.status !== status) return false;
@@ -80,7 +89,7 @@ export function ThemeDetailPage() {
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       return true;
     });
-  }, [state, q, otherTheme, status, webNovel, mediaMix]);
+  }, [themeWorks, q, otherTheme, status, webNovel, mediaMix]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);

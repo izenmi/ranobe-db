@@ -146,7 +146,10 @@ function relatedIdsFor(work) {
 const relatedByWorkId = new Map(works.map((w) => [w.id, relatedIdsFor(w)]));
 
 // ---- generated/works.json ----
-const worksGenerated = works.map((w) => ({
+// あらすじ・出典メモ・updatedAt はここに入れない。作品詳細ページでしか使わないのに
+// works.json の3分の1(生9.1MBのうち3.3MB)を占めていて、一覧・トップ・各エンティティページまで
+// 巻き添えで払っていた。詳細ページ用は work-texts.json に分ける(2026-08-12)。
+const worksGenerated = works.map(({ synopsis, sourceNote, updatedAt, ...w }) => ({
   ...w,
   relatedWorkIds: relatedByWorkId.get(w.id),
   authorNames: w.authorIds.map((id) => authorsById.get(id).name),
@@ -166,18 +169,15 @@ const worksGenerated = works.map((w) => ({
   rakutenItemUrl: coversCache[w.id]?.rakutenItemUrl ?? undefined,
 }));
 
-// Cross-reference lists (author/illustrator/publisher/theme pages) embed the full
-// denormalized work — same shape as generated/works.json — so those pages can render a full
-// WorkCard (cover, publisher, awards, theme tags) instead of just a bare title+year link.
-const worksGeneratedById = new Map(worksGenerated.map((w) => [w.id, w]));
-
-function fullWork(w) {
-  // Only the work detail page renders related works, and each work is embedded in roughly eight
-  // of these cross-reference lists, so keeping relatedWorkIds out of the embedded copies avoids
-  // about a megabyte of duplicated ids across generated/.
-  const { relatedWorkIds, ...rest } = worksGeneratedById.get(w.id);
-  return rest;
-}
+// 相互参照リスト(著者・イラストレーター・出版社・テーマの各詳細ページ)は、作品を**idの配列**で持つ。
+// 表示側は works.json(取得済みキャッシュ)から引き直して WorkCard を描く。
+//
+// 以前はここに作品をフル展開して埋め込んでいたが、1作品が平均8つのリストに重複して入るため
+// themes.json が 24MB(gzip 5.3MB)まで膨らみ、**テーマ名と件数を出すだけのトップページが
+// gzip 7.4MB を転送していた**(2026-08-12計測)。id配列にすると各ファイルは数十KB〜数百KBになり、
+// 実データは works.json(gzip 2.0MB)1本だけを全ページで使い回す形になる。
+const idsByPublicationYear = (list) =>
+  [...list].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear).map((w) => w.id);
 
 // ---- generated/{authors,illustrators,publishers}.json ----
 function buildPersonList(people, worksByPersonId) {
@@ -191,7 +191,7 @@ function buildPersonList(people, worksByPersonId) {
         description: p.description,
         externalLinks: p.externalLinks,
         workCount: theirWorks.length,
-        works: theirWorks.map(fullWork).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
+        workIds: idsByPublicationYear(theirWorks),
       };
     })
     .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
@@ -223,10 +223,16 @@ const themesGenerated = themes
     return {
       ...t,
       workCount: theirWorks.length,
-      works: theirWorks.map(fullWork).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
+      workIds: idsByPublicationYear(theirWorks),
     };
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
+
+// ---- generated/work-texts.json ----
+// 作品詳細ページだけが要る長文(あらすじ・出典メモ)。id をキーにした辞書。
+const workTexts = Object.fromEntries(
+  works.map((w) => [w.id, { synopsis: w.synopsis, sourceNote: w.sourceNote }]),
+);
 
 // ---- generated/recommend-index.json ----
 // 「好みからおすすめ」(/recommend)専用の軽量索引。テーマ選択チップとスコア計算に必要な分だけを持つ。
@@ -296,6 +302,7 @@ writeFileSync(path.join(outDir, "illustrators.json"), JSON.stringify(illustrator
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "work-texts.json"), JSON.stringify(workTexts), "utf-8");
 writeFileSync(path.join(outDir, "recommend-index.json"), JSON.stringify(recommendIndex), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 

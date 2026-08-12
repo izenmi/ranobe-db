@@ -11,7 +11,32 @@
 - `public/data/source/*.json` … 手作業で作成・**コミットする**一次データ(works/authors/illustrators/publishers/themes/awards)
 - `public/data/generated/*.json` … `scripts/generate-manifest.mjs` がビルド時に生成する非正規化データ。**`.gitignore`対象**、`predev`/`prebuild`npmスクリプトで毎回再生成するので手で編集しない
 - 生成スクリプトは全Workの`authorIds`/`illustratorIds`/`publisherId`/`themeIds`/`awardResults[].awardId`が対応するsourceに存在するかを検証し、存在しなければビルドを失敗させる(id誤字をCIで機械的に防ぐ)
-- 著者・イラストレーター・出版社・テーマの詳細ページは、それぞれの作品一覧を`WorkGenerated`型でフル展開して埋め込む(`WorkCard`をそのまま再利用できるようにするため)
+- 著者・イラストレーター・出版社・テーマの各生成ファイルは、作品を**`workIds`(id配列、刊行年の古い順)**で持つ。
+  表示側は`getWorks()`(取得済みキャッシュ)から引き直して`WorkCard`を描く
+
+### 転送量の設計(2026-08-12に見直し。**作品をフル展開して埋め込まないこと**)
+
+以前は各エンティティに`WorkGenerated`をフル展開して埋め込んでいた。1作品が平均8つのリストに
+重複して入るため`themes.json`が**24MB(gzip 5.3MB)**まで膨らみ、テーマ名と件数を出すだけの
+トップページが**gzip 7.4MB**を転送していた。id参照に変え、長文を別ファイルに割った結果:
+
+| ファイル | gzip | 用途 |
+| --- | ---: | --- |
+| `works.json` | 1.2MB(旧2.0MB) | 全ページ共通の実データ。あらすじ・出典メモ・updatedAtは**入れない** |
+| `work-texts.json` | 0.75MB | あらすじ・出典メモ。**作品詳細ページだけ**が読む |
+| `themes.json` | 225KB(旧5.3MB) | 名前・説明・件数・workIds |
+| `authors.json` / `illustrators.json` / `publishers.json` | 220 / 131 / 87KB(旧1.8 / 1.3 / 1.6MB) | 同上 |
+| `recommend-index.json` | 114KB | `/recommend`専用(テーマ表 + 作品のthemeIds) |
+
+ページ単位ではトップが7.4MB→**1.5MB**、`/works`が9.0MB→**1.5MB**、`/themes`が5.3MB→**225KB**。
+作品詳細は2.0MBのまま(内訳が works.json + work-texts.json に分かれただけ)だが、
+一覧を先に踏んでいれば works.json はキャッシュから返る。
+
+- **新しい生成ファイルに作品を埋め込みたくなったら、まずidで足りないかを疑う**
+- **作品詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと。`prerender.mjs`は
+  本文から「読み込み中」が消えるのを待って静的HTMLを書き出すので、先に描き始めると
+  あらすじ抜きのHTMLとmeta descriptionが焼き付く
+- **姉妹サイト7つも同じ構造(フル展開)のまま**。同じ手当てがそのまま効く(未実施)
 
 ## データ入力ルール(最重要)
 

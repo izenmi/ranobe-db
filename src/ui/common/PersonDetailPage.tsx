@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getAuthor, getIllustrator, getPublisher } from "../../data/manifest";
+import { getAuthor, getIllustrator, getPublisher, getWorks } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
 import { useWorkFilter } from "./useWorkFilter";
@@ -24,7 +24,14 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
   const state = useAsyncData(() => FETCHER[kind](id!), [kind, id]);
   const person = state.status === "ready" ? state.data : undefined;
   const info = LIST_INFO[kind];
-  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(person?.works);
+
+  // 作品の実データは works.json 側にあるので id から引き直す(このページ用に埋め込むと
+  // authors.json だけで8MBを超える)。すでに取得済みならキャッシュから返るので追加の通信はない。
+  const worksState = useAsyncData(getWorks, []);
+  const byId = new Map((worksState.status === "ready" ? worksState.data : []).map((w) => [w.id, w]));
+  const personWorks = person?.workIds.map((wid) => byId.get(wid)).filter((w) => w !== undefined);
+
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(personWorks);
 
   useSeo({
     title: person?.name,
@@ -68,7 +75,7 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
           )}
           {controls}
           <p className="page-subtitle">
-            {hasActiveFilters ? `${sorted.length}件 / 全${state.data.works.length}件` : `${sorted.length}件`}
+            {hasActiveFilters ? `${sorted.length}件 / 全${state.data.workCount}件` : `${sorted.length}件`}
           </p>
           {sorted.length === 0 && <EmptyState />}
           <WorkGrid works={sorted} coverView={coverView} />

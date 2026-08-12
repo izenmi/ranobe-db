@@ -88,8 +88,10 @@ export interface AwardSource {
 
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
-/** Denormalized work: source fields plus resolved names for direct rendering. */
-export interface WorkGenerated extends WorkSource {
+/** Denormalized work: source fields plus resolved names for direct rendering.
+ *  あらすじ・出典メモ・updatedAt は含まない — 作品詳細ページでしか使わないのに works.json の
+ *  3分の1を占めていたので work-texts.json に分けてある(WorkTexts / getWorkTexts)。 */
+export interface WorkGenerated extends Omit<WorkSource, "synopsis" | "sourceNote" | "updatedAt"> {
   authorNames: string[];
   illustratorNames: string[];
   publisherName: string;
@@ -116,12 +118,15 @@ export interface PersonOrPublisherGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  works: WorkGenerated[];
+  /** 刊行年の古い順。実データは works.json 側にあり、表示側で id から引き直す
+   *  (作品を埋め込むと同じ作品が平均8つのリストに重複して入り、生成JSONが数十MBになる)。 */
+  workIds: string[];
 }
 
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
-  works: WorkGenerated[];
+  /** 刊行年の古い順。works.json から引き直す(PersonOrPublisherGenerated.workIds と同じ理由)。 */
+  workIds: string[];
 }
 
 export interface AwardWinner {
@@ -137,6 +142,9 @@ export interface AwardGenerated extends AwardSource {
   workCount: number;
   winners: AwardWinner[];
 }
+
+/** 作品詳細ページだけが読む長文(generated/work-texts.json)。キーは作品id。 */
+export type WorkTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
 /** 「好みからおすすめ」(/recommend)専用の軽量索引(generated/recommend-index.json)。
  *  テーマ選択チップとスコア計算にだけ使う。themes.json は各テーマに全作品を埋め込んでいて24MBあり、
