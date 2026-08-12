@@ -138,6 +138,16 @@ export interface AwardGenerated extends AwardSource {
   winners: AwardWinner[];
 }
 
+/** 「好みからおすすめ」(/recommend)専用の軽量索引(generated/recommend-index.json)。
+ *  テーマ選択チップとスコア計算にだけ使う。themes.json は各テーマに全作品を埋め込んでいて24MBあり、
+ *  works.json も9MBあるので、テーマを選ぶ前からそれらを読ませないためにこの索引がある。 */
+export interface RecommendIndex {
+  /** 件数の多い順。workCount が 0 のテーマは入っていない。 */
+  themes: { id: string; name: string; workCount: number }[];
+  /** テーマが付いていない作品も含めた全作品。works.length と件数が一致する(IDFの分子になる)。 */
+  works: { id: string; themeIds: string[] }[];
+}
+
 export interface Counts {
   works: number;
   authors: number;

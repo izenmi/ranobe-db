@@ -228,6 +228,23 @@ const themesGenerated = themes
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
 
+// ---- generated/recommend-index.json ----
+// 「好みからおすすめ」(/recommend)専用の軽量索引。テーマ選択チップとスコア計算に必要な分だけを持つ。
+// themes.json は各テーマに全作品をフル展開しているため 24MB あり、テーマ名と件数のためだけに
+// 読ませるわけにはいかない。works.json(9MB)も、テーマを選ぶ前から読ませる理由がない。
+//
+// works は themeIds が空の作品も含めて全件入れる。index.works.length がそのまま IDF の分子 N になり、
+// ビルド時のレコメンド(relatedIdsFor)と同じ N を使えるため。
+//
+// **このファイルの読み手は /recommend だけ。ページを消すならこの生成も消すこと**
+// (横断検索を削除したとき、専用の search-index.json が読み手のいないまま残りかけた)。
+const recommendIndex = {
+  themes: themesGenerated
+    .filter((t) => t.workCount > 0)
+    .map((t) => ({ id: t.id, name: t.name, workCount: t.workCount })),
+  works: works.map((w) => ({ id: w.id, themeIds: w.themeIds })),
+};
+
 // ---- generated/awards.json ----
 // 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
 // 並べ替え用の順位をここで一度だけ取り出す。順位を持たない賞(大賞・特別賞など)は
@@ -279,6 +296,7 @@ writeFileSync(path.join(outDir, "illustrators.json"), JSON.stringify(illustrator
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "recommend-index.json"), JSON.stringify(recommendIndex), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(`generate-manifest: wrote ${works.length} works, ${authors.length} authors, ${illustrators.length} illustrators, ${publishers.length} publishers, ${themes.length} themes, ${awards.length} awards`);
@@ -299,6 +317,7 @@ const sitemapEntries = [
   urlEntry("/works"),
   ...works.map((w) => urlEntry(`/works/${w.id}`, w.updatedAt?.slice(0, 10))),
   urlEntry("/themes"),
+  urlEntry("/recommend"),
   ...themes.map((t) => urlEntry(`/themes/${t.id}`)),
   urlEntry("/authors"),
   ...authors.map((a) => urlEntry(`/authors/${a.id}`, a.updatedAt?.slice(0, 10))),

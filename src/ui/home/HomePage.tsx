@@ -229,6 +229,11 @@ export function HomePage() {
                 </Link>
               ))}
             </div>
+            {/* 好みからおすすめ(/recommend)への導線はここ1本だけ。TopNav には足していない
+                (このサイトはナビを増やす変更を過去にすべて撤去しているため。CLAUDE.md参照)。 */}
+            <Link className="home-section__more" to="/recommend">
+              好みからおすすめを見る →
+            </Link>
             <Link className="home-section__more" to="/themes">
               テーマ一覧を見る →
             </Link>

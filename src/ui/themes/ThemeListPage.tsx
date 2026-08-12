@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { getThemes } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
@@ -21,6 +22,9 @@ export function ThemeListPage() {
       {state.status === "ready" && (
         <>
           <p className="page-subtitle">{state.data.length}件</p>
+          <Link className="home-section__more" to="/recommend">
+            好みからおすすめを見る →
+          </Link>
           <EntityList items={state.data} pathPrefix="/themes" />
         </>
       )}
