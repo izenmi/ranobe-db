@@ -31,7 +31,18 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
   const byId = new Map((worksState.status === "ready" ? worksState.data : []).map((w) => [w.id, w]));
   const personWorks = person?.workIds.map((wid) => byId.get(wid)).filter((w) => w !== undefined);
 
-  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(personWorks);
+  // ギャラリー表示(大判の表紙ウォール)はイラストレーター詳細だけ。このサイトの差別化軸が
+  // イラストレーターなので、画業をまとめて眺める価値があるのはここ。著者は巻ごとに絵師が違って
+  // 統一感がなく、レーベルは数百件並んで目的が違う(必要になれば gallery を true にするだけ)。
+  const { sorted, controls, hasActiveFilters, view, coverView } = useWorkFilter(
+    personWorks,
+    undefined,
+    { gallery: kind === "illustrator" },
+  );
+  // 鑑賞ビューにタイトル文字のプレースホルダーが混ざるとノイズなので、表紙未解決の作品は
+  // ギャラリーでは出さない(カード/表紙モードは従来どおりプレースホルダー表示)。
+  const shownWorks = view === "gallery" ? sorted.filter((w) => w.coverUrl) : sorted;
+  const hiddenCount = sorted.length - shownWorks.length;
 
   useSeo({
     title: person?.name,
@@ -76,9 +87,10 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
           {controls}
           <p className="page-subtitle">
             {hasActiveFilters ? `${sorted.length}件 / 全${state.data.workCount}件` : `${sorted.length}件`}
+            {view === "gallery" && hiddenCount > 0 && ` — 表紙画像のない${hiddenCount}作品は表示していません`}
           </p>
-          {sorted.length === 0 && <EmptyState />}
-          <WorkGrid works={sorted} coverView={coverView} />
+          {shownWorks.length === 0 && <EmptyState />}
+          <WorkGrid works={shownWorks} coverView={coverView} view={view} />
         </>
       )}
     </div>

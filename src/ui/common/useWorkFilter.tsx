@@ -63,9 +63,13 @@ export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: str
     .map(([value, e]) => ({ value, label: `${e.label}(${e.n})` }));
 }
 
-export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
+export function useWorkFilter(
+  works: WorkGenerated[] | undefined,
+  defaultSort = "year-desc",
+  options?: { gallery?: boolean },
+) {
   const [params, setParams] = useSearchParams();
-  const { coverView, gridClassName, toggle } = useCoverView();
+  const { view, coverView, gridClassName, toggle } = useCoverView(options);
   const q = params.get("q") ?? "";
   const status = params.get("status") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
@@ -166,5 +170,5 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     </div>
   );
 
-  return { filtered, sorted, controls, hasActiveFilters, coverView, gridClassName };
+  return { filtered, sorted, controls, hasActiveFilters, view, coverView, gridClassName };
 }
